@@ -1,0 +1,58 @@
+name: Update Domains
+run-name: updateing DoH + DoT + Proxy + VPN + Tor domains
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "00 02 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: Update Lists
+        run:  |
+          ( ( ( \
+                curl -s https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/index.html | \
+                    awk -F'"' '/data-clipboard-text=/{print$4}' | sed -e "s|.*//||g" -e "s|/.*||g" | sort -u; \
+                curl -s https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz | \
+                    sed '/^\(;\|\$\|@\|\s\)/d' | sed "s/\sCNAME\s\.//g"; \
+                curl -sfSL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300 \
+                    https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt \
+                    https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains \
+                    https://raw.githubusercontent.com/dibdot/doh-ip-blocklists/master/doh-domains.txt \
+                    https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.hosts.list \
+                    https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.domain.list \
+                    https://gist.githubusercontent.com/ckuethe/f71185f604be9cde370e702aa179fc2e/raw/doh-blocklist.txt \
+                    https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/browsers \
+                    https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/encrypted-dns \
+                    https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/linux \
+                    https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/proxies \
+                    https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/tor \
+                    https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn \
+                    https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes \
+                    https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies \
+                    2>/dev/null; \
+                curl -s "https://raw.githubusercontent.com/wiki/curl/curl/DNS-over-HTTPS.md" | \
+                    awk -F'|' '/^# Publicly available servers/,/^# Private DNS Server with DoH setup examples/{print$3}' | \
+                    grep -oP "https://[A-Za-z0-9\-\._~]*(:[0-9]*)?\/[A-Za-z0-9\-\._~]*" \
+              ) | sed -e "s/[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\s*//g" -e "/^#.*$/d" \
+                -e "/^$/d" -e "s/\s.*//g" -e "/^[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}$/d" \
+                -e "s|^https://||g" -e "s|/.*$||g" -e "s|:.*$||g" | sort | uniq | sed -e "s/^/|/g" -e "s/$/\^/g" \
+                -e '/^|\(12\|2\)\?proxy\.ga/d'; $(: '# fix 012proxy.ga error of "plain.black.hosts.list"') \
+            ) | grep -vE "$(cat white.txt)" \
+          ) | sort -u > black.txt
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d - %H:%M:%S')"
+      - name: Upload Stuff to GitHub via https://github.com/stefanzweifel/git-auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: './black.txt'
+          disable_globbing: true
+          commit_message: Update domains - ${{ steps.date.outputs.date }}

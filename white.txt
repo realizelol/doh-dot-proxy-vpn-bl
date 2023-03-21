@@ -1,0 +1,15 @@
+mask.icloud.com
+mask-h2.icloud.com
+mask-api.icloud.com
+mask-api.fe.apple-dns.net
+mask-t.apple-dns.net
+mask.apple-dns.net
+doh.dns.apple.com
+canary.mask.apple-dns.net
+mask-canary.icloud.com
+13.32.121.69 # Amazon CloudFront AWS
+17.253.0.0/16 # iTunes / Apple CDN
+74.125.133.132 # www.google.com
+89.187.169.47 # anton.app
+108.177.15.132 # www.google.com
+173.194.76.132 # www.google.com
