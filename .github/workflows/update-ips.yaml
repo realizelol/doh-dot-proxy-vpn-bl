@@ -21,20 +21,20 @@ jobs:
         run:  |
           ipv4=(); while read -r dns2ip_v4; do \
               dig4="$(dig "${dns2ip_v4}" in a -4 +short +ignore +notcp +time=10 +tries=10 +retry=10 2>/dev/null || true)"; \
-              if [ -n "${dig4}" ] && ! echo "${dig4}" | /bin/grep "^0\.0\.0\.0\|^127\.0\.0\.1$" >/dev/null; then ipv4+=( "${dig4}" ); fi \
-          done < <(cat black.txt | grep -vE "$(cat white.txt | sed -e '/^#.*/d' -e 's/\s*#.*//g')"); \
-          if [ $(echo "${ipv4[*]}" | sed "s/ /\n/g" | grep -coE "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b" | sort -Vu) -ge 100 ]; then \
+              if [ -n "${dig4}" ] && ! echo "${dig4}" | grep -q "^0\.0\.0\.0\|^127\.0\.0\.1$\|^;"; then ipv4+=( "${dig4}" ); fi \
+          done < <(cat black.txt | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$"); \
+          if [ "$(echo "${ipv4[*]}" | sed "s/ /\n/g" | grep -coE "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b" | sort -Vu)" -ge 100 ]; then \
               true > black.ipv4; for ip in "${ipv4[@]}"; do echo "${ip}" >> black-tmp.ipv4; done; fi; \
-          sort -Vu black-tmp.ipv4 > black.ipv4; rm -f black-tmp.ipv4
+          grep -oE "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b" black-tmp.ipv4 | sort -Vu | sed '/^$/d' > black.ipv4; rm -f black-tmp.ipv4
       - name: Get IPv6
         run:  |
           ipv6=(); while read -r dns2ip_v6; do \
               dig6="$(dig "${dns2ip_v6}" in aaaa -4 +short +ignore +notcp +time=10 +tries=10 +retry=10 2>/dev/null || true)"; \
-              if [ -n "${dig6}" ] && ! echo "${dig6}" | /bin/grep "^::$\|^::1$\|^53:$" >/dev/null; then ipv6+=( "${dig6}" ); fi \
-          done < <(cat black.txt | grep -vE "$(cat white.txt | sed -e '/^#.*/d' -e 's/\s*#.*//g')"); \
-          if [ $(echo "${ipv6[*]}" | sed "s/ /\n/g" | grep -coE "\b([a-f0-9:]+:+)+[a-f0-9]+\b" | sort -Vu) -ge 100 ]; then \
+              if [ -n "${dig6}" ] && ! echo "${dig6}" | grep -q "^::$\|^::1$\|^53:$\|^;" then ipv6+=( "${dig6}" ); fi \
+          done < <(cat black.txt | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$"); \
+          if [ "$(echo "${ipv6[*]}" | sed "s/ /\n/g" | grep -coE "\b([a-f0-9:]+:+)+[a-f0-9]+\b" | sort -Vu)" -ge 100 ]; then \
               true > black.ipv6; for ip in "${ipv6[@]}"; do echo "${ip}" >> black-tmp.ipv6; done; fi; \
-          sort -Vu black-tmp.ipv6 > black.ipv6; rm -f black-tmp.ipv6
+          grep -oE "\b([a-f0-9:]+:+)+[a-f0-9]+\b" black-tmp.ipv6 | sort -Vu | sed '/^$/d' > black.ipv6; rm -f black-tmp.ipv6
       - name: Get current date
         id: get-date
         run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT
@@ -43,4 +43,4 @@ jobs:
         with:
           file_pattern: './black*.ipv4 ./black*.ipv6'
           disable_globbing: false
-          commit_message: echo "Update domains2ip - ${{ steps.get-date.outputs.date }}"
+          commit_message: Update domains2ip - ${{ steps.get-date.outputs.date }}
