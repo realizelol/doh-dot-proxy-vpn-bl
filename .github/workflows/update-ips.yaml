@@ -30,7 +30,7 @@ jobs:
         run:  |
           ipv6=(); while read -r dns2ip_v6; do \
               dig6="$(dig "${dns2ip_v6}" in aaaa -4 +short +ignore +notcp +time=10 +tries=10 +retry=10 2>/dev/null || true)"; \
-              if [ -n "${dig6}" ] && ! echo "${dig6}" | grep -q "^::$\|^::1$\|^53:$\|^;" then ipv6+=( "${dig6}" ); fi \
+              if [ -n "${dig6}" ] && ! echo "${dig6}" | grep -q "^::$\|^::1$\|^53:$\|^;"; then ipv6+=( "${dig6}" ); fi \
           done < <(cat black.txt | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$"); \
           if [ "$(echo "${ipv6[*]}" | sed "s/ /\n/g" | grep -coE "\b([a-f0-9:]+:+)+[a-f0-9]+\b" | sort -Vu)" -ge 100 ]; then \
               true > black.ipv6; for ip in "${ipv6[@]}"; do echo "${ip}" >> black-tmp.ipv6; done; fi; \
