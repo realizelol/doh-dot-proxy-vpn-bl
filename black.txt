@@ -13,7 +13,6 @@
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
 1a.ns.ozer.im
-1and1-dns.de
 1b.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
@@ -22,19 +21,8 @@
 2.0rz.space
 2.11i.eu
 2.alpo.pp.ua
-2.dnscrypt-cert.blahdns.com
-2.dnscrypt-cert.browser.yandex.net
-2.dnscrypt-cert.captnemo.in
-2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.seby.io
-2.dnscrypt-cert.ffmuc.net
-2.dnscrypt-cert.opendns.com
-2.dnscrypt-cert.oszx.co
-2.dnscrypt-cert.pumplex.com
-2.dnscrypt-cert.quad9.net
-2.dnscrypt-cert.shield-2.dnsbycomodo.com
 214214214.xyz
-233py.com
 24tunnel.com
 2dns.duckdns.org
 2fastsurfer.com
@@ -585,8 +573,6 @@ cluster-1.gac.edu
 cname-for-doh.go-behind.one
 colean.go.ro
 commons.host
-comss.one
-comss.ru
 connect.fcpsunleashed.org
 contacts.dehb.ru
 controld.com
@@ -598,7 +584,6 @@ cristianocosta.me
 croxyproxy.com
 croxyproxy.rocks
 crypticvpn.com
-crypto.sx
 cryptohippie.com
 cryptostorm.is
 cserv4.schantl.io
@@ -718,6 +703,7 @@ dns-nosec.quad9.net
 dns-nyc.aaflalo.me
 dns-over-https.com
 dns-primary.giaan.org
+dns-privacy.puregeni.us
 dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com
 dns-public.ibakerserver.pt
 dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com
@@ -885,7 +871,6 @@ dns.dream-hosting.ovh
 dns.druta.me
 dns.dsh.lol
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.ebersmann.link
 dns.ebner.tech
@@ -924,7 +909,6 @@ dns.frank-ruan.com
 dns.freequensi.com
 dns.freyja.pw
 dns.froth.zone
-dns.futuredns.me
 dns.gando.fr
 dns.ghexu.com
 dns.ghost.pm
@@ -1110,7 +1094,6 @@ dns.octoworld.fr
 dns.ofdoom.net
 dns.oguska.com
 dns.oii.im
-dns.opendns.com
 dns.opnsource.com.au
 dns.opopop.fun
 dns.osmenoga.com
@@ -1251,10 +1234,8 @@ dns.walshnet.co.uk
 dns.warexify.com
 dns.wargan.io
 dns.warpnine.de
-dns.watch
 dns.wdnts.ml
 dns.webstor.net
-dns.weixin.qq.com.cn
 dns.wevpn.com
 dns.williamlwu.com
 dns.wkwkwk.fun
@@ -1338,6 +1319,7 @@ dns2.karmanet.ch
 dns2.keipert.me
 dns2.klcd.eu
 dns2.lfac.ml
+dns2.luan.contact
 dns2.n3120.wang
 dns2.nextcloudend.info
 dns2.nextdns.io
@@ -1374,7 +1356,6 @@ dnsdohnosafesearch.dnsforfamily.com
 dnsenc.com
 dnses.alekberg.net
 dnsfamily.adguard.com
-dnsforfamily.com
 dnsforge.de
 dnsfr.markovskilab.com
 dnsg.psyk.fr
@@ -1405,6 +1386,7 @@ dnsvps.porteii.com
 dnsvs.duckdns.org
 dnswarden.com
 dnswebvsn.com
+dnsza.com
 dnx.niko-sem.com
 do.dnscrypt.uk
 do.shimul.me
@@ -1740,7 +1722,6 @@ fixproxy.com
 fk4mil.pl
 flowvpn.com
 flumuffel.de
-fly.io
 flyvpn.com
 forum.ginovs.nl
 fr-dns1.bancuh.com
@@ -1951,7 +1932,6 @@ hr.i81.ru
 hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
-httpdns.meituan.com
 hubertdns.com
 hydra.plan9-ns1.com
 hyperbyte.net
@@ -1976,7 +1956,6 @@ igor.dns.amigo-mgn.ru
 igor.fb.i81.ru
 igor.vpn.i81.ru
 ihctw.synology.me
-iij.jp
 ikarosalpha.xyz
 ilcha.ru
 in-blr.doh.sb
@@ -2123,7 +2102,6 @@ le-vpn.com
 league2eb.me
 leecurrylawfirm.com
 lekdijk.online
-lelux.fi
 lena.fb.i81.ru
 leo.paulmihaipavel.com
 leochen-dns.ddns.net
@@ -2225,6 +2203,7 @@ muli.stusta.mhn.de
 mullvad.net
 multipurpose1.terumi.club
 mumble.ddnss.de
+mustafar.es
 muxyuji.ru
 muyvsr.top
 mx1.laoxiao789.com
@@ -2233,6 +2212,7 @@ myadguardhome.com
 myadguardhome.me
 mycelium.site
 mydevpn.eu
+mydns.an2kin.cyou
 mydns.server-way.tk
 myhottiemama.de
 myip.mmmalia.com
@@ -2848,7 +2828,6 @@ surfshell.io
 surt.ml
 surve.dehb.ru
 sv3.minhduc.pw
-switch.ch
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3104,6 +3083,7 @@ vmi880423.contaboserver.net
 vmok.ru
 vn-hcm-w-1.nashkan.net
 vobas.com
+void-gate.irre.li
 vova.fb.i81.ru
 vova.vpn.i81.ru
 vovale.dns.amigo-mgn.ru
@@ -3219,6 +3199,7 @@ www.dns.stud.cloud
 www.dns.wpice.ru
 www.dnsadguard.co.uk
 www.dnsforge.de
+www.dnsza.com
 www.dupatruwi22.fun
 www.dycn.vip
 www.eaereaper.ru
