@@ -871,6 +871,7 @@ dns.dream-hosting.ovh
 dns.druta.me
 dns.dsh.lol
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.ebersmann.link
 dns.ebner.tech
