@@ -517,7 +517,6 @@ carioka.dyndns.org
 carrotegg.club
 catsimple.cf
 cattery.noddos.top
-cattery2.eastasia.cloudapp.azure.com
 cc.3eto.com
 cc210d2cb801.sn.mynetname.net
 ccadguard.ddns.net
@@ -939,6 +938,7 @@ dns.harrache.info
 dns.hee.ink
 dns.herkhof.nl
 dns.hinet.net
+dns.hinytz.com
 dns.hitmw.cn
 dns.hjh2007.top
 dns.homelabapp.com
@@ -954,6 +954,7 @@ dns.iamninja.ru
 dns.iblockads.net
 dns.ihaveacloud.com
 dns.ikataruto.com
+dns.ilhamsyahids.com
 dns.ilker.se
 dns.imaicool.com
 dns.indust.me
@@ -1040,6 +1041,7 @@ dns.me7878.com
 dns.meeo.win
 dns.melalandia.tk
 dns.mgiptvpro.ml
+dns.micro.alloxr.info
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 dns.minliny.com
@@ -1138,6 +1140,7 @@ dns.req1.fr
 dns.rin.sh
 dns.rjls.me
 dns.rjoc.me
+dns.rkjha.com.np
 dns.rodovatech.com
 dns.rohanjain.in
 dns.ronc.ru
@@ -1328,6 +1331,7 @@ dns2.niub.one
 dns2.porteii.com
 dns2.quickline.ch
 dns2.sas-wres.cc
+dns2.srv-home.fr
 dns2.steering.nextdns.io
 dns2.superstefan.ml
 dns2.sytes.net
@@ -1557,7 +1561,6 @@ doh3.almir1904.eu
 dohdododo.tonedtanya.com
 dohdot.coxlab.net
 dohipv6.crypto.sx
-dohjp.blahdns.com
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
@@ -1742,6 +1745,7 @@ free-proxy.cz
 free-proxyserver.com
 free.bravedns.com
 free.shecan.ir
+freebox.sillundil.ovh
 freedns.controld.com
 freedom.cx
 freedom.mydns.network
@@ -1815,6 +1819,7 @@ ginnungagap.rabenhain.net
 git.andrewnw.xyz
 git.racinas.com
 gizlibaglanti.com
+glory.of.god.9l3.com
 gm-dns-01.southcentralus.azurecontainer.io
 gn6hoasz2o4tveit.dynv6.net
 go10go10.tonedtanya.com
@@ -3109,6 +3114,7 @@ vpn.nbvalente.fr
 vpn.ncapi.io
 vpn.net
 vpn.rynet.link
+vpn.sakhwow.ru
 vpn.vokuev.org
 vpn0109.voodonline.fr
 vpnbook.com
