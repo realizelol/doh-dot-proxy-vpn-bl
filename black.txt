@@ -13,7 +13,6 @@
 2ub.top
 360.233py.com
 3x.nz
-4c1b458d2c231629.natapp.cc
 4everproxy.com
 8888.google
 99proxy.com
@@ -127,6 +126,7 @@ apple-dns.net
 applied-privacy.net
 arashi.eu.org
 area51.mywire.org
+ares.collectivemedia.network
 argon.molinero.dev
 arm1.nzcow.com
 arm2.nzcow.com
@@ -207,7 +207,6 @@ cdzopi.duckdns.org
 celo.net
 censurfridns.dk
 cg‑dialup.net
-chanhome.xyz
 chaos-system.de
 chewbacca.meganerd.nl
 chibstatic.ru
@@ -229,7 +228,6 @@ cloudns.bosco.ovh
 cluster-0.gac.edu
 cluster-1.gac.edu
 cname-for-doh.go-behind.one
-collectivemedia.network
 commons.host
 controld.com
 cossxiu.ga
@@ -252,6 +250,7 @@ dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 darknet.to
 dart.kpsn.org
+dawnings.cn
 ddns.l2h8.cn
 de-dus.doh.sb
 de-fra.doh.sb
@@ -1047,7 +1046,6 @@ lopana.com
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 maddw.com
-magnon.duckdns.org
 mail.data.haus
 mailer.amlegion.org
 mainframe.dewed.de
@@ -1103,7 +1101,6 @@ nl-ams.doh.sb
 nl-ams2.doh.sb
 nocensor.icu
 nocensor.rest
-node.thierryserver.nl
 nordvpn.com
 ns.0.l.ovpn.bond
 ns.00dani.me
