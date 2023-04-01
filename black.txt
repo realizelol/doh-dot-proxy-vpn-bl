@@ -30,6 +30,7 @@ adblock-dot.dnswarden.com
 adblock.any.dns.nixnet.xyz
 adblock.borjalopez.eu
 adblock.dns.dnswarden.com
+adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
@@ -445,6 +446,7 @@ dns.moonssif.com
 dns.moulticast.net
 dns.mrkaran.dev
 dns.msxnet.ru
+dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
 dns.mzrme.cn
