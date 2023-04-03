@@ -124,6 +124,7 @@ adguard.agadez.net
 adguard.ambiya.net
 adguard.aminetwork.biz
 adguard.avdkishore.dev
+adguard.baltes.info
 adguard.beliefanx.cn
 adguard.beliefanx.me
 adguard.betamax65.de
@@ -521,6 +522,7 @@ caproxies.info
 captnemo.in
 carioka.dyndns.org
 carrotegg.club
+catdns.org
 catsimple.cf
 cattery.noddos.top
 cc.3eto.com
@@ -987,6 +989,7 @@ dns.jinwoo.dev
 dns.joaofidelix.com.br
 dns.joey01245.nl
 dns.jstockley.com
+dns.juancamos.com
 dns.jucker.engineering
 dns.jungle-im.ir
 dns.junhengyun.com
@@ -1117,6 +1120,7 @@ dns.paesa.es
 dns.pakkalin.com
 dns.pakuchi-tree.ml
 dns.panszelescik.pl
+dns.patrickbianchi.com
 dns.pawitra.net
 dns.perzarys.eu
 dns.phucbui.top
@@ -1250,6 +1254,7 @@ dns.wargan.io
 dns.warpnine.de
 dns.wdnts.ml
 dns.webstor.net
+dns.wellstsai.com
 dns.wevpn.com
 dns.williamlwu.com
 dns.wkwkwk.fun
@@ -1505,6 +1510,7 @@ doh.libredns.org
 doh.luigi.nexific.it
 doh.lujiacai.top
 doh.lululu.eu.org
+doh.lululujp.eu.org
 doh.lv
 doh.mcasviper.de
 doh.micronets.in
@@ -1804,6 +1810,7 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
+gateway.baltes.info
 gateway.fomichev.cloud
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
@@ -2196,6 +2203,7 @@ metproxy.com
 meudns.minhacasainteligente.cf
 mg.zbr2464.buzz
 michiganska.com
+mikatos.de
 mikewaddick.com
 mimile.despagne.net
 mimile.despagne.ovh
@@ -2720,6 +2728,7 @@ security.cloudflaredns.com
 seedboxhome.firefenix.cf
 seedboxhome.phucbui.top
 seeproxy.me
+selsby.info
 serbri.net
 sergeykobzar.com.ua
 server-beget.ru
@@ -2856,6 +2865,7 @@ sync-moisejus.racinas.com
 sync-sigita.racinas.com
 sync-simonas.racinas.com
 szyrzyk.pl
+t.jimmy.best
 t1c.240130034.xyz
 t2c.240130034.xyz
 t3c.240130034.xyz
@@ -3313,6 +3323,7 @@ youtubeunblocked.live
 youtubez.com
 yovbak.com
 yrc.synology.me
+ys.cloud-sekeng.com
 ytpom.tk
 yvanliang.tech
 yxorproxy.com
