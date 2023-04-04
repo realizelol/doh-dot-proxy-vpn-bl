@@ -422,6 +422,7 @@ axaxa.fun
 axell24.ml
 az2q.xyz
 azagramac.duckdns.org
+azbs.ddmm.eu.org
 azirevpn.com
 b.family.ns.dnslify.com
 b.ns.dnslify.com
@@ -844,6 +845,7 @@ dns.connect.fail
 dns.containerpi.co
 dns.containerpi.com
 dns.cretu.xyz
+dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
 dns.cuehosting.com
@@ -854,6 +856,7 @@ dns.d365.in
 dns.d4d.moe
 dns.d94.xyz
 dns.d96.info
+dns.daddyparodz.com
 dns.darktraffic.cloud
 dns.david888.com
 dns.davidruhmann.com
@@ -1584,6 +1587,7 @@ dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
 dominatrix.brandonsli.com
+donghovietkid.cloud
 dontfilter.us
 dop.privatedns.org
 dot-ch.blahdns.com
@@ -1744,6 +1748,7 @@ fixproxy.com
 fk4mil.pl
 flowvpn.com
 flumuffel.de
+fly.flylcc.cc
 flyvpn.com
 forum.ginovs.nl
 fr-dns1.bancuh.com
@@ -1958,7 +1963,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 hubertdns.com
-hydra.plan9-ns1.com
+hubsora.eastasia.cloudapp.azure.com
 hyperbyte.net
 hyperspace.toxopeus.it
 hz1.h.indust.me
@@ -2065,6 +2070,7 @@ kdxu.webredirect.org
 keeflix.chenu.ch
 keithchung.hopto.org
 keithchunguat.hopto.org
+kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
@@ -2073,7 +2079,6 @@ keymiagar.ir
 khsan.com
 kids.5ososea.com
 kids.dns0.eu
-kids.dns4.eu
 kids.vietdns.vn
 killads.vpms.xyz
 kintoun.alves.cc
@@ -2296,6 +2301,7 @@ nl-ams-w-3.nashkan.net
 nl-ams.doh.sb
 nl-ams2.doh.sb
 nl.galaskar.ga
+noaaf500.site
 noads.cloud
 noads.dns.vladpro.ru
 noads.imbuffering.com
@@ -2880,6 +2886,7 @@ td-doh.dns.t53.de
 telex.app
 tenta.com
 terminal.racinas.com
+teslacoils.org.uk
 test.5ososea.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
@@ -2911,6 +2918,7 @@ tlz.asia
 toaster.lol
 todns.work
 token.safebrowsing.apple
+tokyodns.songnguyen.name.vn
 tomatoproxy.eu
 top10vpn.com
 topvpnguides.com
@@ -3339,7 +3347,6 @@ zendproxy.com
 zenmate.com
 zephyrus.id
 zero.dns0.eu
-zero.dns4.eu
 zetland.rm-ni.uk
 zoogvpn.com
 zorrovpn.io
