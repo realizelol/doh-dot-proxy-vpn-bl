@@ -109,6 +109,7 @@ adg2.spacework.com.mx
 adgaurd.lingmont.net
 adgh.skyview.click
 adghome.joseph.com.ph
+adghs.de
 adguard-aws.charraud.eu
 adguard-dns.com
 adguard-dns.rouga.ch
@@ -300,6 +301,7 @@ adult-filter-dot.dnswarden.com
 adultfilter.dns.dnswarden.com
 ae-fuj-w-1.nashkan.net
 ae-fuj-w-2.nashkan.net
+ae-fuj-w-3.nashkan.net
 ae-fuj-w-4.nashkan.net
 ag.apollohct.com
 ag.crowsnest.id
@@ -442,6 +444,7 @@ bcandrade.ml
 bcsmts.com
 beacon.dog
 beautifulcity.eu.org
+beautifulthings.eu.org
 bebracraft.ru
 beevpn.com
 belfort.fltn.us
@@ -637,8 +640,10 @@ de-fsn-i-5.tegant.net
 de-fsn-o-1.nashkan.net
 de-fsn-o-2.nashkan.net
 de-fsn-w-1.nashkan.net
+de-fsn-w-1.tegant.net
 de-fsn-w-12.nashkan.net
 de-fsn-w-2.nashkan.net
+de-fsn-w-2.tegant.net
 de-fsn-w-21.nashkan.net
 de-fsn-w-22.nashkan.net
 de-fsn-w-23.nashkan.net
@@ -1645,7 +1650,6 @@ dpeddi.myddns.com
 dpserver87.ddns.net
 dr-adguard.de
 dr3d.my.id
-draco.plan9-ns2.com
 drahonn.pro
 drive.dehb.ru
 drive.jjlizz.com
@@ -2165,6 +2169,7 @@ luba.vpn.i81.ru
 lux.sn0w.nl
 lux1.nixnet.xyz
 lv-rig-w-1.nashkan.net
+lv-rig-w-2.nashkan.net
 lv1.nixnet.xyz
 maddino.dedyn.io
 maddw.com
@@ -2674,6 +2679,7 @@ riverboat6228.ddns.net
 rjmva.com
 rml.mobi
 ro-buc-w-1.nashkan.net
+ro-buc-w-2.nashkan.net
 roboticsbenchmarking.xyz
 roc.net.sys.of.icu
 roma.vpn.geshido.ru
@@ -2718,6 +2724,7 @@ se-sto-w-1.nashkan.net
 seanyan.ddns.net
 sec-tunnel.com
 secretproxy.org
+secure-4ud.de
 secure-dns.dns-ga.de
 secure.anudeep.me
 secure.avastdns.com
@@ -2774,6 +2781,7 @@ sgp.vpn.i-2.io
 sgs01.just-a-web.com
 sgs02.just-a-web.com
 sgs03.just-a-web.com
+sh.telex.app
 sh.totoro.pub
 shaa.line.pm
 shalenkov.dev
@@ -3041,6 +3049,7 @@ us-central.adhole.org
 us-chi-w-1.nashkan.net
 us-chi-w-2.nashkan.net
 us-chi-w-3.nashkan.net
+us-chi-w-4.nashkan.net
 us-dal-w-1.nashkan.net
 us-dal-w-3.nashkan.net
 us-dal-w-4.nashkan.net
@@ -3226,6 +3235,7 @@ www.atomicvps.xyz
 www.axell24.ml
 www.az2q.xyz
 www.beautifulcity.eu.org
+www.beautifulthings.eu.org
 www.c-dns.com
 www.chithra.dilli.dev
 www.chlaebi.info
