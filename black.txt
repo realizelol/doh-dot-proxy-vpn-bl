@@ -13,6 +13,7 @@
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
 1a.ns.ozer.im
+1and1-dns.de
 1b.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
@@ -21,8 +22,19 @@
 2.0rz.space
 2.11i.eu
 2.alpo.pp.ua
+2.dnscrypt-cert.blahdns.com
+2.dnscrypt-cert.browser.yandex.net
+2.dnscrypt-cert.captnemo.in
+2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.seby.io
+2.dnscrypt-cert.ffmuc.net
+2.dnscrypt-cert.opendns.com
+2.dnscrypt-cert.oszx.co
+2.dnscrypt-cert.pumplex.com
+2.dnscrypt-cert.quad9.net
+2.dnscrypt-cert.shield-2.dnsbycomodo.com
 214214214.xyz
+233py.com
 24tunnel.com
 2dns.duckdns.org
 2fastsurfer.com
@@ -115,6 +127,7 @@ adguard-dns.com
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-server.cf
@@ -448,6 +461,7 @@ bc10ef2.online-server.cloud
 bcandrade.ml
 bcsmts.com
 beacon.dog
+beacon.fengli.love
 beautifulcity.eu.org
 beautifulthings.eu.org
 bebracraft.ru
@@ -510,6 +524,7 @@ bytant.link
 c-c.eve.surf
 c-dns.com
 c.cicitt.ch
+c.malicioustation.icu
 c0654f90.4l2.cn.cname.hcnamecdn.com
 c1.ownvps.ml
 c3.ownvps.ml
@@ -589,10 +604,13 @@ cluster-1.gac.edu
 cname-for-doh.go-behind.one
 colean.go.ro
 commons.host
+comss.one
+comss.ru
 connect.fcpsunleashed.org
 contacts.dehb.ru
 controld.com
 cossxiu.ga
+craft.vps.pw
 crazyproxy.org
 crd.circl.lu
 creal.sytes.net
@@ -600,6 +618,7 @@ cristianocosta.me
 croxyproxy.com
 croxyproxy.rocks
 crypticvpn.com
+crypto.sx
 cryptohippie.com
 cryptostorm.is
 cserv4.schantl.io
@@ -818,6 +837,7 @@ dns.bluestarnc.com
 dns.bobstrecansky.com
 dns.bofh.in
 dns.borlee.be
+dns.bourassa.cc
 dns.brahma.world
 dns.briac-mlb.fr
 dns.brian-hong.tech
@@ -926,6 +946,7 @@ dns.feedbot.xyz
 dns.filipccz.eu
 dns.firefenix.cf
 dns.flatuslifir.is
+dns.flwagners.com
 dns.flymc.cc
 dns.frank-ruan.com
 dns.freequensi.com
@@ -1122,6 +1143,7 @@ dns.octoworld.fr
 dns.ofdoom.net
 dns.oguska.com
 dns.oii.im
+dns.opendns.com
 dns.opnsource.com.au
 dns.opopop.fun
 dns.osmenoga.com
@@ -1266,10 +1288,13 @@ dns.walshnet.co.uk
 dns.warexify.com
 dns.wargan.io
 dns.warpnine.de
+dns.watch
 dns.wdnts.ml
 dns.webstor.net
+dns.weixin.qq.com.cn
 dns.wellstsai.com
 dns.wevpn.com
+dns.why4free.top
 dns.williamlwu.com
 dns.wkwkwk.fun
 dns.wns.watch
@@ -1372,6 +1397,7 @@ dns3.h0schi.cloud
 dns3.sas-wres.cc
 dns3.wistarip.com
 dns4me.net
+dns4me.xyz
 dns53.dipen.me
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -1391,6 +1417,7 @@ dnsdohnosafesearch.dnsforfamily.com
 dnsenc.com
 dnses.alekberg.net
 dnsfamily.adguard.com
+dnsforfamily.com
 dnsforge.de
 dnsfr.markovskilab.com
 dnsg.psyk.fr
@@ -1469,6 +1496,7 @@ doh.asecdns.com
 doh.asia.dnswarden.com
 doh.au.ahadns.net
 doh.beauty
+doh.best
 doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
@@ -1760,6 +1788,7 @@ fk4mil.pl
 flowvpn.com
 flumuffel.de
 fly.flylcc.cc
+fly.io
 flyvpn.com
 forum.ginovs.nl
 fr-dns1.bancuh.com
@@ -1779,7 +1808,6 @@ free-proxy.cz
 free-proxyserver.com
 free.bravedns.com
 free.shecan.ir
-freebox.sillundil.ovh
 freedns.controld.com
 freedom.cx
 freedom.mydns.network
@@ -1974,6 +2002,7 @@ hr.i81.ru
 hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
+httpdns.meituan.com
 hubertdns.com
 hubsora.eastasia.cloudapp.azure.com
 hyperbyte.net
@@ -1998,6 +2027,7 @@ igor.dns.amigo-mgn.ru
 igor.fb.i81.ru
 igor.vpn.i81.ru
 ihctw.synology.me
+iij.jp
 ikarosalpha.xyz
 ilcha.ru
 in-blr.doh.sb
@@ -2121,6 +2151,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2143,6 +2174,7 @@ le-vpn.com
 league2eb.me
 leecurrylawfirm.com
 lekdijk.online
+lelux.fi
 lena.fb.i81.ru
 leo.paulmihaipavel.com
 leochen-dns.ddns.net
@@ -2202,6 +2234,7 @@ markolll.ru
 mars.pccoach.nl
 mask-h.icloud.com
 masters-of-cloud.de
+mathease.cn
 matrix.soeding.ddnss.de
 matthias-prost.com
 matvey.dns.vladpro.ru
@@ -2236,6 +2269,7 @@ mofolinux.com
 montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
+mr-romero.com
 mrunblock.pro
 mrunlock.space
 msr177.com
@@ -2315,6 +2349,7 @@ nl-ams-w-3.nashkan.net
 nl-ams.doh.sb
 nl-ams2.doh.sb
 nl.galaskar.ga
+no-osl-w-1.nashkan.net
 noaaf500.site
 noads.cloud
 noads.dns.vladpro.ru
@@ -2358,6 +2393,7 @@ ns1.wagno.info
 ns2-doh.iriseden.fr
 ns2.1899.com.mx
 ns2.dnsprivacy.at
+ns2.doh.best
 ns2.flodns.net
 ns2.hjk.me
 ns2.opennameserver.org
@@ -2435,7 +2471,6 @@ ora.yingroad.top
 ora1.nocnik.org
 oracle-lab01.crmd.co.za
 oracle.cepheus0.com
-oracle2.herry.dev
 oracle5.losfa.xyz
 oracle6.losfa.xyz
 oraclejp2.chungyu.com
@@ -2784,6 +2819,7 @@ sg.telex.app
 sg.teradns.org
 sg01.dns4me.net
 sg01.localnet.dev
+sg1-1.362430.xyz
 sg1.dnswarden.com
 sg2.ooroot.com
 sg2.tt502.eu.org
@@ -2879,6 +2915,7 @@ surfshell.io
 surt.ml
 surve.dehb.ru
 sv3.minhduc.pw
+switch.ch
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3050,6 +3087,7 @@ unicast2.servers.censurfridns.dk
 unifi.carioka.com
 unixfox.duckdns.org
 ur-browser.com
+uradoori.org
 uranus.plonknet.com
 urban-vpn.com
 urology.wiki
@@ -3286,6 +3324,7 @@ www.lboxtv.top
 www.lmkatest.ru
 www.markolll.ru
 www.masters-of-cloud.de
+www.mathease.cn
 www.meiju444.tk
 www.michiganska.com
 www.mitron.one
