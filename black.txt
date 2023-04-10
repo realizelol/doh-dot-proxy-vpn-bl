@@ -605,6 +605,7 @@ doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
+doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
