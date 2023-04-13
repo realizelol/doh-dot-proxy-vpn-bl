@@ -563,8 +563,17 @@ dns8.org
 dns9.quad9.net
 dnsadguard.co.uk
 dnscache.e-utp.net
+dnscrypt-cert.blahdns.com
+dnscrypt-cert.browser.yandex.net
+dnscrypt-cert.captnemo.in
+dnscrypt-cert.dns.arapurayil.com
 dnscrypt-cert.dns.seby.io
+dnscrypt-cert.ffmuc.net
+dnscrypt-cert.opendns.com
 dnscrypt-cert.oszx.co
+dnscrypt-cert.pumplex.com
+dnscrypt-cert.quad9.net
+dnscrypt-cert.shield-2.dnsbycomodo.com
 dnsdoh.dnsforfamily.com
 dnsdohnosafesearch.dnsforfamily.com
 dnsenc.com
