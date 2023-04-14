@@ -854,7 +854,6 @@ free-proxy.cz
 free-proxyserver.com
 free.bravedns.com
 free.shecan.ir
-freebox.sillundil.ovh
 freedns.controld.com
 freedom.cx
 freedom.mydns.network
@@ -894,7 +893,6 @@ geti2p.net
 getproxi.es
 ggrbb.xyz
 gizlibaglanti.com
-gm-dns-01.southcentralus.azurecontainer.io
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goproxy.asia
@@ -1017,7 +1015,6 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 kswro.web.id
 kudns.kescher.at
 kyashi.fun
@@ -1571,6 +1568,7 @@ uvpn.me
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
 v6.rubyfish.cn
+vador.sillundil.ovh
 vectroproxy.com
 veripn.com
 videounblock.com
