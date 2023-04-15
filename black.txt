@@ -8,17 +8,7 @@
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
-2.dnscrypt-cert.blahdns.com
-2.dnscrypt-cert.browser.yandex.net
-2.dnscrypt-cert.captnemo.in
-2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.seby.io
-2.dnscrypt-cert.ffmuc.net
-2.dnscrypt-cert.opendns.com
-2.dnscrypt-cert.oszx.co
-2.dnscrypt-cert.pumplex.com
-2.dnscrypt-cert.quad9.net
-2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
 24tunnel.com
 2fastsurfer.com
@@ -76,7 +66,6 @@ adguard.ihatemy.live
 adguard.io
 adguard.jfchenier.ca
 adguard.k0rap.com
-adguard.korks.tk
 adguard.lege.despagne.net
 adguard.meddy94.de
 adguard.nielsvoorn.nl
@@ -209,6 +198,7 @@ cc210d2cb801.sn.mynetname.net
 celo.net
 censurfridns.dk
 cg‑dialup.net
+chanhome.xyz
 chaos-system.de
 chewbacca.meganerd.nl
 chibstatic.ru
@@ -893,6 +883,7 @@ geti2p.net
 getproxi.es
 ggrbb.xyz
 gizlibaglanti.com
+gm-dns-01.southcentralus.azurecontainer.io
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goproxy.asia
@@ -1015,6 +1006,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 kswro.web.id
 kudns.kescher.at
 kyashi.fun
@@ -1347,7 +1339,6 @@ safe.ns.dnslify.com
 safeguardianvpn.com
 safervpn.com
 safeservedns.com
-sagutxustech.com
 saoudiproxy.info
 sbdns.co.in
 sby-doh.limotelu.org
