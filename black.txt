@@ -283,6 +283,7 @@ dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
+dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.aa.net.uk
@@ -295,6 +296,7 @@ dns.alekberg.net
 dns.alidns.com
 dns.alloxr.info
 dns.almir1904.eu
+dns.alvosec.com
 dns.amigo-mgn.ru
 dns.andrewnw.xyz
 dns.anonymous.pw
@@ -624,6 +626,7 @@ doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
+doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -1298,6 +1301,7 @@ radmin-vpn.com
 radmin-vpn.org
 rapidproxy.us
 rayneau.fr
+rdjcloud.duckdns.org
 rdns.faelix.net
 res-acst1.absolight.net
 res-acst2.absolight.net
@@ -1471,7 +1475,6 @@ tx.teradns.org
 typaza.com
 ueni.dyndns.org
 ufovpn.io
-uixie.porkbun.com
 uk-lon.doh.sb
 uk-unblock.xyz
 uk.adhole.org
