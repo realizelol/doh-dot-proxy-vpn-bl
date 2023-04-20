@@ -8,7 +8,17 @@
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
+2.dnscrypt-cert.blahdns.com
+2.dnscrypt-cert.browser.yandex.net
+2.dnscrypt-cert.captnemo.in
+2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.seby.io
+2.dnscrypt-cert.ffmuc.net
+2.dnscrypt-cert.opendns.com
+2.dnscrypt-cert.oszx.co
+2.dnscrypt-cert.pumplex.com
+2.dnscrypt-cert.quad9.net
+2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
 24tunnel.com
 2fastsurfer.com
@@ -626,7 +636,6 @@ doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
-doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
