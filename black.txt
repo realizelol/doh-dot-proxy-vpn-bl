@@ -8,17 +8,7 @@
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
-2.dnscrypt-cert.blahdns.com
-2.dnscrypt-cert.browser.yandex.net
-2.dnscrypt-cert.captnemo.in
-2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.seby.io
-2.dnscrypt-cert.ffmuc.net
-2.dnscrypt-cert.opendns.com
-2.dnscrypt-cert.oszx.co
-2.dnscrypt-cert.pumplex.com
-2.dnscrypt-cert.quad9.net
-2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
 24tunnel.com
 2fastsurfer.com
@@ -81,7 +71,6 @@ adguard.meddy94.de
 adguard.nielsvoorn.nl
 adguard.onlyfriends.info
 adguard.piekacz.pl
-adguard.rabmoor.cz
 adguard.shuting.idv.tw
 adguard.wirimij.nl
 adguard.zachitect.com
@@ -335,7 +324,6 @@ dns.blokada.org
 dns.bobstrecansky.com
 dns.bofh.in
 dns.brahma.world
-dns.brian-hong.tech
 dns.bw.i81.ru
 dns.carson-family.com
 dns.ceai.com.tw
@@ -636,6 +624,7 @@ doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
+doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -970,7 +959,6 @@ ininja.org
 instantunblock.com
 integration.dnsteam.globuscs.info
 interncloud.info
-intertop.link
 ipoac.nl
 ipredia.org
 ipsharkk.com
@@ -1101,7 +1089,6 @@ ns.0.l.ovpn.bond
 ns.00dani.me
 ns.dnslify.com
 ns1-doh.iriseden.fr
-ns1.1899.com.mx
 ns1.95997.ip-ns.net
 ns1.dnsprivacy.at
 ns1.dotls.org
@@ -1110,7 +1097,6 @@ ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
-ns2.1899.com.mx
 ns2.dnsprivacy.at
 ns2.flodns.net
 ns2.opennameserver.org
@@ -1549,7 +1535,6 @@ undofilters.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
-unixfox.duckdns.org
 ur-browser.com
 urban-vpn.com
 urology.wiki
