@@ -119,9 +119,9 @@ apple-dns.net
 applied-privacy.net
 arashi.eu.org
 area51.mywire.org
-ares.collectivemedia.network
 argon.molinero.dev
 arm2.nzcow.com
+arm3.nzcow.com
 armorrush.eu.org
 asia.dnscepat.id
 astrill.com
@@ -624,7 +624,6 @@ doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
-doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -1029,7 +1028,6 @@ lkbin.ga
 lon-dns.bitdefender.net
 lookingglass.site
 lopana.com
-lululu.eu.org
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 maddw.com
@@ -1359,6 +1357,7 @@ security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.cloudflaredns.com
 seeproxy.me
+server.felixf.eu
 server.pragmasec.nl
 serverfriend.altervista.org
 setupvpn.com
