@@ -3,9 +3,11 @@
 123unblock.monster
 12vpx.com
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1dot1dot1dot1.cloudflare-dns.com
+1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
 2.dnscrypt-cert.blahdns.com
 2.dnscrypt-cert.browser.yandex.net
@@ -359,6 +361,7 @@ dns.decloudus.com
 dns.developer.li
 dns.dgea.fr
 dns.digitale-gesellschaft.ch
+dns.digitalegesellschaft.ch
 dns.digitalsize.net
 dns.dns-over-https.com
 dns.dnshome.de
@@ -535,6 +538,7 @@ dns1.ipv6.dnscrypt.ca
 dns1.irumatech.com
 dns1.nextdns.io
 dns1.ryan-palmer.com
+dns1.ryanpalmer.com
 dns1.steering.nextdns.io
 dns10.quad9.net
 dns11.quad9.net
@@ -568,13 +572,17 @@ dnscrypt-cert.oszx.co
 dnscrypt-cert.pumplex.com
 dnscrypt-cert.quad9.net
 dnscrypt-cert.shield-2.dnsbycomodo.com
+dnsdoh.dnsforfamily.com
+dnsdohnosafesearch.dnsforfamily.com
 dnsenc.com
 dnses.alekberg.net
+dnsfamily.adguard.com
 dnsforfamily.com
 dnsforge.de
 dnslow.me
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
+dnsnlnoads.alekberg.net
 dnsotls.lab.nic.cl
 dnsoverhttps.net
 dnsovertls.sinodun.com
@@ -584,8 +592,10 @@ dnsovertls3.sinodun.com
 dnsproxy.ff.avast.com
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
+dnssenoads.alekberg.net
 dnstls.mobik.com
 dnstls.neutopia.org
+dnsunfiltered.adguard.com
 dnsvps.familiamv.ml
 dnsvps.porteii.com
 dnswarden.com
@@ -609,6 +619,7 @@ doh.233py.com
 doh.360.cn
 doh.42l.fr
 doh.abmb.win
+doh.apad.pro
 doh.apad.pro.cdn.cloudflare.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
@@ -621,6 +632,7 @@ doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
+doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -718,7 +730,9 @@ doh2.abmb.win
 doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
+doh2.seby.io
 dohdot.coxlab.net
+dohipv6.crypto.sx
 dohtrial.att.net
 dolopo.net
 dontfilter.us
@@ -802,6 +816,7 @@ family.5ososea.com
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.cloudflaredns.com
 family.freedns.controld.com
 family.ns.dnslify.com
 fastestvpn.com
@@ -893,6 +908,7 @@ hahnjo.de
 haswell-www.a.guindehi.ch
 heimdall.ff0x.ca
 helios.plan9-dns.com
+helios.plan9dns.com
 helloworld.cx
 hiddendigital.info
 hiddendragon.site
@@ -997,6 +1013,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+kronos.plan9dns.com
 krtekvpn.duckdns.org
 ks1.plop.cc
 kswro.web.id
@@ -1050,7 +1067,6 @@ muli.stusta.mhn.de
 mullvad.net
 my-proxy.com
 mycelium.site
-myip.mmmalia.com
 myprivateproxy.net
 myproxy.info
 myunblock.com
@@ -1172,6 +1188,7 @@ pixie.porkbun.com
 pkproxy.info
 please.dontsteal.my.id
 pluton.plan9-dns.com
+pluton.plan9dns.com
 polaris.cx
 polaris.mrmartian.co
 polippix.org
@@ -1328,6 +1345,7 @@ safeservedns.com
 saoudiproxy.info
 sbdns.co.in
 sby-doh.limotelu.org
+sbydoh.limotelu.org
 sdns.233py.com
 sec-tunnel.com
 secretproxy.org
@@ -1341,6 +1359,7 @@ securenet.mhsystems.net
 securevpn.io
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
+security.cloudflaredns.com
 seeproxy.me
 server.felixf.eu
 server.pragmasec.nl
