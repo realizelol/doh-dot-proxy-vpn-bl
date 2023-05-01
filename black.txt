@@ -314,6 +314,7 @@ dns.asdw.fun.cdn.cloudflare.net
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
+dns.bayas.dev
 dns.bebasid.com
 dns.belnet.be
 dns.benpro.fr
@@ -1046,6 +1047,7 @@ meudns.minhacasainteligente.cf
 michiganska.com
 mimile.despagne.net
 mimile.despagne.ovh
+mina.harrache.info
 miniprox.com
 miniprox.info
 mitron.one
@@ -1624,7 +1626,6 @@ xitenow.com
 xitesite.com
 xray.krnl.eu
 xvpn.io
-yario.ru
 yarp.lefolgoc.net
 ychen.cf
 ychen.ga
