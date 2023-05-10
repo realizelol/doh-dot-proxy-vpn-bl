@@ -3,6 +3,7 @@
 123unblock.monster
 12vpx.com
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1dot1dot1dot1.cloudflare-dns.com
@@ -464,7 +465,6 @@ dns.oszx.co
 dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
-dns.pietjacobs.be
 dns.porteii.com
 dns.privilab.net
 dns.pub
@@ -1023,7 +1023,6 @@ kyashi.fun
 lab-1.sellan.fr
 lab.sellan.fr
 lastentarvike.fi
-lb.zerologdns.net
 le-vpn.com
 lelux.fi
 leo.paulmihaipavel.com
