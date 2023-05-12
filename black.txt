@@ -3,12 +3,14 @@
 123unblock.monster
 12vpx.com
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
 2.dnscrypt-cert.dns.seby.io
+214214214.xyz.cdn.dnsv1.com.cn
 233py.com
 24tunnel.com
 2fastsurfer.com
@@ -17,6 +19,7 @@
 3x.nz
 4everproxy.com
 501w.net
+77980.bodis.com
 8888.google
 99proxy.com
 a-bld.sys-adm.in
@@ -802,7 +805,6 @@ eu1.dns.lavate.ch
 europe-west.avastdns.com
 europe.avastdns.com
 europe.doh.sb
-every1dns.com
 evyy.net
 example.doh.blockerdns.com
 expressvpn.com
@@ -1026,7 +1028,6 @@ lelux.fi
 leo.paulmihaipavel.com
 limevpn.com
 lindung.pp.ua
-line.pm
 linkmetube.com
 lion.dns.qwer.pw
 lion.yazilimatolye.com
