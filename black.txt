@@ -9,8 +9,17 @@
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
+2.dnscrypt-cert.blahdns.com
+2.dnscrypt-cert.browser.yandex.net
+2.dnscrypt-cert.captnemo.in
+2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.seby.io
-214214214.xyz.cdn.dnsv1.com.cn
+2.dnscrypt-cert.ffmuc.net
+2.dnscrypt-cert.opendns.com
+2.dnscrypt-cert.oszx.co
+2.dnscrypt-cert.pumplex.com
+2.dnscrypt-cert.quad9.net
+2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
 24tunnel.com
 2fastsurfer.com
@@ -19,7 +28,7 @@
 3x.nz
 4everproxy.com
 501w.net
-77980.bodis.com
+878223.parkingcrew.net
 8888.google
 99proxy.com
 a-bld.sys-adm.in
@@ -1191,7 +1200,6 @@ piracyproxy.net
 pixelprivacy.com
 pixie.porkbun.com
 pkproxy.info
-please.dontsteal.my.id
 pluton.plan9-dns.com
 pluton.plan9dns.com
 polaris.cx
