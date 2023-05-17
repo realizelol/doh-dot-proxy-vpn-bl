@@ -9,17 +9,7 @@
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
-2.dnscrypt-cert.blahdns.com
-2.dnscrypt-cert.browser.yandex.net
-2.dnscrypt-cert.captnemo.in
-2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.seby.io
-2.dnscrypt-cert.ffmuc.net
-2.dnscrypt-cert.opendns.com
-2.dnscrypt-cert.oszx.co
-2.dnscrypt-cert.pumplex.com
-2.dnscrypt-cert.quad9.net
-2.dnscrypt-cert.shield-2.dnsbycomodo.com
 233py.com
 24tunnel.com
 2fastsurfer.com
@@ -28,6 +18,7 @@
 3x.nz
 4everproxy.com
 501w.net
+77980.bodis.com
 878223.parkingcrew.net
 8888.google
 99proxy.com
@@ -261,7 +252,6 @@ darkness.is.my.waifu.cz
 darknet.to
 dart.kpsn.org
 dawnings.cn
-ddns.l2h8.cn
 de-dus.doh.sb
 de-fra.doh.sb
 de.teradns.org
@@ -1027,13 +1017,13 @@ krtekvpn.duckdns.org
 ks1.plop.cc
 kswro.web.id
 kudns.kescher.at
-kyashi.fun
 lab-1.sellan.fr
 lab.sellan.fr
 lastentarvike.fi
 le-vpn.com
 lelux.fi
 leo.paulmihaipavel.com
+lighthousemd.co
 limevpn.com
 lindung.pp.ua
 linkmetube.com
@@ -1167,6 +1157,7 @@ opera-proxy.net
 opera.com
 opera.software
 ora1.nocnik.org
+oracle2.herry.dev
 oraclejp2.chungyu.com
 orangeproxy.net
 orau.lz0724.com
