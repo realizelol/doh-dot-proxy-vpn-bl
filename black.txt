@@ -6,23 +6,35 @@
 07qnpxtzym08adjlrcub09.sergeykobzar.com.ua
 1.0rz.space
 1.11i.eu
+1001.cloudflare-dns.com
 10qnpxtzym11adjlrcub12.sergeykobzar.com.ua
+1111.cloudflare-dns.com
 123-24.eport.gr
 123unblock.monster
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
-180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
+1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
 1qaz.de
 2.0rz.space
 2.11i.eu
 2.alpo.pp.ua
+2.dnscrypt-cert.blahdns.com
+2.dnscrypt-cert.browser.yandex.net
+2.dnscrypt-cert.captnemo.in
+2.dnscrypt-cert.dns.arapurayil.com
 2.dnscrypt-cert.dns.seby.io
+2.dnscrypt-cert.ffmuc.net
+2.dnscrypt-cert.opendns.com
+2.dnscrypt-cert.oszx.co
+2.dnscrypt-cert.pumplex.com
+2.dnscrypt-cert.quad9.net
+2.dnscrypt-cert.shield-2.dnsbycomodo.com
 214214214.xyz
 22dnsipv4.asia
 233py.com
@@ -32,13 +44,11 @@
 2ub.top
 2wired.hopto.org
 3.11i.eu
-360.233py.com
 360dns.pub
 3krkr.tonedtanya.com
 3x.nz
 4dscape.net
 4everproxy.com
-501w.net
 53.slepov.dev
 6692.giize.com
 77980.bodis.com
@@ -56,6 +66,7 @@ a.passcloud.xyz
 a.safe.ns.dnslify.com
 a.sinafreenet.ml
 a.sunday.eu.org
+a.vvvglass.com
 a11.diplo.es
 aalqudah.site
 aattwwss.duckdns.org
@@ -197,6 +208,7 @@ adguard.kaytek.org
 adguard.kenzohost.de
 adguard.kinnee.net
 adguard.kngnet.de
+adguard.korks.tk
 adguard.koshonsa.fr
 adguard.kss.ovh
 adguard.lalantha.xyz
@@ -366,7 +378,6 @@ akaboom.ru
 akhil.ddns.net
 akhilkalwakurthy.dyndns.org
 akr177.com
-alexpollard.synology.me
 alihk-dns.itbbs.org
 alisa.dns.amigo-mgn.ru
 alisa.fb.i81.ru
@@ -376,7 +387,6 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
-amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
 amigo.vpn.i81.ru
@@ -446,7 +456,6 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
-auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
 automaton-mm1.duckdns.org
@@ -463,6 +472,7 @@ az2q.xyz
 azagramac.duckdns.org
 azbs.ddmm.eu.org
 azirevpn.com
+azure.cloudflare-dns.com
 b.family.ns.dnslify.com
 b.jtt.ink
 b.ns.dnslify.com
@@ -487,6 +497,7 @@ beautifulthings.eu.org
 bebracraft.ru
 beevpn.com
 belfort.fltn.us
+berd.moe
 bestvpnrating.com
 betternet.co
 bg-sof-w-3.nashkan.net
@@ -542,7 +553,6 @@ bypassed.life
 bypassed.zone
 bypasser.us
 bytant.link
-c-c.eve.surf
 c-dns.com
 c.cicitt.ch
 c.malicioustation.icu
@@ -576,13 +586,13 @@ cc2.v8er.net
 ccadguard.ddns.net
 ccyykk.top
 cdn.implementsfreedom.studio
+cdzopi.duckdns.org
 cedricreitz.com
 celo.net
 censurfridns.dk
 cg‑dialup.net
 ch-zur-w-1.nashkan.net
 ch01adguardho.me
-chanhome.xyz
 chaos-system.de
 chaos.altendorfme.com
 chenc79.online
@@ -624,7 +634,6 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
-cn-cent-cu-1y.dns.hanwuss.loongapi.com
 cname-for-doh.go-behind.one
 colean.go.ro
 commons.host
@@ -688,7 +697,6 @@ ddd.loukky.com
 ddd2.loukky.com
 ddns.bigmaomao.xyz
 ddns.haha2048.site
-ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
 de-dus.doh.sb
@@ -838,6 +846,7 @@ dns.andrewnw.xyz
 dns.andreykiv.com
 dns.anonymous.pw
 dns.anoogohost.net
+dns.api.gandi.net
 dns.api.globus.org
 dns.api.integration.globuscs.info
 dns.api.preview.globus.org
@@ -850,7 +859,6 @@ dns.aquilenet.fr
 dns.arapurayil.com
 dns.artikel10.org
 dns.asdw.fun
-dns.asdw.fun.cdn.cloudflare.net
 dns.asf1992labs.tk
 dns.atsilva.link
 dns.audet.cloud
@@ -942,6 +950,7 @@ dns.deekshith.in
 dns.developer.li
 dns.dgea.fr
 dns.digitale-gesellschaft.ch
+dns.digitalegesellschaft.ch
 dns.digitalsize.net
 dns.dionperera.com
 dns.dmr.pw
@@ -969,6 +978,7 @@ dns.eksl.one
 dns.ele.xyz
 dns.elemental.software
 dns.ellichua.com
+dns.emeraldonion.org
 dns.emiliyan.com
 dns.energized.pro
 dns.erebur.net
@@ -1102,7 +1112,6 @@ dns.kr.chavy.dev
 dns.krishanshamod.live
 dns.kumar-abhishek.me
 dns.kutovoy.dev
-dns.l.ovpn.bond
 dns.l2h8.cn
 dns.l337.site
 dns.labar.re
@@ -1201,6 +1210,7 @@ dns.octoworld.fr
 dns.ofdoom.net
 dns.oguska.com
 dns.oii.im
+dns.onp.cloud
 dns.opendns.com
 dns.opnsource.com.au
 dns.opopop.fun
@@ -1299,6 +1309,7 @@ dns.syaifullah.com
 dns.t53.de
 dns.tapawan.ca
 dns.teaminfo.fr
+dns.techcpu.net
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
@@ -1392,6 +1403,7 @@ dns02.almir1904.eu
 dns03.almir1904.eu
 dns1-secure.wifire.it
 dns1.a-desg.cc
+dns1.adrianion.eu
 dns1.afastserver.com
 dns1.biryuk.name
 dns1.burtnet.xyz
@@ -1412,6 +1424,7 @@ dns1.permafrostmiami.com
 dns1.pietjacobs.be
 dns1.quickline.ch
 dns1.ryan-palmer.com
+dns1.ryanpalmer.com
 dns1.sarak.as
 dns1.slvrsrvr.de
 dns1.steering.nextdns.io
@@ -1457,7 +1470,6 @@ dns2.steering.nextdns.io
 dns2.superstefan.ml
 dns2.sytes.net
 dns2.vinc.me
-dns2vps.porteii.com
 dns3.afastserver.com
 dns3.h0schi.cloud
 dns3.sas-wres.cc
@@ -1488,8 +1500,11 @@ dnscrypt-cert.pumplex.com
 dnscrypt-cert.quad9.net
 dnscrypt-cert.shield-2.dnsbycomodo.com
 dnsdoh.art
+dnsdoh.dnsforfamily.com
+dnsdohnosafesearch.dnsforfamily.com
 dnsenc.com
 dnses.alekberg.net
+dnsfamily.adguard.com
 dnsforfamily.com
 dnsforge.de
 dnsfr.markovskilab.com
@@ -1498,6 +1513,7 @@ dnshk.eve.surf
 dnslow.me
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
+dnsnlnoads.alekberg.net
 dnsotls.lab.nic.cl
 dnsoverhttps.net
 dnsovertls.sinodun.com
@@ -1508,10 +1524,12 @@ dnspod.clzapp.com
 dnsproxy.ff.avast.com
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
+dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
 dnstls.neutopia.org
+dnsunfiltered.adguard.com
 dnsvps.familiamv.ml
 dnsvps.porteii.com
 dnsvs.duckdns.org
@@ -1560,7 +1578,6 @@ doh.adguardhome.site
 doh.afna.link
 doh.almir1904.eu
 doh.apad.pro
-doh.apad.pro.cdn.cloudflare.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.armadillodns.net
@@ -1574,6 +1591,7 @@ doh.blockerdns.com
 doh.boje8.me
 doh.bortzmeyer.fr
 doh.bt.com
+doh.bugdns.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
@@ -1585,6 +1603,8 @@ doh.cox.net
 doh.crypto.sx
 doh.datacore.ch
 doh.datahata.by
+doh.datt.pw
+doh.de.blahdns.com
 doh.defaultroutes.de
 doh.disconnect.app
 doh.dns.sb
@@ -1597,6 +1617,7 @@ doh.dscloud.me
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
+doh.eieidns.com
 doh.es.ahadns.net
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
@@ -1624,6 +1645,7 @@ doh.lee1024.xyz
 doh.li
 doh.libredns.gr
 doh.libredns.org
+doh.linuxsec.org
 doh.luigi.nexific.it
 doh.lujiacai.top
 doh.lululu.eu.org
@@ -1689,14 +1711,18 @@ doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh1.blahdns.com
+doh1.dnswarden.com
 doh2.abmb.win
 doh2.almir1904.eu
 doh2.b-cdn.net
 doh2.blahdns.com
+doh2.dnswarden.com
 doh2.gslb2.xfinity.com
+doh2.seby.io
 doh3.almir1904.eu
 dohdododo.tonedtanya.com
 dohdot.coxlab.net
+dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
@@ -1747,7 +1773,6 @@ dot.xn--wosk-tya9k.eu
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
-dotdown.netlify.app
 doth.huque.com
 dotvpn.com
 doublehop.me
@@ -1760,6 +1785,7 @@ dpeddi.myddns.com
 dpserver87.ddns.net
 dr-adguard.de
 dr3d.my.id
+draco.plan9-ns2.com
 drahonn.pro
 drive.dehb.ru
 drive.jjlizz.com
@@ -1826,6 +1852,7 @@ family.5ososea.com
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.cloudflaredns.com
 family.dns.vladpro.ru
 family.freedns.controld.com
 family.ns.dnslify.com
@@ -1895,7 +1922,6 @@ freeproxy.asia
 freeproxy.me
 freeproxy.win
 freeproxyserver.co
-freeside.wntrmute.net
 freestaila.synology.me
 freevpn.me
 freevpn.org
@@ -1932,7 +1958,6 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
-gateway.baltes.info
 gateway.fomichev.cloud
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
@@ -1961,7 +1986,6 @@ git.andrewnw.xyz
 git.racinas.com
 gizlibaglanti.com
 glory.of.god.9l3.com
-gm-dns-01.southcentralus.azurecontainer.io
 gn6hoasz2o4tveit.dynv6.net
 go.icoding168.xyz
 go10go10.tonedtanya.com
@@ -2005,6 +2029,7 @@ hc.xiwen1988.top
 hcu.icu
 heimdall.ff0x.ca
 helios.plan9-dns.com
+helios.plan9dns.com
 hellojonathan.xyz
 helloworld.cx
 heoyun.com
@@ -2066,9 +2091,7 @@ home.phucbui.top
 home.pragmasec.nl
 home.qbak.net
 home.quentin-stoeckel.fr
-home.rassadnikov.ru
 home.snow-sugar.net
-home.tuankhaiit.com
 home.wriedts.de
 home27.duckdns.org
 home3.brosena.xyz
@@ -2090,7 +2113,6 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hubertdns.com
-hubsora.eastasia.cloudapp.azure.com
 hyperbyte.net
 hyperspace.toxopeus.it
 hz1.h.indust.me
@@ -2148,7 +2170,6 @@ ivacy.com
 ivanromanov.ru
 ivnkn.xyz
 ivpn.net
-ixhome.ixghzx.ml
 jabber-germany.de
 jabber-server.de
 jackyes.ovh
@@ -2225,12 +2246,10 @@ kotys.bw.i81.ru
 kotys.dns.amigo-mgn.ru
 kotys.fb.i81.ru
 kotys.vpn.i81.ru
-kozak.ujwie.co
 kproxy.com
 kproxysite.com
 kr-sel.doh.sb
 kr.68360612.xyz
-kr.loukky.com
 kr.pigs.eu.org
 kr.telex.app
 kr1.ooroot.com
@@ -2240,8 +2259,8 @@ kracon.anycast.censurfridns.nu
 kracon.anycast.uncensoreddns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2271,7 +2290,6 @@ levislondon-proxy.nerdpol.ovh
 lf-ns-001.my.to
 libye.in
 lighthouse.rycerz.cloud
-lighthousemd.co
 lilibox.duckdns.org
 lilibox.freeboxos.fr
 limevpn.com
@@ -2283,7 +2301,6 @@ lion.dns.qwer.pw
 lion.yazilimatolye.com
 lipunyushka.ru
 live.jjlizz.com
-lkbin.ga
 lmkatest.ru
 lmz.meudns.minhacasainteligente.cf
 loli.sektehalodavid.click
@@ -2322,7 +2339,6 @@ mainframe.dewed.de
 maku-tech.com
 manage.fcpsunleashed.org
 management.alexpollard.net
-marcrnt.ddnss.de
 marginnote.ga
 markolll.ru
 mars.pccoach.nl
@@ -2348,13 +2364,11 @@ melbicom-server.site
 metproxy.com
 meudns.minhacasainteligente.cf
 mg.zbr2464.buzz
-michiganska.com
 mikatos.de
 mikewaddick.com
 mimile.despagne.net
 mimile.despagne.ovh
 mimir.netwerk.io
-mina.harrache.info
 miniprox.com
 miniprox.info
 mitron.one
@@ -2362,7 +2376,6 @@ mkrepair.ddns.net
 mo0on15.com
 mocha.r.rnet.ie
 mofolinux.com
-montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mr-romero.com
@@ -2388,6 +2401,7 @@ myadguardhome.me
 mycelium.site
 mydevpn.eu
 mydns.an2kin.cyou
+mydns.bielperes.me
 mydns.server-way.tk
 myhottiemama.de
 mykewl.pro
@@ -2403,17 +2417,16 @@ n-wan.dynv6.net
 n.3363.net
 n0.eu
 n11649246144.netvigator.com
-n2.zmy.cloud
 n5.lsasss.com
 na-texas-adguard-01.joshsevero.dev
 nafni.one
 name.my-station.ru
 name.wehao.net
-narvi.slvrsrvr.de
 nas-t1.ddns.net
 nas.dehb.ru
 nas.delage.li
 nas.embraced.co
+nas1403.duckdns.org
 nas302.ddns.net
 nastya.dns.vladpro.ru
 nat64.tuxis.nl
@@ -2422,6 +2435,7 @@ nayemador.com
 nd.nimbahanet.xyz
 ndns.233py.com
 neatdns.ustclug.org
+nebula.tru.io
 neelhatesads.cf
 neo.esbpcs.my.id
 neochronicles.live
@@ -2463,7 +2477,6 @@ notecore.me
 novikovfamily.info
 nrt.core.access.zznet.fun
 nrt.public.gfwdns.net
-ns.0.l.ovpn.bond
 ns.00dani.me
 ns.dnslify.com
 ns.dnsviewer.org
@@ -2478,7 +2491,6 @@ ns01.hostrocket.com.ua
 ns01.lflemming.space
 ns1-doh.iriseden.fr
 ns1.1899.com.mx
-ns1.95997.ip-ns.net
 ns1.bit-trails.nl
 ns1.dnsprivacy.at
 ns1.dotls.org
@@ -2486,6 +2498,7 @@ ns1.fdn.fr
 ns1.flodns.net
 ns1.henkes.cloud
 ns1.hjk.me
+ns1.i-evolve.net
 ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
@@ -2496,6 +2509,7 @@ ns2.dnsprivacy.at
 ns2.doh.best
 ns2.flodns.net
 ns2.hjk.me
+ns2.hshh.org
 ns2.opennameserver.org
 ns2.opi.pp.ua
 ns2.recursive.dnsbycomodo.com
@@ -2508,9 +2522,7 @@ ns3.rowie.at
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
-ntu.ssooss.win
 nudnud.com
-nukys.ca
 nvpn.net
 nwps.duckdns.org
 nxa.21.ax
@@ -2535,7 +2547,6 @@ odon.de
 odvr.nic.cz
 offermans.net
 office.heimtec.com
-oguska.com
 okijara.com
 oko.haneulo.com
 olga.dns.amigo-mgn.ru
@@ -2554,7 +2565,6 @@ onion.pet
 onion.sh
 onion.to
 onion.ws
-onlyfriends.info
 open-resolver1.unima.ac.id
 open.dns0.eu
 opencdn.jomodns.com
@@ -2566,13 +2576,12 @@ openvpn.net
 opera-api.com
 opera-mini.net
 opera-proxy.net
+opera.cloudflare-dns.com
 opera.com
 opera.software
 ora.yingroad.top
-ora1.nocnik.org
 oracle-lab01.crmd.co.za
 oracle.cepheus0.com
-oracle2.herry.dev
 oracle5.losfa.xyz
 oracle6.losfa.xyz
 oraclejp2.chungyu.com
@@ -2598,7 +2607,6 @@ p2.freedns.controld.com
 p3.freedns.controld.com
 p549314cd.dip0.t-ipconnect.de
 pacificrack.rczcm.com
-paimon.sev.monster
 pair02-02.ihatemy.live
 palazzoddns.tk
 pandashield.com
@@ -2648,8 +2656,8 @@ planty.ddns.us
 plex.i.solutics.ec
 pliszka.ml
 pluton.plan9-dns.com
+pluton.plan9dns.com
 polaris.cx
-polaris.mrmartian.co
 polippix.org
 pollproxy.info
 pop.novacia.com.ua
@@ -2760,7 +2768,6 @@ pvsv.io
 pxaa.com
 q3i6k7j3.stackpathcdn.com
 qaz.tw
-qbak.no-ip.eu
 qlee.eastasia.cloudapp.azure.com
 qlee0001.eastasia.cloudapp.azure.com
 qlf-doh.inria.fr
@@ -2774,7 +2781,6 @@ r1bnc.com
 r1bnc.eu.org
 rabanete.duckdns.org
 rabbithole.site
-rabenhain.net
 rachel.jeroenhd.nl
 racinas.com
 radia.bortzmeyer.org
@@ -2785,7 +2791,6 @@ rauladguard.online
 ray1.wewa.work
 ray3.wewa.work
 rayneau.fr
-rdjcloud.duckdns.org
 rdjdns.ajraspi.xyz
 rdns-a.adtech-it.com
 rdns.faelix.net
@@ -2853,10 +2858,10 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s1.soft88.click
 sa01.dns4me.net
 sabeendns.hopto.org
+safe.kswro.web.id
 safe.ns.dnslify.com
 safeguardianvpn.com
 safervpn.com
@@ -2867,6 +2872,7 @@ saoudiproxy.info
 saruman.freeddns.org
 sbdns.co.in
 sby-doh.limotelu.org
+sbydoh.limotelu.org
 scrole.shop
 sdns.233py.com
 sdns.uplenk.com
@@ -2889,6 +2895,7 @@ securenet.mhsystems.net
 securevpn.io
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
+security.cloudflaredns.com
 seedboxhome.firefenix.cf
 seedboxhome.phucbui.top
 seeproxy.me
@@ -2898,7 +2905,6 @@ sergeykobzar.com.ua
 servad.duckdns.org
 server-beget.ru
 server-way.tk
-server.felixf.eu
 server.labs.tk
 server.pragmasec.nl
 server.unp.im
@@ -2925,6 +2931,7 @@ sg.gridns.xyz
 sg.mubibai.com
 sg.telex.app
 sg.teradns.org
+sg.yepdns.com
 sg01.dns4me.net
 sg01.localnet.dev
 sg1-1.362430.xyz
@@ -2932,6 +2939,7 @@ sg1.dnswarden.com
 sg2.ooroot.com
 sg2.tt502.eu.org
 sgp.vpn.i-2.io
+sgpcloud.duckdns.org
 sgs01.just-a-web.com
 sgs02.just-a-web.com
 sgs03.just-a-web.com
@@ -3030,7 +3038,6 @@ swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
 syd.core.access.zznet.fun
-syd1.norgannetworks.net.au
 sync-danielius.racinas.com
 sync-moisejus.racinas.com
 sync-sigita.racinas.com
@@ -3105,6 +3112,7 @@ travelvpn.net
 travis90x.ddns.net
 trickbyte.com
 trojan.nowave.top
+trr.dns.nextdns.io
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tubeunblock.me
@@ -3259,7 +3267,6 @@ v2.xx3210766.live
 v2raye.com
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
@@ -3287,7 +3294,6 @@ vlad.dns.vladpro.ru
 vladpro.ru
 vload.net
 vm.mytm.cc
-vmd45200.contabo.wallura.eu
 vmi1067860.contaboserver.net
 vmi880423.contaboserver.net
 vmok.ru
@@ -3335,13 +3341,11 @@ vpnonelove.ru
 vpnoverview.com
 vpnunlimited.com
 vpnunlimitedapp.com
-vps-77f564f3.vps.ovh.us
 vps.alloxr.info
 vps.avc.cx
 vps.fleuryk.ovh
 vps.grussenmeyer.com
 vps.jmarkin.ru
-vps.vokuev.org
 vps1.jnraptor.net
 vps2.jnraptor.net
 vpservice.cf
@@ -3350,7 +3354,6 @@ vsrv15195.customer.xenway.de
 vudy.ru
 vvmm.me
 vyprvpn.com
-w0125ca5.kasserver.com
 waguns.net
 walker.mynetgear.com
 wallymna.space
@@ -3365,7 +3368,6 @@ weboproxy.com
 webproxy.best
 webproxy.to
 webproxyfree.net
-webredir.vip.gandi.net
 websurf.in
 websurfproxy.me
 webunblocker.xyz
@@ -3404,7 +3406,6 @@ www.az2q.xyz
 www.beautifulcity.eu.org
 www.beautifulthings.eu.org
 www.c-dns.com
-www.caifuwu.com
 www.chithra.dilli.dev
 www.chlaebi.info
 www.chriskutschker.de
@@ -3465,7 +3466,6 @@ www.streltsov.net
 www.sufly.top
 www.surfbelow.com
 www.szyrzyk.pl
-www.taufner.net
 www.timothytimothy.cf
 www.tlz.asia
 www.urology.wiki
@@ -3489,6 +3489,7 @@ xkariak.asuscomm.com
 xm.ln7371.top
 xn--80aecoigf4aatn.xn--p1ai
 xray.krnl.eu
+xthwo.duckdns.org
 xvpn.io
 xx.ns1net.com
 xxdtl.com
@@ -3529,7 +3530,6 @@ zblank.cn
 zend2.com
 zendproxy.com
 zenmate.com
-zephyrus.id
 zero.dns0.eu
 zetland.rm-ni.uk
 zoogvpn.com
