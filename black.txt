@@ -4,6 +4,7 @@
 01qnpxtzym02adjlrcub03.sergeykobzar.com.ua
 04qnpxtzym05adjlrcub06.sergeykobzar.com.ua
 07qnpxtzym08adjlrcub09.sergeykobzar.com.ua
+0ms.run
 1.0rz.space
 1.11i.eu
 1001.cloudflare-dns.com
@@ -90,6 +91,7 @@ ad.wiqi.app
 ad1.heronet.nl
 ad1guard.duckdns.org
 ad2.heronet.nl
+ada.openbld.net
 adampowell.pro
 adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
@@ -208,6 +210,7 @@ adguard.kaytek.org
 adguard.kenzohost.de
 adguard.kinnee.net
 adguard.kngnet.de
+adguard.konikoni428.com
 adguard.korks.tk
 adguard.koshonsa.fr
 adguard.kss.ovh
@@ -919,6 +922,7 @@ dns.cloudlnk.net
 dns.cloudtrust.solutions
 dns.cloudyun.top
 dns.cmrg.net
+dns.codepays.net
 dns.coixia.com
 dns.colorfreedom.org
 dns.comeonjames.club
@@ -926,6 +930,7 @@ dns.comss.one
 dns.connect.fail
 dns.containerpi.co
 dns.containerpi.com
+dns.cooluc.com
 dns.cretu.xyz
 dns.crop3ox.website
 dns.crownor.com
@@ -2057,7 +2062,6 @@ hitian.me
 hk-az2.cattery.work
 hk-dns.cattery.work
 hk-hkg.doh.sb
-hk-only.go-behind.one
 hk-w-1.nashkan.net
 hk-w-4.nashkan.net
 hk.101818.xyz
@@ -2522,6 +2526,7 @@ ns3.rowie.at
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
+ntu.ssooss.win
 nudnud.com
 nvpn.net
 nwps.duckdns.org
@@ -2565,6 +2570,7 @@ onion.pet
 onion.sh
 onion.to
 onion.ws
+onlyfriends.info
 open-resolver1.unima.ac.id
 open.dns0.eu
 opencdn.jomodns.com
@@ -2827,6 +2833,7 @@ rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.censurfridns.nu
 rgnet-iad.anycast.uncensoreddns.dk
 rgnet-iad.anycast.uncensoreddns.org
+ric.openbld.net
 ricko.is
 rilaic-multi.daonidc.com
 rin.sh
@@ -3530,6 +3537,7 @@ zblank.cn
 zend2.com
 zendproxy.com
 zenmate.com
+zephyrus.id
 zero.dns0.eu
 zetland.rm-ni.uk
 zoogvpn.com
