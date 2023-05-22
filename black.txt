@@ -15,6 +15,7 @@
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -54,7 +55,6 @@
 501w.net
 53.slepov.dev
 6692.giize.com
-77980.bodis.com
 878223.parkingcrew.net
 8888.google
 94169.ip-ns.net
@@ -650,6 +650,7 @@ cluster-1.gac.edu
 cn-cent-cu-1y.dns.hanwuss.loongapi.com
 cname-for-doh.go-behind.one
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
+cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net
 colean.go.ro
 commons.host
 comss.one
