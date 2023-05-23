@@ -55,7 +55,7 @@
 501w.net
 53.slepov.dev
 6692.giize.com
-878223.parkingcrew.net
+77980.bodis.com
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -979,6 +979,7 @@ dns.dns-over-https.com
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
+dns.doh.best
 dns.domsku.com
 dns.dream-hosting.ovh
 dns.dreamworker.idv.tw
@@ -1633,6 +1634,7 @@ doh.defaultroutes.de
 doh.disconnect.app
 doh.dns.sb
 doh.dns.snopyta.org
+doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
@@ -1705,6 +1707,7 @@ doh.pub
 doh.pyry.me
 doh.qis.io
 doh.quickline.ch
+doh.rdns.vond.net
 doh.rezhajul.io
 doh.sa-sa.eu
 doh.safesurfer.io
@@ -1714,6 +1717,7 @@ doh.seby.io
 doh.securedns.eu
 doh.sidnlabs.nl
 doh.southam.family
+doh.sungai.stream
 doh.syshero.org
 doh.technochat.in
 doh.this.web.id
