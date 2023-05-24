@@ -466,6 +466,7 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
+auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
 automaton-mm1.duckdns.org
@@ -938,7 +939,6 @@ dns.cloudlnk.net
 dns.cloudtrust.solutions
 dns.cloudyun.top
 dns.cmrg.net
-dns.codepays.net
 dns.coixia.com
 dns.colorfreedom.org
 dns.comeonjames.club
@@ -2090,6 +2090,7 @@ hitian.me
 hk-az2.cattery.work
 hk-dns.cattery.work
 hk-hkg.doh.sb
+hk-only.go-behind.one
 hk-w-1.nashkan.net
 hk-w-4.nashkan.net
 hk.101818.xyz
