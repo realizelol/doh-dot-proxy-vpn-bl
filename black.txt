@@ -393,11 +393,11 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
-amd0.nzcow.com
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
 amigo.vpn.i81.ru
+ams.nl.agh-dns.net
 amz.long-nguyen.info
 an.kanahanazawa.com
 an.loliconapp.top
@@ -439,8 +439,6 @@ ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
 argon.molinero.dev
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -571,7 +569,6 @@ c.malicioustation.icu
 c1.ownvps.ml
 c3.ownvps.ml
 c4.ownvps.ml
-c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud
 c5.ownvps.ml
 c6.ownvps.ml
 ca-bhs-w-2.nashkan.net
@@ -684,7 +681,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -709,7 +705,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1237,6 +1232,7 @@ dns.onp.cloud
 dns.opendns.com
 dns.opnsource.com.au
 dns.opopop.fun
+dns.ord.chriswang.work
 dns.osmenoga.com
 dns.oszx.co
 dns.ovpn.bond
@@ -1262,7 +1258,9 @@ dns.proximit.org
 dns.psociety.de
 dns.psycla.be
 dns.pub
+dns.pumpkinvrar.com
 dns.pumplex.com
+dns.purbalinggakab.go.id
 dns.puthiyedath.tk
 dns.qkc.fr
 dns.quad9.net
@@ -1824,7 +1822,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -1925,6 +1922,7 @@ flumuffel.de
 fly.flylcc.cc
 fly.io
 flyvpn.com
+fonfrodo.asuscomm.com
 forum.ginovs.nl
 fr-dns1.bancuh.com
 fr-dns2.bancuh.com
@@ -2250,6 +2248,7 @@ justfor.myasustor.com
 justlife.fun
 justproxy.co.uk
 k-s-edition.ru
+k03vds.duckdns.org
 k0rtus-gg.ru
 kaans.io
 kaiser.int.eu.org
@@ -2266,8 +2265,6 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2348,6 +2345,7 @@ live.jjlizz.com
 lkbin.ga
 lmkatest.ru
 lmz.meudns.minhacasainteligente.cf
+locaweb.moleniuk.com
 loli.sektehalodavid.click
 lon-dns.bitdefender.net
 lookingglass.site
@@ -3080,7 +3078,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3102,7 +3099,6 @@ surt.ml
 surve.dehb.ru
 sv3.minhduc.pw
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3337,7 +3333,6 @@ v2.xx3210766.live
 v2raye.com
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
