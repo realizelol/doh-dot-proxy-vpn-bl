@@ -55,7 +55,7 @@
 501w.net
 53.slepov.dev
 6692.giize.com
-878223.parkingcrew.net
+77980.bodis.com
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -2309,7 +2309,6 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2431,6 +2430,7 @@ mkrepair.ddns.net
 mo0on15.com
 mocha.r.rnet.ie
 mofolinux.com
+montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mr-romero.com
