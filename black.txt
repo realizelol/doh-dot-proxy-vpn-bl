@@ -1,3 +1,4 @@
+.sslip.io
 003.tisyang.com
 0099domain.ecuplshsj.cn
 012proxy.ga
@@ -55,7 +56,7 @@
 501w.net
 53.slepov.dev
 6692.giize.com
-77980.bodis.com
+878223.parkingcrew.net
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -2212,7 +2213,6 @@ ivacy.com
 ivanromanov.ru
 ivnkn.xyz
 ivpn.net
-ixhome.ixghzx.ml
 jabber-germany.de
 jabber-server.de
 jackyes.ovh
@@ -2309,6 +2309,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
