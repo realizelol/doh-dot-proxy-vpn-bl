@@ -1256,7 +1256,6 @@ dns.pawitra.net
 dns.perzarys.eu
 dns.phucbui.top
 dns.phuctran.cloud
-dns.pietjacobs.be
 dns.porteii.com
 dns.privacy.cm
 dns.privado.ovh
@@ -2116,8 +2115,10 @@ ho.hostme.co.il
 hoarfox.us
 hola.org
 hole.elbschloss.xyz
+home-bitteeinbyte.ddnss.de
 home.501w.net
 home.basthorst.eu
+home.bitteeinbyte.de
 home.bruckmoser.it
 home.ddns.network
 home.dlinkddns.com
@@ -2213,6 +2214,7 @@ ivacy.com
 ivanromanov.ru
 ivnkn.xyz
 ivpn.net
+ixhome.ixghzx.ml
 jabber-germany.de
 jabber-server.de
 jackyes.ovh
@@ -2226,7 +2228,6 @@ jenanga.ipv64.net
 jit.ddns.net
 jjm.asia
 jkdsm.com
-jo2hchbwidzdfsoi.myfritz.net
 jonasdevries.de
 joy096speed.pp.ua
 jp-dns1.bancuh.com
@@ -2309,7 +2310,6 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
