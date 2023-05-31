@@ -56,7 +56,7 @@
 501w.net
 53.slepov.dev
 6692.giize.com
-878223.parkingcrew.net
+77980.bodis.com
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -1256,6 +1256,7 @@ dns.pawitra.net
 dns.perzarys.eu
 dns.phucbui.top
 dns.phuctran.cloud
+dns.pietjacobs.be
 dns.porteii.com
 dns.privacy.cm
 dns.privado.ovh
@@ -2310,6 +2311,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
