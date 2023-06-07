@@ -16,7 +16,6 @@
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
-180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -51,12 +50,13 @@
 360dns.pub
 3krkr.tonedtanya.com
 3x.nz
+3x2y.tk
 4dscape.net
 4everproxy.com
 501w.net
 53.slepov.dev
 6692.giize.com
-878223.parkingcrew.net
+77980.bodis.com
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -316,6 +316,7 @@ adguard2.grantbruneau.com
 adguard2.kapuyhome.hu
 adguard2.leadmon.net
 adguard2.ota.moe
+adguard2.richardapplegate.io
 adguard2.unima.ac.id
 adguard3.ota.moe
 adguarddns.otroid.net
@@ -375,6 +376,7 @@ agh.xinfeng16m.top
 agh2.server.my.id
 agh3.server.my.id
 agp01.tek411.com
+agp02.tek411.com
 ahadns.net
 ahboy.asuscomm.com
 ahcek.com
@@ -680,6 +682,7 @@ curses.cloud
 cvt-ic-us-adns-001.clearviewtechnology.net
 cyberghostvpn.com
 cyliu.idv.tw
+cynntex.fun
 cynntex.site
 cytrynowepole.tk
 cz-ces-w-1.nashkan.net
@@ -781,6 +784,7 @@ dmit.xxxxxxxxx.gq
 dn.ckjack.com
 dn5.talesam.org
 dns-01.hir.app
+dns-adguard.cloudnx.cloud
 dns-adguard.ru
 dns-ams.pdf-docs.ru
 dns-asia.wugui.zone
@@ -800,6 +804,7 @@ dns-guard2.cryptroute.com
 dns-nosec.quad9.net
 dns-nyc.aaflalo.me
 dns-over-https.com
+dns-pdx.bastnet.co
 dns-primary.giaan.org
 dns-privacy.puregeni.us
 dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com
@@ -814,6 +819,7 @@ dns-tls.chamberirc.net
 dns-uk.su4ka.icu
 dns-unfiltered.adguard.com
 dns-weblock.wevpn.com
+dns-yul.bastnet.co
 dns.0ooo.icu
 dns.1.bsh4.com
 dns.123099.xyz
@@ -1426,6 +1432,7 @@ dns.zvsrs.com
 dns.zxi7.cn
 dns.zzuhacker.cn
 dns0.eu
+dns0.permafrostmiami.com
 dns0.tardishost.ru
 dns01.almir1904.eu
 dns01.flm9.net
@@ -2433,7 +2440,6 @@ mkrepair.ddns.net
 mo0on15.com
 mocha.r.rnet.ie
 mofolinux.com
-montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mr-romero.com
@@ -2853,6 +2859,7 @@ quickproxy.co.uk
 qwenty.ru
 r1bnc.com
 r1bnc.eu.org
+r4u2c9i5.stackpathcdn.com
 rabanete.duckdns.org
 rabbithole.site
 rabenhain.net
@@ -2917,6 +2924,7 @@ roboticsbenchmarking.xyz
 roc.net.sys.of.icu
 roma.vpn.geshido.ru
 ronfeed.com
+rootdns.anir0y.in
 rootserver.live
 ros.osmenoga.com
 roucious.dyndns-remote.com
@@ -3073,6 +3081,7 @@ sradg.eastus.cloudapp.azure.com
 sradminfk.ddns.net
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
 sslpro.eu
@@ -3441,6 +3450,7 @@ vudy.ru
 vvmm.me
 vyprvpn.com
 w0125ca5.kasserver.com
+w5ppr.us
 waguns.net
 walker.mynetgear.com
 wallymna.space
@@ -3466,12 +3476,14 @@ whoer.net
 whoisping.com
 whonix.org
 wifi.dns.amigo-mgn.ru
+wikipeter.me
 win-d7snj2gu70b.duckdns.org
 win10virtual.fb.i81.ru
 windscribe.com
 wir.rbs-net.ru
 wlvpn.com
 wmapi.cn
+woalongit.synology.me
 wolfdogcat.online
 wonderland.ws
 workhost.eu
