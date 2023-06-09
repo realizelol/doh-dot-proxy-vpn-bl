@@ -2016,6 +2016,7 @@ gb-cov-w-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
+gbrossi.com.br
 gclouddns.com
 gcplog.seggs.cn
 ge.libaced.one
@@ -2494,7 +2495,6 @@ na-texas-adguard-01.joshsevero.dev
 nafni.one
 name.my-station.ru
 name.wehao.net
-narvi.slvrsrvr.de
 nas-t1.ddns.net
 nas.dehb.ru
 nas.delage.li
@@ -2522,6 +2522,7 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3536,6 +3537,7 @@ www.elshad-adgh-dns.ru
 www.eweyo.ru
 www.feelnosorry.com
 www.ga3inur.ru
+www.gbrossi.com.br
 www.ggrbb.xyz
 www.greppie.nl
 www.guard.izzledudetech.com
