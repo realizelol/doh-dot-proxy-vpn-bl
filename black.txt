@@ -579,7 +579,6 @@ c.malicioustation.icu
 c1.ownvps.ml
 c3.ownvps.ml
 c4.ownvps.ml
-c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud
 c5.ownvps.ml
 c6.ownvps.ml
 ca-bhs-w-2.nashkan.net
@@ -1573,6 +1572,7 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
+dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsvps.familiamv.ml
 dnsvps.porteii.com
@@ -2016,7 +2016,6 @@ gb-cov-w-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
-gbrossi.com.br
 gclouddns.com
 gcplog.seggs.cn
 ge.libaced.one
@@ -2205,7 +2204,7 @@ in02.localnet.dev
 incaseineeditoneday.com
 ind-unblock.xyz
 ines.zfn.uni-bremen.de
-inf.vip.meituan.com
+inf-wan.vip.meituan.com
 info-hub.de
 ininja.org
 instantunblock.com
@@ -2327,6 +2326,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
