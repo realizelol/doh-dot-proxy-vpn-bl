@@ -57,6 +57,8 @@
 501w.net
 53.slepov.dev
 6692.giize.com
+77980.bodis.com
+878223.parkingcrew.net
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -2010,12 +2012,14 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
+gateway.baltes.info
 gateway.fomichev.cloud
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
+gbrossi.com.br
 gclouddns.com
 gcplog.seggs.cn
 ge.libaced.one
@@ -2384,6 +2388,7 @@ lt-vil-w-2.nashkan.net
 lt-vil-w-3.nashkan.net
 luba.fb.i81.ru
 luba.vpn.i81.ru
+lululu.eu.org
 lux.sn0w.nl
 lux1.nixnet.xyz
 lv-rig-w-1.nashkan.net
