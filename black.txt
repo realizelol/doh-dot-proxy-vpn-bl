@@ -2019,6 +2019,7 @@ gb-cov-w-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
+gbrossi.com.br
 gclouddns.com
 gcplog.seggs.cn
 ge.libaced.one
@@ -2667,7 +2668,6 @@ ora.yingroad.top
 ora1.nocnik.org
 oracle-lab01.crmd.co.za
 oracle.cepheus0.com
-oracle2.herry.dev
 oracle5.losfa.xyz
 oracle6.losfa.xyz
 oraclejp2.chungyu.com
