@@ -1575,6 +1575,7 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
+dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsvps.familiamv.ml
 dnsvps.porteii.com
@@ -2019,7 +2020,6 @@ gb-cov-w-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
-gbrossi.com.br
 gclouddns.com
 gcplog.seggs.cn
 ge.libaced.one
@@ -2388,7 +2388,6 @@ lt-vil-w-2.nashkan.net
 lt-vil-w-3.nashkan.net
 luba.fb.i81.ru
 luba.vpn.i81.ru
-lululu.eu.org
 lux.sn0w.nl
 lux1.nixnet.xyz
 lv-rig-w-1.nashkan.net
@@ -2540,6 +2539,7 @@ nl-ams-w-3.nashkan.net
 nl-ams.doh.sb
 nl-ams2.doh.sb
 nl.galaskar.ga
+nlb.gbrossi.com.br
 no-osl-w-1.nashkan.net
 noaaf500.site
 noads.cloud
@@ -2668,6 +2668,7 @@ ora.yingroad.top
 ora1.nocnik.org
 oracle-lab01.crmd.co.za
 oracle.cepheus0.com
+oracle2.herry.dev
 oracle5.losfa.xyz
 oracle6.losfa.xyz
 oraclejp2.chungyu.com
@@ -3541,7 +3542,6 @@ www.elshad-adgh-dns.ru
 www.eweyo.ru
 www.feelnosorry.com
 www.ga3inur.ru
-www.gbrossi.com.br
 www.ggrbb.xyz
 www.greppie.nl
 www.guard.izzledudetech.com
