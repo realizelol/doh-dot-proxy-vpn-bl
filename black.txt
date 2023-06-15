@@ -192,6 +192,7 @@ adguard.elashri.xyz
 adguard.emperorslounge.net
 adguard.ender.fr
 adguard.eximpius.xyz
+adguard.exium.net
 adguard.ext.rizult.net
 adguard.firestrike-services.de
 adguard.forst.one
@@ -285,6 +286,7 @@ adguard.sscw.win
 adguard.styxnetwork.org
 adguard.superbest.eu.org
 adguard.taufner.net
+adguard.tetnet.net
 adguard.thatisfun.in
 adguard.tigrex.net
 adguard.titov.es
@@ -297,6 +299,7 @@ adguard.xiaoniaoyou.com
 adguard.yamamoto.ren
 adguard.yoandev.co
 adguard.youroute.ru
+adguard.youshitsune.tech
 adguard.zachitect.com
 adguard01.dns.infrapod.nl
 adguard01.infrapod.nl
@@ -374,6 +377,7 @@ agathe.tobkar.net
 agh.caifuwu.com
 agh.ixghzx.ml
 agh.kyashi.fun
+agh.printk.info
 agh.xinfeng16m.top
 agh2.server.my.id
 agh3.server.my.id
@@ -402,7 +406,6 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
-amd0.nzcow.com
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
@@ -449,14 +452,13 @@ ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
 argon.molinero.dev
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
 asdfcomparator.tk
 asia.dnscepat.id
 astrill.com
+at-wie-w-2.nashkan.net
 at.pzhg.me
 atarikid.com
 atelier.alica.idv.tw
@@ -665,7 +667,9 @@ colean.go.ro
 commons.host
 comss.one
 comss.ru
+connect.edmoon.co.uk
 connect.fcpsunleashed.org
+connect.moonficonnect.com
 contacts.dehb.ru
 controld.com
 cossxiu.ga
@@ -694,7 +698,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -719,7 +722,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -827,6 +829,7 @@ dns-uk.su4ka.icu
 dns-unfiltered.adguard.com
 dns-weblock.wevpn.com
 dns-yul.bastnet.co
+dns.010812.xyz
 dns.0ooo.icu
 dns.1.bsh4.com
 dns.123099.xyz
@@ -1034,6 +1037,7 @@ dns.fb.i81.ru
 dns.fc.idv.tw
 dns.febryandana.xyz
 dns.feedbot.xyz
+dns.feldy.my.id
 dns.filipccz.eu
 dns.firefenix.cf
 dns.flatuslifir.is
@@ -1338,6 +1342,7 @@ dns.spil.co.id
 dns.spok.fun
 dns.sstomp.nl
 dns.startupstack.tech
+dns.stdev.su
 dns.stevenz.net
 dns.struchkov.dev
 dns.stud.cloud
@@ -1847,7 +1852,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -2127,6 +2131,7 @@ hk.meidouling.com
 hk.wooy.cool
 hk.yyaan.com
 hk2.ooroot.com
+hk2.ss.startagegames.com
 hk22.hujiajun.com
 hkd.nicefly2099.cf
 hkg.core.access.zznet.fun
@@ -2293,8 +2298,6 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -3114,7 +3117,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3137,7 +3139,6 @@ surve.dehb.ru
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3372,7 +3373,6 @@ v2.xx3210766.live
 v2raye.com
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
@@ -3484,6 +3484,7 @@ webredir.vip.gandi.net
 websurf.in
 websurfproxy.me
 webunblocker.xyz
+welcomeeverybody.eu.org
 wg.req1.fr
 whax.eu.org
 whoer.net
@@ -3587,6 +3588,7 @@ www.timothytimothy.cf
 www.tlz.asia
 www.urology.wiki
 www.vpnhellings.nl
+www.welcomeeverybody.eu.org
 www.wzybigman.xyz
 www.xantirealityx.net
 www.yario.ru
@@ -3634,6 +3636,7 @@ yrc.synology.me
 ys.cloud-sekeng.com
 ytpom.tk
 yuhui.tk
+yunyun.is.my.waifu.cz
 yvanliang.tech
 yxorproxy.com
 yyaan.com
