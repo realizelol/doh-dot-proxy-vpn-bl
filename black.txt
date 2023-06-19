@@ -57,7 +57,6 @@
 501w.net
 53.slepov.dev
 6692.giize.com
-77980.bodis.com
 878223.parkingcrew.net
 8888.google
 94169.ip-ns.net
@@ -619,6 +618,7 @@ censurfridns.dk
 cg‑dialup.net
 ch-zur-w-1.nashkan.net
 ch01adguardho.me
+chanhome.xyz
 chaos-system.de
 chaos.altendorfme.com
 chenc79.online
