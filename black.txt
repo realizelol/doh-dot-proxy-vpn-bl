@@ -91,6 +91,7 @@ ad.nods.in
 ad.systemfall.ru
 ad.timefine.org
 ad.ttdd.one
+ad.tzockt.beer
 ad.visbran.fr
 ad.wiqi.app
 ad1.heronet.nl
@@ -131,6 +132,7 @@ adg.nods.in
 adg.pssv.top
 adg.rokh.biz
 adg.ssy123.xyz
+adg.swh123.xyz
 adg.yuzi.one
 adg2.felhocskek.hu
 adg2.spacework.com.mx
@@ -406,7 +408,6 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
-amd0.nzcow.com
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
@@ -452,8 +453,6 @@ ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
 argon.molinero.dev
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -502,6 +501,7 @@ b.family.ns.dnslify.com
 b.jtt.ink
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
+b2u7d7r9.stackpathcdn.com
 b5lwtlgyqyly1typvyshftccwxuhk3zq.space
 ban.ppppppeeesss.info
 banhbaothiu.site
@@ -700,7 +700,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -725,7 +724,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -958,6 +956,7 @@ dns.cloudfiction.eu
 dns.cloudflare.com
 dns.cloudlinz.de
 dns.cloudlnk.net
+dns.cloudnx.cloud
 dns.cloudtrust.solutions
 dns.cloudyun.top
 dns.cmrg.net
@@ -1002,6 +1001,7 @@ dns.dnsoverhttps.net
 dns.dnswarden.com
 dns.doh.best
 dns.domsku.com
+dns.dooks.uk
 dns.dream-hosting.ovh
 dns.dreamworker.idv.tw
 dns.druta.me
@@ -1240,6 +1240,7 @@ dns.njal.la
 dns.nnet.services
 dns.noad.me
 dns.noehring.org
+dns.nonomi.cc
 dns.noobel.cn
 dns.norgan.net
 dns.norvig.dk
@@ -1856,7 +1857,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -2200,6 +2200,7 @@ ibksturm.synology.me
 ibuki.cgnat.net
 id-pon-w-1.nashkan.net
 id.lkbin.ga
+id.local.v.ua
 id.terra.my.id
 idcloak.com
 idolproxy.com
@@ -2259,6 +2260,7 @@ jit.ddns.net
 jjm.asia
 jkdsm.com
 jonasdevries.de
+jonesboyz.duckdns.org
 joy096speed.pp.ua
 jp-dns1.bancuh.com
 jp-kix.doh.sb
@@ -2303,8 +2305,6 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2454,6 +2454,7 @@ mimile.despagne.net
 mimile.despagne.ovh
 mimir.netwerk.io
 mina.harrache.info
+minilla.store
 miniprox.com
 miniprox.info
 mitron.one
@@ -3123,7 +3124,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3146,7 +3146,6 @@ surve.dehb.ru
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
