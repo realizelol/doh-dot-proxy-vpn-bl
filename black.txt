@@ -58,7 +58,6 @@
 53.slepov.dev
 6692.giize.com
 77980.bodis.com
-878223.parkingcrew.net
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -408,6 +407,7 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
+amd0.nzcow.com
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
@@ -453,6 +453,8 @@ ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
 argon.molinero.dev
+arm2.nzcow.com
+arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -700,6 +702,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -724,6 +727,7 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
+dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1658,6 +1662,7 @@ doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cleanbrowsing.org
 doh.cloud-sekeng.com
+doh.cornes.me
 doh.cox.net
 doh.crypto.sx
 doh.datacore.ch
@@ -1713,6 +1718,7 @@ doh.lululujp.eu.org
 doh.lv
 doh.mcasviper.de
 doh.micronets.in
+doh.mmmalia.com
 doh.moeyk.com
 doh.mullvad.net
 doh.nala.ru
@@ -1757,6 +1763,7 @@ doh.this.web.id
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
+doh.tvk.rwth-aachen.de
 doh.ubd.ac.id
 doh.umbrella.com
 doh.us.dnswarden.com
@@ -1834,7 +1841,6 @@ dot.xn--wosk-tya9k.eu
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
-dotdown.netlify.app
 doth.huque.com
 dotvpn.com
 doublehop.me
@@ -1857,6 +1863,7 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
+dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -2305,6 +2312,8 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
+kent6.ajaest.net
+kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2537,7 +2546,6 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3124,6 +3132,7 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
+strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3146,6 +3155,7 @@ surve.dehb.ru
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
+swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
