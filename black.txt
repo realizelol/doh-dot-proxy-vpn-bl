@@ -58,6 +58,7 @@
 53.slepov.dev
 6692.giize.com
 77980.bodis.com
+878223.parkingcrew.net
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -1841,6 +1842,7 @@ dot.xn--wosk-tya9k.eu
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
+dotdown.netlify.app
 doth.huque.com
 dotvpn.com
 doublehop.me
@@ -2500,6 +2502,7 @@ mydns.an2kin.cyou
 mydns.bielperes.me
 mydns.server-way.tk
 myhottiemama.de
+myip.mmmalia.com
 mykewl.pro
 myownadguard.ovh
 mypihole.hopto.org
@@ -2546,6 +2549,7 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
