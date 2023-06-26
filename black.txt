@@ -482,6 +482,7 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
+auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -1174,7 +1175,6 @@ dns.larsdebruin.net
 dns.lat-team.com
 dns.lfac.ml
 dns.lfac.xyz
-dns.lightmaster.pw
 dns.lildinosaur.com
 dns.lilith.cloud
 dns.linkr.ninja
@@ -2350,7 +2350,6 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
