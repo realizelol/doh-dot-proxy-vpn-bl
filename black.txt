@@ -85,6 +85,7 @@ ad.aghaaliagha.tk
 ad.dscw.io
 ad.emekm.fr
 ad.guard.ru.net
+ad.lsal.fr
 ad.miaouu.top
 ad.milys.pl
 ad.nods.in
@@ -180,7 +181,6 @@ adguard.cybsurfnet.net
 adguard.cytrynowepole.tk
 adguard.dashofsunny.com
 adguard.ddns.net
-adguard.ddns.network
 adguard.dehb.ru
 adguard.dekonix.ru
 adguard.demaks.org
@@ -408,7 +408,6 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
-amd0.nzcow.com
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
@@ -454,8 +453,6 @@ ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
 argon.molinero.dev
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -482,7 +479,6 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
-auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -696,6 +692,7 @@ cubedns.com
 curses.cloud
 cvt-ic-us-adns-001.clearviewtechnology.net
 cyberghostvpn.com
+cybree-dns.itbbs.org
 cyliu.idv.tw
 cynntex.fun
 cynntex.site
@@ -704,7 +701,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -729,7 +725,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -842,6 +837,7 @@ dns.0ooo.icu
 dns.1.bsh4.com
 dns.123099.xyz
 dns.1833015459.site
+dns.2.bsh4.com
 dns.209.wf
 dns.23-4.cn
 dns.233py.com
@@ -1056,6 +1052,7 @@ dns.flymc.cc
 dns.foximao.cn
 dns.frank-ruan.com
 dns.frankychen.me
+dns.freegod.ml
 dns.freequensi.com
 dns.freyja.pw
 dns.froth.zone
@@ -1200,6 +1197,7 @@ dns.maybe.icu
 dns.me7878.com
 dns.meeo.win
 dns.melalandia.tk
+dns.melashri.eu.org
 dns.mgiptvpro.ml
 dns.micro.alloxr.info
 dns.mikeliu.org
@@ -1395,6 +1393,7 @@ dns.ublobs.com
 dns.uk-london-1.oci.oraclecloud.com
 dns.uk-london-1.oci.oraclecloud.net
 dns.uk-london-1.oraclecloud.com
+dns.umbrellapants.xyz
 dns.unerror.network
 dns.unx.io
 dns.uplenk.com
@@ -1511,6 +1510,7 @@ dns2.dnscrypt.ca
 dns2.gms.net.id
 dns2.guidocioni.it
 dns2.h0schi.cloud
+dns2.home-albrecht.com
 dns2.ipv6.dnscrypt.ca
 dns2.karmanet.ch
 dns2.keipert.me
@@ -1771,6 +1771,7 @@ doh.us.dnswarden.com
 doh.velyn.my.id
 doh.viatech.com.tw
 doh.vpnglobal.my.id
+doh.wangyaomin.com
 doh.westeu.pi-dns.com
 doh.westus.pi-dns.com
 doh.wewitro.net
@@ -1865,7 +1866,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -2158,7 +2158,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.firefenix.cf
@@ -2302,6 +2301,7 @@ kaans.io
 kaiser.int.eu.org
 kaitain.restena.lu
 karimdns.com
+kawaii.moeshop.online
 kawpad.southeastasia.cloudapp.azure.com
 kb.hanfling.click
 kcolspacrm.ir
@@ -2313,11 +2313,10 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
+kids-adguard.duckdns.org
 kids.5ososea.com
 kids.dns0.eu
 kids.vietdns.vn
@@ -2362,6 +2361,7 @@ kyjiep.space
 kz-alm-w-1.nashkan.net
 lab-1.sellan.fr
 lab.sellan.fr
+lamdtl.giize.com
 lampedns.bagmeijer.nl
 laptop001.greppie.nl
 lastentarvike.fi
@@ -2918,6 +2918,7 @@ res-acst3.absolight.net
 resolv.srv-pro.de
 resolve.srv-pro.de
 resolve2.srv-pro.de
+resolver-eu.haringstad.com
 resolver-eu.lelux.fi
 resolver.as203038.net
 resolver.cloudflare-eth.com
@@ -3073,6 +3074,7 @@ shield.afixer.app
 shiestyro.world
 shybbw.myz.info
 siddeus.synology.me
+silicloud-dns.itbbs.org
 sin.core.access.zznet.fun
 sinas85.synology.me
 singapore.fuckll.com
@@ -3080,6 +3082,7 @@ singaporeproxy.nu
 sink.nolo.ltd
 sip.amigo-mgn.ru
 sitdns.com
+site-1.duckdns.org
 site-2.duckdns.org
 site2unblock.com
 sitecreation.biz.ua
@@ -3135,7 +3138,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3158,7 +3160,6 @@ surve.dehb.ru
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3393,7 +3394,6 @@ v2.xx3210766.live
 v2raye.com
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
