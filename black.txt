@@ -2165,7 +2165,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.firefenix.cf
@@ -2662,6 +2661,7 @@ odon.de
 odvr.nic.cz
 offermans.net
 office.heimtec.com
+oguska.com
 okijara.com
 oko.haneulo.com
 olga.dns.amigo-mgn.ru
@@ -2905,7 +2905,6 @@ r1bnc.eu.org
 r4u2c9i5.stackpathcdn.com
 rabanete.duckdns.org
 rabbithole.site
-rabenhain.net
 rachel.jeroenhd.nl
 racinas.com
 radia.bortzmeyer.org
@@ -3649,6 +3648,7 @@ xxdtl.com
 xyz2.jammerxd.dev
 xyz3.jammerxd.dev
 y3suyx0cg2lewi2dmn.advaitghaisas.in
+yahoodns.net
 yair.link
 yario.ru
 yarp.lefolgoc.net
