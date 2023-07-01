@@ -2165,6 +2165,7 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
+home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.firefenix.cf
@@ -2905,6 +2906,7 @@ r1bnc.eu.org
 r4u2c9i5.stackpathcdn.com
 rabanete.duckdns.org
 rabbithole.site
+rabenhain.net
 rachel.jeroenhd.nl
 racinas.com
 radia.bortzmeyer.org
