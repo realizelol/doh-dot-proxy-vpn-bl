@@ -58,7 +58,6 @@
 53.slepov.dev
 6692.giize.com
 77980.bodis.com
-878223.parkingcrew.net
 8888.google
 94169.ip-ns.net
 99proxy.com
@@ -408,7 +407,6 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
-amd0.nzcow.com
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
@@ -454,8 +452,6 @@ ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
 argon.molinero.dev
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -482,7 +478,6 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
-auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -505,7 +500,6 @@ b.family.ns.dnslify.com
 b.jtt.ink
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
-b2u7d7r9.stackpathcdn.com
 b5lwtlgyqyly1typvyshftccwxuhk3zq.space
 ban.ppppppeeesss.info
 banhbaothiu.site
@@ -582,7 +576,6 @@ bypassed.life
 bypassed.zone
 bypasser.us
 bytant.link
-c-c.eve.surf
 c-dns.com
 c.cicitt.ch
 c.malicioustation.icu
@@ -737,7 +730,6 @@ ddd.loukky.com
 ddd2.loukky.com
 ddns.bigmaomao.xyz
 ddns.haha2048.site
-ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
 de-dus.doh.sb
@@ -1287,7 +1279,6 @@ dns.pawitra.net
 dns.perzarys.eu
 dns.phucbui.top
 dns.phuctran.cloud
-dns.pietjacobs.be
 dns.porteii.com
 dns.privacy.cm
 dns.privado.ovh
@@ -1537,7 +1528,6 @@ dns2.steering.nextdns.io
 dns2.superstefan.ml
 dns2.sytes.net
 dns2.vinc.me
-dns2vps.porteii.com
 dns3.afastserver.com
 dns3.h0schi.cloud
 dns3.sas-wres.cc
@@ -1872,7 +1862,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -2068,7 +2057,6 @@ git.racinas.com
 gizlibaglanti.com
 glory.of.god.9l3.com
 glvm.ru
-gm-dns-01.southcentralus.azurecontainer.io
 gn6hoasz2o4tveit.dynv6.net
 go.icoding168.xyz
 go10go10.tonedtanya.com
@@ -2108,6 +2096,7 @@ gwps.duckdns.org
 gztech.me
 h.ra3.in
 hahnjo.de
+hanahira.dev
 haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcu.icu
@@ -2177,7 +2166,6 @@ home.phucbui.top
 home.pragmasec.nl
 home.qbak.net
 home.quentin-stoeckel.fr
-home.rassadnikov.ru
 home.snow-sugar.net
 home.tuankhaiit.com
 home.wriedts.de
@@ -2473,7 +2461,6 @@ mikewaddick.com
 mimile.despagne.net
 mimile.despagne.ovh
 mimir.netwerk.io
-mina.harrache.info
 minilla.store
 miniprox.com
 miniprox.info
@@ -2662,7 +2649,6 @@ odon.de
 odvr.nic.cz
 offermans.net
 office.heimtec.com
-oguska.com
 okijara.com
 oko.haneulo.com
 olga.dns.amigo-mgn.ru
@@ -2903,7 +2889,6 @@ quickproxy.co.uk
 qwenty.ru
 r1bnc.com
 r1bnc.eu.org
-r4u2c9i5.stackpathcdn.com
 rabanete.duckdns.org
 rabbithole.site
 rabenhain.net
@@ -3177,7 +3162,6 @@ swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
 syd.core.access.zznet.fun
-syd1.norgannetworks.net.au
 sync-danielius.racinas.com
 sync-moisejus.racinas.com
 sync-sigita.racinas.com
@@ -3515,7 +3499,6 @@ weboproxy.com
 webproxy.best
 webproxy.to
 webproxyfree.net
-webredir.vip.gandi.net
 websurf.in
 websurfproxy.me
 webunblocker.xyz
