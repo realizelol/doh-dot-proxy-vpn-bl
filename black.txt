@@ -900,6 +900,7 @@ dns.asdw.fun
 dns.asf1992labs.tk
 dns.atsilva.link
 dns.audet.cloud
+dns.axiomos.xyz
 dns.aykanbacaksoy.de
 dns.azcom.dev
 dns.azsopro.net
@@ -1297,6 +1298,7 @@ dns.quad9.net
 dns.quickline.ch
 dns.qwkurl.com
 dns.r00l.pp.ua
+dns.radityaharya.com
 dns.radityaharya.me
 dns.rafal.top
 dns.rafn.is
@@ -1381,6 +1383,7 @@ dns.tlz.asia
 dns.tomitomix.net
 dns.tracker.ink
 dns.truong.fi
+dns.tsgmcoinfra.com
 dns.tticus.art
 dns.tuankhaiit.com
 dns.tuna.tsinghua.edu.cn
@@ -1405,6 +1408,7 @@ dns.vaguthu.mv
 dns.vault-101.net
 dns.vdl.io
 dns.venya.tech
+dns.victorhachard.fr
 dns.vietdns.vn
 dns.vinnyp.xyz
 dns.vinokurov.tk
@@ -2349,7 +2353,6 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2545,7 +2548,6 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -2631,6 +2633,7 @@ nxtcld.chriskutschker.de
 ny.teradns.org
 ny1.nixnet.xyz
 nz01.dns4me.net
+nzitdog.onthewifi.com
 o--o.duckdns.org
 o.rsaikat.com
 o1.lt
@@ -2688,11 +2691,13 @@ oracle.cepheus0.com
 oracle2.herry.dev
 oracle5.losfa.xyz
 oracle6.losfa.xyz
+oraclecloud.onthewifi.com
 oraclejp2.chungyu.com
 oradns.anbitech.com
 orangeproxy.net
 orau.lz0724.com
 ordns.he.net
+ortudns.com
 oryx.wallymna.space
 osefcorp.duckdns.org
 ourcraft.ddnss.de
@@ -2773,6 +2778,7 @@ porttwo.bigbangtheory.monster
 pqh.ddns.net
 premiumtier-network.instadart.net
 preview.dnsteam.globuscs.info
+primary-dns.victorhachard.fr
 privacy-cd.org
 privacy.plumedns.com
 privacydns.go6lab.si
@@ -2996,6 +3002,7 @@ se-sto-w-1.nashkan.net
 seanyan.ddns.net
 seaofbits.com
 sec-tunnel.com
+secondary-dns.victorhachard.fr
 secretproxy.org
 secure-4ud.de
 secure-dns.dns-ga.de
@@ -3149,6 +3156,7 @@ surfshark.com
 surfshell.io
 surt.ml
 surve.dehb.ru
+sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
