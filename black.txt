@@ -405,6 +405,7 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
+amd0.nzcow.com
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
@@ -450,6 +451,8 @@ ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
 argon.molinero.dev
+arm2.nzcow.com
+arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -476,6 +479,7 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
+auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -698,6 +702,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -722,6 +727,7 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
+dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1341,6 +1347,7 @@ dns.sidot.xyz
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
+dns.sips.my.id
 dns.siry.de
 dns.skrep.eu
 dns.skrep.in
@@ -1869,6 +1876,7 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
+dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -1891,6 +1899,7 @@ edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 elc.meudns.minhacasainteligente.cf
+elez-wq.github.io
 eliatofani.ovh
 elshad-adgh-dns.ru
 emmmmm.me
@@ -2317,6 +2326,8 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
+kent6.ajaest.net
+kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2353,6 +2364,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2469,6 +2481,7 @@ mimir.netwerk.io
 minilla.store
 miniprox.com
 miniprox.info
+mitron.one
 mkrepair.ddns.net
 mo0on15.com
 mocha.r.rnet.ie
@@ -2548,6 +2561,7 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3137,6 +3151,7 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
+strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3160,6 +3175,7 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
+swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
