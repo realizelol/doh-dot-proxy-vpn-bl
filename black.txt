@@ -662,7 +662,6 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
-cn-js-zj-ct-1.c.cli.loongapi.com
 cname-for-doh.go-behind.one
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net
@@ -2170,7 +2169,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.firefenix.cf
