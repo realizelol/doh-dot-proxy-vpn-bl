@@ -2731,6 +2731,7 @@ outie.8ws.net
 outiejr.8ws.net
 overplay.net
 overwatch.ddns.net
+ovh.panszelescik.pl
 ovpn.com
 owa.elshad-adgh-dns.ru
 owa.promsdns.com
@@ -2767,6 +2768,7 @@ phucbui.top
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
