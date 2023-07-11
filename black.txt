@@ -8,6 +8,7 @@
 0ms.run
 1.0rz.space
 1.11i.eu
+1.dns.noridev.moe
 1001.cloudflare-dns.com
 10qnpxtzym11adjlrcub12.sergeykobzar.com.ua
 1111.cloudflare-dns.com
@@ -27,6 +28,7 @@
 2.0rz.space
 2.11i.eu
 2.alpo.pp.ua
+2.dns.noridev.moe
 2.dnscrypt-cert.blahdns.com
 2.dnscrypt-cert.browser.yandex.net
 2.dnscrypt-cert.captnemo.in
@@ -408,7 +410,6 @@ alpha-dns.de
 alpha.rferee.dev
 alpha1.jnraptor.net
 altvpn.ppm.mrhost.biz
-amd0.nzcow.com
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
@@ -455,12 +456,11 @@ ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
 argon.molinero.dev
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
 asdfcomparator.tk
+asia-east2-pfrmxgnk.cloudfunctions.net
 asia.dnscepat.id
 astrill.com
 at-wie-w-2.nashkan.net
@@ -483,7 +483,6 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
-auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -552,6 +551,7 @@ blocka.net
 blockemall.xyz
 blockerads.multimediaconcept.fr
 blockless.com
+blog.kimiblock.top
 blokuj.ujwie.co
 bluecomet.eu.org
 bluemood.me
@@ -666,6 +666,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn.turngreatwall.com
 cname-for-doh.go-behind.one
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net
@@ -705,7 +706,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -731,7 +731,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1197,6 +1196,7 @@ dns.luotianyi.net
 dns.lusk.xyz
 dns.lyhlyh.xyz
 dns.m78.asia
+dns.mafyuh.io
 dns.magnon-box.tk
 dns.magnon.duckdns.org
 dns.majaroboan.de
@@ -1237,6 +1237,7 @@ dns.myadguard.top
 dns.mysvc.de
 dns.mzrme.cn
 dns.n23.io
+dns.narl.app
 dns.nas-server.ru
 dns.nayemador.com
 dns.ndo.dev
@@ -1656,6 +1657,7 @@ doh.360.cn
 doh.42l.fr
 doh.4l2.cn
 doh.5000g.org
+doh.aaaab3n.moe
 doh.abmb.win
 doh.adguardhome.site
 doh.afna.link
@@ -1849,6 +1851,7 @@ dot.nl.ahadns.net
 dot.no.ahadns.net
 dot.northeu.pi-dns.com
 dot.ny.ahadns.net
+dot.occ.top
 dot.pl.ahadns.net
 dot.pub
 dot.qooqle.date
@@ -1886,7 +1889,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -2181,7 +2183,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.firefenix.cf
@@ -2205,6 +2206,7 @@ homelabjaw.tk
 homeproxy.com
 hoofoo.icu
 hooliganska.duckdns.org
+horns.world
 host.dlun.tk
 hostedadguard.greatharts.com
 hotbot.com
@@ -2272,6 +2274,7 @@ irre.li
 ispunblock.com
 it-pal-w-1.nashkan.net
 itlikehell.ru
+itnerden.no
 itopvpn.com
 ivacy.com
 ivanromanov.ru
@@ -2291,6 +2294,7 @@ jenanga.ipv64.net
 jit.ddns.net
 jjm.asia
 jkdsm.com
+joannalee.asuscomm.com
 jonasdevries.de
 jonesboyz.duckdns.org
 joy096speed.pp.ua
@@ -2338,8 +2342,6 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2400,6 +2402,7 @@ league2eb.me
 leecurrylawfirm.com
 lekdijk.online
 lelux.fi
+lemonpiesite.duckdns.org
 lena.fb.i81.ru
 leo.paulmihaipavel.com
 leochen-dns.ddns.net
@@ -2493,7 +2496,6 @@ mimir.netwerk.io
 minilla.store
 miniprox.com
 miniprox.info
-mitron.one
 mkrepair.ddns.net
 mo0on15.com
 mocha.r.rnet.ie
@@ -2532,6 +2534,7 @@ myownadguard.ovh
 mypihole.hopto.org
 myprivateproxy.net
 myproxy.info
+mysabeendns.hopto.org
 mysys.net
 myunblock.com
 myunblocksites.com
@@ -3168,7 +3171,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3192,7 +3194,6 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3293,6 +3294,7 @@ typaza.com
 ua-kyv-w-1.nashkan.net
 ublock-dns-resolver-01.swedencentral.cloudapp.azure.com
 ublock-dns-resolver-02.northeurope.cloudapp.azure.com
+ublock-dns-resolver-03.westeurope.cloudapp.azure.com
 ueni.dyndns.org
 ufovpn.io
 uk-lon.doh.sb
@@ -3429,7 +3431,6 @@ v2.xx3210766.live
 v2raye.com
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
