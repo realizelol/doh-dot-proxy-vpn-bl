@@ -37,7 +37,6 @@
 2.dnscrypt-cert.ffmuc.net
 2.dnscrypt-cert.opendns.com
 2.dnscrypt-cert.oszx.co
-2.dnscrypt-cert.pumplex.com
 2.dnscrypt-cert.quad9.net
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 214214214.xyz
@@ -118,6 +117,7 @@ adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adblock.robinlanckman.com
 adblockdns.live
+adc.789910.xyz
 add.nods.in
 addguard.greenet.id
 addns.clubbase.club
@@ -233,6 +233,7 @@ adguard.lspcr.space
 adguard.mapor.co
 adguard.mattiafenzi.uk
 adguard.meddy94.de
+adguard.metahost.co.za
 adguard.mitar.ovh
 adguard.mjanson.de
 adguard.mjthemelancholy.xyz
@@ -435,6 +436,7 @@ anonymouse.org
 anonymousvpn.org
 anonymster.com
 ant.dns.qwer.pw
+anti-tahrim.bazipardaz.com
 antidns.s.tuna.tsinghua.edu.cn
 antonyfrompnz.space
 anycast.censurfridns.dk
@@ -627,6 +629,7 @@ ch01adguardho.me
 chanhome.xyz
 chaos-system.de
 chaos.altendorfme.com
+cheema.com.pk
 chenc79.online
 chertila.tk
 chewbacca.meganerd.nl
@@ -639,6 +642,7 @@ chriskutschker.de
 christophbrem.com
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
+chungocoai.name.vn
 cintra.ml
 cirruscloud.it
 citizenvpn.com
@@ -882,6 +886,7 @@ dns.ahmgam.me
 dns.ahyxluo.ltd
 dns.ai6.ir
 dns.airsee.xyz
+dns.ajmariduena.com
 dns.alekberg.net
 dns.alidns.com
 dns.alloxr.info
@@ -921,6 +926,7 @@ dns.b612.me
 dns.baabab.com
 dns.bahien.com
 dns.bastnet.co
+dns.bazipardaz.com
 dns.bebasid.com
 dns.belnet.be
 dns.benpro.fr
@@ -1204,6 +1210,7 @@ dns.malwarelul.download
 dns.maolaohei.xyz
 dns.maomengte.com
 dns.marcbond.uk
+dns.maxsoft.ro
 dns.maxte7.xyz
 dns.maybe.icu
 dns.me7878.com
@@ -1249,6 +1256,7 @@ dns.nextdns.io
 dns.ngc7331.top
 dns.nguyendn.com
 dns.nhtsky.com
+dns.nieto.app
 dns.nietostuff.com
 dns.nikolagjorgjijoski.com
 dns.nixnet.xyz
@@ -1323,6 +1331,7 @@ dns.rassadnikov.ru
 dns.reckoningslug.name
 dns.redroot.me
 dns.req1.fr
+dns.retakecs.com
 dns.rhscz.eu
 dns.rin.sh
 dns.rjls.me
@@ -1390,6 +1399,7 @@ dns.thechance.family
 dns.theres.one
 dns.therifleman.name
 dns.thierryserver.nl
+dns.thore.cloud
 dns.timboeh.me
 dns.timochan.cn
 dns.tipsy.coffee
@@ -1579,7 +1589,6 @@ dnscrypt-cert.dns.seby.io
 dnscrypt-cert.ffmuc.net
 dnscrypt-cert.opendns.com
 dnscrypt-cert.oszx.co
-dnscrypt-cert.pumplex.com
 dnscrypt-cert.quad9.net
 dnscrypt-cert.shield-2.dnsbycomodo.com
 dnsdoh.art
@@ -1940,6 +1949,7 @@ eweyo.ru
 example.doh.blockerdns.com
 expressvpn.com
 externalmobiel.lekdijk.online
+f1.dns.s3cure.me
 f4fp.com
 faceless.me
 family-filter-dns.cleanbrowsing.org
@@ -2185,6 +2195,7 @@ home.bitteeinbyte.de
 home.bruckmoser.it
 home.dlinkddns.com
 home.f7b6h9.tk
+home.fc.idv.tw
 home.firefenix.cf
 home.i.solutics.ec
 home.kinopu.com
@@ -2318,6 +2329,7 @@ jp3.meidouling.com
 jpdns.cola16.app
 jpok.996333.xyz
 jpsb.wooy.cool
+jujuba.cafuringa.org
 jupiter1013.tk
 jurre-home.duckdns.org
 justfor.myasustor.com
@@ -2498,6 +2510,7 @@ miniprox.com
 miniprox.info
 mkrepair.ddns.net
 mo0on15.com
+moaz-adguard.duckdns.org
 mocha.r.rnet.ie
 mofolinux.com
 montmorot.duckdns.org
@@ -2925,6 +2938,7 @@ qwenty.ru
 r1bnc.com
 r1bnc.eu.org
 r4u2c9i5.stackpathcdn.com
+ra.r2ss.tk
 rabanete.duckdns.org
 rabbithole.site
 rabenhain.net
@@ -2939,6 +2953,7 @@ rauladguard.online
 ray1.wewa.work
 ray3.wewa.work
 rayneau.fr
+rblade.asuscomm.com
 rdjcloud.duckdns.org
 rdjdns.ajraspi.xyz
 rdns-a.adtech-it.com
@@ -3411,6 +3426,7 @@ user2.dns.adguard.beltoev.ru
 user3.dns.adguard.beltoev.ru
 user4.dns.adguard.beltoev.ru
 user5.dns.adguard.beltoev.ru
+usname.freecdn.one
 usproxies.info
 usproxy.nu
 usser.52huameng.com
@@ -3425,6 +3441,7 @@ v1461642.hosted-by-vdsina.ru
 v1550018.hosted-by-vdsina.ru
 v1552270.hosted-by-vdsina.ru
 v1586767.hosted-by-vdsina.ru
+v2-1.huwenqiang.xyz
 v2.dionysus.beauty
 v2.xm706v.com
 v2.xx3210766.live
@@ -3587,6 +3604,7 @@ www.caifuwu.com
 www.chithra.dilli.dev
 www.chlaebi.info
 www.chriskutschker.de
+www.chungocoai.name.vn
 www.dehb.ru
 www.dns.adguard.beltoev.ru
 www.dns.aganin.org
