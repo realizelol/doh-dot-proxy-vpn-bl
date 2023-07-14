@@ -2141,7 +2141,7 @@ gwps.duckdns.org
 gztech.me
 h.ra3.in
 hahnjo.de
-hanahiraipv6.ddns.net
+hanahira.dev
 haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcu.icu
@@ -2200,6 +2200,7 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
+home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.fc.idv.tw
@@ -2599,7 +2600,6 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3268,7 +3268,6 @@ tikvpn.com
 timmes.nl
 timothytimothy.cf
 tj.jamesxue.xyz
-tjucker-ch.internet-box.ch
 tk31z.com
 tkge.tk
 tls-dns-u.odvr.dns-oarc.net
