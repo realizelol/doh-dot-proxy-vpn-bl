@@ -17,7 +17,6 @@
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
-180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -160,6 +159,7 @@ adguard.abdullahabas.online
 adguard.acrobyte.org
 adguard.agadez.net
 adguard.alex-tools.dev
+adguard.almanasports.com
 adguard.ambiya.net
 adguard.aminetwork.biz
 adguard.avdkishore.dev
@@ -288,6 +288,7 @@ adguard.shuting.idv.tw
 adguard.spaceindex.net
 adguard.spyrisk.fr
 adguard.sscw.win
+adguard.stealbit.com
 adguard.styxnetwork.org
 adguard.superbest.eu.org
 adguard.taufner.net
@@ -337,6 +338,7 @@ adguardhom.ddns.net
 adguardhome-vps.couli.fr
 adguardhome.atakorah.com
 adguardhome.dev
+adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
 adguardhome.lukemulvaney.com
 adguardhome.nguyenhoadev.ml
@@ -382,6 +384,7 @@ ag01.de.hallmen.it
 agafon.site
 agafon.space
 agathe.tobkar.net
+agh.alushi.net
 agh.caifuwu.com
 agh.ixghzx.ml
 agh.kyashi.fun
@@ -618,6 +621,7 @@ carrotegg.club
 catdns.org
 catsimple.cf
 cattery.noddos.top
+cattery2.eastasia.cloudapp.azure.com
 cattery2.noddos.top
 cc.3eto.com
 cc2.v8er.net
@@ -828,6 +832,7 @@ dns-ext.familiamichels.com.br
 dns-family.adguard.com
 dns-family.duckdns.org
 dns-family.esegece.com
+dns-free.link
 dns-gcp.aaflalo.me
 dns-guard1.cryptroute.com
 dns-guard2.cryptroute.com
@@ -948,6 +953,7 @@ dns.blindtechs.com
 dns.blokada.org
 dns.bluemeda.cf
 dns.bluestarnc.com
+dns.bnv.lol
 dns.bobstrecansky.com
 dns.bofh.in
 dns.borlee.be
@@ -1165,6 +1171,7 @@ dns.just-hosting.net
 dns.justinnetworkingsolutions.com
 dns.juyic.cn
 dns.k3nny.fr
+dns.kaandikec.com
 dns.kamilszczepanski.com
 dns.karl.one
 dns.karmanet.ch
@@ -1313,6 +1320,7 @@ dns.phucbui.top
 dns.phuctran.cloud
 dns.pieterdherde.com
 dns.pietjacobs.be
+dns.pldweb.net
 dns.porteii.com
 dns.privacy.cm
 dns.privado.ovh
@@ -1366,6 +1374,7 @@ dns.schwaab.me
 dns.seby.io
 dns.sellan.fr
 dns.sev.monster
+dns.sg.nayemador.com
 dns.shecan.ir
 dns.shiina520.fun
 dns.shimul.me
@@ -1904,6 +1913,7 @@ drive.dehb.ru
 drive.jjlizz.com
 dronix27.ru
 drwg.org
+ds3617xs.jojo1204.xyz
 dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
@@ -2206,7 +2216,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.fc.idv.tw
@@ -2354,6 +2363,7 @@ justproxy.co.uk
 k-s-edition.ru
 k03vds.duckdns.org
 k0rtus-gg.ru
+kaandikec.com
 kaans.io
 kaiser.int.eu.org
 kaitain.restena.lu
@@ -2406,6 +2416,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2420,6 +2431,7 @@ lab.sellan.fr
 lamdtl.giize.com
 lampedns.bagmeijer.nl
 laptop001.greppie.nl
+larkin.wang
 lastentarvike.fi
 lax.core.access.zznet.fun
 lazareth.live
@@ -2508,6 +2520,7 @@ mcttechs.com
 megacodx.online
 meganerd.nl
 megaproxy.com
+megumin.is.my.waifu.cz
 mehide.asia
 meiju444.tk
 melbicom-server.site
@@ -2654,6 +2667,7 @@ ns1.1899.com.mx
 ns1.95997.ip-ns.net
 ns1.bit-trails.nl
 ns1.dnsprivacy.at
+ns1.doh.best
 ns1.dotls.org
 ns1.fdn.fr
 ns1.flodns.net
@@ -2718,6 +2732,7 @@ olga.dns.amigo-mgn.ru
 olga.fb.i81.ru
 olga.vpn.i81.ru
 olivier-adguard.duckdns.org
+one.nafni.one
 one.one.one.one
 onevps-dns.pivb.vip
 onion.cab
@@ -2812,6 +2827,7 @@ pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
 piholeddns.duckdns.org
+pikko.xyz
 pinkproxy.xyz
 pinus-test.aeza.network
 piotrsobczak.com
@@ -3261,6 +3277,7 @@ test.5ososea.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 testaghome.meshkov.info
+testdjango.live
 tezoi.duckdns.org
 thanh933.cf
 thanos.pleumkungz.com
@@ -3457,6 +3474,7 @@ uw-dns.rubyfish.cn
 ux.go20.cf
 v.dnscrypt.uk
 v.itsa.cc
+v.or2o.ml
 v.yuhui.tk
 v1461642.hosted-by-vdsina.ru
 v1550018.hosted-by-vdsina.ru
@@ -3469,7 +3487,6 @@ v2.xx3210766.live
 v2raye.com
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
@@ -3727,6 +3744,7 @@ ychen.gq
 ychen.tk
 yellowproxy.net
 yingroad.top
+yory2cave.hopto.me
 your-dns.run
 yourcheat.com
 youtubebyclick.com
@@ -3742,6 +3760,7 @@ yunyun.is.my.waifu.cz
 yuripe.ccnt.fr
 yvanliang.tech
 yxorproxy.com
+yy.80208020.xyz
 yyaan.com
 yyqsite.top
 za-joh-w-2.nashkan.net
