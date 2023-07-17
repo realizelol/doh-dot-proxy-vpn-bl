@@ -17,6 +17,7 @@
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -1324,6 +1325,7 @@ dns.pldweb.net
 dns.porteii.com
 dns.privacy.cm
 dns.privado.ovh
+dns.privdns.org
 dns.privilab.net
 dns.proximit.org
 dns.psociety.de
@@ -1505,6 +1507,7 @@ dns0.permafrostmiami.com
 dns0.tardishost.ru
 dns01.almir1904.eu
 dns01.flm9.net
+dns01.woosahdigitalhosted.com
 dns02.almir1904.eu
 dns03.almir1904.eu
 dns1-secure.wifire.it
@@ -1523,6 +1526,7 @@ dns1.irumatech.com
 dns1.klcd.eu
 dns1.luan.contact
 dns1.n3120.wang
+dns1.newapi.host
 dns1.nextdns.io
 dns1.nielsdb.be
 dns1.niub.one
@@ -1566,6 +1570,7 @@ dns2.lfac.ml
 dns2.linzefeng.top
 dns2.luan.contact
 dns2.n3120.wang
+dns2.newapi.host
 dns2.nextcloudend.info
 dns2.nextdns.io
 dns2.niub.one
@@ -1850,6 +1855,7 @@ dominatrix.brandonsli.com
 donghovietkid.cloud
 dontfilter.us
 dop.privatedns.org
+dosvid.tk
 dot-ch.blahdns.com
 dot-de.blahdns.com
 dot-dns.zmy.cloud
@@ -1983,6 +1989,7 @@ family.cloudflaredns.com
 family.dns.vladpro.ru
 family.freedns.controld.com
 family.ns.dnslify.com
+family.privdns.org
 faradns.net
 fastestvpn.com
 fasttime.info
@@ -2618,7 +2625,6 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -2817,7 +2823,6 @@ phucbui.top
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -2868,6 +2873,7 @@ private.supplies.eu.org
 privateinternetaccess.com
 privatevpn.com
 privatnas.servebeer.com
+privdns.duckdns.org
 privdns.org
 pro-unblock.com
 pro.shecan.ir
@@ -3183,6 +3189,7 @@ skww726.cf
 sky.rethinkdns.com
 skyline.vvvvvei.win
 slambenchmarking.buzz
+sm5q237c0.g666gle.me
 smartdnsproxy.com
 smtp.greppie.nl
 soay38us0r7goa7.cmsdp.my.id
