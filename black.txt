@@ -12,12 +12,12 @@
 1001.cloudflare-dns.com
 10qnpxtzym11adjlrcub12.sergeykobzar.com.ua
 1111.cloudflare-dns.com
+122.859421.xyz
 123-24.eport.gr
 123unblock.monster
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
-180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -133,6 +133,7 @@ adg.jnorton.us
 adg.nods.in
 adg.pssv.top
 adg.rokh.biz
+adg.siudzinski.net
 adg.ssy123.xyz
 adg.swh123.xyz
 adg.yuzi.one
@@ -140,6 +141,7 @@ adg2.felhocskek.hu
 adg2.spacework.com.mx
 adgaurd.lingmont.net
 adgdns.duckdns.org
+adgh.catfluori.de
 adgh.laufan.cn
 adgh.skyview.click
 adghome.joseph.com.ph
@@ -469,8 +471,6 @@ area51.mywire.org
 arespctw.tk
 argon.molinero.dev
 arkadia100.pl
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -498,7 +498,6 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
-auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -728,7 +727,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -755,7 +753,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1029,6 +1026,7 @@ dns.daw.dev
 dns.decisivedevops.com
 dns.decloudus.com
 dns.deekshith.in
+dns.deluxerpanda.se
 dns.developer.li
 dns.dgea.fr
 dns.digitaladapt.com
@@ -1062,6 +1060,7 @@ dns.ekipapi.com
 dns.eknetwork.eu
 dns.eksl.one
 dns.ele.xyz
+dns.electrotm.org
 dns.elemental.software
 dns.ellichua.com
 dns.emeraldonion.org
@@ -1403,6 +1402,7 @@ dns.sips.my.id
 dns.siry.de
 dns.skrep.eu
 dns.skrep.in
+dns.skrzypiec.pl
 dns.slinkyman.net
 dns.soncms.me
 dns.spil.co.id
@@ -1590,6 +1590,7 @@ dns2.nextdns.io
 dns2.niub.one
 dns2.porteii.com
 dns2.quickline.ch
+dns2.rhscz.eu
 dns2.sarak.as
 dns2.sas-wres.cc
 dns2.srv-home.fr
@@ -1937,7 +1938,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 duyyen.cf
 duyyen.tk
@@ -2032,6 +2032,7 @@ filterbypass.me
 filya.fb.i81.ru
 finchvpn.com
 findmethedns.info
+firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2062,6 +2063,7 @@ free-proxy.cz
 free-proxyserver.com
 free.bravedns.com
 free.shecan.ir
+free.svipss.top
 freedns.controld.com
 freedom.cx
 freedom.mydns.network
@@ -2107,7 +2109,6 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
-gateway.baltes.info
 gateway.fomichev.cloud
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
@@ -2121,6 +2122,7 @@ geckovpn.xyz
 genmirror.com
 genscorp.es
 georgia.ddns.net
+gepard.vps.wbsprt.com
 german-proxy.info
 germvpnguard.duckdns.org
 geshido.vpn.geshido.ru
@@ -2162,6 +2164,7 @@ guard-linodefree.tk
 guard.izzledudetech.com
 guard.magic-pics.tk
 guard.sntrk.ru
+guard.thefather.cloud
 guard.yps.tw
 guardhome.fatihkuyuk.com.tr
 guardian-vpn.com
@@ -2237,7 +2240,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.fc.idv.tw
@@ -2402,8 +2404,6 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2440,6 +2440,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2559,7 +2560,6 @@ mimir.netwerk.io
 minilla.store
 miniprox.com
 miniprox.info
-mitron.one
 mkrepair.ddns.net
 mo0on15.com
 moaz-adguard.duckdns.org
@@ -2568,6 +2568,7 @@ mofolinux.com
 mojserwer.myasustor.com
 montmorot.duckdns.org
 morbitzer.de
+moto.adg.siudzinski.net
 mozilla.cloudflare-dns.com
 mr-romero.com
 mrunblock.pro
@@ -2643,7 +2644,6 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3099,6 +3099,7 @@ safeservedns.com
 sagutxustech.com
 saikoudns.tk
 sakuraknight2023.top
+sams.adg.siudzinski.net
 sannidhya.duckdns.org
 saoudiproxy.info
 saruman.freeddns.org
@@ -3250,7 +3251,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3274,7 +3274,6 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3303,8 +3302,12 @@ tenta.com
 terminal.racinas.com
 teslacoils.org.uk
 test.5ososea.com
+test.adg.siudzinski.net
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
+test2.adg.siudzinski.net
+test3.adg.siudzinski.net
+test4.adg.siudzinski.net
 testaghome.meshkov.info
 testdjango.live
 tezoi.duckdns.org
@@ -3330,6 +3333,7 @@ tls.jackyhou.idv.tw
 tls.vietguards.cloud
 tls.zhiyou.me
 tlz.asia
+tlz.bio
 toaster.lol
 todns.work
 token.safebrowsing.apple
@@ -3747,6 +3751,7 @@ wyx.cloud
 wzybigman.xyz
 x-o-x.duckdns.org
 x.ns1net.com
+x.res.wang
 x861g.duckdns.org
 xantirealityx.net
 xenergy.cc
