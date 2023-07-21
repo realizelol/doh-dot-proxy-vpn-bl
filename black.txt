@@ -12,12 +12,12 @@
 1001.cloudflare-dns.com
 10qnpxtzym11adjlrcub12.sergeykobzar.com.ua
 1111.cloudflare-dns.com
-122.859421.xyz
 123-24.eport.gr
 123unblock.monster
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -147,6 +147,7 @@ adgh.skyview.click
 adghome.joseph.com.ph
 adghs.de
 adguard-aws.charraud.eu
+adguard-aws.gdmn.dev
 adguard-dns.com
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -297,6 +298,7 @@ adguard.stealbit.com
 adguard.styxnetwork.org
 adguard.superbest.eu.org
 adguard.taufner.net
+adguard.tenkoff.ru
 adguard.tetnet.net
 adguard.thatisfun.in
 adguard.tigrex.net
@@ -877,6 +879,7 @@ dns.240601.xyz
 dns.2poi.com
 dns.2t9.de
 dns.3dcapitaltrust.net
+dns.3jh.org
 dns.4-the.win
 dns.4ab.nl
 dns.52306.org
@@ -1398,7 +1401,6 @@ dns.sidot.xyz
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
-dns.sips.my.id
 dns.siry.de
 dns.skrep.eu
 dns.skrep.in
@@ -1454,6 +1456,7 @@ dns.ublobs.com
 dns.uk-london-1.oci.oraclecloud.com
 dns.uk-london-1.oci.oraclecloud.net
 dns.uk-london-1.oraclecloud.com
+dns.umbrella.com
 dns.umbrellapants.xyz
 dns.unerror.network
 dns.unx.io
@@ -2004,6 +2007,7 @@ family.dns.vladpro.ru
 family.freedns.controld.com
 family.ns.dnslify.com
 family.privdns.org
+familyshield.opendns.com
 faradns.net
 fastestvpn.com
 fasttime.info
@@ -2032,7 +2036,6 @@ filterbypass.me
 filya.fb.i81.ru
 finchvpn.com
 findmethedns.info
-firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2063,7 +2066,6 @@ free-proxy.cz
 free-proxyserver.com
 free.bravedns.com
 free.shecan.ir
-free.svipss.top
 freedns.controld.com
 freedom.cx
 freedom.mydns.network
@@ -2109,6 +2111,7 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
+gateway.baltes.info
 gateway.fomichev.cloud
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
@@ -2340,7 +2343,6 @@ ivacy.com
 ivanromanov.ru
 ivnkn.xyz
 ivpn.net
-ixhome.ixghzx.ml
 jabber-germany.de
 jabber-server.de
 jackyes.ovh
@@ -2644,6 +2646,7 @@ next.miao.ninja
 nextdns.io
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -2842,6 +2845,7 @@ phucbui.top
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3100,6 +3104,7 @@ sagutxustech.com
 saikoudns.tk
 sakuraknight2023.top
 sams.adg.siudzinski.net
+sandbox.opendns.com
 sannidhya.duckdns.org
 saoudiproxy.info
 saruman.freeddns.org
@@ -3213,6 +3218,7 @@ slambenchmarking.buzz
 sm5q237c0.g666gle.me
 smartdnsproxy.com
 smtp.greppie.nl
+snd.jaxif.com
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
@@ -3228,6 +3234,7 @@ sporium.org
 spysurfing.com
 sradg.eastus.cloudapp.azure.com
 sradminfk.ddns.net
+srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
 srv2.data-host.de
@@ -3321,6 +3328,7 @@ thecremeens.com
 thefuturegg.xyz
 think-howling.com
 tiafun.com
+tienpham.id.vn
 tiger.dns.qwer.pw
 tikvpn.com
 timmes.nl
@@ -3521,7 +3529,6 @@ v2raye.com
 v3.passby.eu.org
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
@@ -3608,6 +3615,7 @@ vps.jmarkin.ru
 vps.vokuev.org
 vps1.jnraptor.net
 vps2.jnraptor.net
+vps4.scho.io
 vpservice.cf
 vpsus3.pzhg.me
 vsrv15195.customer.xenway.de
