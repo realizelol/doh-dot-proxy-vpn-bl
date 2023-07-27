@@ -17,6 +17,7 @@
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -2126,6 +2127,7 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
+gateway.baltes.info
 gateway.fomichev.cloud
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
@@ -2792,6 +2794,7 @@ onion.pet
 onion.sh
 onion.to
 onion.ws
+onlyfriends.info
 open-resolver1.unima.ac.id
 open.dns0.eu
 opencdn.jomodns.com
