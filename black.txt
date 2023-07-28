@@ -1414,6 +1414,7 @@ dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
 dns.siry.de
+dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
 dns.skrzypiec.pl
@@ -3846,6 +3847,7 @@ zblank.cn
 zend2.com
 zendproxy.com
 zenmate.com
+zephyrus.id
 zero.dns0.eu
 zetland.rm-ni.uk
 zoogvpn.com
