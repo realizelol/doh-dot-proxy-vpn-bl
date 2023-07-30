@@ -174,6 +174,7 @@ adguard.bitteeinbyte.de
 adguard.borgwardtech.net
 adguard.brandonsli.com
 adguard.bwasson.com
+adguard.cepenjak.com
 adguard.chanhome.xyz
 adguard.chriskutschker.de
 adguard.clawsucht.nrw
@@ -234,6 +235,7 @@ adguard.koshonsa.fr
 adguard.kss.ovh
 adguard.lalantha.xyz
 adguard.laurenlaufman.com
+adguard.lchao.me
 adguard.lege.despagne.net
 adguard.lilis.xin
 adguard.lspcr.space
@@ -346,12 +348,14 @@ adguardhom.ddns.net
 adguardhome-vps.couli.fr
 adguardhome.atakorah.com
 adguardhome.dev
+adguardhome.eastasia.cloudapp.azure.com
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
 adguardhome.lukemulvaney.com
 adguardhome.nguyenhoadev.ml
 adguardhome.ponetwork.duckdns.org
 adguardhome.takkunn.pgw.jp
+adguardhome.westeurope.cloudapp.azure.com
 adguardhulst.duckdns.org
 adguardo.viewdns.net
 adguardprimarydns.cf
@@ -454,7 +458,6 @@ anonymster.com
 ant.dns.qwer.pw
 anti-tahrim.bazipardaz.com
 antidns.s.tuna.tsinghua.edu.cn
-antivirus.bebasid.com
 antonyfrompnz.space
 anycast.censurfridns.dk
 anycast.censurfridns.nu
@@ -611,6 +614,7 @@ c-dns.com
 c.cicitt.ch
 c.malicioustation.icu
 c1.ownvps.ml
+c1.yydsgod.eu.org
 c3.ownvps.ml
 c4.ownvps.ml
 c5.ownvps.ml
@@ -697,7 +701,6 @@ cluster-1.gac.edu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
-cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net
 colean.go.ro
 commons.host
 comss.one
@@ -940,7 +943,6 @@ dns.api.test.globuscs.info
 dns.apigw.online
 dns.aquilenet.fr
 dns.arapurayil.com
-dns.arroudlohgpg.site
 dns.artikel10.org
 dns.asdw.fun
 dns.asf1992labs.tk
@@ -1215,6 +1217,7 @@ dns.kosan.moe
 dns.kozich.net
 dns.kr.chavy.dev
 dns.krishanshamod.live
+dns.kriswerry.nl
 dns.krol.cloud
 dns.kumar-abhishek.me
 dns.kutovoy.dev
@@ -1436,6 +1439,7 @@ dns.swehosting.se
 dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
+dns.tacomafia.net
 dns.tapawan.ca
 dns.teaminfo.fr
 dns.techcpu.net
@@ -1493,6 +1497,7 @@ dns.vladpro.ru
 dns.vmath.my.id
 dns.wakgood.net
 dns.walshnet.co.uk
+dns.wang.art
 dns.warexify.com
 dns.wargan.io
 dns.warpnine.de
@@ -2133,6 +2138,7 @@ gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
 gclouddns.com
+gcp.tacomafia.net
 gcplog.seggs.cn
 ge.libaced.one
 geckovpn.xyz
@@ -2196,6 +2202,7 @@ gusald.com
 gustamadh.dynv6.net
 gwps.duckdns.org
 gztech.me
+h.gjrick.tw
 h.ra3.in
 hahnjo.de
 hanahira.dev
@@ -2257,7 +2264,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.fc.idv.tw
@@ -2278,6 +2284,7 @@ home.wriedts.de
 home27.duckdns.org
 home3.brosena.xyz
 homedns.gumeniuk.com
+homeemoh.ddns.net
 homelabjaw.tk
 homemoscow34.website
 homeproxy.com
@@ -2684,6 +2691,7 @@ noads.imbuffering.com
 noadsapp.net
 nocensor.icu
 nocensor.rest
+node3.b4el.ru
 nongdanthanky.com
 nordvpn.com
 note.dehb.ru
@@ -2837,6 +2845,7 @@ p3.freedns.controld.com
 p549314cd.dip0.t-ipconnect.de
 pacificrack.rczcm.com
 pad3w.pp.ua
+padermail.net
 paimon.sev.monster
 pair02-02.ihatemy.live
 palazzoddns.tk
@@ -3218,7 +3227,6 @@ singapore.fuckll.com
 singaporeproxy.nu
 sink.nolo.ltd
 sip.amigo-mgn.ru
-sips.my.id
 sitdns.com
 site-1.duckdns.org
 site-2.duckdns.org
