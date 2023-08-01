@@ -2826,6 +2826,7 @@ ora.yingroad.top
 ora1.nocnik.org
 oracle-lab01.crmd.co.za
 oracle.cepheus0.com
+oracle2.herry.dev
 oracle5.losfa.xyz
 oracle6.losfa.xyz
 oraclecloud.onthewifi.com
