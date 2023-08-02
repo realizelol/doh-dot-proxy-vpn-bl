@@ -3160,7 +3160,6 @@ sec-tunnel.com
 secondary-dns.victorhachard.fr
 secretproxy.org
 secure-4ud.de
-secure-dns.dns-ga.de
 secure.anudeep.me
 secure.avastdns.com
 secure.onedns.cc
