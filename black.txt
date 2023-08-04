@@ -482,6 +482,8 @@ area51.mywire.org
 arespctw.tk
 argon.molinero.dev
 arkadia100.pl
+arm2.nzcow.com
+arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -509,6 +511,7 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
+auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -742,6 +745,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -768,6 +772,7 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
+dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1974,6 +1979,7 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
+dumbledore.steinr.eu
 dupatruwi22.fun
 dus.ysbs.uk
 duyyen.cf
@@ -2281,6 +2287,7 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
+home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.fc.idv.tw
@@ -2448,6 +2455,8 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
+kent6.ajaest.net
+kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2605,6 +2614,7 @@ mimir.netwerk.io
 minilla.store
 miniprox.com
 miniprox.info
+mitron.one
 mkrepair.ddns.net
 mo0on15.com
 moaz-adguard.duckdns.org
@@ -3247,6 +3257,7 @@ singapore.fuckll.com
 singaporeproxy.nu
 sink.nolo.ltd
 sip.amigo-mgn.ru
+sips.my.id
 sitdns.com
 site-1.duckdns.org
 site-2.duckdns.org
@@ -3307,6 +3318,7 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
+strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3330,6 +3342,7 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
+swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3578,6 +3591,7 @@ v2raye.com
 v3.passby.eu.org
 v3.passby.ga
 v6.rubyfish.cn
+vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
