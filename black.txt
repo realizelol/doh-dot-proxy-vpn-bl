@@ -374,6 +374,7 @@ adns.onlinetools.rocks
 ads-doh.securedns.eu
 ads-eu.landgame.net
 ads.tbservers.ca
+ads.tieuanhquoc.info
 ads.x88.in
 adsfree.ddns.net
 adtec.aidentec.top
@@ -482,8 +483,6 @@ area51.mywire.org
 arespctw.tk
 argon.molinero.dev
 arkadia100.pl
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -511,7 +510,6 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
-auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -582,6 +580,7 @@ blockemall.xyz
 blockerads.multimediaconcept.fr
 blockless.com
 blog.kimiblock.top
+blokit.esohjay.tk
 blokuj.ujwie.co
 bluecomet.eu.org
 bluemood.me
@@ -745,7 +744,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -772,7 +770,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -849,6 +846,7 @@ dns-adguard.ru
 dns-ams.pdf-docs.ru
 dns-asia.wugui.zone
 dns-br.leonardo.tec.br
+dns-cluster1.lewsion.com
 dns-de.veho.de
 dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
@@ -887,6 +885,7 @@ dns.0ooo.icu
 dns.1.bsh4.com
 dns.123099.xyz
 dns.1833015459.site
+dns.193.gs
 dns.2.bsh4.com
 dns.209.wf
 dns.23-4.cn
@@ -1123,6 +1122,7 @@ dns.freequensi.com
 dns.freyja.pw
 dns.froth.zone
 dns.futuredns.me
+dns.gametest.eu.org
 dns.gando.fr
 dns.ghexu.com
 dns.ghost.pm
@@ -1193,6 +1193,7 @@ dns.itdept.pro
 dns.ivanromanov.ru
 dns.ivyeori.live
 dns.jean.im
+dns.jens-server.de
 dns.jerryw.cn
 dns.jimirobaer.be
 dns.jinwoo.dev
@@ -1222,6 +1223,7 @@ dns.kescher.at
 dns.keweon.center
 dns.khanhtran.me
 dns.kingsbestone.com
+dns.kirillpe.dev
 dns.knightlsy.asia
 dns.knitish.dev
 dns.kolar-it.com
@@ -1602,6 +1604,7 @@ dns2.adblocker.eu.org
 dns2.afastserver.com
 dns2.alekberg.net
 dns2.art-nas.pp.ua
+dns2.bai0012.com
 dns2.biryuk.name
 dns2.cbio.top
 dns2.developer.li
@@ -1679,6 +1682,7 @@ dnsforge.de
 dnsfr.markovskilab.com
 dnsg.psyk.fr
 dnshk.eve.surf
+dnslas.netrope.com
 dnslow.me
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
@@ -1900,6 +1904,7 @@ doh2.dnswarden.com
 doh2.gslb2.xfinity.com
 doh2.seby.io
 doh3.almir1904.eu
+dohdns.com
 dohdododo.tonedtanya.com
 dohdot.coxlab.net
 dohipv6.crypto.sx
@@ -1979,7 +1984,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 dus.ysbs.uk
 duyyen.cf
@@ -2221,6 +2225,7 @@ guardster.com
 guilherme.tec.br
 gunag.duckdns.org
 guoyingwei.top
+gurd2.avangblue.top
 gusald.com
 gustamadh.dynv6.net
 gwps.duckdns.org
@@ -2287,7 +2292,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.fc.idv.tw
@@ -2384,6 +2388,7 @@ iris.woozeno.eu
 irre.li
 ispunblock.com
 it-pal-w-1.nashkan.net
+itbbs.org
 itlikehell.ru
 itnerden.no
 itopvpn.com
@@ -2455,8 +2460,6 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2614,7 +2617,6 @@ mimir.netwerk.io
 minilla.store
 miniprox.com
 miniprox.info
-mitron.one
 mkrepair.ddns.net
 mo0on15.com
 moaz-adguard.duckdns.org
@@ -2692,6 +2694,7 @@ neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
 neta.a-desg.cc
+netcat.one
 netherlands.plumedns.com
 new-proxy-sites.blogspot.com
 new.nhunor.com
@@ -2736,6 +2739,7 @@ ns.00dani.me
 ns.ciwer.cn
 ns.dnslify.com
 ns.dnsviewer.org
+ns.hjk.kr
 ns.hjk.me
 ns.mtsoln.com
 ns.ral9005.org
@@ -2755,6 +2759,7 @@ ns1.dotls.org
 ns1.fdn.fr
 ns1.flodns.net
 ns1.henkes.cloud
+ns1.hjk.kr
 ns1.hjk.me
 ns1.i-evolve.net
 ns1.opennameserver.org
@@ -2886,10 +2891,12 @@ pass12335.myds.me
 pates.services.sfr.fr.casepp.sfr.fr
 pc.dns.adguard.beltoev.ru
 pccoach.ddns.net
+pcd96.duckdns.org
 pcgo.fun
 pcornet.freeboxos.fr
 pdns.faelix.net
 pdns.fatlab.llc
+pedo.sektehalodavid.click
 per.adfilter.net
 percival.empty.pw
 pestemedie.silviustroe.com
@@ -3257,7 +3264,6 @@ singapore.fuckll.com
 singaporeproxy.nu
 sink.nolo.ltd
 sip.amigo-mgn.ru
-sips.my.id
 sitdns.com
 site-1.duckdns.org
 site-2.duckdns.org
@@ -3318,7 +3324,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3342,7 +3347,6 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3591,7 +3595,6 @@ v2raye.com
 v3.passby.eu.org
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
