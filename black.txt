@@ -2406,7 +2406,6 @@ ivpn.net
 jabber-germany.de
 jabber-server.de
 jackyes.ovh
-jammerxd.dev
 jarjar.meganerd.nl
 jatadguardhome.duckdns.org
 jaye.sh
@@ -2505,7 +2504,6 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -3093,6 +3091,7 @@ ray1.wewa.work
 ray3.wewa.work
 rayneau.fr
 rblade.asuscomm.com
+rdjcloud.duckdns.org
 rdjdns.ajraspi.xyz
 rdns-a.adtech-it.com
 rdns.faelix.net
@@ -3180,7 +3179,6 @@ saikoudns.tk
 sakuraknight2023.top
 sams.adg.siudzinski.net
 sandbox.opendns.com
-sannidhya.duckdns.org
 saoudiproxy.info
 saruman.freeddns.org
 sb.nanhang.xyz
