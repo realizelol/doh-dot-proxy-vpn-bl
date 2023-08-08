@@ -483,13 +483,10 @@ area51.mywire.org
 arespctw.tk
 argon.molinero.dev
 arkadia100.pl
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
 asdfcomparator.tk
-asia-east2-pfrmxgnk.cloudfunctions.net
 asia.dnscepat.id
 astrill.com
 at-wie-w-2.nashkan.net
@@ -512,7 +509,6 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
-auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -524,6 +520,7 @@ awebproxy.com
 aws.haoxuan.xyz
 aws.razor1911.xyz
 awsdns.vpnrf.com
+ax.ns1net.com
 axaxa.fun
 axell24.ml
 az2q.xyz
@@ -747,7 +744,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -758,6 +754,7 @@ d.x2jz.cn
 d2.nextcloudend.info
 d2.shabi.icu
 d2bphvjyj895l0.cloudfront.net
+d2xld93cz5fuvp.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 dac-one.nayemador.com
@@ -774,7 +771,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1343,6 +1339,7 @@ dns.oc0.co
 dns.oceanprint.com.br
 dns.ocedric.net
 dns.octoworld.fr
+dns.odomail.com
 dns.ofdoom.net
 dns.oguska.com
 dns.oii.im
@@ -1633,6 +1630,7 @@ dns2.newapi.host
 dns2.nextcloudend.info
 dns2.nextdns.io
 dns2.niub.one
+dns2.patrickbianchi.com
 dns2.porteii.com
 dns2.quickline.ch
 dns2.rhscz.eu
@@ -1989,7 +1987,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 dus.ysbs.uk
 duyyen.cf
@@ -2029,7 +2026,6 @@ eropa.dnscepat.id
 es-mad-w-2.nashkan.net
 esel.stusta.mhn.de
 essentiallyjay.com
-eth.link
 ethernet.mxx.giize.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
@@ -2091,6 +2087,7 @@ firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
 fishproxy.com
+fishtail-pkr-dns.dhengaanil.com.np
 fixproxy.com
 fk4mil.pl
 flowvpn.com
@@ -2121,6 +2118,7 @@ freedns.controld.com
 freedom.cx
 freedom.mydns.network
 freeeuroproxy.com
+freekdz.ddns.net
 freeopenproxy.com
 freeproxy.asia
 freeproxy.me
@@ -2156,6 +2154,7 @@ fwgw.orangepipc.mywire.org
 gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
+gambling-goat.khaosadv.com
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2467,8 +2466,6 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2504,6 +2501,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2625,7 +2623,6 @@ mimir.netwerk.io
 minilla.store
 miniprox.com
 miniprox.info
-mitron.one
 mkrepair.ddns.net
 mo0on15.com
 moaz-adguard.duckdns.org
@@ -3136,6 +3133,7 @@ rilaic-multi.daonidc.com
 rin.sh
 riverboat6228.ddns.net
 rjmva.com
+rlobato.duckdns.org
 rml.mobi
 ro-buc-w-1.nashkan.net
 ro-buc-w-2.nashkan.net
@@ -3179,8 +3177,10 @@ saikoudns.tk
 sakuraknight2023.top
 sams.adg.siudzinski.net
 sandbox.opendns.com
+sannidhya.duckdns.org
 saoudiproxy.info
 saruman.freeddns.org
+saya.rnrkurir.com
 sb.nanhang.xyz
 sbdns.co.in
 sby-doh.limotelu.org
@@ -3228,6 +3228,7 @@ server03.dr-adguard.de
 server1.greendns.green1052.com
 server3.boldteam.ir
 serverfriend.altervista.org
+serveur-yan.synology.me
 services.akierry.io
 setupvpn.com
 sexybody.myqnapcloud.com
@@ -3297,6 +3298,7 @@ soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
 solution.w10.life
+soncms.id.vn
 soncms.me
 spacedns.org
 spacevpn.io
@@ -3333,7 +3335,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3357,7 +3358,6 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3436,6 +3436,7 @@ torproject.org
 torrents.racinas.com
 torresdelarosa.dev
 touchvpn.net
+towman.ddns.net
 tr-ist-w-1.nashkan.net
 tr-izm-w-1.nashkan.net
 travelvpn.info
@@ -3606,7 +3607,6 @@ v2raye.com
 v3.passby.eu.org
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
