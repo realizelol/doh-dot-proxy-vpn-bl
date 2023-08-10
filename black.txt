@@ -662,7 +662,6 @@ cg‑dialup.net
 ch-zur-w-1.nashkan.net
 ch01adguardho.me
 chandr1000.net
-chanhome.xyz
 chaos-system.de
 chaos.altendorfme.com
 cheema.com.pk
@@ -1241,6 +1240,7 @@ dns.kriswerry.nl
 dns.krol.cloud
 dns.kumar-abhishek.me
 dns.kutovoy.dev
+dns.l.ovpn.bond
 dns.l2h8.cn
 dns.l337.site
 dns.labar.re
@@ -2746,7 +2746,6 @@ novikovfamily.info
 nrt.core.access.zznet.fun
 nrt.public.gfwdns.net
 nrusimha.crabdance.com
-ns.0.l.ovpn.bond
 ns.00dani.me
 ns.ciwer.cn
 ns.dnslify.com
@@ -3693,7 +3692,7 @@ vpnonelove.ru
 vpnoverview.com
 vpnunlimited.com
 vpnunlimitedapp.com
-vps-77f564f3.vps.ovh.us
+vps-33e5a7f3.vps.ovh.us
 vps.alloxr.info
 vps.avc.cx
 vps.fleuryk.ovh
