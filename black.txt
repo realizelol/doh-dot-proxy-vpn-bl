@@ -17,6 +17,7 @@
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -56,7 +57,6 @@
 501w.net
 53.slepov.dev
 6692.giize.com
-77980.bodis.com
 878223.parkingcrew.net
 8888.google
 94169.ip-ns.net
@@ -483,6 +483,8 @@ area51.mywire.org
 arespctw.tk
 argon.molinero.dev
 arkadia100.pl
+arm2.nzcow.com
+arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -509,6 +511,7 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
+auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -713,6 +716,7 @@ comss.one
 comss.ru
 connect.edmoon.co.uk
 connect.fcpsunleashed.org
+connect.moonficonnect.com
 contacts.dehb.ru
 controld.com
 cossxiu.ga
@@ -743,6 +747,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -769,6 +774,7 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
+dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1369,6 +1375,7 @@ dns.perzarys.eu
 dns.phucbui.top
 dns.phuctran.cloud
 dns.pieterdherde.com
+dns.pietjacobs.be
 dns.pldweb.net
 dns.porteii.com
 dns.pragmasec.nl
@@ -1992,6 +1999,7 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
+dumbledore.steinr.eu
 dupatruwi22.fun
 dus.ysbs.uk
 duyyen.cf
@@ -2472,6 +2480,8 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
+kent6.ajaest.net
+kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2629,6 +2639,7 @@ mimir.netwerk.io
 minilla.store
 miniprox.com
 miniprox.info
+mitron.one
 mkrepair.ddns.net
 mo0on15.com
 moaz-adguard.duckdns.org
@@ -2923,6 +2934,7 @@ phucbui.top
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3344,6 +3356,7 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
+strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3367,6 +3380,7 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
+swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
