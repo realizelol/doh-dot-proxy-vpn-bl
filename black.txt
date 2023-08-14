@@ -1,4 +1,3 @@
-.sslip.io
 003.tisyang.com
 0099domain.ecuplshsj.cn
 012proxy.ga
@@ -17,6 +16,7 @@
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -46,6 +46,7 @@
 2ub.top
 2wired.hopto.org
 3.11i.eu
+317252.xyz
 360.233py.com
 360dns.pub
 3krkr.tonedtanya.com
@@ -144,6 +145,7 @@ adgdns.duckdns.org
 adgh.catfluori.de
 adgh.laufan.cn
 adgh.skyview.click
+adghome.joeszef.com
 adghome.joseph.com.ph
 adghs.de
 adguard-aws.charraud.eu
@@ -213,6 +215,7 @@ adguard.gbrossi.com.br
 adguard.gouasmi.site
 adguard.grantbruneau.com
 adguard.green1052.com
+adguard.hack3r.de
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.infrapod.nl
@@ -241,6 +244,7 @@ adguard.lege.despagne.net
 adguard.lilis.xin
 adguard.lspcr.space
 adguard.mapor.co
+adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.meddy94.de
 adguard.metahost.co.za
@@ -942,6 +946,7 @@ dns.alvosec.com
 dns.ambiya.net
 dns.amigo-mgn.ru
 dns.amxd.de
+dns.analyticshopsystemblock.top
 dns.andrewnw.xyz
 dns.andreykiv.com
 dns.anonymous.pw
@@ -1009,6 +1014,7 @@ dns.ceai.com.tw
 dns.cearhome.top
 dns.cfiec.net
 dns.chadeyron.fr
+dns.chaosen3.co.uk
 dns.chenu.ch
 dns.chinh.tk
 dns.chriscsc.me
@@ -1188,6 +1194,7 @@ dns.inf.nu
 dns.inforlogia.com
 dns.infosec.xyz
 dns.insec.link
+dns.internal.espresso-tasse.de
 dns.internal.hosmatic.com
 dns.invisv.com
 dns.ipegg.top
@@ -1319,6 +1326,7 @@ dns.mzrme.cn
 dns.n23.io
 dns.narl.app
 dns.nas-server.ru
+dns.nashi.us.to
 dns.nayemador.com
 dns.ndo.dev
 dns.netrope.com
@@ -1332,6 +1340,7 @@ dns.nhtsky.com
 dns.nieto.app
 dns.nietostuff.com
 dns.nikolagjorgjijoski.com
+dns.ningkelle.id
 dns.nixnet.xyz
 dns.njal.la
 dns.nnet.services
@@ -1406,6 +1415,7 @@ dns.rafn.is
 dns.rasks.ru
 dns.rasp.tv
 dns.rassadnikov.ru
+dns.rayanbab.com
 dns.reckoningslug.name
 dns.redroot.me
 dns.req1.fr
@@ -1469,6 +1479,7 @@ dns.surenic.net
 dns.surfshark.com
 dns.surobe.com
 dns.swehosting.se
+dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
@@ -1485,7 +1496,7 @@ dns.therifleman.name
 dns.thierryserver.nl
 dns.thore.cloud
 dns.timboeh.me
-dns.timochan.cn
+dns.timvo.net
 dns.tipsy.coffee
 dns.tkhome.nl
 dns.tls-data.de
@@ -1852,6 +1863,7 @@ doh.mcasviper.de
 doh.micronets.in
 doh.mmmalia.com
 doh.moeyk.com
+doh.morizt.id
 doh.mullvad.net
 doh.nala.ru
 doh.neowutran.ovh
@@ -1952,7 +1964,6 @@ dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
 dot.es.ahadns.net
 dot.ffmuc.net
-dot.futa.gg
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.la.ahadns.net
@@ -2029,6 +2040,7 @@ elc.meudns.minhacasainteligente.cf
 elez-wq.github.io
 eliatofani.ovh
 elshad-adgh-dns.ru
+emby.rasp.tv
 emmmmm.me
 emozee.cf
 encrypt.me
@@ -2179,7 +2191,6 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
-gateway.baltes.info
 gateway.fomichev.cloud
 gateway.mcebox.com
 gb-bir-w-1.nashkan.net
@@ -2187,6 +2198,7 @@ gb-cov-w-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
+gc.nocfmc.cc
 gclouddns.com
 gcp.tacomafia.net
 gcplog.seggs.cn
@@ -2355,6 +2367,7 @@ htgg.cloud
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+huaweicloud-dns.itbbs.org
 hubertdns.com
 hubsora.eastasia.cloudapp.azure.com
 hyperbyte.net
@@ -2423,6 +2436,7 @@ ivpn.net
 jabber-germany.de
 jabber-server.de
 jackyes.ovh
+james-solomon.com
 jarjar.meganerd.nl
 jatadguardhome.duckdns.org
 jaye.sh
@@ -3214,6 +3228,7 @@ se-sto-w-1.nashkan.net
 seanyan.ddns.net
 seaofbits.com
 sec-tunnel.com
+secforads3.ch
 secondary-dns.victorhachard.fr
 secretproxy.org
 secure-4ud.de
@@ -3295,7 +3310,6 @@ singapore.fuckll.com
 singaporeproxy.nu
 sink.nolo.ltd
 sip.amigo-mgn.ru
-sips.my.id
 sitdns.com
 site-1.duckdns.org
 site-2.duckdns.org
@@ -3628,7 +3642,6 @@ v2raye.com
 v3.passby.eu.org
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
@@ -3717,6 +3730,7 @@ vps.vokuev.org
 vps1.jnraptor.net
 vps2.jnraptor.net
 vps4.scho.io
+vpschito.duckdns.org
 vpservice.cf
 vpsus3.pzhg.me
 vsrv15195.customer.xenway.de
@@ -3773,6 +3787,7 @@ www.91557.cn
 www.acomit.lk
 www.adguard-server.cf
 www.adguard.chriskutschker.de
+www.adguard.marto.si
 www.agafon.site
 www.agafon.space
 www.aizi.app
@@ -3837,12 +3852,15 @@ www.mxcc.top
 www.myadguardhome.me
 www.nilanjan.rocks
 www.nocfmc.cc
+www.olivier-raspberrypi.changeip.org
 www.ovpn.bond
 www.paskam.tk
+www.pi1plus.duckdns.org
 www.promsdns.com
 www.pukanuragan.ru
 www.qwenty.ru
 www.radiac.xyz
+www.secforads3.ch
 www.sergeykobzar.com.ua
 www.sitdns.com
 www.skillzdns.ru
