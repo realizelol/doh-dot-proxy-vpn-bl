@@ -89,6 +89,7 @@ ad.lsal.fr
 ad.miaouu.top
 ad.milys.pl
 ad.nods.in
+ad.orvvkoi.date
 ad.systemfall.ru
 ad.timefine.org
 ad.ttdd.one
@@ -212,6 +213,7 @@ adguard.frece.de
 adguard.fresh-waffles.online
 adguard.gambini.org
 adguard.gbrossi.com.br
+adguard.gewete.cloud
 adguard.gouasmi.site
 adguard.grantbruneau.com
 adguard.green1052.com
@@ -850,6 +852,7 @@ dn5.talesam.org
 dns-01.hir.app
 dns-1.lostvpn.ru
 dns-2.lostvpn.ru
+dns-2.trust2it.ch
 dns-adguard.cloudnx.cloud
 dns-adguard.ru
 dns-ams.pdf-docs.ru
@@ -1141,6 +1144,7 @@ dns.ghexu.com
 dns.ghost.pm
 dns.gi.co.id
 dns.ginovs.nl
+dns.giorgiooppo.it
 dns.glorydns.com
 dns.gnb09.id
 dns.gochance.link
@@ -2077,6 +2081,7 @@ family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.cloudflaredns.com
+family.dns.ningkelle.id
 family.dns.vladpro.ru
 family.freedns.controld.com
 family.ns.dnslify.com
@@ -2191,6 +2196,7 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
+gateway.baltes.info
 gateway.fomichev.cloud
 gateway.mcebox.com
 gb-bir-w-1.nashkan.net
@@ -2328,6 +2334,7 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
+home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.fc.idv.tw
@@ -2521,6 +2528,7 @@ kozak.ujwie.co
 kproxy.com
 kproxysite.com
 kr-sel.doh.sb
+kr-x64-2.lov.host
 kr.loukky.com
 kr.pigs.eu.org
 kr.telex.app
@@ -2646,6 +2654,7 @@ melbicom-server.site
 metproxy.com
 meudns.minhacasainteligente.cf
 mg.zbr2464.buzz
+mia.dns4sec.com
 michiganska.com
 mikatos.de
 mikewaddick.com
@@ -2779,7 +2788,9 @@ ns.dnslify.com
 ns.dnsviewer.org
 ns.hjk.kr
 ns.hjk.me
+ns.lov.host
 ns.mtsoln.com
+ns.postoverall.xyz
 ns.ral9005.org
 ns.slynx.net
 ns.solutics.ec
@@ -2933,9 +2944,11 @@ pc.dns.adguard.beltoev.ru
 pccoach.ddns.net
 pcd96.duckdns.org
 pcgo.fun
+pcjco.ovh
 pcornet.freeboxos.fr
 pdns.faelix.net
 pdns.fatlab.llc
+pdns.itxe.net
 pedo.sektehalodavid.click
 per.adfilter.net
 percival.empty.pw
@@ -3310,6 +3323,7 @@ singapore.fuckll.com
 singaporeproxy.nu
 sink.nolo.ltd
 sip.amigo-mgn.ru
+sips.my.id
 sitdns.com
 site-1.duckdns.org
 site-2.duckdns.org
@@ -3666,6 +3680,7 @@ virtualshield.com
 visitoid.online
 vlad.dns.amigo-mgn.ru
 vlad.dns.vladpro.ru
+vlad1.cryptoguard.su
 vladpro.ru
 vload.net
 vm.mytm.cc
@@ -3855,6 +3870,7 @@ www.nocfmc.cc
 www.olivier-raspberrypi.changeip.org
 www.ovpn.bond
 www.paskam.tk
+www.pcjco.ovh
 www.pi1plus.duckdns.org
 www.promsdns.com
 www.pukanuragan.ru
