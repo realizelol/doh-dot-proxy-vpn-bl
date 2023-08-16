@@ -152,6 +152,7 @@ adghs.de
 adguard-aws.charraud.eu
 adguard-aws.gdmn.dev
 adguard-dns.com
+adguard-dns.eu.org
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-home.myddns.me
@@ -196,6 +197,7 @@ adguard.demaks.org
 adguard.depieri.net
 adguard.derminecrafter2020.de
 adguard.dessoi.cloud
+adguard.digitalsewer.com
 adguard.discounthost.co.uk
 adguard.djay.tk
 adguard.dsns.cloud
@@ -417,6 +419,7 @@ agh.printk.info
 agh.xinfeng16m.top
 agh2.server.my.id
 agh3.server.my.id
+aghvm1.mastomi.id
 agp01.tek411.com
 agp02.tek411.com
 ahadns.net
@@ -431,6 +434,7 @@ akaboom.ru
 akhil.ddns.net
 akhilkalwakurthy.dyndns.org
 akr177.com
+akylah.zapto.org
 alexpollard.synology.me
 alihk-dns.itbbs.org
 alisa.dns.amigo-mgn.ru
@@ -586,6 +590,7 @@ block.buck.ovh
 block.freegod.ml
 blocka.net
 blockemall.xyz
+blocker.thethorsens.org
 blockerads.multimediaconcept.fr
 blockless.com
 blog.kimiblock.top
@@ -656,6 +661,7 @@ cattery.noddos.top
 cattery2.eastasia.cloudapp.azure.com
 cattery2.noddos.top
 cc.3eto.com
+cc.somimobile.com
 cc2.v8er.net
 ccadguard.ddns.net
 ccyykk.top
@@ -2607,6 +2613,7 @@ lux1.nixnet.xyz
 lv-rig-w-1.nashkan.net
 lv-rig-w-2.nashkan.net
 lv1.nixnet.xyz
+lwhjszcnzjhz.site
 maddino.dedyn.io
 maddw.com
 madrid.ciscofreak.com
@@ -3412,6 +3419,7 @@ swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
 syd.core.access.zznet.fun
+syd1.norgannetworks.net.au
 sync-danielius.racinas.com
 sync-moisejus.racinas.com
 sync-sigita.racinas.com
@@ -3625,6 +3633,7 @@ us1.blissdns.net
 us1.dns.lavate.ch
 us1.intellsystemworld.xyz
 usafastproxy.info
+usc-vm1-gcp-tomiashari15.mastomi.id
 usdedi.ecapsul.com
 use-application-dns.net
 user1.dns.adguard.beltoev.ru
@@ -3912,6 +3921,7 @@ xitesite.com
 xkariak.asuscomm.com
 xm.ln7371.top
 xn--80aecoigf4aatn.xn--p1ai
+xorbiadns.com
 xray.krnl.eu
 xthwo.duckdns.org
 xvpn.io
