@@ -15,7 +15,9 @@
 123unblock.monster
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
+1438109-cc23219.tw1.ru
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
+180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
@@ -255,6 +257,7 @@ adguard.mitar.ovh
 adguard.mjanson.de
 adguard.mjthemelancholy.xyz
 adguard.mokocup.cf
+adguard.mokocup.dev
 adguard.mrmartian.co
 adguard.mulu.at
 adguard.myddns.me
@@ -495,8 +498,6 @@ area51.mywire.org
 arespctw.tk
 argon.molinero.dev
 arkadia100.pl
-arm2.nzcow.com
-arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -523,7 +524,6 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
-auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -543,6 +543,7 @@ azagramac.duckdns.org
 azbs.ddmm.eu.org
 azirevpn.com
 azure.cloudflare-dns.com
+b-ipv4.bhadrikais.my.id
 b.family.ns.dnslify.com
 b.jtt.ink
 b.ns.dnslify.com
@@ -591,6 +592,7 @@ block.abstergo.it
 block.buck.ovh
 block.freegod.ml
 blocka.net
+blockdns.tty6335.com
 blockemall.xyz
 blocker.thethorsens.org
 blockerads.multimediaconcept.fr
@@ -761,7 +763,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -788,7 +789,6 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
-dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -1318,6 +1318,7 @@ dns.minliny.com
 dns.mipauns.com
 dns.mirandil.ru
 dns.misland.net
+dns.mocn.top
 dns.moesite.top
 dns.mokyun.cn
 dns.molinero.dev
@@ -1602,6 +1603,7 @@ dns01.almir1904.eu
 dns01.flm9.net
 dns01.woosahdigitalhosted.com
 dns02.almir1904.eu
+dns02.oceanprint.com.br
 dns03.almir1904.eu
 dns1-secure.wifire.it
 dns1.a-desg.cc
@@ -1806,6 +1808,7 @@ doh.asia.dnswarden.com
 doh.au.ahadns.net
 doh.beauty
 doh.best
+doh.bhadrikais.my.id
 doh.blahdns.com
 doh.blockerdns.com
 doh.boje8.me
@@ -2027,7 +2030,6 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
-dumbledore.steinr.eu
 dupatruwi22.fun
 dus.ysbs.uk
 duyyen.cf
@@ -2040,7 +2042,6 @@ dyn-ip.borjalopez.eu
 dzhot.us
 ea-dns.rubyfish.cn
 eaereaper.ru
-eajtech.com
 earthvpn.com
 easyhandshake.com
 ec2-52-12-183-214.us-west-2.compute.amazonaws.com
@@ -2057,6 +2058,7 @@ elez-wq.github.io
 eliatofani.ovh
 elshad-adgh-dns.ru
 emby.rasp.tv
+embyserver.eu.org
 emmmmm.me
 emozee.cf
 encrypt.me
@@ -2208,7 +2210,6 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
-gateway.baltes.info
 gateway.fomichev.cloud
 gateway.mcebox.com
 gb-bir-w-1.nashkan.net
@@ -2488,6 +2489,7 @@ jp2.101818.xyz
 jp2.ooroot.com
 jp3.meidouling.com
 jpdns.cola16.app
+jpginformatica.com
 jpok.996333.xyz
 jpsb.wooy.cool
 jujuba.cafuringa.org
@@ -2517,8 +2519,6 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
-kent6.ajaest.net
-kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2948,7 +2948,6 @@ pacificrack.rczcm.com
 pad3w.pp.ua
 padermail.net
 paimon.sev.monster
-pair02-02.ihatemy.live
 palazzoddns.tk
 pandashield.com
 parrotsec.org
@@ -3293,6 +3292,7 @@ server03.dr-adguard.de
 server1.greendns.green1052.com
 server3.boldteam.ir
 serverfriend.altervista.org
+serverrmha1.ddnsku.my.id
 serveur-yan.synology.me
 service.c698fc0a.cfd
 services.akierry.io
@@ -3401,7 +3401,6 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
-strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3425,7 +3424,6 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 sweethome.in.eu.org
 switch.ch
-swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3754,6 +3752,7 @@ vpnme.me
 vpnmentor.com
 vpnonelove.ru
 vpnoverview.com
+vpnto.bhadrikais.my.id
 vpnunlimited.com
 vpnunlimitedapp.com
 vps-33e5a7f3.vps.ovh.us
@@ -3787,6 +3786,7 @@ wdns.233py.com
 web-rated.ie
 web.pasi.cat
 webdock.ccp.giize.com
+webmail.jpginformatica.com
 webmeel.pragmasec.nl
 weboproxy.com
 webproxy.best
@@ -3870,6 +3870,7 @@ www.incaseineeditoneday.com
 www.interestingly.eu.org
 www.ivanromanov.ru
 www.jabber-germany.de
+www.jpginformatica.com
 www.khsan.com
 www.kintyre.uk
 www.kn10.top
