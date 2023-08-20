@@ -21,6 +21,7 @@
 1a.ns.ozer.im
 1and1-dns.de
 1b.ns.ozer.im
+1dns.dev
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
 1freeproxy.pw
@@ -113,6 +114,7 @@ adblock.dns.dnswarden.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.junacell.my.id
+adblock.leenit.kr
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.mydns.network
@@ -217,6 +219,7 @@ adguard.fresh-waffles.online
 adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.gewete.cloud
+adguard.glbd.fr
 adguard.gouasmi.site
 adguard.grantbruneau.com
 adguard.green1052.com
@@ -399,6 +402,7 @@ ae-fuj-w-3.nashkan.net
 ae-fuj-w-4.nashkan.net
 ag-dns-01.cloud.judsen.io
 ag.apollohct.com
+ag.brianlee.fun
 ag.crowsnest.id
 ag.felixf.eu
 ag.ff0x.ca
@@ -1427,6 +1431,7 @@ dns.radityaharya.com
 dns.radityaharya.me
 dns.rafal.top
 dns.rafn.is
+dns.ramansarda.com
 dns.rasks.ru
 dns.rasp.tv
 dns.rassadnikov.ru
@@ -1449,6 +1454,7 @@ dns.rrinformatica.it
 dns.rsnetwork.be
 dns.rtin.fyi
 dns.rubyfish.cn
+dns.s3cure.us
 dns.sac.rebl.eu.org
 dns.safeith.com
 dns.sakuraseasons.com
@@ -1460,6 +1466,7 @@ dns.scapetical.com
 dns.schlagheck.berlin
 dns.schwaab.me
 dns.seby.io
+dns.seekfor.top
 dns.sellan.fr
 dns.sev.monster
 dns.sg.nayemador.com
@@ -2210,6 +2217,7 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
+gateway.baltes.info
 gateway.fomichev.cloud
 gateway.mcebox.com
 gb-bir-w-1.nashkan.net
@@ -2219,7 +2227,6 @@ gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
 gc.nocfmc.cc
 gclouddns.com
-gcp.tacomafia.net
 gcplog.seggs.cn
 ge.libaced.one
 geckovpn.xyz
@@ -2865,6 +2872,7 @@ nzitdog.onthewifi.com
 o--o.duckdns.org
 o.rsaikat.com
 o1.lt
+oci.tacomafia.net
 ociamd1.fatucloud.gosprout.org
 ocl.smaccs.site
 ocp.cincloud.top
@@ -3356,6 +3364,7 @@ skww726.cf
 sky.rethinkdns.com
 skyline.vvvvvei.win
 slambenchmarking.buzz
+slb.japaneast.cloudapp.azure.com
 sm5q237c0.g666gle.me
 smartdnsproxy.com
 smtp.greppie.nl
@@ -3366,6 +3375,7 @@ soeding.ddnss.de
 solution.w10.life
 soncms.id.vn
 soncms.me
+sorannbb.buzz
 spacedns.org
 spacevpn.io
 spanproxy.com
@@ -3662,6 +3672,7 @@ v.dnscrypt.uk
 v.itsa.cc
 v.or2o.ml
 v.yuhui.tk
+v.yuwentian.com
 v1461642.hosted-by-vdsina.ru
 v1550018.hosted-by-vdsina.ru
 v1552270.hosted-by-vdsina.ru
@@ -3674,7 +3685,6 @@ v2raye.com
 v3.passby.eu.org
 v3.passby.ga
 v6.rubyfish.cn
-vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
 valleverde.icu
@@ -3985,6 +3995,7 @@ zenmate.com
 zephyrus.id
 zero.dns0.eu
 zetland.rm-ni.uk
+zh.sorannbb.buzz
 zoogvpn.com
 zorrovpn.io
 zougloub.eu
