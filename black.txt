@@ -2224,6 +2224,7 @@ garage.jjlizz.com
 garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
+gateway.baltes.info
 gateway.fomichev.cloud
 gateway.mcebox.com
 gb-bir-w-1.nashkan.net
@@ -2360,7 +2361,6 @@ home.501w.net
 home.basthorst.eu
 home.bitteeinbyte.de
 home.bruckmoser.it
-home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
 home.fc.idv.tw
@@ -2481,7 +2481,6 @@ jenanga.ipv64.net
 jit.ddns.net
 jjm.asia
 jkdsm.com
-joannalee.asuscomm.com
 jonasdevries.de
 jonesboyz.duckdns.org
 joy096speed.pp.ua
