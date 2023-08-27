@@ -510,6 +510,7 @@ as17820865.click
 asbordns.ddns.net
 asdfcomparator.tk
 asia.dnscepat.id
+astra.ender.fr
 astrill.com
 at-wie-w-2.nashkan.net
 at.pzhg.me
@@ -2383,7 +2384,6 @@ home.pragmasec.nl
 home.psociety.de
 home.qbak.net
 home.quentin-stoeckel.fr
-home.rassadnikov.ru
 home.snow-sugar.net
 home.tuankhaiit.com
 home.wriedts.de
@@ -3140,7 +3140,6 @@ pt-lis-w-1.nashkan.net
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
-publique.gouasmi.site
 pukanuragan.ru
 punono.duckdns.org
 puredns.org
@@ -3353,7 +3352,6 @@ sh.telex.app
 sh.totoro.pub
 shaa.line.pm
 shalenkov.dev
-shard.ender.fr
 shield.afixer.app
 shieldsup.spearing.net
 shiestyro.world
