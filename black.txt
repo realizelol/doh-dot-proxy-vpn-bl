@@ -1416,7 +1416,6 @@ dns.perzarys.eu
 dns.phucbui.top
 dns.phuctran.cloud
 dns.pieterdherde.com
-dns.pietjacobs.be
 dns.pldweb.net
 dns.porteii.com
 dns.pragmasec.nl
@@ -2580,7 +2579,6 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -3140,6 +3138,7 @@ pt-lis-w-1.nashkan.net
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
+publique.gouasmi.site
 pukanuragan.ru
 punono.duckdns.org
 puredns.org
