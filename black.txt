@@ -101,6 +101,7 @@ ad.wiqi.app
 ad1.heronet.nl
 ad1guard.duckdns.org
 ad2.heronet.nl
+ada.openbld.net
 adampowell.pro
 adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
@@ -226,6 +227,7 @@ adguard.green1052.com
 adguard.hack3r.de
 adguard.haneulo.com
 adguard.ihatemy.live
+adguard.imru.aquadev.io
 adguard.infrapod.nl
 adguard.io
 adguard.ithernit.com
@@ -1248,7 +1250,6 @@ dns.juancamos.com
 dns.jucker.engineering
 dns.jungle-im.ir
 dns.junhengyun.com
-dns.jupitr.cc
 dns.jupitrdns.com
 dns.jupitrdns.net
 dns.just-hosting.net
@@ -1366,6 +1367,7 @@ dns.nextdns.io
 dns.ngc7331.top
 dns.nguyendn.com
 dns.nhtsky.com
+dns.nicolas.vip
 dns.nieto.app
 dns.nietostuff.com
 dns.nikolagjorgjijoski.com
@@ -1416,6 +1418,7 @@ dns.perzarys.eu
 dns.phucbui.top
 dns.phuctran.cloud
 dns.pieterdherde.com
+dns.pietjacobs.be
 dns.pldweb.net
 dns.porteii.com
 dns.pragmasec.nl
@@ -3217,6 +3220,7 @@ rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.censurfridns.nu
 rgnet-iad.anycast.uncensoreddns.dk
 rgnet-iad.anycast.uncensoreddns.org
+ric.openbld.net
 ricko.is
 rilaic-multi.daonidc.com
 rin.sh
@@ -3996,6 +4000,7 @@ yrc.synology.me
 ys.cloud-sekeng.com
 ytpom.tk
 yuhui.tk
+yumenashyi.tpddns.cn
 yunyun.is.my.waifu.cz
 yuripe.ccnt.fr
 yvanliang.tech
