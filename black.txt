@@ -443,6 +443,7 @@ akhil.ddns.net
 akhilkalwakurthy.dyndns.org
 akr177.com
 akylah.zapto.org
+aleafy.ddns.net
 alexpollard.synology.me
 alihk-dns.itbbs.org
 alisa.dns.amigo-mgn.ru
@@ -2370,7 +2371,6 @@ hole.elbschloss.xyz
 home-bitteeinbyte.ddns.net
 home.501w.net
 home.basthorst.eu
-home.bitteeinbyte.de
 home.bruckmoser.it
 home.ddns.network
 home.dlinkddns.com
@@ -2582,6 +2582,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -4000,7 +4001,6 @@ yrc.synology.me
 ys.cloud-sekeng.com
 ytpom.tk
 yuhui.tk
-yumenashyi.tpddns.cn
 yunyun.is.my.waifu.cz
 yuripe.ccnt.fr
 yvanliang.tech
