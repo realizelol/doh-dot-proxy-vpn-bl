@@ -2368,7 +2368,6 @@ ho.hostme.co.il
 hoarfox.us
 hola.org
 hole.elbschloss.xyz
-home-bitteeinbyte.ddns.net
 home.501w.net
 home.basthorst.eu
 home.bruckmoser.it
@@ -2582,7 +2581,6 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
-ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -3005,7 +3003,6 @@ phucbui.top
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
