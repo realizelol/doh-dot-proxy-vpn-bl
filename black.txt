@@ -99,6 +99,7 @@ ad.wiqi.app
 ad1.heronet.nl
 ad1guard.duckdns.org
 ad2.heronet.nl
+ad4msan.win
 ada.openbld.net
 adampowell.pro
 adb-home.xaoimoon.fr
@@ -446,6 +447,7 @@ alexpollard.synology.me
 alihk-dns.itbbs.org
 alisa.dns.amigo-mgn.ru
 alisa.fb.i81.ru
+alisa.vd.i81.ru
 alisa.vpn.i81.ru
 all.dns.mullvad.net
 allunblocked.com
@@ -456,6 +458,7 @@ altvpn.ppm.mrhost.biz
 amd1.sjp.loukky.com
 americaproxy.info
 amgr.ddns.net
+amigo.vd.i81.ru
 amigo.vpn.i81.ru
 amz.long-nguyen.info
 an.kanahanazawa.com
@@ -504,6 +507,8 @@ area51.mywire.org
 arespctw.tk
 argon.molinero.dev
 arkadia100.pl
+arm2.nzcow.com
+arm3.nzcow.com
 armorrush.eu.org
 as17820865.click
 asbordns.ddns.net
@@ -531,6 +536,7 @@ au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
 aurora.dns.aq.lu
+auth.phclinz.de
 auto-cn-hk-8000.go-behind.one
 autodiscover.elshad-adgh-dns.ru
 autodiscover.promsdns.com
@@ -770,6 +776,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -796,6 +803,7 @@ darya.persiannit.net
 daswieddodeushtuhaw.xyz
 davidcampos.duckdns.org
 davidzeh.eu.org
+dawnings.cn
 dbbs.dns.databyte-network.com
 dclab.live
 ddd.loukky.com
@@ -899,6 +907,7 @@ dns-primary.giaan.org
 dns-privacy.puregeni.us
 dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com
 dns-public.ibakerserver.pt
+dns-res-lux.jupitrdns.com
 dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com
 dns-secondary.cloudnx.cloud
 dns-secure.wifire.it
@@ -1151,6 +1160,7 @@ dns.flymc.cc
 dns.foximao.cn
 dns.frank-ruan.com
 dns.frankychen.me
+dns.freddys.my.id
 dns.freegod.ml
 dns.freequensi.com
 dns.freyja.pw
@@ -1558,12 +1568,14 @@ dns.us-phoenix-1.oci.oraclecloud.net
 dns.us-phoenix-1.oraclecloud.com
 dns.vaguthu.mv
 dns.vault-101.net
+dns.vd.i81.ru
 dns.vdl.io
 dns.vectorsigma.ru
 dns.venya.tech
 dns.victorhachard.fr
 dns.vietdns.vn
 dns.vinnyp.xyz
+dns.vinnyradev.com
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vk09.ru
@@ -1610,6 +1622,7 @@ dns.zerologdns.com
 dns.zfsystem.tech
 dns.zion.dev
 dns.zkz.cloud
+dns.zrampage.xyz
 dns.zxi7.cn
 dns.zzuhacker.cn
 dns0.eu
@@ -1666,6 +1679,7 @@ dns2.alekberg.net
 dns2.art-nas.pp.ua
 dns2.bai0012.com
 dns2.biryuk.name
+dns2.cantello.media
 dns2.cbio.top
 dns2.developer.li
 dns2.digitalcourage.de
@@ -2046,6 +2060,7 @@ dub.r.rnet.ie
 dubere.home.ro
 ducphuclee.tech
 dukun.de
+dumbledore.steinr.eu
 dupatruwi22.fun
 dus.ysbs.uk
 duyyen.cf
@@ -2058,6 +2073,7 @@ dyn-ip.borjalopez.eu
 dzhot.us
 ea-dns.rubyfish.cn
 eaereaper.ru
+eajtech.com
 earthvpn.com
 easyhandshake.com
 ec2-52-12-183-214.us-west-2.compute.amazonaws.com
@@ -2146,6 +2162,7 @@ filmgardi.ml
 filter.chyperx.cc
 filterbypass.me
 filya.fb.i81.ru
+filya.vd.i81.ru
 finchvpn.com
 findmethedns.info
 firefox.dns.nextdns.io
@@ -2427,6 +2444,7 @@ ie-dub-w-1.nashkan.net
 igor.bw.i81.ru
 igor.dns.amigo-mgn.ru
 igor.fb.i81.ru
+igor.vd.i81.ru
 igor.vpn.i81.ru
 ihctw.synology.me
 iij.jp
@@ -2443,6 +2461,7 @@ inf-wan.vip.meituan.com
 info-hub.de
 ininja.org
 instantunblock.com
+int.hverge.org
 integration.dnsteam.globuscs.info
 interestingly.eu.org
 internal.fcpsunleashed.org
@@ -2521,6 +2540,7 @@ kaandikec.com
 kaans.io
 kaiser.int.eu.org
 kaitain.restena.lu
+kakoito.site
 karimdns.com
 kawaii.moeshop.online
 kawpad.southeastasia.cloudapp.azure.com
@@ -2534,6 +2554,8 @@ kellerbier-home.de
 kendentil.org.uk
 kenit.me
 kennethhuang.com
+kent6.ajaest.net
+kent6.dyn.ajaest.net
 kerio.dns.amigo-mgn.ru
 keymiagar.ir
 khsan.com
@@ -2552,6 +2574,7 @@ korzhov.dev
 kotys.bw.i81.ru
 kotys.dns.amigo-mgn.ru
 kotys.fb.i81.ru
+kotys.vd.i81.ru
 kotys.vpn.i81.ru
 kozak.ujwie.co
 kproxy.com
@@ -2570,6 +2593,7 @@ kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 kronos.plan9dns.com
 krtekvpn.duckdns.org
+ks1.plop.cc
 ksedns.ru
 kswro.web.id
 kudns.kescher.at
@@ -2596,6 +2620,7 @@ lekdijk.online
 lelux.fi
 lemonpiesite.duckdns.org
 lena.fb.i81.ru
+lena.vd.i81.ru
 leo.paulmihaipavel.com
 leochen-dns.ddns.net
 levislondon-proxy.nerdpol.ovh
@@ -2629,6 +2654,7 @@ lqh280.iok.la
 lt-vil-w-2.nashkan.net
 lt-vil-w-3.nashkan.net
 luba.fb.i81.ru
+luba.vd.i81.ru
 luba.vpn.i81.ru
 lux.sn0w.nl
 lux1.nixnet.xyz
@@ -2766,6 +2792,7 @@ nayemador.com
 nd.nimbahanet.xyz
 ndns.233py.com
 neatdns.ustclug.org
+nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
 neo.esbpcs.my.id
@@ -2799,6 +2826,7 @@ no-osl-w-1.nashkan.net
 noads.cloud
 noads.dns.vladpro.ru
 noads.imbuffering.com
+noads.vdl.io
 noadsapp.net
 nocensor.icu
 nocensor.rest
@@ -2900,6 +2928,7 @@ okijara.com
 oko.haneulo.com
 olga.dns.amigo-mgn.ru
 olga.fb.i81.ru
+olga.vd.i81.ru
 olga.vpn.i81.ru
 olivier-adguard.duckdns.org
 one.nafni.one
@@ -2992,7 +3021,6 @@ phucbui.top
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3419,6 +3447,7 @@ steff.sbs
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
+strata.gurupannu.com
 stream.securely.sh
 streltsov.net
 strongvpn.com
@@ -3443,6 +3472,7 @@ sv3.minhduc.pw
 svg33.eu
 sweethome.in.eu.org
 switch.ch
+swoletux.ave.zone
 swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
@@ -3701,8 +3731,10 @@ vanced.ddns.net
 vanced.racinas.com
 varganet.org
 vasya.fb.i81.ru
+vasya.vd.i81.ru
 vault.lisl.ink
 vcdriy.top
+vd.i81.ru
 vdsina.ddns.net
 vectroproxy.com
 veripn.com
@@ -3730,10 +3762,12 @@ vn-hcm-w-1.nashkan.net
 vobas.com
 void-gate.irre.li
 vova.fb.i81.ru
+vova.vd.i81.ru
 vova.vpn.i81.ru
 vovadeti.fb.i81.ru
 vovale.dns.amigo-mgn.ru
 vovale.fb.i81.ru
+vovale.vd.i81.ru
 vpn-byen.dk
 vpn-dns-adsblocker.duckdns.org
 vpn-for-test.ru
@@ -3826,6 +3860,7 @@ wifi.dns.amigo-mgn.ru
 wikipeter.me
 win-d7snj2gu70b.duckdns.org
 win10virtual.fb.i81.ru
+win10virtual.vd.i81.ru
 windscribe.com
 wir.rbs-net.ru
 wlvpn.com
