@@ -2,6 +2,7 @@
 0099domain.ecuplshsj.cn
 012proxy.ga
 01qnpxtzym02adjlrcub03.sergeykobzar.com.ua
+040910.top
 04qnpxtzym05adjlrcub06.sergeykobzar.com.ua
 07qnpxtzym08adjlrcub09.sergeykobzar.com.ua
 1.0rz.space
@@ -10,10 +11,12 @@
 1001.cloudflare-dns.com
 10qnpxtzym11adjlrcub12.sergeykobzar.com.ua
 1111.cloudflare-dns.com
+122.859421.xyz
 123-24.eport.gr
 123unblock.monster
 12vpx.com
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
+15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
 180.0rz.space
 1a.ns.ozer.im
 1and1-dns.de
@@ -54,12 +57,15 @@
 4dscape.net
 4everproxy.com
 501w.net
+52lanlan.com
 53.slepov.dev
 6692.giize.com
 77980.bodis.com
 8888.google
+91557.cn
 94169.ip-ns.net
 99proxy.com
+_214214214.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.jij.kr
@@ -72,6 +78,7 @@ a.sinafreenet.ml
 a.sunday.eu.org
 a.vvvglass.com
 a11.diplo.es
+a5135324.csie.io
 aalqudah.site
 aattwwss.duckdns.org
 abel.waringer-atg.de
@@ -119,6 +126,7 @@ adblock.lv1.dns.nixnet.xyz
 adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adblock.robinlanckman.com
+adblock.weresolve.in
 adblockdns.live
 adc.789910.xyz
 add.nods.in
@@ -237,6 +245,7 @@ adguard.josephyap.me
 adguard.jpjb.net
 adguard.jwhan99.xyz
 adguard.k0rap.com
+adguard.kantinyoyok.xyz
 adguard.kaytek.org
 adguard.kenzohost.de
 adguard.kinnee.net
@@ -281,6 +290,7 @@ adguard.onlyfriends.info
 adguard.ota.moe
 adguard.ouate2phoque.ovh
 adguard.piekacz.pl
+adguard.planckstudio.in
 adguard.plumedns.com
 adguard.polemarch.live
 adguard.pouifamily.fr
@@ -337,6 +347,7 @@ adguard.youshitsune.tech
 adguard.zachitect.com
 adguard01.dns.infrapod.nl
 adguard01.infrapod.nl
+adguard01.root-p.de
 adguard01.wydler.eu
 adguard01.zitronen-server.de
 adguard02.dns.infrapod.nl
@@ -521,6 +532,7 @@ atarikid.com
 atelier.alica.idv.tw
 atl.firestorrrm.com
 atlantic.dyn1.de
+atlas.cllctv.site
 atlasvpn.com
 atomicvps.xyz
 atoproxy.com
@@ -654,6 +666,7 @@ c3.ownvps.ml
 c4.ownvps.ml
 c5.ownvps.ml
 c6.ownvps.ml
+c6.yydsgod.eu.org
 ca-bhs-w-2.nashkan.net
 ca-yyc.doh.sb
 ca-yyz.doh.sb
@@ -661,6 +674,7 @@ ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
 cactusvpn.com
+caifuwu.com
 calendar.dehb.ru
 callies-online.site
 canadaproxy.info
@@ -700,6 +714,7 @@ chewbacca.meganerd.nl
 chibstatic.ru
 chillglobal.com
 chithra.dilli.dev
+chlaebi.info
 chlaebi.synology.me
 chno.xyz
 chriskutschker.de
@@ -775,7 +790,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -1197,6 +1211,7 @@ dns.haoxuan.xyz
 dns.harrache.info
 dns.hee.ink
 dns.herkhof.nl
+dns.hesitance.site
 dns.hinet.net
 dns.hinytz.com
 dns.hitmw.cn
@@ -2164,6 +2179,7 @@ filya.fb.i81.ru
 filya.vd.i81.ru
 finchvpn.com
 findmethedns.info
+firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2449,6 +2465,7 @@ ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
 ilcha.ru
+imdxl.ru
 imdxl.ruimdxl.ru
 in-blr.doh.sb
 in-dns.sanselva.xyz
@@ -2523,6 +2540,7 @@ jp2.101818.xyz
 jp2.ooroot.com
 jp3.meidouling.com
 jpdns.cola16.app
+jpginformatica.com
 jpok.996333.xyz
 jpsb.wooy.cool
 jujuba.cafuringa.org
@@ -2567,6 +2585,7 @@ killads.vpms.xyz
 kintoun.alves.cc
 kintyre.uk
 kiwifunke.duckdns.org
+kn10.top
 knight1.de
 kondrcloud.ru
 korzhov.dev
@@ -2731,6 +2750,7 @@ mozilla.cloudflare-dns.com
 mr-romero.com
 mrunblock.pro
 mrunlock.space
+msfste.site
 msr177.com
 msxnet.ru
 muc-ns01.ibytex.systems
@@ -2829,6 +2849,7 @@ noads.vdl.io
 noadsapp.net
 nocensor.icu
 nocensor.rest
+nocfmc.cc
 node3.b4el.ru
 nongdanthanky.com
 nordvpn.com
@@ -2930,6 +2951,7 @@ olga.fb.i81.ru
 olga.vd.i81.ru
 olga.vpn.i81.ru
 olivier-adguard.duckdns.org
+olivier-raspberrypi.changeip.org
 one.nafni.one
 one.one.one.one
 onevps-dns.pivb.vip
@@ -2979,6 +3001,7 @@ outiejr.8ws.net
 overplay.net
 overwatch.ddns.net
 ovh.panszelescik.pl
+ovpn.bond
 ovpn.com
 owa.elshad-adgh-dns.ru
 owa.promsdns.com
@@ -2995,6 +3018,7 @@ paimon.sev.monster
 palazzoddns.tk
 pandashield.com
 parrotsec.org
+pasi.cat
 paskam.tk
 pass12335.myds.me
 pates.services.sfr.fr.casepp.sfr.fr
@@ -3020,7 +3044,7 @@ phucbui.top
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
-piekacz.pl
+pi1plus.duckdns.org
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3187,6 +3211,7 @@ rabenhain.net
 rachel.jeroenhd.nl
 racinas.com
 radia.bortzmeyer.org
+radiac.xyz
 radmin-vpn.com
 radmin-vpn.org
 rafi.dynns.com
@@ -3455,6 +3480,7 @@ stupidproxy.com
 stuxen.duckdns.org
 suanr.top
 suedeproxy.info
+sufly.top
 sunnygyl.com
 supervpn.best
 surf-for-free.com
@@ -3494,6 +3520,7 @@ tails.boum.org
 tanmoyvpn.ddns.net
 tarni.pp.ua
 tartanbahn.eu.org
+taufner.net
 tbl.meudns.minhacasainteligente.cf
 td-doh.dns.t53.de
 telex.app
@@ -3719,6 +3746,7 @@ v2-1.huwenqiang.xyz
 v2.dionysus.beauty
 v2.xm706v.com
 v2.xx3210766.live
+v2040223.hosted-by-vdsina.ru
 v2raye.com
 v3.passby.eu.org
 v3.passby.ga
@@ -3814,6 +3842,7 @@ vps.avc.cx
 vps.fleuryk.ovh
 vps.grussenmeyer.com
 vps.jmarkin.ru
+vps.skrzypiec.pl
 vps.vokuev.org
 vps1.jnraptor.net
 vps2.jnraptor.net
@@ -3827,6 +3856,7 @@ vvmm.me
 vyprvpn.com
 w0125ca5.kasserver.com
 w5ppr.us
+wabu.ddns.net
 waguns.net
 walker.mynetgear.com
 wallymna.space
@@ -3950,6 +3980,7 @@ www.paskam.tk
 www.pcjco.ovh
 www.pi1plus.duckdns.org
 www.promsdns.com
+www.pssv.top
 www.pukanuragan.ru
 www.qwenty.ru
 www.radiac.xyz
@@ -4020,6 +4051,7 @@ yovbak.com
 yrc.synology.me
 ys.cloud-sekeng.com
 ytpom.tk
+yuanmingming.com
 yuhui.tk
 yunyun.is.my.waifu.cz
 yuripe.ccnt.fr
@@ -4028,6 +4060,7 @@ yxorproxy.com
 yy.80208020.xyz
 yyaan.com
 yyqsite.top
+yzh97rc.xyz
 za-joh-w-2.nashkan.net
 zacebookpk.com
 zak.ath.cx
