@@ -11,7 +11,6 @@
 1001.cloudflare-dns.com
 10qnpxtzym11adjlrcub12.sergeykobzar.com.ua
 1111.cloudflare-dns.com
-122.859421.xyz
 123-24.eport.gr
 123unblock.monster
 12vpx.com
@@ -790,6 +789,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -2179,7 +2179,6 @@ filya.fb.i81.ru
 filya.vd.i81.ru
 finchvpn.com
 findmethedns.info
-firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -3045,6 +3044,7 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3980,7 +3980,6 @@ www.paskam.tk
 www.pcjco.ovh
 www.pi1plus.duckdns.org
 www.promsdns.com
-www.pssv.top
 www.pukanuragan.ru
 www.qwenty.ru
 www.radiac.xyz
