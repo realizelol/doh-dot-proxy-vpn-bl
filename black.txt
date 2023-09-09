@@ -3299,6 +3299,7 @@ s.idsam.com
 s.justlife.fun
 s.salome.my.id
 s1.soft88.click
+s3cure.us
 sa01.dns4me.net
 sabeendns.hopto.org
 safe.kswro.web.id
@@ -3717,6 +3718,7 @@ us02.dns4me.net
 us1.blissdns.net
 us1.dns.lavate.ch
 us1.intellsystemworld.xyz
+us5.wan.hc7z.com
 usafastproxy.info
 usdedi.ecapsul.com
 use-application-dns.net
