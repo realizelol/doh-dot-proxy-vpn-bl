@@ -932,6 +932,7 @@ dns-uk.su4ka.icu
 dns-unfiltered.adguard.com
 dns-weblock.wevpn.com
 dns-yul.bastnet.co
+dns.0.l.ovpn.bond
 dns.010812.xyz
 dns.0ooo.icu
 dns.1.bsh4.com
@@ -1800,6 +1801,7 @@ dnswebvsn.com
 dnsza.com
 dnx.niko-sem.com
 dnx.tttpai.com
+dnx.tttpai.com.w.kunlunaq.com
 do.dnscrypt.uk
 do.shimul.me
 docker-hub.ir
@@ -3299,7 +3301,6 @@ s.idsam.com
 s.justlife.fun
 s.salome.my.id
 s1.soft88.click
-s3cure.us
 sa01.dns4me.net
 sabeendns.hopto.org
 safe.kswro.web.id
@@ -3889,6 +3890,7 @@ whoer.net
 whoisping.com
 whonix.org
 wifi.dns.amigo-mgn.ru
+wikimedia-dns.org
 wikipeter.me
 win-d7snj2gu70b.duckdns.org
 win10virtual.fb.i81.ru
