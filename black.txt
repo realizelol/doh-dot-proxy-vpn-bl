@@ -7,7 +7,6 @@
 1.dns.noridev.moe
 1001.cloudflare-dns.com
 1111.cloudflare-dns.com
-122.859421.xyz
 123-24.eport.gr
 123unblock.monster
 12vpx.com
@@ -2102,7 +2101,6 @@ filter.chyperx.cc
 filterbypass.me
 finchvpn.com
 findmethedns.info
-firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2320,7 +2318,6 @@ home.firefenix.cf
 home.kinopu.com
 home.marcrnt.de
 home.norvrandt.co.uk
-home.phucbui.top
 home.pragmasec.nl
 home.psociety.de
 home.qbak.net
