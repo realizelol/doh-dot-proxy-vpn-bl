@@ -765,6 +765,7 @@ cn.turngreatwall.com
 cname-for-doh.go-behind.one
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
 colean.go.ro
+comingsoon.namebright.com
 commons.host
 comss.one
 comss.ru
@@ -801,6 +802,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -1823,6 +1825,7 @@ dnswebvsn.com
 dnsza.com
 dnx.niko-sem.com
 dnx.tttpai.com
+dnx.tttpai.com.w.kunlunaq.com
 do.dnscrypt.uk
 do.shimul.me
 docker-hub.ir
@@ -3729,7 +3732,6 @@ ur-browser.com
 uradoori.org
 uranus.plonknet.com
 urban-vpn.com
-urlforward.namebright.com
 urology.wiki
 us-atl-w-1.nashkan.net
 us-atl-w-2.nashkan.net
