@@ -703,7 +703,6 @@ cc.somimobile.com
 cc2.v8er.net
 ccadguard.ddns.net
 ccyykk.top
-cdl-lb-1356093980.us-east-1.elb.amazonaws.com
 cdn.0ms.dev
 cdn.implementsfreedom.studio
 cdzopi.duckdns.org
@@ -765,7 +764,6 @@ cn.turngreatwall.com
 cname-for-doh.go-behind.one
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
 colean.go.ro
-comingsoon.namebright.com
 commons.host
 comss.one
 comss.ru
@@ -2046,6 +2044,7 @@ dot.au.ahadns.net
 dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
 dot.cox.net
+dot.dns-ga.de
 dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
@@ -3088,7 +3087,6 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
