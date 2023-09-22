@@ -1645,6 +1645,7 @@ dns.xn--29ab3cg3bhgt.xn--y9a3aq
 dns.xryen.com
 dns.xyzz.live
 dns.yameenassotally.com
+dns.yandex.ru
 dns.ygonline.de
 dns.yingroad.top
 dns.ymv8.cn
@@ -2170,6 +2171,7 @@ family.cloudflare-dns.com
 family.cloudflaredns.com
 family.dns.ningkelle.id
 family.dns.vladpro.ru
+family.dns.yandex.ru
 family.freedns.controld.com
 family.ns.dnslify.com
 family.privdns.org
@@ -3087,6 +3089,7 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3343,6 +3346,7 @@ s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
 sabeendns.hopto.org
+safe.dns.yandex.ru
 safe.ns.dnslify.com
 safeguardianvpn.com
 safervpn.com
@@ -3369,6 +3373,9 @@ seaofbits.com
 sec-tunnel.com
 secforads3.ch
 secondary-dns.victorhachard.fr
+secondary.dns.yandex.ru
+secondary.family.dns.yandex.ru
+secondary.safe.dns.yandex.ru
 secretproxy.org
 secure-4ud.de
 secure-dns.dns-ga.de
