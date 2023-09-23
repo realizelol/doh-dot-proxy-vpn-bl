@@ -79,6 +79,7 @@ a.vvvglass.com
 a11.diplo.es
 a5135324.csie.io
 aalqudah.site
+aang7.com
 aattwwss.duckdns.org
 abel.waringer-atg.de
 ablock.fuckit.ovh
@@ -251,6 +252,7 @@ adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.kaytek.org
 adguard.kenzohost.de
+adguard.kibaofficial.net
 adguard.kinnee.net
 adguard.kngnet.de
 adguard.konikoni428.com
@@ -442,6 +444,7 @@ agh3.server.my.id
 aghvm1.mastomi.id
 agp01.tek411.com
 agp02.tek411.com
+ah.tr1n.me
 ahadns.net
 ahboy.asuscomm.com
 ahcek.com
@@ -800,7 +803,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -814,6 +816,7 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 dac-one.nayemador.com
+dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
@@ -825,6 +828,7 @@ dart.kpsn.org
 darthodroid.duckdns.org
 darya.persiannit.net
 daswieddodeushtuhaw.xyz
+dat.privatedns.org
 davidcampos.duckdns.org
 davidzeh.eu.org
 dawnings.cn
@@ -1351,6 +1355,7 @@ dns.mafyuh.io
 dns.magnon-box.tk
 dns.magnon.duckdns.org
 dns.majaroboan.de
+dns.malhuda.com
 dns.malwarelul.download
 dns.maolaohei.xyz
 dns.maomengte.com
@@ -1376,6 +1381,7 @@ dns.mokyun.cn
 dns.molinero.dev
 dns.moog.sh
 dns.moonssif.com
+dns.moonwx.net
 dns.moulticast.net
 dns.mrkaran.dev
 dns.msameh.tk
@@ -1418,6 +1424,7 @@ dns.noehring.org
 dns.nonomi.cc
 dns.noobel.cn
 dns.norgan.net
+dns.noridev.moe
 dns.norvig.dk
 dns.novali.date
 dns.novg.net
@@ -2554,6 +2561,7 @@ jit.ddns.net
 jjm.asia
 jkdsm.com
 jonasdevries.de
+jonathanaugusto.freeddns.org
 jonesboyz.duckdns.org
 joy096speed.pp.ua
 jp-dns1.bancuh.com
@@ -2573,6 +2581,7 @@ jp1.f7b6h9.tk
 jp2.101818.xyz
 jp2.ooroot.com
 jp3.meidouling.com
+jpdns.billyau.net
 jpdns.cola16.app
 jpginformatica.com
 jpok.996333.xyz
@@ -2916,6 +2925,7 @@ ns.ral9005.org
 ns.slynx.net
 ns.solutics.ec
 ns.tkdns.ru
+ns.try-dns.online
 ns0.fdn.fr
 ns01.hostrocket.com.ua
 ns01.lflemming.space
@@ -3283,6 +3293,7 @@ resolver-eu.haringstad.com
 resolver-eu.lelux.fi
 resolver.as203038.net
 resolver.cloudflare-eth.com
+resolver.frank-ruan.com
 resolver.noaddns.com
 resolver.r0cket.net
 resolver.rferee.dev
