@@ -188,6 +188,7 @@ adguard.baltes.info
 adguard.beliefanx.cn
 adguard.beliefanx.me
 adguard.betamax65.de
+adguard.biandrestreso.com
 adguard.bitteeinbyte.de
 adguard.borgwardtech.net
 adguard.brandonsli.com
@@ -404,6 +405,7 @@ adns.lighthousemd.co
 adns.onlinetools.rocks
 ads-doh.securedns.eu
 ads-eu.landgame.net
+ads.breitenfurt.us
 ads.tbservers.ca
 ads.tieuanhquoc.info
 ads.x88.in
@@ -506,6 +508,7 @@ anti-tahrim.bazipardaz.com
 antidns.s.tuna.tsinghua.edu.cn
 antivirus.bebasid.com
 antonyfrompnz.space
+anycast.0ms.dev
 anycast.censurfridns.dk
 anycast.censurfridns.nu
 anycast.dns.nextdns.io
@@ -650,6 +653,7 @@ br.servers.legat.ml
 bravedns.com
 brazilproxy.info
 brb.pp.ua
+breitenfurt.us
 bropines.online
 brovpn.io
 btguard.com
@@ -803,7 +807,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -1412,6 +1415,7 @@ dns.nextdns.io
 dns.ngc7331.top
 dns.nguyendn.com
 dns.nhtsky.com
+dns.nhunor.com
 dns.nicolas.vip
 dns.nieto.app
 dns.nietostuff.com
@@ -1648,6 +1652,8 @@ dns.woexp.ru
 dns.worthmind.net
 dns.wpice.ru
 dns.wugui.zone
+dns.xiayang.space
+dns.xie.ke
 dns.xinwujiang.cn
 dns.xn--29ab3cg3bhgt.xn--y9a3aq
 dns.xryen.com
@@ -3251,6 +3257,7 @@ qbak.no-ip.eu
 qlee.eastasia.cloudapp.azure.com
 qlee0001.eastasia.cloudapp.azure.com
 qlf-doh.inria.fr
+qq-sg-1.node.xieke.org
 quad9.net
 quantum-age.cn
 query.hdns.io
@@ -3369,6 +3376,7 @@ sakuraknight2023.top
 sams.adg.siudzinski.net
 sandbox.opendns.com
 saoudiproxy.info
+sarawut.ddns.net
 saruman.freeddns.org
 saya.rnrkurir.com
 sb.nanhang.xyz
@@ -3651,6 +3659,7 @@ travis90x.ddns.net
 trickbyte.com
 trojan.nowave.top
 trr.dns.nextdns.io
+trytackle.ddns.net
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tuanvpn.freeddns.org
@@ -4134,6 +4143,7 @@ x861g.duckdns.org
 xantirealityx.net
 xenergy.cc
 xiaolong.link
+xie.ke
 xitenow.com
 xitesite.com
 xkariak.asuscomm.com
