@@ -85,10 +85,10 @@ abel.waringer-atg.de
 ablock.fuckit.ovh
 abovetheclouds.fun
 abrarvanwebhosting.tk
-abstergo.it
 aceproxy.com
 acevpn.com
 acomit.lk
+ad.344556.xyz
 ad.aghaaliagha.tk
 ad.dscw.io
 ad.emekm.fr
@@ -137,6 +137,7 @@ addns.clubbase.club
 addns.jpr.space
 addns1.m-it.ro
 adenvps.cf
+adf-114.neta.otrofda.nl
 adfree.usableprivacy.net
 adg.acrobyte.org
 adg.dankatapich.eu.org
@@ -455,6 +456,7 @@ aimuz.me
 airmaxcloud.ml
 airvpn.org
 aizi.app
+akaboom.fun
 akaboom.ru
 akhil.ddns.net
 akhilkalwakurthy.dyndns.org
@@ -1141,6 +1143,7 @@ dns.dnswarden.com
 dns.doh.best
 dns.domsku.com
 dns.dooks.uk
+dns.doserver.top
 dns.doubleangels.com
 dns.dream-hosting.ovh
 dns.dreamworker.idv.tw
@@ -1201,6 +1204,7 @@ dns.freegod.ml
 dns.freequensi.com
 dns.freyja.pw
 dns.froth.zone
+dns.fullaccesstointernet.jp.eu.org
 dns.futuredns.me
 dns.gametest.eu.org
 dns.gando.fr
@@ -1407,6 +1411,7 @@ dns.nas-server.ru
 dns.nashi.us.to
 dns.nayemador.com
 dns.ndo.dev
+dns.netraptor.com.au
 dns.netrope.com
 dns.netrve.net
 dns.neubsi.at
@@ -1465,6 +1470,7 @@ dns.pakuchi-tree.ml
 dns.panszelescik.pl
 dns.patrickbianchi.com
 dns.pawitra.net
+dns.periactes.com
 dns.perzarys.eu
 dns.phucbui.top
 dns.phuctran.cloud
@@ -1604,6 +1610,7 @@ dns.uk-london-1.oraclecloud.com
 dns.umbrella.com
 dns.umbrellapants.xyz
 dns.unerror.network
+dns.unitech.company
 dns.unx.io
 dns.uplenk.com
 dns.us-ashburn-1.oci.oraclecloud.com
@@ -2040,6 +2047,7 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
+domainexpired.dnspod.cn
 dominatrix.brandonsli.com
 donghovietkid.cloud
 dontfilter.us
@@ -2211,6 +2219,7 @@ fezgate.ovh
 fi-hel-w-2.nashkan.net
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
+fi.jelebruh.xyz
 fiberprox.me
 fiberproxy.fr
 fiberproxy.net
@@ -2287,6 +2296,7 @@ ftgfw.tk
 fuchur.pentament.de
 fukuda.ccnt.fr
 fullaccesstointernet.int.eu.org
+fullaccesstointernet.jp.eu.org
 funti.cc
 fux0r.fyi
 fux0r.ooo
@@ -2570,6 +2580,7 @@ jkdsm.com
 jonasdevries.de
 jonathanaugusto.freeddns.org
 jonesboyz.duckdns.org
+josephfamily.org
 joy096speed.pp.ua
 jp-dns1.bancuh.com
 jp-kix.doh.sb
@@ -2766,6 +2777,7 @@ mask-h.icloud.com
 masters-of-cloud.de
 mathease.cn
 matrix.soeding.ddnss.de
+mattgreggs.tech
 matthias-prost.com
 matvey.dns.vladpro.ru
 mavrikk.duckdns.org
@@ -3106,7 +3118,6 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3335,6 +3346,7 @@ rlobato.duckdns.org
 rml.mobi
 ro-buc-w-1.nashkan.net
 ro-buc-w-2.nashkan.net
+robinlanckman.com
 roboticsbenchmarking.xyz
 roc.net.sys.of.icu
 roma.vpn.geshido.ru
@@ -3986,6 +3998,7 @@ wallymna.space
 wanam.ddns.net
 wantaquddin.com
 warrier120-dns.duckdns.org
+warrier120120.duckdns.org
 warrier120s-adguard-home.duckdns.org
 wccw.cc
 wdns.233py.com
