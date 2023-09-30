@@ -53,11 +53,13 @@
 3krkr.tonedtanya.com
 3x.nz
 3x2y.tk
+45-76-84-146.colo.xandodigital.net
 4dscape.net
 4everproxy.com
 501w.net
 52lanlan.com
 53.slepov.dev
+5rsmj9wyxfyqbhtv.l2h8.online
 6692.giize.com
 77980.bodis.com
 8888.google
@@ -85,6 +87,7 @@ abel.waringer-atg.de
 ablock.fuckit.ovh
 abovetheclouds.fun
 abrarvanwebhosting.tk
+abstergo.it
 aceproxy.com
 acevpn.com
 acomit.lk
@@ -147,6 +150,7 @@ adg.jmdesign.uk
 adg.jnorton.us
 adg.nods.in
 adg.pssv.top
+adg.qwqwe.link
 adg.rokh.biz
 adg.siudzinski.net
 adg.ssy123.xyz
@@ -353,6 +357,7 @@ adguard.youroute.ru
 adguard.youshitsune.tech
 adguard.zachitect.com
 adguard01.dns.infrapod.nl
+adguard01.homepeter.de
 adguard01.infrapod.nl
 adguard01.root-p.de
 adguard01.wydler.eu
@@ -435,6 +440,7 @@ ag01.de.hallmen.it
 agafon.site
 agafon.space
 agathe.tobkar.net
+agh-yz.russel053.com
 agh.alushi.net
 agh.caifuwu.com
 agh.ixghzx.ml
@@ -602,6 +608,7 @@ bbbtest.site
 bc10ef2.online-server.cloud
 bcandrade.ml
 bcsmts.com
+bdbt.net
 beacon.dog
 beacon.fengli.love
 beautifulcity.eu.org
@@ -833,6 +840,7 @@ darktraffic.cloud
 dart.kpsn.org
 darthodroid.duckdns.org
 darya.persiannit.net
+dash.flylcc.cc
 daswieddodeushtuhaw.xyz
 dat.privatedns.org
 davidcampos.duckdns.org
@@ -1053,6 +1061,7 @@ dns.besoon.ml
 dns.beta.gandi.net
 dns.bezainf.tk
 dns.billyau.ne
+dns.billyau.net
 dns.bin.st
 dns.bitdefender.net
 dns.bitgeek.in
@@ -1124,6 +1133,7 @@ dns.darktraffic.cloud
 dns.david888.com
 dns.davidruhmann.com
 dns.daw.dev
+dns.ddtw.online
 dns.decisivedevops.com
 dns.decloudus.com
 dns.deekshith.in
@@ -1252,6 +1262,7 @@ dns.housedenolf.be
 dns.hr.i81.ru
 dns.hubservices.vn
 dns.hugo0.moe
+dns.hujiayucc.cn
 dns.hung-quach.com
 dns.huseynov.work
 dns.hva.li
@@ -1594,6 +1605,7 @@ dns.tkhome.nl
 dns.tls-data.de
 dns.tlz.asia
 dns.tomitomix.net
+dns.tooizi.eu
 dns.tracker.ink
 dns.truong.fi
 dns.tsgmcoinfra.com
@@ -1836,6 +1848,7 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
+dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsvps.familiamv.ml
 dnsvps.porteii.com
@@ -1969,6 +1982,7 @@ doh.lv
 doh.mcasviper.de
 doh.micronets.in
 doh.mmmalia.com
+doh.mn-bonn.de
 doh.moeyk.com
 doh.morizt.id
 doh.mullvad.net
@@ -2216,6 +2230,7 @@ feifei200x12.cf
 felipefalcao.me
 felipefalcao.ninja
 fezgate.ovh
+fggdd.top
 fi-hel-w-2.nashkan.net
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
@@ -2241,6 +2256,7 @@ fishtail-pkr-dns.dhengaanil.com.np
 fixproxy.com
 fk4mil.pl
 flowvpn.com
+flukeadopt.de
 flumuffel.de
 fly.flylcc.cc
 fly.io
@@ -2349,6 +2365,7 @@ gizlibaglanti.com
 glory.of.god.9l3.com
 glvm.ru
 gm-dns-01.southcentralus.azurecontainer.io
+gn-z11.franscois.co.za
 gn6hoasz2o4tveit.dynv6.net
 go.icoding168.xyz
 go10go10.tonedtanya.com
@@ -2808,6 +2825,7 @@ minilla.store
 miniprox.com
 miniprox.info
 mkrepair.ddns.net
+mkvvpssrv12.freemyip.com
 mo0on15.com
 moaz-adguard.duckdns.org
 mocha.r.rnet.ie
@@ -2939,6 +2957,7 @@ ns.hjk.kr
 ns.hjk.me
 ns.lov.host
 ns.mtsoln.com
+ns.palvikt.us
 ns.postoverall.xyz
 ns.ral9005.org
 ns.slynx.net
@@ -3118,6 +3137,7 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3559,6 +3579,7 @@ storydoh.kinergetica.com
 strata.gurupannu.com
 stream.securely.sh
 streltsov.net
+strk12-filter.mtbroadband.us
 strongvpn.com
 stupidproxy.com
 stuxen.duckdns.org
@@ -3896,6 +3917,7 @@ vpn.ac
 vpn.adrielso.tec.br
 vpn.appsverse.com
 vpn.asia
+vpn.bearbob.studio
 vpn.bezainf.tk
 vpn.ccnt.fr
 vpn.charraud.eu
@@ -3933,6 +3955,7 @@ vps.avc.cx
 vps.fleuryk.ovh
 vps.grussenmeyer.com
 vps.jmarkin.ru
+vps.techrich.net
 vps.vokuev.org
 vps03.brueggus.de
 vps1.jnraptor.net
@@ -3990,6 +4013,7 @@ vudy.ru
 vvmm.me
 vyprvpn.com
 w0125ca5.kasserver.com
+w401.itarmy.co.za
 w5ppr.us
 wabu.ddns.net
 waguns.net
