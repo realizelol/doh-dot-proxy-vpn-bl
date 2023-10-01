@@ -178,6 +178,7 @@ adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-server.cf
+adguard-sg.linode.haberl.io
 adguard-vpn.com
 adguard.aa4.co.uk
 adguard.abd.ong
@@ -397,6 +398,7 @@ adguardhome.ponetwork.duckdns.org
 adguardhome.takkunn.pgw.jp
 adguardhome.westeurope.cloudapp.azure.com
 adguardhulst.duckdns.org
+adguardo.jimtay.uk
 adguardo.viewdns.net
 adguardprimarydns.cf
 adguardpublic01.rflinvestments.com
@@ -662,9 +664,9 @@ br.servers.legat.ml
 bravedns.com
 brazilproxy.info
 brb.pp.ua
-breitenfurt.us
 bropines.online
 brovpn.io
+btb.dog
 btguard.com
 bubu-cloud.myds.me
 buc-m2.illmods.com
@@ -895,6 +897,7 @@ derekcastle.duckdns.org
 dergun.quest
 derowd.freeboxos.fr
 deus-server.duckdns.org
+dev-rv.eu
 dev.reallemc.com
 devsimo.it
 dgca.myds.me
@@ -980,6 +983,7 @@ dns.2t9.de
 dns.3dcapitaltrust.net
 dns.3jh.org
 dns.4-the.win
+dns.45t3r1x.uk
 dns.4ab.nl
 dns.52306.org
 dns.532641.xyz
@@ -1301,6 +1305,7 @@ dns.jens-server.de
 dns.jerryw.cn
 dns.jimirobaer.be
 dns.jinwoo.dev
+dns.jnmj.cc
 dns.joaofidelix.com.br
 dns.joey01245.nl
 dns.jstockley.com
@@ -1339,8 +1344,6 @@ dns.kriswerry.nl
 dns.krol.cloud
 dns.kumar-abhishek.me
 dns.kutovoy.dev
-dns.l.o.ovpn.bond
-dns.l.ovpn.bond
 dns.l2h8.cn
 dns.l337.site
 dns.labar.re
@@ -1453,7 +1456,6 @@ dns.npe.bz
 dns.nt63.me
 dns.nullgate.net
 dns.nullrecon.com
-dns.o.l.ovpn.bond
 dns.oc0.co
 dns.oceanprint.com.br
 dns.ocedric.net
@@ -1671,6 +1673,7 @@ dns.woexp.ru
 dns.worthmind.net
 dns.wpice.ru
 dns.wugui.zone
+dns.x.ovpn.bond
 dns.xiayang.space
 dns.xie.ke
 dns.xinwujiang.cn
@@ -1963,6 +1966,7 @@ doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.in.ahadns.net
 doh.infotek.net.id
+doh.infracell.net
 doh.it.ahadns.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -2002,6 +2006,11 @@ doh.ny.ahadns.net
 doh.one23.one
 doh.onedns.net
 doh.opendns.com
+doh.phdns1.lonet.org
+doh.phdns2.lonet.org
+doh.phdns3.lonet.org
+doh.phdns4.lonet.org
+doh.phdns5.lonet.org
 doh.pi-dns.com
 doh.pl.ahadns.net
 doh.plop.cc
@@ -2066,6 +2075,7 @@ dominatrix.brandonsli.com
 donghovietkid.cloud
 dontfilter.us
 dop.privatedns.org
+dorkanddoodle.duckdns.org
 dosvid.tk
 dot-ch.blahdns.com
 dot-de.blahdns.com
@@ -2309,6 +2319,7 @@ frontpace.net
 frontpace.us
 fsrv.waltercasanova.tech
 ftgfw.tk
+fuangkhon.com
 fuchur.pentament.de
 fukuda.ccnt.fr
 fullaccesstointernet.int.eu.org
@@ -2700,8 +2711,8 @@ ky2dns.com
 kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
-l.o.ovpn.bond
 l.ovpn.bond
+l.x.ovpn.bond
 lab-1.sellan.fr
 lab.sellan.fr
 lamdtl.giize.com
@@ -2955,6 +2966,8 @@ ns.dnslify.com
 ns.dnsviewer.org
 ns.hjk.kr
 ns.hjk.me
+ns.l.ovpn.bond
+ns.l.x.ovpn.bond
 ns.lov.host
 ns.mtsoln.com
 ns.palvikt.us
@@ -2964,6 +2977,7 @@ ns.slynx.net
 ns.solutics.ec
 ns.tkdns.ru
 ns.try-dns.online
+ns.x.l.ovpn.bond
 ns0.fdn.fr
 ns01.hostrocket.com.ua
 ns01.lflemming.space
@@ -3016,7 +3030,6 @@ ny1.nixnet.xyz
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
-o.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -3137,7 +3150,6 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -4109,6 +4121,7 @@ www.elshad-adgh-dns.ru
 www.eweyo.ru
 www.fanscloud.net
 www.feelnosorry.com
+www.fuangkhon.com
 www.ggrbb.xyz
 www.greppie.nl
 www.guard.izzledudetech.com
@@ -4179,6 +4192,7 @@ x.res.wang
 x861g.duckdns.org
 xantirealityx.net
 xenergy.cc
+xfer.au
 xiaolong.link
 xie.ke
 xitenow.com
