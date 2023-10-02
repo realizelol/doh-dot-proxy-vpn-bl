@@ -664,6 +664,7 @@ br.servers.legat.ml
 bravedns.com
 brazilproxy.info
 brb.pp.ua
+breitenfurt.us
 bropines.online
 brovpn.io
 btb.dog
@@ -818,6 +819,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -3150,6 +3152,7 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
