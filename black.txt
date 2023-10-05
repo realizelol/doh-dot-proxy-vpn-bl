@@ -820,6 +820,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -833,6 +834,7 @@ d2.shabi.icu
 d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
+dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -2875,6 +2877,7 @@ n.3363.net
 n0.eu
 n11649246144.netvigator.com
 n2.zmy.cloud
+n4.zmy.cloud
 n5.lsasss.com
 na-texas-adguard-01.joshsevero.dev
 nadik.host
@@ -3388,6 +3391,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
