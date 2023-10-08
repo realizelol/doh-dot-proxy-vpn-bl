@@ -1,20 +1,15 @@
 003.tisyang.com
 0099domain.ecuplshsj.cn
 012proxy.ga
-01qnpxtzym02adjlrcub03.sergeykobzar.com.ua
 040910.top
-04qnpxtzym05adjlrcub06.sergeykobzar.com.ua
-07qnpxtzym08adjlrcub09.sergeykobzar.com.ua
 1.0rz.space
 1.11i.eu
 1.dns.noridev.moe
 1001.cloudflare-dns.com
-10qnpxtzym11adjlrcub12.sergeykobzar.com.ua
 1111.cloudflare-dns.com
 123-24.eport.gr
 123unblock.monster
 12vpx.com
-13qnpxtzym14adjlrcub15.sergeykobzar.com.ua
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com
 180.0rz.space
 1a.ns.ozer.im
@@ -58,7 +53,6 @@
 501w.net
 52lanlan.com
 53.slepov.dev
-5rsmj9wyxfyqbhtv.l2h8.online
 6692.giize.com
 77980.bodis.com
 8888.google
@@ -415,7 +409,6 @@ adl.adfilter.net
 admace.net
 admin.dotls.org
 adns.kreonet.net
-adns.lighthousemd.co
 adns.onlinetools.rocks
 ads-doh.securedns.eu
 ads-eu.landgame.net
@@ -522,7 +515,6 @@ anti-tahrim.bazipardaz.com
 antidns.s.tuna.tsinghua.edu.cn
 antivirus.bebasid.com
 antonyfrompnz.space
-anycast.0ms.dev
 anycast.censurfridns.dk
 anycast.censurfridns.nu
 anycast.dns.nextdns.io
@@ -785,7 +777,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
-cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
 colean.go.ro
 commons.host
 comss.one
@@ -1792,6 +1783,7 @@ dns2.steering.nextdns.io
 dns2.superstefan.ml
 dns2.sytes.net
 dns2.vinc.me
+dns2.ztmzzz.win
 dns2vps.porteii.com
 dns3.afastserver.com
 dns3.h0schi.cloud
@@ -2050,6 +2042,7 @@ doh.velyn.my.id
 doh.viatech.com.tw
 doh.vpnglobal.my.id
 doh.wangyaomin.com
+doh.weleven.top
 doh.westeu.pi-dns.com
 doh.westus.pi-dns.com
 doh.wewitro.net
@@ -3298,6 +3291,7 @@ qq-sg-1.node.xieke.org
 quad9.net
 quantum-age.cn
 query.hdns.io
+query.shenl.in
 quickprox.com
 quickproxy.co.uk
 qwenty.ru
@@ -3372,7 +3366,6 @@ rlobato.duckdns.org
 rml.mobi
 ro-buc-w-1.nashkan.net
 ro-buc-w-2.nashkan.net
-robinlanckman.com
 roboticsbenchmarking.xyz
 roc.net.sys.of.icu
 roma.vpn.geshido.ru
@@ -3661,6 +3654,7 @@ tiafun.com
 tienpham.id.vn
 tiger.dns.qwer.pw
 tikvpn.com
+timedns.org
 timmes.nl
 timothytimothy.cf
 tj.jamesxue.xyz
@@ -3963,6 +3957,7 @@ vps.grussenmeyer.com
 vps.jmarkin.ru
 vps.techrich.net
 vps.vokuev.org
+vps.ztmzzz.win
 vps03.brueggus.de
 vps1.jnraptor.net
 vps119.brueggus.de
