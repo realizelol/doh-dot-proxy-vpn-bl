@@ -815,6 +815,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -828,6 +829,7 @@ d2.shabi.icu
 d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
+dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -2916,6 +2918,7 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3391,6 +3394,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3641,6 +3645,7 @@ test3.adg.siudzinski.net
 test4.adg.siudzinski.net
 testaghome.meshkov.info
 testdjango.live
+tetra.aeins.at
 tezoi.duckdns.org
 thanh933.cf
 thanos.pleumkungz.com
