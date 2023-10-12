@@ -1188,6 +1188,7 @@ dns.eu-frankfurt-1.oci.oraclecloud.net
 dns.eu-frankfurt-1.oraclecloud.com
 dns.evilgame.club
 dns.exitstat.us
+dns.expert
 dns.ext4.in
 dns.extrawdw.net
 dns.fafr.fun
@@ -3641,7 +3642,6 @@ test4.adg.siudzinski.net
 testaghome.meshkov.info
 testdjango.live
 tetra.aeins.at
-tezoi.duckdns.org
 thanh933.cf
 thanos.pleumkungz.com
 thebeloveduck.duckdns.org
