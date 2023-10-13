@@ -815,7 +815,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -829,7 +828,7 @@ d2.shabi.icu
 d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
-dac-one.nayemador.com
+d3vy.ru
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -1076,6 +1075,7 @@ dns.brahma.world
 dns.briac-mlb.fr
 dns.brian-hong.tech
 dns.brightesttv.com
+dns.brionesserver.net
 dns.bulatov.dev
 dns.bw.i81.ru
 dns.cachitopetshop.com
@@ -1675,6 +1675,7 @@ dns.wugui.zone
 dns.xiayang.space
 dns.xie.ke
 dns.xinwujiang.cn
+dns.xivilay.dev
 dns.xn--29ab3cg3bhgt.xn--y9a3aq
 dns.xryen.com
 dns.xyzz.live
@@ -2917,7 +2918,6 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3351,6 +3351,7 @@ resolver3.absolight.net
 resolver4.dns.openinternet.io
 resov.wehao.net
 rethinkdns.com
+reversedns.one
 rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.censurfridns.nu
 rgnet-iad.anycast.uncensoreddns.dk
@@ -3390,7 +3391,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3642,6 +3642,7 @@ test4.adg.siudzinski.net
 testaghome.meshkov.info
 testdjango.live
 tetra.aeins.at
+tezoi.duckdns.org
 thanh933.cf
 thanos.pleumkungz.com
 thebeloveduck.duckdns.org
