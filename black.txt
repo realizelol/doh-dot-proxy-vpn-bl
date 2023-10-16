@@ -161,6 +161,7 @@ adgh.laufan.cn
 adgh.skyview.click
 adghome.joeszef.com
 adghome.joseph.com.ph
+adghome2.mail-endpoint.com
 adghs.de
 adguard-aws.charraud.eu
 adguard-aws.gdmn.dev
@@ -619,6 +620,7 @@ bg-sof-w-3.nashkan.net
 bigart-dns.tk
 bili.cccc.cyou
 bilidon.dnsuser.info
+bilidon.info
 bing.000036.xyz
 birnenwasser.ddnss.de
 blackhole.aflr.io
@@ -815,7 +817,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.luwei.date
@@ -830,7 +831,6 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
-dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -845,6 +845,7 @@ darya.persiannit.net
 dash.flylcc.cc
 daswieddodeushtuhaw.xyz
 dat.privatedns.org
+daverotaquio.net
 davidcampos.duckdns.org
 davidzeh.eu.org
 dawnings.cn
@@ -1269,6 +1270,7 @@ dns.hugo0.moe
 dns.hujiayucc.cn
 dns.hung-quach.com
 dns.huseynov.work
+dns.huyhoangit.net
 dns.hva.li
 dns.iamanuragh.in
 dns.iamninja.ru
@@ -1278,6 +1280,7 @@ dns.ikataruto.com
 dns.ilhamsyahids.com
 dns.ilker.se
 dns.imaicool.com
+dns.ime-ingenierias.xyz
 dns.indust.me
 dns.indybanipal.com
 dns.inf.nu
@@ -1569,6 +1572,7 @@ dns.skrzypiec.pl
 dns.slinkyman.net
 dns.spil.co.id
 dns.spok.fun
+dns.sshub.win
 dns.sstomp.nl
 dns.startupstack.tech
 dns.stdev.su
@@ -2483,6 +2487,7 @@ home.f7b6h9.tk
 home.fc.idv.tw
 home.firefenix.cf
 home.kinopu.com
+home.kompot.space
 home.marcrnt.de
 home.norvrandt.co.uk
 home.phucbui.top
@@ -2551,6 +2556,7 @@ ikarosalpha.xyz
 ilcha.ru
 imdxl.ru
 imdxl.ruimdxl.ru
+ime-ingenierias.xyz
 in-blr.doh.sb
 in-dns.sanselva.xyz
 in02.localnet.dev
@@ -2670,6 +2676,7 @@ killads.vpms.xyz
 kintoun.alves.cc
 kintyre.uk
 kiwifunke.duckdns.org
+kk.sshub.win
 kn10.top
 knight1.de
 kondrcloud.ru
@@ -2804,6 +2811,7 @@ maye.ir
 mbz.meudns.minhacasainteligente.cf
 mcptero.teunschrader.nl
 mcttechs.com
+mdxl.ru
 megacodx.online
 meganerd.nl
 megaproxy.com
@@ -2920,7 +2928,6 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3394,7 +3401,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3541,7 +3547,6 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3672,7 +3677,6 @@ tls.vietguards.cloud
 tls.zhiyou.me
 tlz.asia
 tlz.bio
-tlz.lol
 toaster.lol
 todns.work
 token.safebrowsing.apple
@@ -4080,6 +4084,7 @@ www.az2q.xyz
 www.beautifulcity.eu.org
 www.beautifullife.eu.org
 www.beautifulthings.eu.org
+www.bilidon.info
 www.c-dns.com
 www.caifuwu.com
 www.chlaebi.info
@@ -4121,7 +4126,6 @@ www.michiganska.com
 www.morbitzer.de
 www.msfste.site
 www.muxyuji.ru
-www.mxcc.top
 www.myadguardhome.me
 www.nilanjan.rocks
 www.olivier-raspberrypi.changeip.org
@@ -4220,5 +4224,4 @@ zorrovpn.io
 zougloub.eu
 zpn.im
 zrh1-ns01.monzoon.net
-zswb05wng16r892f.eastasia.cloudapp.azure.com
 zxcvb.pp.ua
