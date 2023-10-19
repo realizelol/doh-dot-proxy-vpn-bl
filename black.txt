@@ -2930,6 +2930,7 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -2957,6 +2958,7 @@ nongdanthanky.com
 nordvpn.com
 note.dehb.ru
 notecore.me
+nott.digitaladapt.com
 novikovfamily.info
 nrt.core.access.zznet.fun
 nrt.public.gfwdns.net
@@ -3147,7 +3149,6 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
