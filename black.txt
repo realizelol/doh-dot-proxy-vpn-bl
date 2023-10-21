@@ -825,6 +825,7 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
+d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.gametechnet.com
@@ -840,6 +841,7 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
+dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -2974,7 +2976,6 @@ nongdanthanky.com
 nordvpn.com
 note.dehb.ru
 notecore.me
-nott.digitaladapt.com
 novikovfamily.info
 nrt.core.access.zznet.fun
 nrt.public.gfwdns.net
@@ -3415,6 +3416,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3562,6 +3564,7 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
+soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -4066,6 +4069,7 @@ whoer.net
 whoisping.com
 whonix.org
 wikimedia-dns.org
+wikimediadns.org
 wikipeter.me
 win-d7snj2gu70b.duckdns.org
 win10virtual.fb.i81.ru
