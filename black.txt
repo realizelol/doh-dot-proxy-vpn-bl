@@ -668,7 +668,6 @@ br.servers.legat.ml
 bravedns.com
 brazilproxy.info
 brb.pp.ua
-breitenfurt.us
 bropines.online
 brovpn.io
 btb.dog
