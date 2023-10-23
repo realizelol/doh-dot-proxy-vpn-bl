@@ -393,6 +393,7 @@ adguardh.ga
 adguardhom.ddns.net
 adguardhome-vps.couli.fr
 adguardhome.atakorah.com
+adguardhome.ddns.net
 adguardhome.dev
 adguardhome.eastasia.cloudapp.azure.com
 adguardhome.fr.couli.fr
@@ -456,6 +457,7 @@ agh.fltn.us
 agh.ixghzx.ml
 agh.kyashi.fun
 agh.noton.tk
+agh.odvpn.ru
 agh.printk.info
 agh.xinfeng16m.top
 agh2.server.my.id
@@ -480,6 +482,7 @@ akr177.com
 akylah.zapto.org
 aleafy.ddns.net
 alexpollard.synology.me
+alisa.hr.i81.ru
 alisa.vd.i81.ru
 alisa.vpn.i81.ru
 all.dns.mullvad.net
@@ -612,6 +615,7 @@ bc10ef2.online-server.cloud
 bcandrade.ml
 bcsmts.com
 bdbt.net
+be2aja.my.id
 beacon.dog
 beacon.fengli.love
 beautifulcity.eu.org
@@ -824,7 +828,6 @@ cz-ces-w-1.nashkan.net
 cz-pra-w-1.nashkan.net
 d-n-s.fun
 d.0w0.ooo
-d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.gametechnet.com
@@ -840,7 +843,6 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
-dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -2256,6 +2258,7 @@ family.puredns.org
 familyshield.opendns.com
 fanscloud.net
 faradns.net
+faralai.es
 fastestvpn.com
 fasttime.info
 fastusaproxy.com
@@ -2574,6 +2577,7 @@ idolproxy.com
 ie-dub-w-1.nashkan.net
 igor.hr.i81.ru
 igor.vd.i81.ru
+igor.vpn.i81.ru
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
@@ -2706,6 +2710,7 @@ kondrcloud.ru
 korzhov.dev
 kotys.hr.i81.ru
 kotys.vd.i81.ru
+kotys.vpn.i81.ru
 kozak.ujwie.co
 kproxy.com
 kproxysite.com
@@ -2789,6 +2794,7 @@ lt-vil-w-2.nashkan.net
 lt-vil-w-3.nashkan.net
 luba.hr.i81.ru
 luba.vd.i81.ru
+luba.vpn.i81.ru
 lux.sn0w.nl
 lux1.nixnet.xyz
 lv-rig-w-1.nashkan.net
@@ -2809,6 +2815,7 @@ mail.pragmasec.nl
 mailer.amlegion.org
 mailkyb.co
 main.nn7.pw
+main.zhhz.cc
 mainframe.dewed.de
 maku-tech.com
 mana.harrache.info
@@ -3068,6 +3075,7 @@ okijara.com
 oko.haneulo.com
 olga.hr.i81.ru
 olga.vd.i81.ru
+olga.vpn.i81.ru
 olivier-adguard.duckdns.org
 olivier-raspberrypi.changeip.org
 one.one.one.one
@@ -3333,6 +3341,7 @@ radmin-vpn.com
 radmin-vpn.org
 rafi.dynns.com
 rapidproxy.us
+raspberrydoc.duckdns.org
 rauladguard.online
 ray1.wewa.work
 ray3.wewa.work
@@ -3415,7 +3424,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3563,7 +3571,6 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3815,6 +3822,7 @@ unicast.censurfridns.nu
 unicast.uncensoreddns.dk
 unicast.uncensoreddns.org
 unicast2.servers.censurfridns.dk
+unifi.be2aja.my.id
 unifi.carioka.com
 unixfox.duckdns.org
 ur-browser.com
@@ -3923,6 +3931,7 @@ vobas.com
 void-gate.irre.li
 vova.hr.i81.ru
 vova.vd.i81.ru
+vova.vpn.i81.ru
 vovadeti.fb.i81.ru
 vovale.fb.i81.ru
 vovale.hr.i81.ru
