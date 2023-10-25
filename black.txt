@@ -972,6 +972,7 @@ dns-res-lux.jupitrdns.com
 dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com
 dns-secondary.cloudnx.cloud
 dns-secure.wifire.it
+dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
 dns-tls.bitwiseshift.net
 dns-tls.chamberirc.net
 dns-uk.su4ka.icu
@@ -2957,6 +2958,7 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3321,7 +3323,6 @@ qbak.no-ip.eu
 qlee.eastasia.cloudapp.azure.com
 qlee0001.eastasia.cloudapp.azure.com
 qlf-doh.inria.fr
-qq-sg-1.node.xieke.org
 quad9.net
 quantum-age.cn
 query.hdns.io
