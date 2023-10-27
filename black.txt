@@ -970,6 +970,7 @@ dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com
 dns-public.ibakerserver.pt
 dns-res-lux.jupitrdns.com
 dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com
+dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com
 dns-secondary.cloudnx.cloud
 dns-secure.wifire.it
 dns-staging-alb-849259019.us-east-1.elb.amazonaws.com
@@ -2106,7 +2107,6 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
-domainexpired.dnspod.cn
 dominatrix.brandonsli.com
 donghovietkid.cloud
 dontfilter.us
@@ -2958,6 +2958,7 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3171,7 +3172,6 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
