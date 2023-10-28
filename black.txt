@@ -772,6 +772,7 @@ clientdns3.softcom.net
 cloakvpn.com
 cloud.198.games
 cloud.centralgenerator.net
+cloud.itplayer.online
 cloud.jjlizz.com
 cloud.jogjacloud.com
 cloud.samutz.com
@@ -844,7 +845,6 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
-dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -1883,7 +1883,6 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
-dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsvps.familiamv.ml
 dnsvps.porteii.com
@@ -1984,6 +1983,7 @@ doh.eastus.pi-dns.com
 doh.eieidns.com
 doh.es.ahadns.net
 doh.eu.dnswarden.com
+doh.ezrart.top
 doh.familyshield.opendns.com
 doh.fasya.net
 doh.fatucloud.gosprout.org
@@ -2098,6 +2098,7 @@ doh2.blahdns.com
 doh2.dnswarden.com
 doh2.gslb2.xfinity.com
 doh2.seby.io
+doh2.znps.xyz
 doh3.almir1904.eu
 dohadghome.duckdns.org
 dohdns.com
@@ -2958,7 +2959,6 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -2982,6 +2982,7 @@ nocensor.icu
 nocensor.rest
 nocfmc.cc
 node3.b4el.ru
+nonanon.pl
 nongdanthanky.com
 nordvpn.com
 note.dehb.ru
@@ -3046,6 +3047,7 @@ ns3.rowie.at
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
+nsnacho.dyndns.org
 ntu.ssooss.win
 nudnud.com
 nukys.ca
@@ -3172,6 +3174,7 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3427,7 +3430,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3575,7 +3577,6 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -4147,6 +4148,7 @@ www.morbitzer.de
 www.muxyuji.ru
 www.myadguardhome.me
 www.nilanjan.rocks
+www.nonanon.pl
 www.olivier-raspberrypi.changeip.org
 www.ovpn.bond
 www.pcjco.ovh
@@ -4241,6 +4243,7 @@ zh.sorannbb.buzz
 zoogvpn.com
 zorrovpn.io
 zougloub.eu
+zp4r7m8udwdqpnst.eastasia.cloudapp.azure.com
 zpn.im
 zrh1-ns01.monzoon.net
 zulkas.top
