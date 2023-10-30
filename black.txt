@@ -216,8 +216,10 @@ adguard.demaks.org
 adguard.depieri.net
 adguard.derminecrafter2020.de
 adguard.dessoi.cloud
+adguard.dientutronghuong.com
 adguard.digitalsewer.com
 adguard.discounthost.co.uk
+adguard.dizdarevic.dev
 adguard.djay.tk
 adguard.dsns.cloud
 adguard.dtness.com
@@ -225,6 +227,7 @@ adguard.ef67daisuki.club
 adguard.elashri.xyz
 adguard.emperorslounge.net
 adguard.ender.fr
+adguard.eoghan-net.com
 adguard.eximpius.xyz
 adguard.exium.net
 adguard.ext.devkon.org
@@ -789,9 +792,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
-cn-eu-1.y.dns.hanwuss.loongapi.com
 cn.turngreatwall.com
-cn1.hanwuss.loongapi.com
 cname-for-doh.go-behind.one
 colean.go.ro
 commons.host
@@ -847,7 +848,6 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
-dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -915,6 +915,7 @@ deic-ore.anycast.uncensoreddns.org
 derekcastle.duckdns.org
 dergun.quest
 derowd.freeboxos.fr
+destakmateriais.com.br
 deus-server.duckdns.org
 dev.camelstrike.xyz
 dev.reallemc.com
@@ -1018,6 +1019,7 @@ dns.aa.net.uk
 dns.aaflalo.me
 dns.aaronplayzgaming.com
 dns.aaytorr.com
+dns.abdullahabas.de
 dns.abdullahabas.online
 dns.ac-weather.com
 dns.adblocker.eu.org
@@ -1116,6 +1118,7 @@ dns.cearhome.top
 dns.cfiec.net
 dns.chadeyron.fr
 dns.chaosen3.co.uk
+dns.charraud.eu
 dns.chenu.ch
 dns.chinh.tk
 dns.chriscsc.me
@@ -1279,6 +1282,8 @@ dns.hanmey.de
 dns.haoxuan.xyz
 dns.harrache.info
 dns.hee.ink
+dns.henek.ovh
+dns.henek.ru
 dns.herkhof.nl
 dns.hesitance.site
 dns.hinet.net
@@ -1333,6 +1338,7 @@ dns.ivyeori.live
 dns.jean.im
 dns.jens-server.de
 dns.jerryw.cn
+dns.jhangy.us
 dns.jimirobaer.be
 dns.jinwoo.dev
 dns.jnmj.cc
@@ -1368,6 +1374,7 @@ dns.knitish.dev
 dns.kolar-it.com
 dns.korzhyk.pp.ua
 dns.kosan.moe
+dns.kostydenis.me
 dns.kozich.net
 dns.kr.chavy.dev
 dns.krishanshamod.live
@@ -1594,6 +1601,7 @@ dns.shushu.cf
 dns.sidot.xyz
 dns.silen.org
 dns.silentlybren.com
+dns.simba.house
 dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
@@ -1634,6 +1642,7 @@ dns.therifleman.name
 dns.thierryserver.nl
 dns.thore.cloud
 dns.timboeh.me
+dns.timkevin.us
 dns.timvo.net
 dns.tipsy.coffee
 dns.titan.stream
@@ -1757,6 +1766,7 @@ dns1.in-berlin.de
 dns1.ipv6.dnscrypt.ca
 dns1.irumatech.com
 dns1.klcd.eu
+dns1.kostydenis.me
 dns1.luan.contact
 dns1.n3120.wang
 dns1.newapi.host
@@ -2309,6 +2319,7 @@ fishproxy.com
 fishtail-pkr-dns.dhengaanil.com.np
 fixproxy.com
 fk4mil.pl
+flat.loisy.it
 flowvpn.com
 flukeadopt.de
 flumuffel.de
@@ -2356,6 +2367,7 @@ freevpnsoftware.net
 freexite.com
 freeyouproxytube.com
 freeyoutube.net
+frglsmm.space
 friend.bedro.cloud
 frog.dns.qwer.pw
 frontpace.co.uk
@@ -2421,6 +2433,7 @@ glvm.ru
 gm-dns-01.southcentralus.azurecontainer.io
 gn-z11.franscois.co.za
 gn6hoasz2o4tveit.dynv6.net
+gnn.su
 go.icoding168.xyz
 go10go10.tonedtanya.com
 goga7777777.bissnes.org
@@ -2635,6 +2648,7 @@ ivnkn.xyz
 ivpn.net
 jabber-germany.de
 jabber-server.de
+jack-black-adguard.duckdns.org
 jackyes.ovh
 james-solomon.com
 jarjar.meganerd.nl
@@ -2647,6 +2661,7 @@ jenanga.ipv64.net
 jit.ddns.net
 jjm.asia
 jkdsm.com
+johnsson.ovh
 jonasdevries.de
 jonathanaugusto.freeddns.org
 jonesboyz.duckdns.org
@@ -2931,8 +2946,10 @@ n5.lsasss.com
 na-texas-adguard-01.joshsevero.dev
 nadik.host
 nafni.one
+naganohara-yoimiya.momokko.moe
 name.my-station.ru
 name.wehao.net
+nas-fusion.loisy.it
 nas-t1.ddns.net
 nas.dasisp.com
 nas.dehb.ru
@@ -3054,6 +3071,7 @@ ns3.rowie.at
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
+nsin.live
 nsnacho.dyndns.org
 ntu.ssooss.win
 nudnud.com
@@ -3437,7 +3455,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3585,7 +3602,6 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3916,6 +3932,7 @@ vasya.fb.i81.ru
 vasya.hr.i81.ru
 vasya.vd.i81.ru
 vasya.vpn.i81.ru
+vault.charraud.eu
 vault.lisl.ink
 vcdriy.top
 vd.i81.ru
