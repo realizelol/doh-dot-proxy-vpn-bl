@@ -313,6 +313,7 @@ adguard.polemarch.live
 adguard.pouifamily.fr
 adguard.pp.ua
 adguard.ppfeufer.de
+adguard.pushedv.de
 adguard.pw1602.pl
 adguard.quartoz.de
 adguard.rabmoor.cz
@@ -668,6 +669,7 @@ bogbone.com
 bolehvpn.net
 boomproxy.com
 borderlessvpn.io
+bovat.ddns.net
 box.negaforce.com
 boxpn.com
 br-sao-w-1.nashkan.net
@@ -792,7 +794,9 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-eu-1.y.dns.hanwuss.loongapi.com
 cn.turngreatwall.com
+cn1.hanwuss.loongapi.com
 cname-for-doh.go-behind.one
 colean.go.ro
 commons.host
@@ -848,7 +852,6 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
-dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -1110,6 +1113,7 @@ dns.brionesserver.net
 dns.bulatov.dev
 dns.bw.i81.ru
 dns.cachitopetshop.com
+dns.canavan.co
 dns.carson-family.com
 dns.carter.me
 dns.cases.works
@@ -1449,10 +1453,12 @@ dns.moonssif.com
 dns.moonwx.net
 dns.moulticast.net
 dns.mrkaran.dev
+dns.mrzbcli.ru
 dns.msameh.tk
 dns.msxnet.ru
 dns.mtnh.tk
 dns.muadib.club
+dns.mudryi.ovh
 dns.mullvad.net
 dns.murgi.de
 dns.murzyn.top
@@ -1526,6 +1532,7 @@ dns.pawitra.net
 dns.paxavemedia.com
 dns.periactes.com
 dns.perzarys.eu
+dns.philqoo.com
 dns.phucbui.top
 dns.phuctran.cloud
 dns.pieterdherde.com
@@ -1622,6 +1629,7 @@ dns.stud.cloud
 dns.stvsk.ml
 dns.sumanrajsolutions.in
 dns.supercluster.io
+dns.superstefan.win
 dns.surenic.net
 dns.surfshark.com
 dns.surobe.com
@@ -1777,6 +1785,7 @@ dns1.niub.one
 dns1.permafrostmiami.com
 dns1.pietjacobs.be
 dns1.quickline.ch
+dns1.rhscz.eu
 dns1.ryan-palmer.com
 dns1.ryanpalmer.com
 dns1.sarak.as
@@ -1822,6 +1831,7 @@ dns2.n3120.wang
 dns2.newapi.host
 dns2.nextcloudend.info
 dns2.nextdns.io
+dns2.nhgnet.de
 dns2.niub.one
 dns2.patrickbianchi.com
 dns2.porteii.com
@@ -1840,6 +1850,7 @@ dns2.ztmzzz.win
 dns2vps.porteii.com
 dns3.afastserver.com
 dns3.h0schi.cloud
+dns3.rhscz.eu
 dns3.sas-wres.cc
 dns3.wistarip.com
 dns4me.net
@@ -2618,6 +2629,7 @@ ind-unblock.xyz
 ines.zfn.uni-bremen.de
 inf-wan.vip.meituan.com
 info-hub.de
+ingenmannsland.online
 ininja.org
 instantunblock.com
 int.hverge.org
@@ -2814,6 +2826,7 @@ lookingglass.site
 lopana.com
 lops.lol
 lorc17-dns.komeho.info
+los.conana.info
 loudsheep.ddns.net
 lova.long-nguyen.info
 lqh280.iok.la
@@ -2984,7 +2997,6 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3083,6 +3095,7 @@ nwps.duckdns.org
 nxa.21.ax
 ny.teradns.org
 ny1.nixnet.xyz
+nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
@@ -3195,6 +3208,7 @@ personal-dns.site
 pestemedie.silviustroe.com
 peter-adguard.ddns.net
 pg.web-rated.ie
+philqoo.com
 photo.dehb.ru
 phucbui.top
 pi.daryllswer.net
@@ -3457,7 +3471,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3481,6 +3494,7 @@ sb.nanhang.xyz
 sbdns.co.in
 sby-doh.limotelu.org
 sbydoh.limotelu.org
+scottdylewski.com
 scrole.shop
 sdns.233py.com
 sdns.pro
@@ -3565,6 +3579,7 @@ sgs03.just-a-web.com
 sh.telex.app
 sh.totoro.pub
 shaa.line.pm
+shalenkov.cc
 shalenkov.dev
 shield.afixer.app
 shieldsup.spearing.net
@@ -3605,7 +3620,6 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3656,6 +3670,7 @@ stuxen.duckdns.org
 suanr.top
 suedeproxy.info
 sufly.top
+sundalandia.pp.ua
 sunnygyl.com
 supervpn.best
 surf-for-free.com
@@ -3785,6 +3800,7 @@ ua-kyv-w-1.nashkan.net
 ublock-dns-resolver-01.swedencentral.cloudapp.azure.com
 ublock-dns-resolver-02.northeurope.cloudapp.azure.com
 ublock-dns-resolver-03.westeurope.cloudapp.azure.com
+ubuntu1.adgw.tk
 ueni.dyndns.org
 ufovpn.io
 uk-lon.doh.sb
@@ -4104,6 +4120,7 @@ webproxyfree.net
 webredir.vip.gandi.net
 websurf.in
 websurfproxy.me
+webteufel-it.solutions
 webunblocker.xyz
 welcomeeverybody.eu.org
 wg.req1.fr
