@@ -196,6 +196,7 @@ adguard.beliefanx.me
 adguard.betamax65.de
 adguard.biandrestreso.com
 adguard.bitteeinbyte.de
+adguard.bonis.de
 adguard.borgwardtech.net
 adguard.brandonsli.com
 adguard.bwasson.com
@@ -208,6 +209,7 @@ adguard.cloudmini.net
 adguard.clroot.io
 adguard.cnbeining.com
 adguard.connexum.mx
+adguard.crestfallen.de
 adguard.dashofsunny.com
 adguard.ddns.net
 adguard.dehb.ru
@@ -373,12 +375,14 @@ adguard01.wydler.eu
 adguard01.zitronen-server.de
 adguard02.dns.infrapod.nl
 adguard02.infrapod.nl
+adguard1.bonis.de
 adguard1.forst.one
 adguard1.jsanagustin.net
 adguard1.kapuyhome.hu
 adguard1.leadmon.net
 adguard1.njy.jsanagustin.net
 adguard2.atl.jsanagustin.net
+adguard2.bonis.de
 adguard2.cloudmini.net
 adguard2.dsns.cloud
 adguard2.frece.de
@@ -1393,6 +1397,7 @@ dns.labar.re
 dns.laison.ltd
 dns.laiwenbo.icu
 dns.lalafell.info
+dns.landerbrauver.ru
 dns.lars-lehmann.net
 dns.larsdebruin.net
 dns.lat-team.com
@@ -1726,6 +1731,7 @@ dns.wns.watch
 dns.woexp.ru
 dns.worthmind.net
 dns.wpice.ru
+dns.wryhf.net
 dns.wugui.zone
 dns.xiayang.space
 dns.xie.ke
@@ -2476,6 +2482,7 @@ guardianapp.com
 guardians.jenspoelitz.de
 guardianvpn.net
 guardster.com
+guidetoworld.link
 guilherme.tec.br
 gunag.duckdns.org
 guoyingwei.top
@@ -2689,6 +2696,7 @@ jp.gridns.xyz
 jp.hm3.day
 jp.kano.sh
 jp.meidouling.com
+jp.ray0512.win
 jp.tiar.app
 jp.tiarap.org
 jp01.just-a-web.com
@@ -2777,7 +2785,6 @@ ky2dns.com
 kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
-l.l.ovpn.bond
 lab-1.sellan.fr
 lab.sellan.fr
 lamdtl.giize.com
@@ -3461,6 +3468,7 @@ router.racinas.com
 router.utorrent.com123unblock.fun
 routerdieb-dns.de
 rpz-public-resolver1.rrdns.pch.net
+rslsonc.marsgo.top
 rsocks.net
 ru-mos-w-1.nashkan.net
 ru-mos-w-2.nashkan.net
@@ -3512,6 +3520,7 @@ secondary.safe.dns.yandex.ru
 secretproxy.org
 secure-4ud.de
 secure-dns.dns-ga.de
+secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
 secure.odomail.com
@@ -3670,7 +3679,6 @@ stuxen.duckdns.org
 suanr.top
 suedeproxy.info
 sufly.top
-sundalandia.pp.ua
 sunnygyl.com
 supervpn.best
 surf-for-free.com
@@ -4036,6 +4044,7 @@ vps.alloxr.info
 vps.avc.cx
 vps.fleuryk.ovh
 vps.grussenmeyer.com
+vps.iamdevilmafia.online
 vps.jmarkin.ru
 vps.techrich.net
 vps.vokuev.org
@@ -4250,6 +4259,7 @@ ychen.cf
 ychen.ga
 ychen.gq
 ychen.tk
+ycy3.hyf.cool
 yellowproxy.net
 yingroad.top
 yory2cave.hopto.me
