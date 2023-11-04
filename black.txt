@@ -798,7 +798,9 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-eu-1.y.dns.hanwuss.loongapi.com
 cn.turngreatwall.com
+cn1.hanwuss.loongapi.com
 cname-for-doh.go-behind.one
 colean.go.ro
 commons.host
@@ -2785,6 +2787,7 @@ ky2dns.com
 kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
+l.l.ovpn.bond
 lab-1.sellan.fr
 lab.sellan.fr
 lamdtl.giize.com
