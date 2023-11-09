@@ -86,6 +86,7 @@ acevpn.com
 acomit.lk
 ad.344556.xyz
 ad.aghaaliagha.tk
+ad.chowncloud.com
 ad.dscw.io
 ad.emekm.fr
 ad.guard.ru.net
@@ -465,6 +466,7 @@ agh.caifuwu.com
 agh.fltn.us
 agh.ixghzx.ml
 agh.kyashi.fun
+agh.narden.au
 agh.noton.tk
 agh.odvpn.ru
 agh.printk.info
@@ -768,6 +770,7 @@ chriskutschker.de
 christophbrem.com
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
+chronicle14.tplinkdns.com
 chungocoai.name.vn
 cintra.ml
 cirruscloud.it
@@ -799,7 +802,9 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-eu-1.y.dns.hanwuss.loongapi.com
 cn.turngreatwall.com
+cn1.hanwuss.loongapi.com
 cname-for-doh.go-behind.one
 colean.go.ro
 commons.host
@@ -855,7 +860,6 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
-dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -938,6 +942,7 @@ di2626.xyz
 diblock.rnrkurir.com
 digi77.com
 digitale-gesellschaft.ch
+digitalsewer.com
 diplo.es
 disbish.com
 diskstation.alexpollard.net
@@ -1024,6 +1029,7 @@ dns.717.social
 dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
+dns.888654.xyz
 dns.aa.net.uk
 dns.aaflalo.me
 dns.aaronplayzgaming.com
@@ -2671,7 +2677,6 @@ ivnkn.xyz
 ivpn.net
 jabber-germany.de
 jabber-server.de
-jack-black-adguard.duckdns.org
 jackyes.ovh
 james-solomon.com
 jarjar.meganerd.nl
@@ -2788,7 +2793,6 @@ ky2dns.com
 kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
-l.l.ovpn.bond
 lab-1.sellan.fr
 lab.sellan.fr
 lamdtl.giize.com
@@ -3484,7 +3488,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3635,7 +3638,6 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3754,6 +3756,7 @@ think-howling.com
 tiafun.com
 tienpham.id.vn
 tiger.dns.qwer.pw
+tigrons.ru
 tikvpn.com
 timedns.org
 timmes.nl
@@ -3808,6 +3811,7 @@ turbovpn.com
 tuxlervpn.com
 tv.jjlizz.com
 tw2.ooroot.com
+twbak.duckdns.org
 tx.teradns.org
 tylda.duckdns.org
 typaza.com
@@ -4055,7 +4059,6 @@ vps.iamdevilmafia.online
 vps.jmarkin.ru
 vps.techrich.net
 vps.vokuev.org
-vps.ztmzzz.win
 vps03.brueggus.de
 vps1.jnraptor.net
 vps119.brueggus.de
