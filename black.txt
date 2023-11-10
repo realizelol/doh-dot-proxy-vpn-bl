@@ -860,6 +860,7 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
+dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -2677,6 +2678,7 @@ ivnkn.xyz
 ivpn.net
 jabber-germany.de
 jabber-server.de
+jack-black-adguard.duckdns.org
 jackyes.ovh
 james-solomon.com
 jarjar.meganerd.nl
@@ -2793,6 +2795,7 @@ ky2dns.com
 kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
+l.l.ovpn.bond
 lab-1.sellan.fr
 lab.sellan.fr
 lamdtl.giize.com
@@ -3013,6 +3016,7 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3488,6 +3492,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3638,6 +3643,7 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
+soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
