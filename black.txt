@@ -71,7 +71,6 @@ a.safe.ns.dnslify.com
 a.sinafreenet.ml
 a.sunday.eu.org
 a.vvvglass.com
-a11.diplo.es
 a5135324.csie.io
 aalqudah.site
 aang7.com
@@ -462,7 +461,6 @@ agafon.space
 agathe.tobkar.net
 agh-yz.russel053.com
 agh.alushi.net
-agh.caifuwu.com
 agh.fltn.us
 agh.ixghzx.ml
 agh.kyashi.fun
@@ -722,7 +720,6 @@ ca01.dns4me.net
 ca02.dns4me.net
 cactusvpn.com
 caifuwu.com
-calendar.dehb.ru
 callies-online.site
 calm-crown.freemyip.com
 canadaproxy.info
@@ -833,7 +830,6 @@ curses.cloud
 cv-2173.dnsserver.eu
 cvt-ic-us-adns-001.clearviewtechnology.net
 cyberghostvpn.com
-cybree-dns.itbbs.org
 cyliu.idv.tw
 cynntex.fun
 cynntex.site
@@ -858,7 +854,6 @@ d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
-dac-one.nayemador.com
 dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
@@ -1187,6 +1182,7 @@ dns.deekshith.in
 dns.deluxerpanda.se
 dns.developer.li
 dns.dgea.fr
+dns.dhemant.observer
 dns.digitaladapt.com
 dns.digitale-gesellschaft.ch
 dns.digitalegesellschaft.ch
@@ -1267,6 +1263,7 @@ dns.fullaccesstointernet.jp.eu.org
 dns.futuredns.me
 dns.gametest.eu.org
 dns.gando.fr
+dns.geets.ru
 dns.ghexu.com
 dns.ghost.pm
 dns.gi.co.id
@@ -1445,6 +1442,7 @@ dns.me7878.com
 dns.meeo.win
 dns.melalandia.tk
 dns.melashri.eu.org
+dns.mestdag.fr
 dns.mgiptvpro.ml
 dns.micro.alloxr.info
 dns.mikeliu.org
@@ -1673,6 +1671,7 @@ dns.tomitomix.net
 dns.tooizi.eu
 dns.tracker.ink
 dns.truong.fi
+dns.trust404.win
 dns.tsgmcoinfra.com
 dns.tticus.art
 dns.tuankhaiit.com
@@ -1751,6 +1750,7 @@ dns.yadi.be
 dns.yameenassotally.com
 dns.yandex.ru
 dns.ygonline.de
+dns.yingroad.top
 dns.ymv8.cn
 dns.youni.win
 dns.yumenashyi.com
@@ -2166,6 +2166,7 @@ dot-sg.blahdns.com
 dot.360.cn
 dot.4nas.win
 dot.adminoi.top
+dot.aes.my.id
 dot.anir0y.in
 dot.asecdns.com
 dot.au.ahadns.net
@@ -2542,6 +2543,7 @@ hk.101818.xyz
 hk.1662001.xyz
 hk.erw.cc
 hk.feiyuyu.net
+hk.layjune.com
 hk.mangosysdns.com
 hk.meidouling.com
 hk.wooy.cool
@@ -2845,6 +2847,7 @@ lorc17-dns.komeho.info
 los.conana.info
 loudsheep.ddns.net
 lova.long-nguyen.info
+lpse.minahasa.go.id
 lqh280.iok.la
 lt-vil-w-2.nashkan.net
 lt-vil-w-3.nashkan.net
@@ -2878,6 +2881,7 @@ mana.harrache.info
 management.alexpollard.net
 marcrnt.ddnss.de
 marginnote.ga
+marimuttz.asuscomm.com
 markolll.ru
 mars.pccoach.nl
 mask-h.icloud.com
@@ -3014,7 +3018,6 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3385,6 +3388,7 @@ qlee.eastasia.cloudapp.azure.com
 qlee0001.eastasia.cloudapp.azure.com
 qlf-doh.inria.fr
 quad9.net
+qual.cuprum.ru
 quantum-age.cn
 query.hdns.io
 query.shenl.in
@@ -3422,6 +3426,7 @@ remote.sufly.top
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
+res.zijji.com
 resolv.srv-pro.de
 resolve.srv-pro.de
 resolve2.srv-pro.de
@@ -3490,7 +3495,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3641,7 +3645,6 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3702,7 +3705,6 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
-surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4185,7 +4187,6 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
-www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
@@ -4204,7 +4205,6 @@ www.fanscloud.net
 www.fuangkhon.com
 www.ggrbb.xyz
 www.greppie.nl
-www.hlll.fun
 www.incaseineeditoneday.com
 www.interestingly.eu.org
 www.jabber-germany.de
@@ -4232,6 +4232,7 @@ www.pukanuragan.ru
 www.qwenty.ru
 www.secforads3.ch
 www.srgaghome.freemyip.com
+www.starinmars.life
 www.surfbelow.com
 www.svg33.eu
 www.szyrzyk.pl
