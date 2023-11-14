@@ -267,6 +267,7 @@ adguard.kantinyoyok.xyz
 adguard.kaytek.org
 adguard.kenzohost.de
 adguard.kibaofficial.net
+adguard.kiboko.it
 adguard.kinnee.net
 adguard.kngnet.de
 adguard.konikoni428.com
@@ -842,6 +843,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.dh.ci
 d.gametechnet.com
+d.hansj.cc
 d.luwei.date
 d.search-data.tk
 d.smart365.tk
@@ -1036,6 +1038,7 @@ dns.adguard-dns.com
 dns.adguard.beltoev.ru
 dns.adguard.com
 dns.adguard.kozich.net
+dns.adguard0808.cloudns.ph
 dns.adrianlam.com
 dns.adups.com
 dns.aerro.in
@@ -1192,6 +1195,7 @@ dns.dmr.pw
 dns.dns-over-https.com
 dns.dnshome.de
 dns.dnsoverhttps.net
+dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
 dns.domsku.com
@@ -1224,6 +1228,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.enderblocks.net
 dns.energized.pro
+dns.engineer-lib.ru
 dns.erebur.net
 dns.erw.cc
 dns.esegece.com
@@ -1548,6 +1553,7 @@ dns.phuctran.cloud
 dns.pieterdherde.com
 dns.pietjacobs.be
 dns.pldweb.net
+dns.pmxu.link
 dns.porteii.com
 dns.pragmasec.nl
 dns.privacy.cm
@@ -1598,6 +1604,7 @@ dns.rubyfish.cn
 dns.s3cure.us
 dns.sac.rebl.eu.org
 dns.safeith.com
+dns.safko.eu
 dns.sakuraseasons.com
 dns.sarak.as
 dns.sarakas.net
@@ -1670,6 +1677,7 @@ dns.tls-data.de
 dns.tomitomix.net
 dns.tooizi.eu
 dns.tracker.ink
+dns.trifanov-online.ru
 dns.truong.fi
 dns.trust404.win
 dns.tsgmcoinfra.com
@@ -1773,6 +1781,7 @@ dns01.flm9.net
 dns01.woosahdigitalhosted.com
 dns02.almir1904.eu
 dns02.oceanprint.com.br
+dns02.wewa.me
 dns03.almir1904.eu
 dns1-secure.wifire.it
 dns1.a-desg.cc
@@ -1820,6 +1829,7 @@ dns2.afastserver.com
 dns2.alekberg.net
 dns2.art-nas.pp.ua
 dns2.bai0012.com
+dns2.bartoszturek.online
 dns2.biryuk.name
 dns2.cantello.media
 dns2.cbio.top
@@ -1831,6 +1841,7 @@ dns2.gms.net.id
 dns2.guidocioni.it
 dns2.h0schi.cloud
 dns2.home-albrecht.com
+dns2.idsam.com
 dns2.ipv6.dnscrypt.ca
 dns2.karmanet.ch
 dns2.keipert.me
@@ -2151,6 +2162,7 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
+domainexpired.dnspod.cn
 dominatrix.brandonsli.com
 donghovietkid.cloud
 dontfilter.us
@@ -2254,6 +2266,7 @@ edgar.tobkar.net
 edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
+egshe.myqnapcloud.com
 elc.meudns.minhacasainteligente.cf
 eliatofani.ovh
 elshad-adgh-dns.ru
@@ -2323,6 +2336,7 @@ felipefalcao.me
 felipefalcao.ninja
 fezgate.ovh
 fggdd.top
+fi-hel-w-1.nashkan.net
 fi-hel-w-2.nashkan.net
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
@@ -2580,6 +2594,7 @@ home.qbak.net
 home.quentin-stoeckel.fr
 home.skrzypiec.pl
 home.snow-sugar.net
+home.supelrafal.pl
 home.tuankhaiit.com
 home.wriedts.de
 home27.duckdns.org
@@ -3045,6 +3060,7 @@ nonanon.pl
 nongdanthanky.com
 nordvpn.com
 note.dehb.ru
+notebait.ddnsfree.com
 notecore.me
 novikovfamily.info
 nrt.core.access.zznet.fun
@@ -3391,6 +3407,7 @@ quad9.net
 qual.cuprum.ru
 quantum-age.cn
 query.hdns.io
+query.mobyds.com
 query.shenl.in
 quickprox.com
 quickproxy.co.uk
@@ -3663,6 +3680,7 @@ srgaghome.freemyip.com
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -4040,6 +4058,7 @@ vpn.ncapi.io
 vpn.net
 vpn.rynet.link
 vpn.sakhwow.ru
+vpn.stroialliance.com
 vpn.vokuev.org
 vpn0109.voodonline.fr
 vpnbook.com
@@ -4239,6 +4258,7 @@ www.szyrzyk.pl
 www.taufner.net
 www.timothytimothy.cf
 www.urology.wiki
+www.vpn.stroialliance.com
 www.vpnhellings.nl
 www.whitegeek.icu
 www.xantirealityx.net
