@@ -3033,6 +3033,7 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3512,6 +3513,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3629,6 +3631,7 @@ shiestyro.world
 shybbw.myz.info
 siddeus.synology.me
 silicloud-dns.itbbs.org
+sin-one.adorsnet.work
 sin.core.access.zznet.fun
 sinas85.synology.me
 singapore.fuckll.com
@@ -3662,6 +3665,7 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
+soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3723,6 +3727,7 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
+surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4206,6 +4211,7 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
+www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
