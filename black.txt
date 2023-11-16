@@ -1,3 +1,4 @@
+001.smallnode.net
 003.tisyang.com
 0099domain.ecuplshsj.cn
 012proxy.ga
@@ -297,6 +298,7 @@ adguard.myddns.org
 adguard.myhomelab.tech
 adguard.mywebdoma.in
 adguard.netmasc.services
+adguard.new-asgard.net
 adguard.nhatlong.work
 adguard.nielsenhost.dk
 adguard.nielsvoorn.nl
@@ -603,6 +605,7 @@ azagramac.duckdns.org
 azbs.ddmm.eu.org
 azirevpn.com
 azure.cloudflare-dns.com
+azure.quydang.name.vn
 b-ipv4.bhadrikais.my.id
 b.family.ns.dnslify.com
 b.jtt.ink
@@ -1128,6 +1131,7 @@ dns.cases.works
 dns.ccrespawn.net
 dns.ceai.com.tw
 dns.cearhome.top
+dns.cfd.com.ar
 dns.cfiec.net
 dns.chadeyron.fr
 dns.chaosen3.co.uk
@@ -1349,6 +1353,7 @@ dns.itcosc.com
 dns.itcz.xyz
 dns.itdata.ro
 dns.itdept.pro
+dns.ithg.ru
 dns.itsec.crolla.net
 dns.itwht.com
 dns.ivyeori.live
@@ -1411,6 +1416,7 @@ dns.larsdebruin.net
 dns.lat-team.com
 dns.lat-team.xyz
 dns.lehonganh.id.vn
+dns.letanml.xyz
 dns.lfac.ml
 dns.lfac.xyz
 dns.lgprk.com
@@ -1466,6 +1472,7 @@ dns.molinero.dev
 dns.moog.sh
 dns.moonssif.com
 dns.moonwx.net
+dns.motazhakim.com
 dns.moulticast.net
 dns.mrkaran.dev
 dns.mrzbcli.ru
@@ -1634,6 +1641,7 @@ dns.skrep.eu
 dns.skrep.in
 dns.skrzypiec.pl
 dns.slinkyman.net
+dns.smnetwork.live
 dns.spil.co.id
 dns.spok.fun
 dns.sshub.win
@@ -1780,6 +1788,7 @@ dns01.almir1904.eu
 dns01.flm9.net
 dns01.woosahdigitalhosted.com
 dns02.almir1904.eu
+dns02.enginyring.com
 dns02.oceanprint.com.br
 dns02.wewa.me
 dns03.almir1904.eu
@@ -2353,6 +2362,7 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
+firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2485,6 +2495,7 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
+grape.991123.xyz
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -2568,6 +2579,7 @@ hkd.177093946.xyz
 hkd.nicefly2099.cf
 hkg.core.access.zznet.fun
 hkg.hytec.org
+hkname.freecdn.one
 hlll.fun
 ho.hostme.co.il
 hoarfox.us
@@ -2776,6 +2788,7 @@ kintoun.alves.cc
 kintyre.uk
 kiwifunke.duckdns.org
 kk.sshub.win
+km5uy2rh.svipcdn.cn
 kn10.top
 knight1.de
 kondrcloud.ru
@@ -2810,7 +2823,6 @@ ky2dns.com
 kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
-l.l.ovpn.bond
 lab-1.sellan.fr
 lab.sellan.fr
 lamdtl.giize.com
@@ -2930,6 +2942,7 @@ mikatos.de
 mikewaddick.com
 mimile.despagne.net
 mimile.despagne.ovh
+mimini.dzemlyuk.pw
 mimir.netwerk.io
 minilla.store
 miniprox.com
@@ -2942,6 +2955,7 @@ mocha.r.rnet.ie
 mofolinux.com
 mojserwer.myasustor.com
 montmorot.duckdns.org
+moonbd.top
 morbitzer.de
 moto.adg.siudzinski.net
 mozilla.cloudflare-dns.com
@@ -3033,7 +3047,6 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3125,6 +3138,7 @@ nsc.torgues.net
 nsec.arnor.org
 nsin.live
 nsnacho.dyndns.org
+nsown.com
 ntu.ssooss.win
 nudnud.com
 nukys.ca
@@ -3513,7 +3527,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3631,7 +3644,6 @@ shiestyro.world
 shybbw.myz.info
 siddeus.synology.me
 silicloud-dns.itbbs.org
-sin-one.adorsnet.work
 sin.core.access.zznet.fun
 sinas85.synology.me
 singapore.fuckll.com
@@ -3665,7 +3677,6 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3727,7 +3738,6 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
-surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4211,7 +4221,6 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
-www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
@@ -4243,6 +4252,7 @@ www.masters-of-cloud.de
 www.mathease.cn
 www.meiju444.tk
 www.michiganska.com
+www.moonbd.top
 www.morbitzer.de
 www.muxyuji.ru
 www.myadguardhome.me
@@ -4329,7 +4339,9 @@ yyaan.com
 yyc.ink
 yyqsite.top
 yzh97rc.xyz
+z8vqwuax.svipcdn.cn
 za-joh-w-2.nashkan.net
+zabolotskikh.dev
 zacebookpk.com
 zak.ath.cx
 zakshinovh.duckdns.org
@@ -4343,6 +4355,7 @@ zero.dns0.eu
 zetland.rm-ni.uk
 zh.sorannbb.buzz
 zoogvpn.com
+zoopark-vpn.ddns.net
 zorrovpn.io
 zougloub.eu
 zp4r7m8udwdqpnst.eastasia.cloudapp.azure.com
