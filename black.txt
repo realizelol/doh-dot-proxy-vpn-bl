@@ -2362,6 +2362,7 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
+firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2494,6 +2495,7 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
+grape.991123.xyz
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -2527,6 +2529,7 @@ h.gjrick.tw
 h.ra3.in
 hahnjo.de
 hanahira.dev
+hanliang.fortiddns.com
 haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcu.icu
@@ -2586,6 +2589,7 @@ hole.elbschloss.xyz
 home.501w.net
 home.basthorst.eu
 home.bruckmoser.it
+home.chadeyron.fr
 home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
@@ -2821,6 +2825,7 @@ ky2dns.com
 kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
+l.l.ovpn.bond
 lab-1.sellan.fr
 lab.sellan.fr
 lamdtl.giize.com
