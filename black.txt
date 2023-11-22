@@ -76,11 +76,11 @@ a5135324.csie.io
 aalqudah.site
 aang7.com
 aattwwss.duckdns.org
+abe01.dnscry.pt
 abel.waringer-atg.de
 ablock.fuckit.ovh
 abovetheclouds.fun
 abrarvanwebhosting.tk
-abstergo.it
 aceproxy.com
 acevpn.com
 acomit.lk
@@ -510,6 +510,8 @@ amigo.hr.i81.ru
 amigo.px.i81.ru
 amigo.vd.i81.ru
 amigo.vpn.i81.ru
+ams01.dnscry.pt
+ams02.dnscry.pt
 amz.long-nguyen.info
 an.kanahanazawa.com
 an.loliconapp.top
@@ -572,6 +574,7 @@ at.pzhg.me
 atarikid.com
 atelier.alica.idv.tw
 atl.firestorrrm.com
+atl01.dnscry.pt
 atlantic.dyn1.de
 atlas.cllctv.site
 atlasvpn.com
@@ -676,6 +679,7 @@ bluewall.cloud
 bobstrecansky.com
 bogbone.com
 bolehvpn.net
+bom01.dnscry.pt
 boomproxy.com
 borderlessvpn.io
 bovat.ddns.net
@@ -803,8 +807,11 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-eu-1.y.dns.hanwuss.loongapi.com
 cn.turngreatwall.com
+cn1.hanwuss.loongapi.com
 cname-for-doh.go-behind.one
+coe01.dnscry.pt
 colean.go.ro
 commons.host
 comss.one
@@ -833,6 +840,7 @@ cubedns.com
 curses.cloud
 cv-2173.dnsserver.eu
 cvt-ic-us-adns-001.clearviewtechnology.net
+cvt01.dnscry.pt
 cyberghostvpn.com
 cyliu.idv.tw
 cynntex.fun
@@ -931,6 +939,7 @@ deus-server.duckdns.org
 dev.camelstrike.xyz
 dev.reallemc.com
 devsimo.it
+dfw01.dnscry.pt
 dgca.myds.me
 dhlifeus-micro1.dns.3456.kr
 dhold.2025up.xyz
@@ -2245,13 +2254,16 @@ drive.jjlizz.com
 dronix27.ru
 drwg.org
 ds3617xs.jojo1204.xyz
+dtw01.dnscry.pt
 dub.r.rnet.ie
+dub01.dnscry.pt
 dubere.home.ro
 ducphuclee.tech
 dukun.de
 dumbledore.steinr.eu
 dupatruwi22.fun
 dus.ysbs.uk
+dus01.dnscry.pt
 duyyen.cf
 duyyen.tk
 dvaguirredns1.ddns.net
@@ -2388,6 +2400,7 @@ fr1.dnswarden.com
 fr1.eastjoin.tk
 fra-01.puhdns.de
 fra.core.access.zznet.fun
+fra01.dnscry.pt
 fra1.eyecay.xyz
 fra2.eyecay.xyz
 franceproxy.pw
@@ -2460,6 +2473,7 @@ gclouddns.com
 gcplog.seggs.cn
 ge.libaced.one
 geckovpn.xyz
+geg01.dnscry.pt
 genmirror.com
 genscorp.es
 georgia.ddns.net
@@ -2580,6 +2594,7 @@ hkd.177093946.xyz
 hkd.nicefly2099.cf
 hkg.core.access.zznet.fun
 hkg.hytec.org
+hkg01.dnscry.pt
 hkname.freecdn.one
 hlll.fun
 ho.hostme.co.il
@@ -2696,6 +2711,7 @@ ir.deghy.ir
 iris.woozeno.eu
 irre.li
 ispunblock.com
+ist01.dnscry.pt
 it-pal-w-1.nashkan.net
 itbbs.org
 itlikehell.ru
@@ -2720,6 +2736,7 @@ jenanga.ipv64.net
 jit.ddns.net
 jjm.asia
 jkdsm.com
+jnb01.dnscry.pt
 johnsson.ovh
 jonasdevries.de
 jonathanaugusto.freeddns.org
@@ -2788,6 +2805,7 @@ kilabit.info
 killads.vpms.xyz
 kintoun.alves.cc
 kintyre.uk
+kiv01.dnscry.pt
 kiwifunke.duckdns.org
 kk.sshub.win
 km5uy2rh.svipcdn.cn
@@ -2832,8 +2850,11 @@ lamdtl.giize.com
 lampedns.bagmeijer.nl
 laptop001.greppie.nl
 larkin.wang
+las01.dnscry.pt
 lastentarvike.fi
 lax.core.access.zznet.fun
+lax01.dnscry.pt
+lax02.dnscry.pt
 lazareth.live
 lboxtv.top
 le-vpn.com
@@ -2865,11 +2886,13 @@ lion.dns.qwer.pw
 lion.yazilimatolye.com
 lipunyushka.ru
 live.jjlizz.com
+llk01.dnscry.pt
 lmkatest.ru
 lmz.meudns.minhacasainteligente.cf
 locaweb.moleniuk.com
 loli.sektehalodavid.click
 lon-dns.bitdefender.net
+lon01.dnscry.pt
 lookingglass.site
 lopana.com
 lops.lol
@@ -2891,6 +2914,7 @@ lv-rig-w-2.nashkan.net
 lv1.nixnet.xyz
 lwhjszcnzjhz.site
 ma1.guardmydns.com
+mad01.dnscry.pt
 maddino.dedyn.io
 maddw.com
 madrid.ciscofreak.com
@@ -2940,6 +2964,7 @@ metproxy.com
 meudns.minhacasainteligente.cf
 mg.zbr2464.buzz
 mia.dns4sec.com
+mia01.dnscry.pt
 michiganska.com
 mikatos.de
 mikewaddick.com
@@ -2969,6 +2994,7 @@ msfste.site
 msr177.com
 msxnet.ru
 muc-ns01.ibytex.systems
+muc01.dnscry.pt
 muffincat.ru
 muli.stusta.mhn.de
 mullvad.net
@@ -3026,6 +3052,7 @@ nas302.ddns.net
 nastya.dns.vladpro.ru
 nat64.tuxis.nl
 nathor.ddns.net
+naw01.dnscry.pt
 nayemador.com
 nd.nimbahanet.xyz
 ndns.233py.com
@@ -3043,6 +3070,7 @@ netcat.one
 netherlands.plumedns.com
 new-proxy-sites.blogspot.com
 new.nhunor.com
+new.pragmasec.nl
 newipnow.com
 newlibrarian.myqnapcloud.com
 next.miao.ninja
@@ -3150,6 +3178,7 @@ nwps.duckdns.org
 nxa.21.ax
 ny.teradns.org
 ny1.nixnet.xyz
+nyc01.dnscry.pt
 nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
@@ -3216,6 +3245,7 @@ oraclejp2.chungyu.com
 oradns.anbitech.com
 orangeproxy.net
 orau.lz0724.com
+ord01.dnscry.pt
 ordns.he.net
 orjp4.lz0724.com
 orpi.privado.ovh
@@ -3255,6 +3285,7 @@ pcornet.freeboxos.fr
 pdns.faelix.net
 pdns.fatlab.llc
 pdns.itxe.net
+pdx01.dnscry.pt
 pedo.sektehalodavid.click
 per.adfilter.net
 percival.empty.pw
@@ -3264,13 +3295,14 @@ pestemedie.silviustroe.com
 peter-adguard.ddns.net
 pg.web-rated.ie
 philqoo.com
+phl01.dnscry.pt
 photo.dehb.ru
 phucbui.top
+phx01.dnscry.pt
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
-piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3455,6 +3487,7 @@ rdjcloud.duckdns.org
 rdjdns.ajraspi.xyz
 rdns-a.adtech-it.com
 rdns.faelix.net
+rdu01.dnscry.pt
 reaperserver.ddns.net
 reidun.digitaladapt.com
 remote.sufly.top
@@ -3650,6 +3683,7 @@ siddeus.synology.me
 silicloud-dns.itbbs.org
 sin-one.adorsnet.work
 sin.core.access.zznet.fun
+sin01.dnscry.pt
 sinas85.synology.me
 singapore.fuckll.com
 singaporeproxy.nu
@@ -3674,6 +3708,7 @@ sky.rethinkdns.com
 skyline.vvvvvei.win
 slambenchmarking.buzz
 slb.japaneast.cloudapp.azure.com
+slc01.dnscry.pt
 sm5q237c0.g666gle.me
 smartdnsproxy.com
 smtp.greppie.nl
@@ -3682,6 +3717,7 @@ snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
+sof01.dnscry.pt
 soldier.terumi.club
 solution.w10.life
 soncms.id.vn
@@ -3701,7 +3737,6 @@ srgaghome.freemyip.com
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -3721,6 +3756,7 @@ staycute.xyz
 stealthy.co
 steering.nextdns.io
 steff.sbs
+sto01.dnscry.pt
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
@@ -3757,6 +3793,7 @@ swoshsvpn.com
 syd-docker.lspcr.space
 syd.adfilter.net
 syd.core.access.zznet.fun
+syd01.dnscry.pt
 syd1.norgannetworks.net.au
 sync-danielius.racinas.com
 sync-moisejus.racinas.com
@@ -3811,6 +3848,7 @@ timothytimothy.cf
 tj.jamesxue.xyz
 tk31z.com
 tkge.tk
+tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
 tls.jackyhou.idv.tw
 tls.vietguards.cloud
@@ -3835,11 +3873,14 @@ torrents.racinas.com
 torresdelarosa.dev
 touchvpn.net
 towman.ddns.net
+tpa01.dnscry.pt
+tpe01.dnscry.pt
 tr-ist-w-1.nashkan.net
 tr-izm-w-1.nashkan.net
 travelvpn.info
 travelvpn.net
 travis90x.ddns.net
+trf01.dnscry.pt
 trickbyte.com
 trojan.nowave.top
 trr.dns.nextdns.io
@@ -3861,6 +3902,7 @@ tw2.ooroot.com
 twbak.duckdns.org
 tx.teradns.org
 tylda.duckdns.org
+tyo01.dnscry.pt
 typaza.com
 ua-kyv-w-1.nashkan.net
 ublock-dns-resolver-01.swedencentral.cloudapp.azure.com
@@ -4030,6 +4072,7 @@ victormdns.ddns.net
 videounblock.com
 videounblocker.net
 vidproxy.com
+vie01.dnscry.pt
 viewyoutube.net
 vikose.com.vn
 virga.pp.ua
@@ -4178,6 +4221,7 @@ wantaquddin.com
 warrier120-dns.duckdns.org
 warrier120120.duckdns.org
 warrier120s-adguard-home.duckdns.org
+waw01.dnscry.pt
 wccw.cc
 wdns.233py.com
 web-rated.ie
@@ -4319,6 +4363,7 @@ yanggan.eu.org
 yario.ru
 yarp.lefolgoc.net
 yatesfamily.cloud
+ycg01.dnscry.pt
 ychen.cf
 ychen.ga
 ychen.gq
@@ -4339,6 +4384,7 @@ ys.cloud-sekeng.com
 ytpom.tk
 yuanmingming.com
 yuhui.tk
+yul01.dnscry.pt
 yunyun.is.my.waifu.cz
 yuripe.ccnt.fr
 yvanliang.tech
@@ -4354,6 +4400,7 @@ zabolotskikh.dev
 zacebookpk.com
 zak.ath.cx
 zakshinovh.duckdns.org
+zal01.dnscry.pt
 zalmos.com
 zblank.cn
 zend2.com
