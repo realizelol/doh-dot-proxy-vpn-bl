@@ -81,6 +81,7 @@ abel.waringer-atg.de
 ablock.fuckit.ovh
 abovetheclouds.fun
 abrarvanwebhosting.tk
+abstergo.it
 aceproxy.com
 acevpn.com
 acomit.lk
@@ -152,7 +153,6 @@ adg.rokh.biz
 adg.siudzinski.net
 adg.ssy123.xyz
 adg.swh123.xyz
-adg.tshost.no
 adg.yuzi.one
 adg.yybyy.wiki
 adg2.felhocskek.hu
@@ -807,9 +807,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
-cn-eu-1.y.dns.hanwuss.loongapi.com
 cn.turngreatwall.com
-cn1.hanwuss.loongapi.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
 colean.go.ro
@@ -895,6 +893,7 @@ ddns.haha2048.site
 ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
+ddns.teunschrader.nl
 de-dus.doh.sb
 de-fra.doh.sb
 de-fsn-i-5.tegant.net
@@ -1953,7 +1952,6 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
-dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsvps.familiamv.ml
 dnsvps.porteii.com
@@ -2723,7 +2721,6 @@ ivnkn.xyz
 ivpn.net
 jabber-germany.de
 jabber-server.de
-jack-black-adguard.duckdns.org
 jackyes.ovh
 james-solomon.com
 jarjar.meganerd.nl
@@ -3303,6 +3300,7 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
+piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole.gcp.pathofgrace.com
@@ -3737,6 +3735,7 @@ srgaghome.freemyip.com
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -4188,7 +4187,6 @@ vps298.brueggus.de
 vps299.brueggus.de
 vps300.brueggus.de
 vps301.brueggus.de
-vps302.brueggus.de
 vps303.brueggus.de
 vps304.brueggus.de
 vps305.brueggus.de
