@@ -699,6 +699,7 @@ buc-m2.illmods.com
 buffered.com
 bumblebee.site
 bunch-o-nerds.com
+bushido.node.rferee.dev
 bushmancastle.duckdns.org
 bvo.giize.com
 bw.i81.ru
@@ -1472,7 +1473,6 @@ dns.mipauns.com
 dns.mirandil.ru
 dns.misland.net
 dns.mlxysf.pp.ua
-dns.mni.li
 dns.mocn.top
 dns.moesite.top
 dns.mokyun.cn
@@ -1952,6 +1952,7 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
+dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsvps.familiamv.ml
 dnsvps.porteii.com
@@ -2721,6 +2722,7 @@ ivnkn.xyz
 ivpn.net
 jabber-germany.de
 jabber-server.de
+jack-black-adguard.duckdns.org
 jackyes.ovh
 james-solomon.com
 jarjar.meganerd.nl
@@ -3057,7 +3059,6 @@ neatdns.ustclug.org
 nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
-nemless.dedyn.io
 neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
@@ -3244,6 +3245,7 @@ orangeproxy.net
 orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
+origami.node.rferee.dev
 orjp4.lz0724.com
 orpi.privado.ovh
 ortudns.com
@@ -3269,6 +3271,7 @@ padermail.net
 paimon.sev.monster
 palazzoddns.tk
 pandashield.com
+paranoia.mydns.network
 parrotsec.org
 pasi.cat
 paskam.tk
