@@ -72,6 +72,7 @@ a.safe.ns.dnslify.com
 a.sinafreenet.ml
 a.sunday.eu.org
 a.vvvglass.com
+a1507.asuscomm.com
 a5135324.csie.io
 aalqudah.site
 aang7.com
@@ -344,6 +345,7 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
 adguard.spaceindex.net
+adguard.sparshbajaj.me
 adguard.spyrisk.fr
 adguard.sscw.win
 adguard.stealbit.com
@@ -473,6 +475,7 @@ agh.odvpn.ru
 agh.printk.info
 agh.xinfeng16m.top
 agh2.server.my.id
+agh2lj.duckdns.org
 agh3.server.my.id
 aghvm1.mastomi.id
 agp01.tek411.com
@@ -490,10 +493,12 @@ akaboom.fun
 akaboom.ru
 akhil.ddns.net
 akhilkalwakurthy.dyndns.org
+akhils-dns.ddns.net
 akr177.com
 akylah.zapto.org
 aleafy.ddns.net
 alexpollard.synology.me
+ali.dn53.my.id
 alisa.hr.i81.ru
 alisa.vd.i81.ru
 alisa.vpn.i81.ru
@@ -863,6 +868,7 @@ d.x2jz.cn
 d2.nextcloudend.info
 d2.shabi.icu
 d2bphvjyj895l0.cloudfront.net
+d2f43694-f6af-4b3a-a0d9-9c521bc227fc.undo.it
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
@@ -947,6 +953,7 @@ dht.aelitis.com
 dht.transmissionbt.com
 dht.vuze.com
 di2626.xyz
+di3.shahramv1.site
 diblock.rnrkurir.com
 digi77.com
 digitale-gesellschaft.ch
@@ -1954,6 +1961,7 @@ dnssilo.top
 dnstls.mobik.com
 dnstls.neutopia.org
 dnsunfiltered.adguard.com
+dnsupstream02.familieberfelo.nl
 dnsvps.familiamv.ml
 dnsvps.porteii.com
 dnsvs.duckdns.org
@@ -2179,7 +2187,6 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
-domainexpired.dnspod.cn
 dominatrix.brandonsli.com
 donghovietkid.cloud
 dontfilter.us
@@ -2239,7 +2246,6 @@ dotvpn.com
 doublehop.me
 douglas.mebrak.fr
 douglaster.com
-download.dehb.ru
 downloadvpnfree.com
 doyouremember.love
 dpeddi.myddns.com
@@ -2248,7 +2254,6 @@ dr-adguard.de
 dr3d.my.id
 draco.plan9-ns2.com
 drahonn.pro
-drive.dehb.ru
 drive.jjlizz.com
 dronix27.ru
 drwg.org
@@ -2282,6 +2287,7 @@ ecs-auto.fanscloud.net
 ecs-doh.dnswarden.com
 ecxs.asia
 eddi.usgovtrafficmanager.net
+edelgard.duckdns.org
 edgar.tobkar.net
 edgy-dns.com
 edns.233py.com
@@ -2364,7 +2370,6 @@ fi.jelebruh.xyz
 fiberprox.me
 fiberproxy.fr
 fiberproxy.net
-file.dehb.ru
 filmgardi.ml
 filter.chyperx.cc
 filterbypass.me
@@ -2373,6 +2378,7 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
+firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2488,7 +2494,6 @@ ggdns.club
 ggrbb.xyz
 ginnungagap.rabenhain.net
 git.andrewnw.xyz
-git.racinas.com
 gitdns.ddnsfree.com
 gizlibaglanti.com
 glory.of.god.9l3.com
@@ -2541,7 +2546,6 @@ h.gjrick.tw
 h.ra3.in
 hahnjo.de
 hanahira.dev
-hanliang.fortiddns.com
 haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcu.icu
@@ -2551,6 +2555,7 @@ helios.plan9dns.com
 hellojonathan.xyz
 helloworld.cx
 heoyun.com
+hermes.kurup.in
 hermes.ohai.ca
 hewittnet.us
 hgns.harriganhome.ga
@@ -2599,10 +2604,8 @@ ho.hostme.co.il
 hoarfox.us
 hola.org
 hole.elbschloss.xyz
-home.501w.net
 home.basthorst.eu
 home.bruckmoser.it
-home.chadeyron.fr
 home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
@@ -2722,6 +2725,7 @@ jabber-germany.de
 jabber-server.de
 jack-black-adguard.duckdns.org
 jackyes.ovh
+jambi.undo.it
 james-solomon.com
 jarjar.meganerd.nl
 jatadguardhome.duckdns.org
@@ -2935,6 +2939,7 @@ marimuttz.asuscomm.com
 markolll.ru
 mars.pccoach.nl
 mask-h.icloud.com
+mastergad.me
 masters-of-cloud.de
 mathease.cn
 matrix.soeding.ddnss.de
@@ -3178,6 +3183,7 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
+o.i.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -3273,6 +3279,7 @@ pasi.cat
 paskam.tk
 pass12335.myds.me
 pates.services.sfr.fr.casepp.sfr.fr
+paulopinto.duckdns.org
 pccoach.ddns.net
 pcd96.duckdns.org
 pcgo.fun
@@ -3347,6 +3354,7 @@ private.adguard.wessels-net.nl
 private.canadianshield.cira.ca
 private.sunday.eu.org
 private.supplies.eu.org
+privatebard.com
 privateinternetaccess.com
 privatevpn.com
 privatnas.servebeer.com
@@ -3560,7 +3568,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3576,6 +3583,7 @@ sakuraknight2023.top
 sams.adg.siudzinski.net
 samsdns1943.net
 sandbox.opendns.com
+saomai.dynu.com
 saoudiproxy.info
 sarawut.ddns.net
 saruman.freeddns.org
@@ -3678,7 +3686,6 @@ shiestyro.world
 shybbw.myz.info
 siddeus.synology.me
 silicloud-dns.itbbs.org
-sin-one.adorsnet.work
 sin.core.access.zznet.fun
 sin01.dnscry.pt
 sinas85.synology.me
@@ -3715,7 +3722,6 @@ soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
 sof01.dnscry.pt
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3778,7 +3784,6 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
-surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4053,12 +4058,12 @@ vallecerroazul.com
 valleverde.icu
 vanced.ddns.net
 vanced.racinas.com
+vanced.sytes.net
 varganet.org
 vasya.fb.i81.ru
 vasya.hr.i81.ru
 vasya.vd.i81.ru
 vasya.vpn.i81.ru
-vault-101.net
 vault.charraud.eu
 vcdriy.top
 vd.i81.ru
@@ -4134,6 +4139,7 @@ vpnto.bhadrikais.my.id
 vpnunlimited.com
 vpnunlimitedapp.com
 vps-33e5a7f3.vps.ovh.us
+vps-ovh.pb2004.pl
 vps.avc.cx
 vps.fleuryk.ovh
 vps.grussenmeyer.com
@@ -4259,7 +4265,6 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
-www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
