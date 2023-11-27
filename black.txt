@@ -2187,6 +2187,7 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
+domainexpired.dnspod.cn
 dominatrix.brandonsli.com
 donghovietkid.cloud
 dontfilter.us
@@ -2340,6 +2341,7 @@ family.dns.ningkelle.id
 family.dns.vladpro.ru
 family.dns.yandex.ru
 family.freedns.controld.com
+family.mydns.network
 family.ns.dnslify.com
 family.puredns.org
 familyshield.opendns.com
@@ -2512,7 +2514,6 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
-grape.991123.xyz
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -2606,6 +2607,7 @@ hola.org
 hole.elbschloss.xyz
 home.basthorst.eu
 home.bruckmoser.it
+home.chadeyron.fr
 home.ddns.network
 home.dlinkddns.com
 home.f7b6h9.tk
@@ -2913,6 +2915,7 @@ lv-rig-w-1.nashkan.net
 lv-rig-w-2.nashkan.net
 lv1.nixnet.xyz
 lwhjszcnzjhz.site
+m.s.4l2.cn
 ma1.guardmydns.com
 mad01.dnscry.pt
 maddino.dedyn.io
@@ -3568,6 +3571,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3686,6 +3690,7 @@ shiestyro.world
 shybbw.myz.info
 siddeus.synology.me
 silicloud-dns.itbbs.org
+sin-one.adorsnet.work
 sin.core.access.zznet.fun
 sin01.dnscry.pt
 sinas85.synology.me
@@ -3722,6 +3727,7 @@ soay38us0r7goa7.cmsdp.my.id
 socks-proxy.net
 soeding.ddnss.de
 sof01.dnscry.pt
+soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3784,6 +3790,7 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
+surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4064,7 +4071,7 @@ vasya.fb.i81.ru
 vasya.hr.i81.ru
 vasya.vd.i81.ru
 vasya.vpn.i81.ru
-vault.charraud.eu
+vault-101.net
 vcdriy.top
 vd.i81.ru
 vdsina.ddns.net
@@ -4265,6 +4272,7 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
+www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
