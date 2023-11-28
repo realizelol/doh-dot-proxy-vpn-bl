@@ -2380,7 +2380,6 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
-firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2514,6 +2513,7 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
+grape.991123.xyz
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -2725,7 +2725,6 @@ ivnkn.xyz
 ivpn.net
 jabber-germany.de
 jabber-server.de
-jack-black-adguard.duckdns.org
 jackyes.ovh
 jambi.undo.it
 james-solomon.com
@@ -3571,7 +3570,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3780,6 +3778,7 @@ stuxen.duckdns.org
 suanr.top
 suedeproxy.info
 sufly.top
+sundalandia.pp.ua
 sunnygyl.com
 supervpn.best
 surf-for-free.com
