@@ -2725,6 +2725,7 @@ ivnkn.xyz
 ivpn.net
 jabber-germany.de
 jabber-server.de
+jack-black-adguard.duckdns.org
 jackyes.ovh
 jambi.undo.it
 james-solomon.com
@@ -3185,7 +3186,6 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
-o.i.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -3570,6 +3570,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
