@@ -95,6 +95,7 @@ ad.chowncloud.com
 ad.dscw.io
 ad.emekm.fr
 ad.guard.ru.net
+ad.hy131212.tk
 ad.lsal.fr
 ad.miaouu.top
 ad.milys.pl
@@ -217,6 +218,7 @@ adguard.clroot.io
 adguard.cnbeining.com
 adguard.connexum.mx
 adguard.crestfallen.de
+adguard.crobix.ovh
 adguard.darrenhizon.com
 adguard.dashofsunny.com
 adguard.ddns.net
@@ -454,6 +456,7 @@ ae-fuj-w-1.nashkan.net
 ae-fuj-w-2.nashkan.net
 ae-fuj-w-3.nashkan.net
 ae-fuj-w-4.nashkan.net
+ae-fuj-w-7.nashkan.net
 ag-dns-01.cloud.judsen.io
 ag.apollohct.com
 ag.brianlee.fun
@@ -474,10 +477,12 @@ agh-yz.russel053.com
 agh.alushi.net
 agh.fltn.us
 agh.ixghzx.ml
+agh.kul-lippek.de
 agh.kyashi.fun
 agh.noton.tk
 agh.odvpn.ru
 agh.printk.info
+agh.workfordemo.co.in
 agh.xinfeng16m.top
 agh2.server.my.id
 agh2lj.duckdns.org
@@ -686,6 +691,7 @@ blockless.com
 blog.kimiblock.top
 blokit.esohjay.tk
 blokuj.ujwie.co
+bloque.jangelrz.com
 bluecomet.eu.org
 bluedns.xyz
 bluemood.me
@@ -775,6 +781,7 @@ cg‑dialup.net
 ch-zur-w-1.nashkan.net
 ch01adguardho.me
 chandr1000.net
+changesmart2023.top
 chanhome.xyz
 chaos-system.de
 chaos.altendorfme.com
@@ -828,6 +835,7 @@ cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
 colean.go.ro
+common.dot.dns.yandex.net
 commons.host
 comss.one
 comss.ru
@@ -1798,6 +1806,7 @@ dns.wincservices.com
 dns.wkwkwk.fun
 dns.wns.watch
 dns.woexp.ru
+dns.woodyli.dev
 dns.worthmind.net
 dns.wpice.ru
 dns.wryhf.net
@@ -2130,6 +2139,7 @@ doh.lujiacai.top
 doh.lululu.eu.org
 doh.lululujp.eu.org
 doh.lv
+doh.max.net.id
 doh.mcasviper.de
 doh.micronets.in
 doh.mmmalia.com
@@ -2225,6 +2235,7 @@ domen-dns.ru
 dominatrix.brandonsli.com
 donghovietkid.cloud
 dontfilter.us
+door.plasmadancer.ru
 dop.privatedns.org
 dorkanddoodle.duckdns.org
 dosvid.tk
@@ -2363,6 +2374,7 @@ exns1.exalto.nu
 expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -2375,6 +2387,7 @@ family.cloudflaredns.com
 family.dns.ningkelle.id
 family.dns.vladpro.ru
 family.dns.yandex.ru
+family.dot.dns.yandex.net
 family.freedns.controld.com
 family.mydns.network
 family.ns.dnslify.com
@@ -2551,6 +2564,7 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
+grape.991123.xyz
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -2825,6 +2839,8 @@ kaiser.int.eu.org
 kaitain.restena.lu
 kakoito.site
 karimdns.com
+katherine-cloud-ip02.newcore.cl
+katherine-dns.newcore.cl
 kawaii.moeshop.online
 kawpad.southeastasia.cloudapp.azure.com
 kb.hanfling.click
@@ -2888,6 +2904,7 @@ ky2dns.com
 kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
+kz-pav-w-p-1.nashkan.net
 lab-1.sellan.fr
 lab.sellan.fr
 lamdtl.giize.com
@@ -3088,6 +3105,7 @@ nafni.one
 naganohara-yoimiya.momokko.moe
 name.my-station.ru
 name.wehao.net
+narrowgate.online
 nas-fusion.loisy.it
 nas-scheiben34.myasustor.com
 nas-t1.ddns.net
@@ -3108,12 +3126,14 @@ neatdns.ustclug.org
 nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
+nemless.dedyn.io
 neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
 net.tt6.net
 neta.a-desg.cc
 netcat.one
+netcup.mismat.ch
 netherlands.plumedns.com
 new-proxy-sites.blogspot.com
 new.nhunor.com
@@ -3182,6 +3202,7 @@ ns1-doh.iriseden.fr
 ns1.1899.com.mx
 ns1.95997.ip-ns.net
 ns1.bit-trails.nl
+ns1.depotthai.army
 ns1.dnsprivacy.at
 ns1.doh.best
 ns1.dotls.org
@@ -3438,6 +3459,7 @@ proxy-youtube.com
 proxy.eti.pw
 proxy.ext.devkon.org
 proxy.haoxuan.xyz
+proxy.landerbrauver.ru
 proxy.lol
 proxy.ordentlichbreit.de
 proxy.org
@@ -3586,6 +3608,7 @@ richardo.net
 ricko.is
 rilaic-multi.daonidc.com
 rin.sh
+rinqh.ddns.net
 riverboat6228.ddns.net
 rjmva.com
 rlobato.duckdns.org
@@ -3620,6 +3643,7 @@ s1.soft88.click
 sa01.dns4me.net
 sabeendns.hopto.org
 safe.dns.yandex.ru
+safe.dot.dns.yandex.net
 safe.ns.dnslify.com
 safeguardianvpn.com
 safervpn.com
@@ -3649,6 +3673,7 @@ se-sto-w-1.nashkan.net
 seanyan.ddns.net
 seaofbits.com
 sec-tunnel.com
+sec.iamninja.ru
 secforads3.ch
 secondary-dns.victorhachard.fr
 secondary.dns.yandex.ru
@@ -3706,6 +3731,7 @@ sg-sin.doh.sb
 sg-w-1.nashkan.net
 sg-w-4.nashkan.net
 sg-w-5.nashkan.net
+sg.101818.xyz
 sg.adhole.org
 sg.gridns.xyz
 sg.mubibai.com
@@ -3762,6 +3788,7 @@ slc01.dnscry.pt
 sm5q237c0.g666gle.me
 smartdnsproxy.com
 smtp.greppie.nl
+snafflefang.obn.cloud
 snd.jaxif.com
 snoke.meganerd.nl
 soay38us0r7goa7.cmsdp.my.id
@@ -3782,12 +3809,14 @@ spidervpn.org
 sporium.org
 spysurfing.com
 sradg.eastus.cloudapp.azure.com
+sradg2.eastus.cloudapp.azure.com
 sradminfk.ddns.net
 srgaghome.freemyip.com
 sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -3847,6 +3876,7 @@ syd.adfilter.net
 syd.core.access.zznet.fun
 syd01.dnscry.pt
 syd1.norgannetworks.net.au
+syre.pp.ua
 szyrzyk.pl
 t.jimmy.best
 t1c.240130034.xyz
@@ -4060,6 +4090,7 @@ us-saj-w-p-1.nashkan.net
 us-sea-w-5.nashkan.net
 us-sea-w-6.nashkan.net
 us.doh.cloudveil.org
+us.furry.show
 us.novali.date
 us.wisw.tk
 us01.dns4me.net
@@ -4071,10 +4102,12 @@ us5.wan.hc7z.com
 usafastproxy.info
 usdedi.ecapsul.com
 use-application-dns.net
+usernamex.fvds.ru
 usname.freecdn.one
 usproxies.info
 usproxy.nu
 usser.52huameng.com
+ususbuntu.rtrdgovt.com
 usz.xydustc.me
 utunnel.io
 uvpn.me
@@ -4134,6 +4167,7 @@ vmi1067860.contaboserver.net
 vmi880423.contaboserver.net
 vmok.ru
 vn-hcm-w-1.nashkan.net
+vn.dns.abpvn.com
 vobas.com
 void-gate.irre.li
 vova.hr.i81.ru
@@ -4292,6 +4326,7 @@ wolfdogcat.online
 wonderland.ws
 workhost.eu
 wossow.com
+www.abovetheclouds.fun
 www.acomit.lk
 www.adguard-server.cf
 www.adguard.marto.si
