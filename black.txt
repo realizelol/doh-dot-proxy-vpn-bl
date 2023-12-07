@@ -433,6 +433,7 @@ adguardprimarydns.cf
 adguardpublic01.rflinvestments.com
 adh.51st.top
 adh.blogcuahieu.com
+adh.fastpacefixit.info
 adh.haoqing.site
 adh.sigma.monster
 adl.adfilter.net
@@ -789,6 +790,7 @@ chaos-system.de
 chaos.altendorfme.com
 cheema.com.pk
 chenc79.online
+chenrouter.chironys.com
 chertila.tk
 chewbacca.meganerd.nl
 chibstatic.ru
@@ -833,7 +835,6 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
-cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -898,6 +899,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -1093,6 +1095,7 @@ dns.ahyxluo.ltd
 dns.ai6.ir
 dns.airsee.xyz
 dns.ajmariduena.com
+dns.albony.xyz
 dns.alekberg.net
 dns.alidns.com
 dns.alloxr.info
@@ -1148,6 +1151,7 @@ dns.billyau.net
 dns.bin.st
 dns.bitdefender.net
 dns.bitgeek.in
+dns.blaze-sk.ru
 dns.blindtechs.com
 dns.blokada.org
 dns.bluemeda.cf
@@ -1230,6 +1234,7 @@ dns.decky.eu
 dns.decloudus.com
 dns.deekshith.in
 dns.deluxerpanda.se
+dns.demirse.com
 dns.developer.li
 dns.dgea.fr
 dns.dhemant.observer
@@ -1405,6 +1410,7 @@ dns.jean.im
 dns.jens-server.de
 dns.jerryw.cn
 dns.jhangy.us
+dns.jianyi.studio
 dns.jimirobaer.be
 dns.jinwoo.dev
 dns.jnmj.cc
@@ -1693,8 +1699,10 @@ dns.skrep.in
 dns.skrzypiec.pl
 dns.slinkyman.net
 dns.smnetwork.live
+dns.sootoon.xyz
 dns.spil.co.id
 dns.spok.fun
+dns.srijan.site
 dns.sshub.win
 dns.sstomp.nl
 dns.startupstack.tech
@@ -1722,6 +1730,7 @@ dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
 dns.thechance.family
+dns.thegodfatheriam.tk
 dns.theres.one
 dns.therifleman.name
 dns.thierryserver.nl
@@ -2157,6 +2166,7 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.nexen.cloud
 doh.nic.lv
+doh.niyaru.online
 doh.niyaru.xyz
 doh.niyawe.de
 doh.nl.ahadns.net
@@ -2526,6 +2536,7 @@ gateway.fomichev.cloud
 gateway.mcebox.com
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
+gb-cov-w-f-1.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
@@ -2569,7 +2580,6 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
-grape.991123.xyz
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -2579,6 +2589,7 @@ groupy.ga
 groupy.su
 gtm-sg-5r538sziu04.go-behind.one
 guard-linodefree.tk
+guard.19kom.de
 guard.izzledudetech.com
 guard.magic-pics.tk
 guard.sntrk.ru
@@ -2606,12 +2617,14 @@ hanahira.dev
 haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcu.icu
+hdf084sqbme.sn.mynetname.net
 heimdall.ff0x.ca
 helios.plan9-dns.com
 helios.plan9dns.com
 hellojonathan.xyz
 helloworld.cx
 heoyun.com
+hermes.cllctv.site
 hermes.kurup.in
 hermes.ohai.ca
 hewittnet.us
@@ -2783,6 +2796,7 @@ ivnkn.xyz
 ivpn.net
 jabber-germany.de
 jabber-server.de
+jack-black-adguard.duckdns.org
 jackyes.ovh
 jambi.undo.it
 james-solomon.com
@@ -3110,6 +3124,7 @@ nafni.one
 naganohara-yoimiya.momokko.moe
 name.my-station.ru
 name.wehao.net
+nanopi.cybergroove.net
 narrowgate.online
 nas-fusion.loisy.it
 nas-scheiben34.myasustor.com
@@ -3257,7 +3272,6 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
-o.i.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -3335,6 +3349,7 @@ overwatch.ddns.net
 ovh.panszelescik.pl
 ovpn.bond
 ovpn.com
+owndns.dedyn.io
 p.dns.sh-box.ru
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -3646,6 +3661,7 @@ s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
 sabeendns.hopto.org
+sacarino.es
 safe.dns.yandex.ru
 safe.dot.dns.yandex.net
 safe.ns.dnslify.com
@@ -3672,6 +3688,7 @@ scrole.shop
 sdns.233py.com
 sdns.pro
 sdns.uplenk.com
+sdns22.gkonuralp.com
 sdvizhkov.ru
 se-sto-w-1.nashkan.net
 seanyan.ddns.net
@@ -4293,6 +4310,7 @@ warrier120s-adguard-home.duckdns.org
 waw01.dnscry.pt
 waw02.dnscry.pt
 wccw.cc
+wd.noimjosh.com
 wdns.233py.com
 web-rated.ie
 webdock.ccp.giize.com
