@@ -835,6 +835,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -2248,7 +2249,6 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
-domainexpired.dnspod.cn
 domen-dns.ru
 dominatrix.brandonsli.com
 donghovietkid.cloud
@@ -2483,6 +2483,7 @@ free-proxy.cz
 free-proxyserver.com
 free.bravedns.com
 free.shecan.ir
+free.svipss.top
 freedns.controld.com
 freedom.cx
 freedom.mydns.network
@@ -4405,6 +4406,7 @@ www.olivier-raspberrypi.changeip.org
 www.pcjco.ovh
 www.personal-dns.site
 www.pi1plus.duckdns.org
+www.pssv.top
 www.pukanuragan.ru
 www.qwenty.ru
 www.richardo.net
