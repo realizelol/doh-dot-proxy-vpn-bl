@@ -842,6 +842,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -2595,6 +2596,7 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
+grape.991123.xyz
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -3457,7 +3459,6 @@ privadovpn.com
 private-dns.ddns.net
 private.adguard.wessels-net.nl
 private.canadianshield.cira.ca
-private.dns.ovpn.bond
 private.sunday.eu.org
 private.supplies.eu.org
 privatebard.com
@@ -3559,6 +3560,7 @@ puredns.org
 purevpn.com
 pushvpn.com
 pvsv.io
+pvt.dns.tls.relay.ovpn.bond
 pxaa.com
 q3i6k7j3.stackpathcdn.com
 qaz.tw
@@ -3675,7 +3677,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -4186,7 +4187,6 @@ varganet.org
 vasya.hr.i81.ru
 vasya.vd.i81.ru
 vasya.vpn.i81.ru
-vault-101.net
 vcdriy.top
 vd.i81.ru
 vdsina.ddns.net
