@@ -947,6 +947,7 @@ ddns.haha2048.site
 ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
+ddns.teunschrader.nl
 de-dus.doh.sb
 de-fra.doh.sb
 de-fsn-i-5.tegant.net
@@ -1006,6 +1007,7 @@ di3.shahramv1.site
 diblock.rnrkurir.com
 digi77.com
 digitale-gesellschaft.ch
+digitalsewer.com
 diplo.es
 disbish.com
 diskstation.alexpollard.net
@@ -2739,6 +2741,7 @@ home.psociety.de
 home.px.i81.ru
 home.qbak.net
 home.quentin-stoeckel.fr
+home.skrzypiec.pl
 home.snow-sugar.net
 home.tuankhaiit.com
 home.wriedts.de
@@ -2933,6 +2936,7 @@ kintyre.uk
 kirov.v6.rocks
 kiv01.dnscry.pt
 kiwifunke.duckdns.org
+kk.sshub.win
 km5uy2rh.svipcdn.cn
 kn10.top
 knight1.de
@@ -3041,6 +3045,7 @@ lv-rig-w-1.nashkan.net
 lv-rig-w-2.nashkan.net
 lv1.nixnet.xyz
 lwhjszcnzjhz.site
+m.s.4l2.cn
 ma1.guardmydns.com
 mad01.dnscry.pt
 maddino.dedyn.io
@@ -3198,6 +3203,7 @@ neatdns.ustclug.org
 nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
+nemless.dedyn.io
 neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
@@ -3216,6 +3222,7 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3718,6 +3725,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3842,6 +3850,7 @@ shieldsup.spearing.net
 shiestyro.world
 shybbw.myz.info
 siddeus.synology.me
+sin-one.adorsnet.work
 sin.core.access.zznet.fun
 sin01.dnscry.pt
 sin02.dnscry.pt
@@ -3883,6 +3892,7 @@ socks-proxy.net
 socolov.home.ro
 soeding.ddnss.de
 sof01.dnscry.pt
+soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -3949,6 +3959,7 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
+surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4466,6 +4477,7 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
+www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
@@ -4513,6 +4525,7 @@ www.timothytimothy.cf
 www.urology.wiki
 www.vpn.stroialliance.com
 www.vpnhellings.nl
+www.yuanmingming.com
 wyx.cloud
 wzybigman.xyz
 x-o-x.duckdns.org
