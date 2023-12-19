@@ -174,6 +174,7 @@ adgdns.duckdns.org
 adgh.catfluori.de
 adgh.laufan.cn
 adgh.skyview.click
+adghno80443.duckdns.org
 adghome.charleschan.net
 adghome.joeszef.com
 adghome.joseph.com.ph
@@ -268,6 +269,7 @@ adguard.green1052.com
 adguard.h4nt3r.com
 adguard.hack3r.de
 adguard.haneulo.com
+adguard.helpdesk38.ru
 adguard.ihatemy.live
 adguard.imru.aquadev.io
 adguard.infrapod.nl
@@ -465,6 +467,7 @@ adtec.aidentec.top
 adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
 adultfilter.dns.dnswarden.com
+ae-dub-w-f-2.nashkan.net
 ae-dub-w-p-1.nashkan.net
 ae-fuj-w-1.nashkan.net
 ae-fuj-w-2.nashkan.net
@@ -482,6 +485,7 @@ ag.homedevenv.com
 ag.hostme.co.il
 ag.linux.repair
 ag.marschi.de
+ag.sageton.pl
 ag.ssrahul96.xyz
 ag.wntrmute.net
 ag01.de.hallmen.it
@@ -657,6 +661,7 @@ baedns.duckdns.org
 ban.ppppppeeesss.info
 banhbaothiu.site
 barnabech.fr
+barsipgpt.com
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -763,6 +768,7 @@ c-c.eve.surf
 c-dns.com
 c.cicitt.ch
 c.malicioustation.icu
+c0ntroller.de
 c1.ownvps.ml
 c1.yydsgod.eu.org
 c3.ownvps.ml
@@ -789,6 +795,7 @@ captnemo.in
 carioka.dyndns.org
 carlyu.top
 carrotegg.club
+cask.duckdns.org
 catdns.org
 catsimple.cf
 cattery.noddos.top
@@ -860,6 +867,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -925,6 +933,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -1199,6 +1208,7 @@ dns.brightesttv.com
 dns.brionesserver.net
 dns.bulatov.dev
 dns.bw.i81.ru
+dns.c0ntroller.de
 dns.cachitopetshop.com
 dns.canavan.co
 dns.carson-family.com
@@ -1283,6 +1293,7 @@ dns.doh.best
 dns.domsku.com
 dns.dooks.uk
 dns.doserver.top
+dns.doso.es
 dns.doubleangels.com
 dns.dream-hosting.ovh
 dns.dreamworker.idv.tw
@@ -1629,6 +1640,7 @@ dns.opopop.fun
 dns.ord.chriswang.work
 dns.osmenoga.com
 dns.oszx.co
+dns.otezz.net
 dns.ours.luxe
 dns.ovpn.bond
 dns.ovpss.top
@@ -2789,6 +2801,7 @@ i.233py.com
 i.233py.com.a.bdydns.com
 i.iscx.xyz
 i.passcloud.xyz
+i.roadanywhere.tk
 i.solutics.ec
 iana.tenta.io
 ibksturm.synology.me
@@ -2944,6 +2957,7 @@ kintyre.uk
 kirov.v6.rocks
 kiv01.dnscry.pt
 kiwifunke.duckdns.org
+kk.sshub.win
 km5uy2rh.svipcdn.cn
 kn10.top
 knight1.de
@@ -3501,6 +3515,7 @@ pop.novacia.com.ua
 pope.cnblw.me
 portal.iddqd.uk
 porttwo.bigbangtheory.monster
+postalsv1.mkid.top
 pqh.ddns.net
 premiumtier-network.instadart.net
 preview.dnsteam.globuscs.info
@@ -3628,6 +3643,7 @@ quantum-age.cn
 query.hdns.io
 query.mobyds.com
 query.shenl.in
+quic.lol
 quickprox.com
 quickproxy.co.uk
 qwenty.ru
@@ -3749,6 +3765,7 @@ sakuraknight2023.top
 sams.adg.siudzinski.net
 samsdns1943.net
 sandbox.opendns.com
+sanjosehy.analyticshopsystemblock.top
 saomai.dynu.com
 saoudiproxy.info
 sarawut.ddns.net
@@ -3921,6 +3938,7 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -4174,6 +4192,7 @@ uradoori.org
 uranus.plonknet.com
 urban-vpn.com
 urology.wiki
+us-ash-w-f-1.nashkan.net
 us-atl-w-1.nashkan.net
 us-atl-w-2.nashkan.net
 us-central.adhole.org
@@ -4269,6 +4288,7 @@ vlad.dns.vladpro.ru
 vlad1.cryptoguard.su
 vladpro.ru
 vload.net
+vm.delfini.online
 vm.mytm.cc
 vmd45200.contabo.wallura.eu
 vmi1067860.contaboserver.net
@@ -4319,6 +4339,7 @@ vpnto.bhadrikais.my.id
 vpnunlimited.com
 vpnunlimitedapp.com
 vps-33e5a7f3.vps.ovh.us
+vps-amgr.duckdns.org
 vps-ovh.pb2004.pl
 vps.avc.cx
 vps.filatov.link
