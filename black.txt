@@ -94,7 +94,6 @@ acomit.lk
 ad.257053.xyz
 ad.344556.xyz
 ad.aghaaliagha.tk
-ad.chowncloud.com
 ad.dscw.io
 ad.emekm.fr
 ad.guard.ru.net
@@ -152,7 +151,6 @@ adfree.usableprivacy.net
 adg.acrobyte.org
 adg.dankatapich.eu.org
 adg.datamatter.co.za
-adg.dist.tw
 adg.geili.me
 adg.herry.dev
 adg.jabertechnologies.ch
@@ -218,6 +216,7 @@ adguard.borgwardtech.net
 adguard.brandonsli.com
 adguard.bwasson.com
 adguard.cepenjak.com
+adguard.chancecallahan.net
 adguard.chanhome.xyz
 adguard.cinicollerico.top
 adguard.clawsucht.nrw
@@ -313,13 +312,13 @@ adguard.mokocup.cf
 adguard.mokocup.dev
 adguard.mrmartian.co
 adguard.mtuan.dev
+adguard.multivpn.bz
 adguard.mulu.at
 adguard.myddns.me
 adguard.myddns.org
 adguard.myhomelab.tech
 adguard.mywebdoma.in
 adguard.netmasc.services
-adguard.new-asgard.net
 adguard.nhatlong.work
 adguard.nielsenhost.dk
 adguard.nielsvoorn.nl
@@ -506,7 +505,6 @@ agh.xinfeng16m.top
 agh2.server.my.id
 agh2lj.duckdns.org
 agh3.server.my.id
-aghneo.mastomi.id
 aghvm1.mastomi.id
 agp01.tek411.com
 agp02.tek411.com
@@ -721,7 +719,6 @@ blockless.com
 blog.kimiblock.top
 blokit.esohjay.tk
 blokuj.ujwie.co
-bloque.jangelrz.com
 bluecomet.eu.org
 bluedns.xyz
 bluemood.me
@@ -795,7 +792,6 @@ captnemo.in
 carioka.dyndns.org
 carlyu.top
 carrotegg.club
-cask.duckdns.org
 catdns.org
 catsimple.cf
 cattery.noddos.top
@@ -867,7 +863,6 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
-cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -1505,8 +1500,6 @@ dns.labar.re
 dns.laison.ltd
 dns.laiwenbo.icu
 dns.lalafell.info
-dns.lancartech.co.id
-dns.landerbrauver.ru
 dns.lars-lehmann.net
 dns.larsdebruin.net
 dns.lat-team.com
@@ -1539,6 +1532,7 @@ dns.mafyuh.io
 dns.magnon-box.tk
 dns.magnon.duckdns.org
 dns.majaroboan.de
+dns.malanser.ru
 dns.malhuda.com
 dns.malwarelul.download
 dns.maolaohei.xyz
@@ -1603,7 +1597,6 @@ dns.ngc7331.top
 dns.nguyendn.com
 dns.nguyenhoane.io.vn
 dns.nhtsky.com
-dns.nhunor.com
 dns.nicolas.vip
 dns.nieto.app
 dns.nietostuff.com
@@ -2170,7 +2163,6 @@ doh.eastus.pi-dns.com
 doh.eieidns.com
 doh.es.ahadns.net
 doh.eu.dnswarden.com
-doh.ezrart.top
 doh.familyshield.opendns.com
 doh.fasya.net
 doh.fatucloud.gosprout.org
@@ -2303,7 +2295,6 @@ donghovietkid.cloud
 dontfilter.us
 door.plasmadancer.ru
 dop.privatedns.org
-dorkanddoodle.duckdns.org
 dosvid.tk
 dot-ch.blahdns.com
 dot-de.blahdns.com
@@ -2593,6 +2584,7 @@ gateway-el.cname.ustclug.org
 gateway.baltes.info
 gateway.fomichev.cloud
 gateway.mcebox.com
+gattow.com
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
@@ -2641,7 +2633,6 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
-grape.991123.xyz
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -2745,6 +2736,7 @@ home.basthorst.eu
 home.bruckmoser.it
 home.ddns.network
 home.dlinkddns.com
+home.enjoymylife.net
 home.f7b6h9.tk
 home.fc.idv.tw
 home.firefenix.cf
@@ -2892,6 +2884,7 @@ jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
 jp-tyo-w-1.nashkan.net
+jp-tyo-w-p-1.nashkan.net
 jp.68360612.xyz
 jp.conana.info
 jp.dns.bliod.eu.org
@@ -3084,6 +3077,7 @@ main.nn7.pw
 main.zhhz.cc
 mainframe.dewed.de
 maku-tech.com
+malanser.ru
 mana.harrache.info
 management.alexpollard.net
 marcrnt.ddnss.de
@@ -3174,7 +3168,6 @@ mydevpn.eu
 mydns.an2kin.cyou
 mydns.bielperes.me
 mydns.cloud
-mydnsfilter.online
 myhottiemama.de
 myip.mmmalia.com
 mykewl.pro
@@ -3223,7 +3216,6 @@ neatdns.ustclug.org
 nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
-nemless.dedyn.io
 neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
@@ -3426,6 +3418,7 @@ ortudns.com
 osefcorp.duckdns.org
 ott01.dnscry.pt
 ourcraft.ddnss.de
+outdoorchair.us
 outie.8ws.net
 outiejr.8ws.net
 overplay.net
@@ -3528,6 +3521,7 @@ privadovpn.com
 private-dns.ddns.net
 private.adguard.wessels-net.nl
 private.canadianshield.cira.ca
+private.dns.syaifullah.com
 private.sunday.eu.org
 private.supplies.eu.org
 privatebard.com
@@ -3629,7 +3623,6 @@ puredns.org
 purevpn.com
 pushvpn.com
 pvsv.io
-pvt.dns.tls.relay.ovpn.bond
 pxaa.com
 q3i6k7j3.stackpathcdn.com
 qaz.tw
@@ -3922,6 +3915,7 @@ solution.w10.life
 soncms.id.vn
 soncms.me
 sorannbb.buzz
+sp1wpdybsw1twq1d.myfritz.net
 spacedns.org
 spacevpn.io
 spanproxy.com
@@ -4639,5 +4633,6 @@ zougloub.eu
 zpn.im
 zrh01.dnscry.pt
 zrh1-ns01.monzoon.net
+zuhause.webteufel.net
 zulkas.top
 zxcvb.pp.ua
