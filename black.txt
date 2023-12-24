@@ -871,6 +871,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -936,6 +937,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -961,6 +963,7 @@ ddns.haha2048.site
 ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
+ddns.teunschrader.nl
 de-dus.doh.sb
 de-fra.doh.sb
 de-fsn-i-5.tegant.net
@@ -1022,6 +1025,7 @@ di3.shahramv1.site
 diblock.rnrkurir.com
 digi77.com
 digitale-gesellschaft.ch
+digitalsewer.com
 diplo.es
 disbish.com
 diskstation.alexpollard.net
@@ -2074,7 +2078,6 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
-dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsupstream02.familieberfelo.nl
 dnsvps.familiamv.ml
@@ -2304,6 +2307,7 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
+domainexpired.dnspod.cn
 domen-dns.ru
 dominatrix.brandonsli.com
 donghovietkid.cloud
@@ -2452,6 +2456,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -2506,7 +2511,6 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
-firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -3076,6 +3080,7 @@ lv-rig-w-2.nashkan.net
 lv.long-nguyen.info
 lv1.nixnet.xyz
 lwhjszcnzjhz.site
+m.s.4l2.cn
 ma1.guardmydns.com
 macmini.qujing.eu.org
 mad01.dnscry.pt
@@ -3257,6 +3262,7 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
+nhatlong.work
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3769,6 +3775,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3900,6 +3907,7 @@ shiestyro.world
 shijiu.asia
 shybbw.myz.info
 siddeus.synology.me
+sin-one.adorsnet.work
 sin.core.access.zznet.fun
 sin01.dnscry.pt
 sin02.dnscry.pt
@@ -3942,6 +3950,7 @@ socks-proxy.net
 socolov.home.ro
 soeding.ddnss.de
 sof01.dnscry.pt
+soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -4009,6 +4018,7 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
+surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4531,6 +4541,7 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
+www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
@@ -4579,6 +4590,7 @@ www.timothytimothy.cf
 www.urology.wiki
 www.vpn.stroialliance.com
 www.vpnhellings.nl
+www.yuanmingming.com
 wyx.cloud
 wzybigman.xyz
 x-o-x.duckdns.org
