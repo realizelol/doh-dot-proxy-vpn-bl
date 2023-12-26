@@ -735,7 +735,6 @@ bobstrecansky.com
 bogbone.com
 bolehvpn.net
 bom01.dnscry.pt
-bond.ovpn.t.l.s.d.n.s.ovpn.bond
 boomproxy.com
 borderlessvpn.io
 bovat.ddns.net
@@ -873,6 +872,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -938,6 +938,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -963,6 +964,7 @@ ddns.haha2048.site
 ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
+ddns.teunschrader.nl
 de-dus.doh.sb
 de-fra.doh.sb
 de-fsn-i-5.tegant.net
@@ -1024,6 +1026,7 @@ di3.shahramv1.site
 diblock.rnrkurir.com
 digi77.com
 digitale-gesellschaft.ch
+digitalsewer.com
 diplo.es
 disbish.com
 diskstation.alexpollard.net
@@ -2311,6 +2314,7 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
+domainexpired.dnspod.cn
 domburg.beruys.com
 domen-dns.ru
 dominatrix.brandonsli.com
@@ -2696,7 +2700,6 @@ haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcm.quydang.name.vn
 hcu.icu
-hdf084sqbme.sn.mynetname.net
 heimdall.ff0x.ca
 hel01.dnscry.pt
 helios.plan9-dns.com
@@ -3087,6 +3090,7 @@ lv-rig-w-2.nashkan.net
 lv.long-nguyen.info
 lv1.nixnet.xyz
 lwhjszcnzjhz.site
+m.s.4l2.cn
 ma1.guardmydns.com
 macmini.qujing.eu.org
 mad01.dnscry.pt
@@ -3217,7 +3221,6 @@ n.3363.net
 n0.eu
 n11649246144.netvigator.com
 n2.zmy.cloud
-n4.zmy.cloud
 n5.lsasss.com
 na-texas-adguard-01.joshsevero.dev
 na.nyc.01.adguard.joshseveros.network
@@ -3781,6 +3784,7 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
+s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3912,6 +3916,7 @@ shiestyro.world
 shijiu.asia
 shybbw.myz.info
 siddeus.synology.me
+sin-one.adorsnet.work
 sin.core.access.zznet.fun
 sin01.dnscry.pt
 sin02.dnscry.pt
@@ -3954,6 +3959,7 @@ socks-proxy.net
 socolov.home.ro
 soeding.ddnss.de
 sof01.dnscry.pt
+soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -4021,6 +4027,7 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
+surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4446,7 +4453,6 @@ vps322.brueggus.de
 vps323.brueggus.de
 vps324.brueggus.de
 vps325.brueggus.de
-vps326.brueggus.de
 vps327.brueggus.de
 vps328.brueggus.de
 vps329.brueggus.de
@@ -4543,6 +4549,7 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
+www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
@@ -4592,6 +4599,7 @@ www.timothytimothy.cf
 www.urology.wiki
 www.vpn.stroialliance.com
 www.vpnhellings.nl
+www.yuanmingming.com
 wyx.cloud
 wzybigman.xyz
 x-o-x.duckdns.org
