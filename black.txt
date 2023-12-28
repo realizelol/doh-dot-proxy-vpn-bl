@@ -636,6 +636,7 @@ au01.dns4me.net
 au02.dns4me.net
 aucnier.my.id
 audio.dehb.ru
+augandnap.arandomdomain.net
 augne.dns.walshnet.co.uk
 aurora.dns.aq.lu
 auth.phclinz.de
@@ -877,6 +878,7 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
+cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -927,7 +929,6 @@ d.gametechnet.com
 d.hansj.cc
 d.hxhd.cc
 d.luwei.date
-d.n.s.relay.ovpn.bond
 d.search-data.tk
 d.smart365.tk
 d.toairs.com
@@ -944,6 +945,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -1626,6 +1628,7 @@ dns.ngc7331.top
 dns.nguyendn.com
 dns.nguyenhoane.io.vn
 dns.nhtsky.com
+dns.niccoli.cc
 dns.nicolas.vip
 dns.nieto.app
 dns.nietostuff.com
@@ -1829,6 +1832,7 @@ dns.transdata.top
 dns.trifanov-online.ru
 dns.truong.fi
 dns.trust404.win
+dns.tryk.app
 dns.tsgmcoinfra.com
 dns.tticus.art
 dns.tuankhaiit.com
@@ -2422,6 +2426,7 @@ dyhw.ddns.net
 dyn-ip.borjalopez.eu
 dynamic.enzonix.com
 dzhot.us
+e23aad3.online-server.cloud
 ea-dns.rubyfish.cn
 eaereaper.ru
 eajtech.com
@@ -3264,7 +3269,6 @@ neatdns.ustclug.org
 nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
-nemless.dedyn.io
 neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
@@ -3311,6 +3315,7 @@ nocensor.icu
 nocensor.rest
 nocfmc.cc
 node3.b4el.ru
+node9.servernode.store
 nonanon.pl
 nongdanthanky.com
 nordvpn.com
@@ -3528,6 +3533,7 @@ pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
 pi1plus.duckdns.org
+pi4.jnraptor.net
 piekacz.pl
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
@@ -3604,6 +3610,7 @@ proxify.com
 proximize.me
 proxite.eu
 proxite.info
+proxjdf.jamesferrand.fr
 proxmecallmenames.com
 proxtube.com
 proxy-2014.com
@@ -4317,6 +4324,7 @@ v2raye.com
 v3.passby.eu.org
 v3.passby.ga
 v6.rubyfish.cn
+v7.frame-one.cc
 vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
