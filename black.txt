@@ -867,6 +867,7 @@ clearweb.woodbridge.club
 clic.eu.org
 clientdns3.softcom.net
 cloakvpn.com
+cloud-sekeng.com
 cloud.198.games
 cloud.centralgenerator.net
 cloud.itplayer.online
@@ -938,7 +939,6 @@ d.gametechnet.com
 d.hansj.cc
 d.hxhd.cc
 d.luwei.date
-d.n.s.relay.ovpn.bond
 d.search-data.tk
 d.smart365.tk
 d.toairs.com
@@ -2451,7 +2451,6 @@ dvaguirredns2.ddns.net
 dycn.vip
 dyhw.ddns.net
 dyn-ip.borjalopez.eu
-dynamic.enzonix.com
 dzhot.us
 e23aad3.online-server.cloud
 ea-dns.rubyfish.cn
@@ -3304,6 +3303,7 @@ neatdns.ustclug.org
 nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
+nemless.dedyn.io
 neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
@@ -3608,6 +3608,7 @@ pop.novacia.com.ua
 pope.cnblw.me
 portal.iddqd.uk
 porttwo.bigbangtheory.monster
+postalsv1.mkid.top
 pqh.ddns.net
 premiumtier-network.instadart.net
 preview.dnsteam.globuscs.info
