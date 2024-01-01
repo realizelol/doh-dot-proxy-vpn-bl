@@ -867,7 +867,6 @@ clearweb.woodbridge.club
 clic.eu.org
 clientdns3.softcom.net
 cloakvpn.com
-cloud-sekeng.com
 cloud.198.games
 cloud.centralgenerator.net
 cloud.itplayer.online
@@ -955,7 +954,6 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
-daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -2563,6 +2561,7 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
+firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2743,7 +2742,6 @@ haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcm.quydang.name.vn
 hcu.icu
-hdf084sqbme.sn.mynetname.net
 heimdall.ff0x.ca
 hel01.dnscry.pt
 helios.plan9-dns.com
@@ -3269,6 +3267,7 @@ myunblocksites.com
 mzs1.ddns.net
 n-wan.dynv6.net
 n.3363.net
+n.s.ovpn.bond
 n0.eu
 n11649246144.netvigator.com
 n2.zmy.cloud
