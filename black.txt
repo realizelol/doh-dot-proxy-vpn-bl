@@ -887,7 +887,6 @@ cloudsrv.charitosnet.de
 clubsv.duckdns.org
 cluster-0.gac.edu
 cluster-1.gac.edu
-cn-cname-cf.dahi.icu
 cn.turngreatwall.com
 cname-for-doh.go-behind.one
 coe01.dnscry.pt
@@ -954,6 +953,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -2978,6 +2978,7 @@ jp3.meidouling.com
 jpdns.billyau.net
 jpdns.cola16.app
 jpginformatica.com
+jpjb.net
 jpok.996333.xyz
 jpsb.wooy.cool
 jujuba.cafuringa.org
@@ -3063,6 +3064,7 @@ kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
+l.l.ovpn.bond
 la.ray0512.win
 lab-1.sellan.fr
 lab.sellan.fr
@@ -3267,7 +3269,6 @@ myunblocksites.com
 mzs1.ddns.net
 n-wan.dynv6.net
 n.3363.net
-n.s.ovpn.bond
 n0.eu
 n11649246144.netvigator.com
 n2.zmy.cloud
@@ -3431,6 +3432,7 @@ nudnud.com
 nue01.dnscry.pt
 nue2.moderateinfra.net
 nukys.ca
+null.ovpn.bond
 nvpn.net
 nwps.duckdns.org
 nxa.21.ax
