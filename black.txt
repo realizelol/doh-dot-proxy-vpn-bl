@@ -945,7 +945,6 @@ d.x2jz.cn
 d2.nextcloudend.info
 d2.shabi.icu
 d2bphvjyj895l0.cloudfront.net
-d2f43694-f6af-4b3a-a0d9-9c521bc227fc.undo.it
 d3.shabi.icu
 d3.supremum.io
 d3vy.ru
@@ -953,7 +952,6 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
-daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -980,7 +978,6 @@ ddns.haha2048.site
 ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
-ddns.teunschrader.nl
 de-dus.doh.sb
 de-fra.doh.sb
 de-fsn-i-5.tegant.net
@@ -1042,7 +1039,6 @@ di3.shahramv1.site
 diblock.rnrkurir.com
 digi77.com
 digitale-gesellschaft.ch
-digitalsewer.com
 diplo.es
 disbish.com
 diskstation.alexpollard.net
@@ -2355,7 +2351,6 @@ dohipv6.crypto.sx
 dohsg.tonedtanya.com
 dohtrial.att.net
 dolopo.net
-domainexpired.dnspod.cn
 domburg.beruys.com
 domen-dns.ru
 dominatrix.brandonsli.com
@@ -2506,7 +2501,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -2805,6 +2799,7 @@ hole.elbschloss.xyz
 home-server.exonip.de
 home.basthorst.eu
 home.bruckmoser.it
+home.chadeyron.fr
 home.ddns.network
 home.dlinkddns.com
 home.enjoymylife.net
@@ -2963,6 +2958,7 @@ jp-tyo-w-p-1.nashkan.net
 jp.68360612.xyz
 jp.conana.info
 jp.dns.bliod.eu.org
+jp.dns.ikataruto.com
 jp.gridns.xyz
 jp.hm3.day
 jp.kano.sh
@@ -3027,7 +3023,6 @@ kirov.v6.rocks
 kiv01.dnscry.pt
 kiwifunke.duckdns.org
 kk.sshub.win
-km5uy2rh.svipcdn.cn
 kn10.top
 knight1.de
 kondrcloud.ru
@@ -3140,7 +3135,6 @@ lv-rig-w-2.nashkan.net
 lv.long-nguyen.info
 lv1.nixnet.xyz
 lwhjszcnzjhz.site
-m.s.4l2.cn
 ma1.guardmydns.com
 macmini.qujing.eu.org
 mad01.dnscry.pt
@@ -3303,7 +3297,6 @@ neatdns.ustclug.org
 nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
-nemless.dedyn.io
 neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
@@ -3323,7 +3316,6 @@ nextdns.io
 nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
-nhatlong.work
 nickcan.xyz
 nicktruehome.ddns.net
 nilanjan.me
@@ -3410,6 +3402,7 @@ ns2.doh.best
 ns2.flodns.net
 ns2.hjk.kr
 ns2.hjk.me
+ns2.hshh.org
 ns2.opennameserver.org
 ns2.opi.pp.ua
 ns2.recursive.dnsbycomodo.com
@@ -3432,7 +3425,6 @@ nudnud.com
 nue01.dnscry.pt
 nue2.moderateinfra.net
 nukys.ca
-null.ovpn.bond
 nvpn.net
 nwps.duckdns.org
 nxa.21.ax
@@ -3609,7 +3601,6 @@ pop.novacia.com.ua
 pope.cnblw.me
 portal.iddqd.uk
 porttwo.bigbangtheory.monster
-postalsv1.mkid.top
 pqh.ddns.net
 premiumtier-network.instadart.net
 preview.dnsteam.globuscs.info
@@ -3825,7 +3816,6 @@ rml.mobi
 rndns.com
 ro-buc-w-1.nashkan.net
 ro-buc-w-2.nashkan.net
-robinlanckman.com
 roboticsbenchmarking.xyz
 roc.net.sys.of.icu
 roma.vpn.geshido.ru
@@ -3848,7 +3838,6 @@ rusvpn.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.justlife.fun
 s.salome.my.id
 s1.soft88.click
 sa01.dns4me.net
@@ -3856,6 +3845,7 @@ sabeendns.hopto.org
 sacarino.es
 safe.dns.yandex.ru
 safe.dot.dns.yandex.net
+safe.kswro.web.id
 safe.ns.dnslify.com
 safeguardianvpn.com
 safervpn.com
@@ -3936,7 +3926,6 @@ server03.dr-adguard.de
 server1.greendns.green1052.com
 server3.boldteam.ir
 serverfriend.altervista.org
-servernation.xyz
 serverrmha1.ddnsku.my.id
 serveur-yan.synology.me
 service.c698fc0a.cfd
@@ -3982,7 +3971,6 @@ shiestyro.world
 shijiu.asia
 shybbw.myz.info
 siddeus.synology.me
-sin-one.adorsnet.work
 sin.core.access.zznet.fun
 sin01.dnscry.pt
 sin02.dnscry.pt
@@ -4025,7 +4013,6 @@ socks-proxy.net
 socolov.home.ro
 soeding.ddnss.de
 sof01.dnscry.pt
-soldier.terumi.club
 solution.w10.life
 soncms.id.vn
 soncms.me
@@ -4093,7 +4080,6 @@ surfmenow.com
 surfproxyserver.com
 surfshark.com
 surfshell.io
-surobe.southeastasia.cloudapp.azure.com
 surt.ml
 surve.dehb.ru
 sv.oispace.eu.org
@@ -4556,6 +4542,7 @@ vps356.brueggus.de
 vps4.scho.io
 vps66.brueggus.de
 vpschito.duckdns.org
+vpservice.cf
 vpsus3.pzhg.me
 vrehm.fr
 vsrv15195.customer.xenway.de
@@ -4625,7 +4612,6 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
-www.caifuwu.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
@@ -4642,6 +4628,7 @@ www.eccloud.de
 www.elshad-adgh-dns.ru
 www.fanscloud.net
 www.fuangkhon.com
+www.ggrbb.xyz
 www.greppie.nl
 www.incaseineeditoneday.com
 www.inpssh.online
@@ -4678,7 +4665,6 @@ www.urology.wiki
 www.vdsn-nl-2.azatmutq.com
 www.vpn.stroialliance.com
 www.vpnhellings.nl
-www.yuanmingming.com
 wyx.cloud
 wzybigman.xyz
 x-o-x.duckdns.org
@@ -4745,7 +4731,6 @@ yyaan.com
 yyqsite.top
 yyz01.dnscry.pt
 yzh97rc.xyz
-z8vqwuax.svipcdn.cn
 za-joh-w-2.nashkan.net
 zabolotskikh.dev
 zacebookpk.com
