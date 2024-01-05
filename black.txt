@@ -512,7 +512,6 @@ agh.kyashi.fun
 agh.noton.tk
 agh.odvpn.ru
 agh.printk.info
-agh.workfordemo.co.in
 agh.xinfeng16m.top
 agh2.server.my.id
 agh2lj.duckdns.org
@@ -676,7 +675,6 @@ b2u7d7r9.stackpathcdn.com
 b5lwtlgyqyly1typvyshftccwxuhk3zq.space
 baedns.duckdns.org
 ban.ppppppeeesss.info
-banana.991123.xyz
 banhbaothiu.site
 barnabech.fr
 barsipgpt.com
@@ -2501,6 +2499,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -3059,7 +3058,6 @@ kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
-l.l.ovpn.bond
 la.ray0512.win
 lab-1.sellan.fr
 lab.sellan.fr
@@ -3435,6 +3433,7 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
+o.o.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -3926,6 +3925,7 @@ server03.dr-adguard.de
 server1.greendns.green1052.com
 server3.boldteam.ir
 serverfriend.altervista.org
+servernation.xyz
 serverrmha1.ddnsku.my.id
 serveur-yan.synology.me
 service.c698fc0a.cfd
@@ -4501,16 +4501,7 @@ vps311.brueggus.de
 vps312.brueggus.de
 vps313.brueggus.de
 vps314.brueggus.de
-vps315.brueggus.de
-vps316.brueggus.de
-vps317.brueggus.de
-vps318.brueggus.de
-vps319.brueggus.de
 vps32.brueggus.de
-vps320.brueggus.de
-vps321.brueggus.de
-vps322.brueggus.de
-vps323.brueggus.de
 vps324.brueggus.de
 vps325.brueggus.de
 vps326.brueggus.de
