@@ -963,7 +963,6 @@ dclab.live
 ddd.loukky.com
 ddd2.loukky.com
 ddns.bigmaomao.xyz
-ddns.ddns.bigqy.eu.org
 ddns.ddnsddns.online
 ddns.haha2048.site
 ddns.l2h8.cn
