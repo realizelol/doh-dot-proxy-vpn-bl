@@ -942,6 +942,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -3021,6 +3022,7 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
+kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
