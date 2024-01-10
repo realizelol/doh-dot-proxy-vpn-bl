@@ -403,6 +403,7 @@ adguard.youroute.ru
 adguard.youshitsune.tech
 adguard.yuki2th.xyz
 adguard.zachitect.com
+adguard.zrtechcenter.com
 adguard01.dns.infrapod.nl
 adguard01.homepeter.de
 adguard01.infrapod.nl
@@ -538,6 +539,7 @@ albertocognetti.com
 aleafy.ddns.net
 alexpollard.synology.me
 ali.dn53.my.id
+ali.loveweiqi.cn
 alisa.hr.i81.ru
 alisa.vd.i81.ru
 alisa.vpn.i81.ru
@@ -656,6 +658,7 @@ ax.ns1net.com
 axaxa.fun
 axell24.ml
 ayasesayuki.shop
+ayzu.fun
 az2q.xyz
 azagramac.duckdns.org
 azbs.ddmm.eu.org
@@ -988,6 +991,7 @@ de-fsn-w-31.nashkan.net
 de-fsn-w-32.nashkan.net
 de-fsn-w-33.nashkan.net
 de-fsn-w-9.nashkan.net
+de-fsn-w-f-1.nashkan.net
 de-nue-w-1.nashkan.net
 de-nue-w-2.nashkan.net
 de-passage.9273082020.ru
@@ -2156,6 +2160,7 @@ doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
 doh.10yusufahmad.my.id
 doh.233py.com
+doh.2kil.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
@@ -2493,7 +2498,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -2690,6 +2694,7 @@ google-public-dns-b.google.com
 goproxy.asia
 gosuntrip.com
 gpchubjk.dnsfish.com
+gpt.ax6521.cf
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
@@ -2800,7 +2805,6 @@ home.f7b6h9.tk
 home.fc.idv.tw
 home.firefenix.cf
 home.jobytan.com
-home.keskonet.com
 home.kinopu.com
 home.kompot.space
 home.marcrnt.de
@@ -2997,6 +3001,7 @@ kdxu.webredirect.org
 keeflix.chenu.ch
 keithchung.hopto.org
 keithchunguat.hopto.org
+kekv.fun
 kellerbier-home.de
 kendentil.org.uk
 kenit.me
@@ -3058,6 +3063,7 @@ kz-pav-w-p-1.nashkan.net
 la.ray0512.win
 lab-1.sellan.fr
 lab.sellan.fr
+lajc.sytes.net
 lamdtl.giize.com
 lampedns.bagmeijer.nl
 laptop001.greppie.nl
@@ -3312,6 +3318,7 @@ nfti.duckdns.org
 ng-lag-w-1.nashkan.net
 ngc0226.ddns.net
 nickcan.xyz
+nicknarayong.ddns.net
 nicktruehome.ddns.net
 nilanjan.me
 nilanjan.rocks
@@ -3362,6 +3369,7 @@ ns.mtsoln.com
 ns.osipenko.space
 ns.palvikt.us
 ns.postoverall.xyz
+ns.rabot.fi
 ns.ral9005.org
 ns.sblnetwork.co.id
 ns.slynx.net
@@ -3767,6 +3775,7 @@ remote.sufly.top
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
+res-las-1.jupitrdns.com
 res.zijji.com
 resolv.srv-pro.de
 resolve.srv-pro.de
@@ -3775,6 +3784,7 @@ resolver-eu.haringstad.com
 resolver-eu.lelux.fi
 resolver.as203038.net
 resolver.cloudflare-eth.com
+resolver.dns.eban.eu.org
 resolver.frank-ruan.com
 resolver.noaddns.com
 resolver.r0cket.net
@@ -3866,6 +3876,7 @@ sb.nanhang.xyz
 sbdns.co.in
 sby-doh.limotelu.org
 sbydoh.limotelu.org
+schiopuoffice.duckdns.org
 scottdylewski.com
 scrole.shop
 sdfasluqoiwuezcvcv.tech
@@ -4599,6 +4610,7 @@ www.adguard-server.cf
 www.adguard.marto.si
 www.andrewnw.xyz
 www.aridia.ru
+www.ayzu.fun
 www.barnabech.fr
 www.beautifullife.eu.org
 www.beautifulthings.eu.org
