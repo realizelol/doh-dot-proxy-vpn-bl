@@ -288,6 +288,7 @@ adguard.jfchenier.ca
 adguard.josephyap.me
 adguard.jpjb.net
 adguard.jwhan99.xyz
+adguard.k-likhachev.ru
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.kaytek.org
@@ -312,6 +313,7 @@ adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.meddy94.de
 adguard.metahost.co.za
+adguard.minetown.eu.org
 adguard.mitar.ovh
 adguard.mjanson.de
 adguard.mjthemelancholy.xyz
@@ -507,6 +509,7 @@ agh-yz.russel053.com
 agh.alushi.net
 agh.fltn.us
 agh.ixghzx.ml
+agh.josephyap.me
 agh.kul-lippek.de
 agh.kyashi.fun
 agh.noton.tk
@@ -812,6 +815,7 @@ catsimple.cf
 cattery.noddos.top
 cattery2.eastasia.cloudapp.azure.com
 cattery2.noddos.top
+caycewebsolutions.com
 cc.3eto.com
 cc.somimobile.com
 cc2.v8er.net
@@ -1243,6 +1247,7 @@ dns.chadeyron.fr
 dns.chaosen3.co.uk
 dns.charraud.eu
 dns.chenu.ch
+dns.chillstice.com
 dns.chinh.tk
 dns.chocolatezz.xyz
 dns.chriscsc.me
@@ -1319,6 +1324,7 @@ dns.dooks.uk
 dns.doserver.top
 dns.doso.es
 dns.doubleangels.com
+dns.downloadacar.today
 dns.dream-hosting.ovh
 dns.dreamworker.idv.tw
 dns.drivearasaka.online
@@ -1483,6 +1489,7 @@ dns.iteo.pw
 dns.ithg.ru
 dns.itsec.crolla.net
 dns.itwht.com
+dns.itya.xyz
 dns.ivyeori.live
 dns.jcdn.site
 dns.jean.im
@@ -1556,6 +1563,7 @@ dns.lildinosaur.com
 dns.lilith.cloud
 dns.linkr.ninja
 dns.lista.my.id
+dns.lithvik.com
 dns.liumuze.org
 dns.ljq87.top
 dns.loony-tech.de
@@ -1792,6 +1800,7 @@ dns.skrep.in
 dns.skrzypiec.pl
 dns.sledge.cc
 dns.slinkyman.net
+dns.smirnov.tk
 dns.smnetwork.live
 dns.solonodes.net
 dns.sootoon.xyz
@@ -2005,6 +2014,7 @@ dns12.quad9.net
 dns13.quad9.net
 dns140.zhhz.cc
 dns168.zhhz.cc
+dns2-secure.wifire.it
 dns2.adblocker.eu.org
 dns2.afastserver.com
 dns2.alekberg.net
@@ -2159,6 +2169,7 @@ doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
 doh.10yusufahmad.my.id
+doh.167g.com
 doh.233py.com
 doh.2kil.com
 doh.30x.me
@@ -2498,6 +2509,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -2707,6 +2719,7 @@ guard-linodefree.tk
 guard.19kom.de
 guard.izzledudetech.com
 guard.magic-pics.tk
+guard.pp.ua
 guard.sntrk.ru
 guard.thefather.cloud
 guard.yps.tw
@@ -2746,7 +2759,6 @@ hermes.kurup.in
 hermes.ohai.ca
 hewittnet.us
 heykan.theworkpc.com
-hf5099h2pr6.sn.mynetname.net
 hgns.harriganhome.ga
 hi.greatpiller.shop
 hiddendigital.info
@@ -3165,6 +3177,7 @@ marimuttz.asuscomm.com
 markolll.ru
 mars.pccoach.nl
 marzban.severvpn.ru
+mask-api.fe2.apple-dns.net
 mask-h.icloud.com
 mastergad.me
 masters-of-cloud.de
@@ -3583,6 +3596,7 @@ piholeddns.duckdns.org
 pikko.xyz
 pinkproxy.xyz
 pinus-test.aeza.network
+pioko.net
 piotrsobczak.com
 piracyproxy.net
 pistada.com
@@ -3776,6 +3790,7 @@ res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
 res-las-1.jupitrdns.com
+res-lux-2.jupitrdns.com
 res.zijji.com
 resolv.srv-pro.de
 resolve.srv-pro.de
@@ -3955,6 +3970,7 @@ sg-w-p-1.nashkan.net
 sg.101818.xyz
 sg.adhole.org
 sg.gridns.xyz
+sg.jnraptor.com
 sg.mubibai.com
 sg.telex.app
 sg.teradns.org
@@ -4008,6 +4024,7 @@ skioso.top
 skww726.cf
 sky.rethinkdns.com
 skyline.vvvvvei.win
+skyroom.online.bugflaed2.shahram-m8.com
 skyroom.online.cdn40.shahrammedia.com
 skyroom.online.cdn41.shahram-m8.com
 slambenchmarking.buzz
@@ -4097,6 +4114,7 @@ surve.dehb.ru
 sv.oispace.eu.org
 sv3.minhduc.pw
 svg33.eu
+sweden.capy.su
 sweethome.in.eu.org
 switch.ch
 swoletux.ave.zone
@@ -4432,6 +4450,7 @@ vpn.g-s-a.me
 vpn.geshido.ru
 vpn.gosami.xyz
 vpn.i81.ru
+vpn.k-likhachev.ru
 vpn.midjrney.ru
 vpn.mozilla.org
 vpn.ncapi.io
@@ -4655,6 +4674,7 @@ www.pcjco.ovh
 www.pdnssrvagh.online
 www.personal-dns.site
 www.pi1plus.duckdns.org
+www.pioko.net
 www.pukanuragan.ru
 www.qwenty.ru
 www.richardo.net
