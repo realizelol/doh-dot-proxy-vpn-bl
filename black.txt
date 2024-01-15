@@ -385,7 +385,6 @@ adguard.taufner.net
 adguard.tenkoff.ru
 adguard.tetnet.net
 adguard.thatisfun.in
-adguard.theil.es
 adguard.tigrex.net
 adguard.titov.es
 adguard.v1l.de
@@ -573,6 +572,7 @@ andrewnw.xyz
 android.hfecr.com
 andz21.dynv6.net
 anggityuls.my.id
+angry.pp.ua
 angrysky.ru
 anhphamhn82.uk
 aniscartujo.com
@@ -614,7 +614,6 @@ arm.zengmengyu1.tk
 arm2.nzcow.com
 arm3.nzcow.com
 armorrush.eu.org
-arvilx3.ddns.net
 as17820865.click
 as6604t-04.myasustor.com
 asbordns.ddns.net
@@ -666,7 +665,6 @@ az2q.xyz
 azagramac.duckdns.org
 azbs.ddmm.eu.org
 azirevpn.com
-azjp.mubibai.com
 azure.cloudflare-dns.com
 azure.quydang.name.vn
 b-ipv4.bhadrikais.my.id
@@ -934,7 +932,6 @@ d.gametechnet.com
 d.hansj.cc
 d.hxhd.cc
 d.luwei.date
-d.search-data.tk
 d.smart365.tk
 d.toairs.com
 d.wcguo.space
@@ -949,6 +946,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -969,7 +967,6 @@ dclab.live
 ddd.loukky.com
 ddd2.loukky.com
 ddns.bigmaomao.xyz
-ddns.ddns.bigqy.eu.org
 ddns.ddnsddns.online
 ddns.haha2048.site
 ddns.l2h8.cn
@@ -1116,7 +1113,6 @@ dns.354688.xyz
 dns.3dcapitaltrust.net
 dns.3jh.org
 dns.4-the.win
-dns.45t3r1x.uk
 dns.4ab.nl
 dns.52306.org
 dns.532641.xyz
@@ -1128,7 +1124,6 @@ dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.888654.xyz
-dns.959818.xyz
 dns.aa.net.uk
 dns.aaflalo.me
 dns.aaronplayzgaming.com
@@ -1208,7 +1203,6 @@ dns.besoon.ml
 dns.beta.gandi.net
 dns.bezainf.tk
 dns.billyau.ne
-dns.billyau.net
 dns.bin.st
 dns.bir.ru
 dns.bitdefender.net
@@ -1432,7 +1426,6 @@ dns.henek.ovh
 dns.henek.ru
 dns.herkhof.nl
 dns.hesitance.site
-dns.hetznercloud.ipv64.de
 dns.hinet.net
 dns.hinytz.com
 dns.hitmw.cn
@@ -1539,6 +1532,7 @@ dns.kr.chavy.dev
 dns.krishanshamod.live
 dns.kriswerry.nl
 dns.krol.cloud
+dns.krushkov.com
 dns.kumar-abhishek.me
 dns.kutovoy.dev
 dns.l2h8.cn
@@ -1573,7 +1567,6 @@ dns.lunet.design
 dns.luotianyi.net
 dns.lusk.xyz
 dns.lvolland.fr
-dns.lxh3873.eu.org
 dns.lyhlyh.xyz
 dns.m78.asia
 dns.mafyuh.io
@@ -1598,6 +1591,7 @@ dns.mestdag.fr
 dns.mgiptvpro.ml
 dns.micro.alloxr.info
 dns.mikeliu.org
+dns.mikopono.nl
 dns.mikrotikrumahan.my.id
 dns.milangeorge.com
 dns.milkpie.one
@@ -2280,7 +2274,6 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.nexen.cloud
 doh.nic.lv
-doh.niyaru.online
 doh.niyaru.xyz
 doh.niyawe.de
 doh.nl.ahadns.net
@@ -2632,7 +2625,6 @@ fsrv.waltercasanova.tech
 ftgfw.tk
 fuangkhon.com
 fuchur.pentament.de
-fuckddos.source-dns.doh.lanbing.gq
 fukuda.ccnt.fr
 fullaccesstointernet.int.eu.org
 fullaccesstointernet.jp.eu.org
@@ -3152,7 +3144,6 @@ mad01.dnscry.pt
 maddino.dedyn.io
 maddw.com
 madrid.ciscofreak.com
-madrot.net
 maikel.greppie.nl
 mail-ext.extrageneric.com
 mail.4-the.win
@@ -3471,7 +3462,6 @@ office.heimtec.com
 oguska.com
 okijara.com
 oko.haneulo.com
-oldfra.capy.su
 olga.hr.i81.ru
 olga.vd.i81.ru
 olga.vpn.i81.ru
@@ -3519,6 +3509,7 @@ orangeproxy.net
 orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
+origin.mikopono.nl
 orjp4.lz0724.com
 orpi.privado.ovh
 ortudns.com
@@ -3559,6 +3550,7 @@ pcd96.duckdns.org
 pcgo.fun
 pcjco.ovh
 pcornet.freeboxos.fr
+pdns.elecura.net
 pdns.faelix.net
 pdns.fatlab.llc
 pdns.itxe.net
@@ -3853,15 +3845,18 @@ rpz-public-resolver1.rrdns.pch.net
 rsocks.net
 ru-mos-w-1.nashkan.net
 ru-mos-w-2.nashkan.net
+ru-mos-w-p-1.nashkan.net
 ru-mow.doh.sb
 ru2.vnetwork.cyou
 rumpelsepp.org
 rusvpn.com
+rwkdwpwsyv48.mikopono.nl
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
 s.salome.my.id
 s1.soft88.click
+s1.srch.top
 sa01.dns4me.net
 sabeendns.hopto.org
 sacarino.es
@@ -4137,6 +4132,7 @@ takhtakh.domyah.net
 tanmoyvpn.ddns.net
 tarni.pp.ua
 tartanbahn.eu.org
+tarugo.capeta.tk
 taufner.net
 tbl.meudns.minhacasainteligente.cf
 tbs01.dnscry.pt
@@ -4426,7 +4422,6 @@ vmi1067860.contaboserver.net
 vmi880423.contaboserver.net
 vmok.ru
 vn-hcm-w-1.nashkan.net
-vn.dns.abpvn.com
 vobas.com
 void-gate.irre.li
 vova.hr.i81.ru
@@ -4665,7 +4660,6 @@ www.memorialus.eu.org
 www.moonbd.top
 www.morbitzer.de
 www.muxyuji.ru
-www.myadguardhome.me
 www.nilanjan.rocks
 www.nonanon.pl
 www.olivier-raspberrypi.changeip.org
@@ -4770,7 +4764,6 @@ zenmate.com
 zephyrus.id
 zero.dns0.eu
 zetland.rm-ni.uk
-zh.sorannbb.buzz
 zoogvpn.com
 zoopark-vpn.ddns.net
 zorrovpn.io
