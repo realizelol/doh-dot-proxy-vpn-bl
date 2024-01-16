@@ -946,7 +946,6 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
-daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -967,6 +966,7 @@ dclab.live
 ddd.loukky.com
 ddd2.loukky.com
 ddns.bigmaomao.xyz
+ddns.ddns.bigqy.eu.org
 ddns.ddnsddns.online
 ddns.haha2048.site
 ddns.l2h8.cn
@@ -2501,7 +2501,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -3030,7 +3029,6 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
-kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -3441,7 +3439,6 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
-o.o.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -4056,7 +4053,6 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -4173,6 +4169,7 @@ tk31z.com
 tkge.tk
 tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
+tls.doh.relay.ovpn.bond
 tls.jackyhou.idv.tw
 tls.vietguards.cloud
 tls.zhiyou.me
