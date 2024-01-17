@@ -819,7 +819,6 @@ cc.somimobile.com
 cc2.v8er.net
 ccadguard.ddns.net
 ccyykk.top
-cdiptv.hxhd.cc
 cdn.0ms.dev
 cdn.implementsfreedom.studio
 cdzopi.duckdns.org
@@ -946,6 +945,7 @@ dadns.one
 daisukivn.asuscomm.com
 dakulov.synology.me
 dandelionsprout.asuscomm.com
+daniel0705.synology.me
 darkboyjyoti.online
 darkhole.uint64.dev
 darkness.is.my.waifu.cz
@@ -2501,6 +2501,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -2555,7 +2556,6 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
-firefenix.duckdns.org
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -3029,6 +3029,7 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
+kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -4053,6 +4054,7 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
