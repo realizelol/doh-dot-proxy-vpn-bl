@@ -208,6 +208,7 @@ adguard.alex-tools.dev
 adguard.almanasports.com
 adguard.ambiya.net
 adguard.aminetwork.biz
+adguard.amscenter.net
 adguard.app.sabino.pro
 adguard.avdkishore.dev
 adguard.baltes.info
@@ -221,6 +222,7 @@ adguard.bonsirven.eu
 adguard.borgwardtech.net
 adguard.brandonsli.com
 adguard.bwasson.com
+adguard.camn.uk
 adguard.cepenjak.com
 adguard.chancecallahan.net
 adguard.chanhome.xyz
@@ -372,11 +374,13 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
 adguard.soloanvill.ru
+adguard.som-it.net
 adguard.spaceindex.net
 adguard.sparshbajaj.me
 adguard.spyrisk.fr
 adguard.sscw.win
 adguard.stealbit.com
+adguard.stevenfamy.me
 adguard.streamlas.fr
 adguard.styxnetwork.org
 adguard.superbest.eu.org
@@ -429,6 +433,7 @@ adguard2.kapuyhome.hu
 adguard2.leadmon.net
 adguard2.ota.moe
 adguard2.richardapplegate.io
+adguard2.unima.ac.id
 adguard3.ota.moe
 adguard4.ota.moe
 adguardcalpena.duckdns.org
@@ -495,6 +500,7 @@ ag.felixf.eu
 ag.ff0x.ca
 ag.homedevenv.com
 ag.hostme.co.il
+ag.iyn.one
 ag.linux.repair
 ag.marschi.de
 ag.sageton.pl
@@ -588,6 +594,7 @@ anonymouse.org
 anonymousvpn.org
 anonymster.com
 ant.dns.qwer.pw
+antarlangit.my.id
 anti-tahrim.bazipardaz.com
 antidns.s.tuna.tsinghua.edu.cn
 antivirus.bebasid.com
@@ -1163,6 +1170,7 @@ dns.ambiya.net
 dns.amigo-mgn.ru
 dns.amxd.de
 dns.analyticshopsystemblock.top
+dns.andersfarms.ltd
 dns.andrewnw.xyz
 dns.andreykiv.com
 dns.anonymous.pw
@@ -1277,6 +1285,8 @@ dns.cretu.xyz
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
+dns.cubesworld.net
+dns.cucaracha.space
 dns.cuehosting.com
 dns.cwlys.com
 dns.cybereager.net
@@ -1371,6 +1381,7 @@ dns.fc.idv.tw
 dns.febryandana.xyz
 dns.feedbot.xyz
 dns.feldy.my.id
+dns.fifux.be
 dns.filipccz.eu
 dns.firefenix.cf
 dns.flatuslifir.is
@@ -1423,6 +1434,7 @@ dns.hanmey.de
 dns.haoxuan.xyz
 dns.harrache.info
 dns.hee.ink
+dns.hempfoundation.net
 dns.henek.ovh
 dns.henek.ru
 dns.herkhof.nl
@@ -1493,6 +1505,7 @@ dns.jianyi.studio
 dns.jimirobaer.be
 dns.jinwoo.dev
 dns.jnmj.cc
+dns.jnprd.com
 dns.joaofidelix.com.br
 dns.joey01245.nl
 dns.jstockley.com
@@ -1764,6 +1777,7 @@ dns.sainternet.xyz
 dns.sakuraseasons.com
 dns.sarak.as
 dns.sarakas.net
+dns.sarilouis.com
 dns.sb
 dns.sbstructure.ir
 dns.scapetical.com
@@ -1884,6 +1898,7 @@ dns.vaguthu.mv
 dns.vancrafter.click
 dns.varga-da.com
 dns.vault-101.net
+dns.vaultguard.eu
 dns.vd.i81.ru
 dns.vdl.io
 dns.vectorsigma.ru
@@ -1996,6 +2011,7 @@ dns1.quickline.ch
 dns1.rhscz.eu
 dns1.ryan-palmer.com
 dns1.ryanpalmer.com
+dns1.saferbfc.org
 dns1.sarak.as
 dns1.sarakas.net
 dns1.slvrsrvr.de
@@ -2167,6 +2183,7 @@ doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
 doh.10yusufahmad.my.id
 doh.167g.com
+doh.167g.com.eo.dnse1.com
 doh.233py.com
 doh.2kil.com
 doh.30x.me
@@ -2348,7 +2365,6 @@ doh2.gslb2.xfinity.com
 doh2.seby.io
 doh2.znps.xyz
 doh3.almir1904.eu
-dohal.167g.com.w.cdngslb.com
 dohdns.com
 dohdododo.tonedtanya.com
 dohdot.coxlab.net
@@ -2741,6 +2757,7 @@ haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcm.quydang.name.vn
 hcu.icu
+hdf084sqbme.sn.mynetname.net
 heimdall.ff0x.ca
 hel01.dnscry.pt
 helios.plan9-dns.com
@@ -2852,7 +2869,6 @@ htgg.cloud
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
-huaweicloud-dns.itbbs.org
 hubertdns.com
 hubsora.eastasia.cloudapp.azure.com
 hyperbyte.net
@@ -2951,6 +2967,7 @@ jkdsm.com
 jkt01.dnscry.pt
 jmarston.duckdns.org
 jnb01.dnscry.pt
+jnprd.com
 johnsson.ovh
 jonasdevries.de
 jonathanaugusto.freeddns.org
@@ -2998,6 +3015,7 @@ kaans.io
 kaiser.int.eu.org
 kaitain.restena.lu
 kakoito.site
+karawan.pnamae.com
 karimdns.com
 katherine-cloud-ip02.newcore.cl
 katherine-dns.newcore.cl
@@ -3034,7 +3052,6 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
-kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -3173,6 +3190,7 @@ marimuttz.asuscomm.com
 markolll.ru
 mars.pccoach.nl
 marzban.severvpn.ru
+mash-tec.de
 mask-api.fe2.apple-dns.net
 mask-h.icloud.com
 mastergad.me
@@ -3341,6 +3359,7 @@ nl-ams-w-3.nashkan.net
 nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
+nl-dro-w-p-1.nashkan.net
 nl.adg.ghostzone.wtf
 nl.galaskar.ga
 nlb.gbrossi.com.br
@@ -3446,7 +3465,6 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
-o.o.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -3472,6 +3490,7 @@ olga.vd.i81.ru
 olga.vpn.i81.ru
 olivier-adguard.duckdns.org
 olivier-raspberrypi.changeip.org
+one.dotted.9l3.com
 one.one.one.one
 oneplus-10pro.aezadns.duckdns.org
 onevps-dns.pivb.vip
@@ -3835,6 +3854,7 @@ rml.mobi
 rndns.com
 ro-buc-w-1.nashkan.net
 ro-buc-w-2.nashkan.net
+robertfenyiner.ddns.net
 roboticsbenchmarking.xyz
 roc.net.sys.of.icu
 roma.vpn.geshido.ru
@@ -4061,7 +4081,6 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -4328,6 +4347,7 @@ us-chi-w-1.nashkan.net
 us-chi-w-2.nashkan.net
 us-chi-w-3.nashkan.net
 us-chi-w-4.nashkan.net
+us-chi-w-p-1.nashkan.net
 us-dal-w-1.nashkan.net
 us-dal-w-3.nashkan.net
 us-dal-w-4.nashkan.net
@@ -4356,6 +4376,8 @@ us1.blissdns.net
 us1.dns.lavate.ch
 us1.intellsystemworld.xyz
 us5.wan.hc7z.com
+usa1.altcensored.com
+usad.cloudbasesolutions.online
 usafastproxy.info
 usdedi.ecapsul.com
 use-application-dns.net
@@ -4395,6 +4417,7 @@ valleverde.icu
 vanced.ddns.net
 vanced.sytes.net
 vancrafter.click
+vanes32.duckdns.org
 varganet.org
 vasya.hr.i81.ru
 vasya.vd.i81.ru
@@ -4412,6 +4435,7 @@ vidproxy.com
 vie01.dnscry.pt
 viewyoutube.net
 vikose.com.vn
+vir.accesscam.org
 virga.pp.ua
 virmamp33.sytes.net
 virtualshield.com
@@ -4433,7 +4457,6 @@ void-gate.irre.li
 vova.hr.i81.ru
 vova.vd.i81.ru
 vova.vpn.i81.ru
-vovadeti.fb.i81.ru
 vovale.hr.i81.ru
 vovale.vd.i81.ru
 vovale.vpn.i81.ru
@@ -4638,11 +4661,7 @@ www.chertila.tk
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
-www.dns-1.lostvpn.ru
-www.dns-2.lostvpn.ru
-www.dns.lostvpn.ru
 www.dns.stud.cloud
-www.dns.webika.site
 www.dnsadguard.co.uk
 www.dnsforge.de
 www.dnss.lol
@@ -4659,6 +4678,7 @@ www.jabber-germany.de
 www.khsan.com
 www.kondrcloud.ru
 www.lboxtv.top
+www.mash-tec.de
 www.masters-of-cloud.de
 www.maxfong.cc
 www.memorialus.eu.org
@@ -4668,15 +4688,12 @@ www.muxyuji.ru
 www.nilanjan.rocks
 www.nonanon.pl
 www.olivier-raspberrypi.changeip.org
-www.pcjco.ovh
 www.pdnssrvagh.online
 www.personal-dns.site
-www.pi1plus.duckdns.org
 www.pioko.net
 www.pukanuragan.ru
 www.qwenty.ru
 www.richardo.net
-www.secforads3.ch
 www.srgaghome.freemyip.com
 www.starinmars.life
 www.surfbelow.com
