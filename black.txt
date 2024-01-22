@@ -2539,7 +2539,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 faceless.me
@@ -2595,7 +2594,6 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
-firefenix.ddns.net
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2984,6 +2982,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3108,6 +3107,7 @@ kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
+l.o.ovpn.bond
 la.ray0512.win
 lab-1.sellan.fr
 lab.sellan.fr
@@ -3491,7 +3491,6 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
-o.o.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -4736,6 +4735,7 @@ www.svg33.eu
 www.szyrzyk.pl
 www.taufner.net
 www.timothytimothy.cf
+www.tirapan.top
 www.urology.wiki
 www.vdsn-nl-2.azatmutq.com
 www.vpn.stroialliance.com
