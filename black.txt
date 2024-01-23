@@ -778,6 +778,7 @@ btguard.com
 bubu-cloud.myds.me
 buc-m2.illmods.com
 buffered.com
+bughome.duckdns.org
 bumblebee.site
 bunch-o-nerds.com
 bushido.node.rferee.dev
@@ -1035,6 +1036,7 @@ derowd.freeboxos.fr
 destakmateriais.com.br
 deus-server.duckdns.org
 dev.camelstrike.xyz
+dev.gonnadive.com
 dev.reallemc.com
 devsimo.it
 dfw01.dnscry.pt
@@ -1202,6 +1204,7 @@ dns.atsilva.link
 dns.audet.cloud
 dns.auffray.org
 dns.axiomos.xyz
+dns.ayarzagoitia.com
 dns.aykanbacaksoy.de
 dns.azcom.dev
 dns.azsopro.net
@@ -1404,6 +1407,7 @@ dns.freequensi.com
 dns.freyja.pw
 dns.frguthrie.app
 dns.froth.zone
+dns.fsociety.club
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
 dns.futuredns.me
@@ -1501,6 +1505,7 @@ dns.itdata.ro
 dns.itdept.pro
 dns.iteo.pw
 dns.ithg.ru
+dns.itnetpass.ru
 dns.itsec.crolla.net
 dns.itwht.com
 dns.itya.xyz
@@ -1761,6 +1766,7 @@ dns.rasks.ru
 dns.rasp.tv
 dns.rassadnikov.ru
 dns.rayanbab.com
+dns.rbs.my.id
 dns.reckoningslug.name
 dns.redroot.me
 dns.repressoh.it
@@ -1964,6 +1970,7 @@ dns.xinwujiang.cn
 dns.xivilay.dev
 dns.xn--29ab3cg3bhgt.xn--y9a3aq
 dns.xryen.com
+dns.xuluo.org
 dns.xydustc.me
 dns.xyzz.live
 dns.yameenassotally.com
@@ -2044,6 +2051,7 @@ dns13.quad9.net
 dns140.zhhz.cc
 dns168.zhhz.cc
 dns2-secure.wifire.it
+dns2.263030.xyz
 dns2.adblocker.eu.org
 dns2.afastserver.com
 dns2.alekberg.net
@@ -2157,7 +2165,6 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
-dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsupstream02.familieberfelo.nl
 dnsvps.familiamv.ml
@@ -2490,6 +2497,7 @@ eajtech.com
 eamonn.dns.walshnet.co.uk
 earthvpn.com
 easyhandshake.com
+ebpmc.tplinkdns.com
 ec2-52-12-183-214.us-west-2.compute.amazonaws.com
 eccloud.de
 echoe1yidzu4ioo5.myfritz.net
@@ -2539,7 +2547,9 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
+f2-dns.asuzac.com.vn
 f4fp.com
 faceless.me
 family-filter-dns.cleanbrowsing.org
@@ -2563,6 +2573,7 @@ faralai.es
 fastestvpn.com
 fasttime.info
 fastusaproxy.com
+fatcat22.eastus.cloudapp.azure.com
 fatia.org
 fb.i81.ru
 fbproxies.info
@@ -2594,6 +2605,7 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
+firefenix.ddns.net
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2747,6 +2759,7 @@ groupy.su
 gtm-sg-5r538sziu04.go-behind.one
 guard-linodefree.tk
 guard.19kom.de
+guard.beliefanx.me
 guard.izzledudetech.com
 guard.magic-pics.tk
 guard.pp.ua
@@ -2811,6 +2824,7 @@ hiload.in
 hitian.me
 hk-az2.cattery.work
 hk-dns.cattery.work
+hk-dns.lista.my.id
 hk-hkg.doh.sb
 hk-w-1.nashkan.net
 hk-w-4.nashkan.net
@@ -2905,6 +2919,7 @@ i.solutics.ec
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
+id-dns.lista.my.id
 id-pon-w-1.nashkan.net
 id.lkbin.ga
 id.local.v.ua
@@ -2982,7 +2997,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3030,6 +3044,7 @@ justhost.bedro.cloud
 justlife.fun
 justproxy.co.uk
 k-s-edition.ru
+k03.dedyn.io
 k03vds.duckdns.org
 k0rtus-gg.ru
 kaandikec.com
@@ -3107,7 +3122,6 @@ kyjiep.com
 kyjiep.space
 kz-alm-w-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
-l.o.ovpn.bond
 la.ray0512.win
 lab-1.sellan.fr
 lab.sellan.fr
@@ -3153,6 +3167,7 @@ lion.dns.qwer.pw
 lion.yazilimatolye.com
 lipunyushka.ru
 live.jjlizz.com
+ljk.kkizz.cn
 llk01.dnscry.pt
 lmkatest.ru
 lmz.meudns.minhacasainteligente.cf
@@ -3314,6 +3329,7 @@ myv2ray.cn
 mzs1.ddns.net
 n-wan.dynv6.net
 n.3363.net
+n.esf.bio
 n0.eu
 n11649246144.netvigator.com
 n2.zmy.cloud
@@ -3352,7 +3368,6 @@ neelhatesads.cf
 neo.esbpcs.my.id
 neochronicles.live
 neptune.alpo.me
-net.0ms.dev
 net.tt6.net
 neta.a-desg.cc
 netcat.one
@@ -3491,6 +3506,7 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
+o.o.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
@@ -3768,6 +3784,7 @@ proxyunblocker.org
 prysiazhniuk.pp.ua
 ps-tel-w-2.nashkan.net
 ps1.modr.club
+psociety.de
 pt-lis-w-1.nashkan.net
 public-dns-a.dns.sb
 public-dns-b.dns.sb
@@ -3996,6 +4013,7 @@ server.pragmasec.nl
 server.unp.im
 server01.dr-adguard.de
 server01.karl.one
+server01.vboekel.nl
 server03.dr-adguard.de
 server1.greendns.green1052.com
 server3.boldteam.ir
@@ -4010,6 +4028,7 @@ setupvpn.com
 sexybody.myqnapcloud.com
 sg-119.cattery.work
 sg-8.dr0p.eu.org
+sg-dns.lista.my.id
 sg-dns1.bancuh.com
 sg-dns2.bancuh.com
 sg-sin.doh.sb
@@ -4208,6 +4227,7 @@ testdjango.live
 testguard.meexx.de
 tetra.aeins.at
 tezoi.duckdns.org
+tg2a7d4.glddns.com
 thanh933.cf
 thanos.pleumkungz.com
 thebeloveduck.duckdns.org
