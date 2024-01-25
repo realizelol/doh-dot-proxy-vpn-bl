@@ -2548,6 +2548,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2972,6 +2973,7 @@ ir.deghy.ir
 irgrdns.nullapp.xyz
 iris.woozeno.eu
 irre.li
+irrelevant.cc
 isolacje.homeip.net
 ispunblock.com
 ist01.dnscry.pt
