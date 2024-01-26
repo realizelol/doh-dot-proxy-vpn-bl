@@ -2825,7 +2825,6 @@ hiload.in
 hitian.me
 hk-az2.cattery.work
 hk-dns.cattery.work
-hk-dns.lista.my.id
 hk-hkg.doh.sb
 hk-w-1.nashkan.net
 hk-w-4.nashkan.net
@@ -3092,7 +3091,6 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
-kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -4230,7 +4228,6 @@ testdjango.live
 testguard.meexx.de
 tetra.aeins.at
 tezoi.duckdns.org
-tg2a7d4.glddns.com
 thanh933.cf
 thanos.pleumkungz.com
 thebeloveduck.duckdns.org
