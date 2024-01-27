@@ -516,6 +516,7 @@ agafon.space
 agathe.tobkar.net
 agh-yz.russel053.com
 agh.710523.xyz
+agh.alematho.de
 agh.alushi.net
 agh.fltn.us
 agh.ixghzx.ml
@@ -816,6 +817,7 @@ cactusvpn.com
 caifuwu.com
 callies-online.site
 calm-crown.freemyip.com
+camn.uk
 canadaproxy.info
 canadianshield.cira.ca
 cantblockthis.org
@@ -1237,7 +1239,6 @@ dns.bofh.in
 dns.borlee.be
 dns.bourassa.cc
 dns.brahma.world
-dns.brainifii.com
 dns.briac-mlb.fr
 dns.brian-hong.tech
 dns.brightesttv.com
@@ -1255,7 +1256,6 @@ dns.ceai.com.tw
 dns.cearhome.top
 dns.cfd.com.ar
 dns.cfiec.net
-dns.chaav.xyz
 dns.chadeyron.fr
 dns.chaosen3.co.uk
 dns.charraud.eu
@@ -1282,6 +1282,7 @@ dns.cloudseriousshit.com
 dns.cloudtrust.solutions
 dns.cloudyun.top
 dns.cmrg.net
+dns.cnblw.me
 dns.codarbyte.de
 dns.coixia.com
 dns.colorfreedom.org
@@ -1436,7 +1437,6 @@ dns.h0me.cc
 dns.h0schi.cloud
 dns.h81.pl
 dns.ha-dvin.pp.ua
-dns.haboy.top
 dns.hackerwolf.xyz
 dns.hafidzradhival.my.id
 dns.hahnjo.de
@@ -1831,7 +1831,6 @@ dns.skrzypiec.pl
 dns.sledge.cc
 dns.slinkyman.net
 dns.smirnov.tk
-dns.smnetwork.live
 dns.solonodes.net
 dns.sootoon.xyz
 dns.spil.co.id
@@ -1843,6 +1842,7 @@ dns.startupstack.tech
 dns.stdev.su
 dns.stevenz.net
 dns.strassmair.org
+dns.streamsmoke.com
 dns.streamvine.app
 dns.struchkov.dev
 dns.stud.cloud
@@ -1962,7 +1962,6 @@ dns.woexp.ru
 dns.woodyli.dev
 dns.worthmind.net
 dns.wpice.ru
-dns.wryhf.net
 dns.wugui.zone
 dns.xiayang.space
 dns.xie.ke
@@ -2753,6 +2752,7 @@ graveofhope.ru
 greatestfreeproxy.com
 green.cyberbeta.cn
 green2.jnraptor.net
+green3.jnraptor.net
 greenhamadguard.com.au
 greppie.nl
 groupy.ga
@@ -2972,7 +2972,6 @@ ir.deghy.ir
 irgrdns.nullapp.xyz
 iris.woozeno.eu
 irre.li
-irrelevant.cc
 isolacje.homeip.net
 ispunblock.com
 ist01.dnscry.pt
@@ -2998,7 +2997,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3033,7 +3031,6 @@ jp1.f7b6h9.tk
 jp2.101818.xyz
 jp2.ooroot.com
 jp3.meidouling.com
-jpdns.billyau.net
 jpdns.cola16.app
 jpginformatica.com
 jpok.996333.xyz
@@ -3436,7 +3433,6 @@ ns.hjk.kr
 ns.hjk.me
 ns.lov.host
 ns.mtsoln.com
-ns.osipenko.space
 ns.palvikt.us
 ns.postoverall.xyz
 ns.rabot.fi
@@ -3537,7 +3533,6 @@ one.dotted.9l3.com
 one.one.one.one
 oneplus-10pro.aezadns.duckdns.org
 onevps-dns.pivb.vip
-onic-doh.lista.my.id
 onion.cab
 onion.city
 onion.direct
@@ -3793,6 +3788,7 @@ public.dns.iij.jp
 publique.gouasmi.site
 pukanuragan.ru
 punono.duckdns.org
+pure.sunnygyl.com
 puredns.org
 purevpn.com
 pushvpn.com
@@ -3921,6 +3917,7 @@ ru-mos-w-2.nashkan.net
 ru-mos-w-p-1.nashkan.net
 ru-mow.doh.sb
 ru2.vnetwork.cyou
+rudns.ddnsfree.com
 rumpelsepp.org
 rusvpn.com
 rwkdwpwsyv48.mikopono.nl
@@ -4003,7 +4000,6 @@ seeproxy.me
 selsby.info
 serbri.net
 sergeykobzar.com.ua
-serv4me.site
 servad.duckdns.org
 server-beget.ru
 server-way.tk
@@ -4028,7 +4024,6 @@ servicesgov.dev
 setupvpn.com
 sexybody.myqnapcloud.com
 sg-119.cattery.work
-sg-8.dr0p.eu.org
 sg-dns.lista.my.id
 sg-dns1.bancuh.com
 sg-dns2.bancuh.com
@@ -4132,7 +4127,6 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -4160,6 +4154,7 @@ storydoh.kinergetica.com
 strata.gurupannu.com
 stratus.bugz.fr
 stream.securely.sh
+streamsmoke.com
 streltsov.net
 strk12-filter.mtbroadband.us
 strongvpn.com
@@ -4180,6 +4175,7 @@ surfproxyserver.com
 surfshark.com
 surfshell.io
 surt.ml
+surt.ovh
 surve.dehb.ru
 sv.oispace.eu.org
 sv3.minhduc.pw
@@ -4228,6 +4224,7 @@ testdjango.live
 testguard.meexx.de
 tetra.aeins.at
 tezoi.duckdns.org
+tg2a7d4.glddns.com
 thanh933.cf
 thanos.pleumkungz.com
 thebeloveduck.duckdns.org
@@ -4284,6 +4281,7 @@ travis90x.ddns.net
 trf01.dnscry.pt
 trickbyte.com
 trojan.nowave.top
+trovs.ru
 trr.dns.nextdns.io
 trytackle.ddns.net
 tsm01.dnscry.pt
@@ -4553,6 +4551,7 @@ vpnunlimitedapp.com
 vps-33e5a7f3.vps.ovh.us
 vps-amgr.duckdns.org
 vps-ovh.pb2004.pl
+vps.19790307.xyz
 vps.ak42.io
 vps.avc.cx
 vps.filatov.link
@@ -4726,6 +4725,7 @@ www.fanscloud.net
 www.fuangkhon.com
 www.ggrbb.xyz
 www.greppie.nl
+www.himarsman.life
 www.incaseineeditoneday.com
 www.inpssh.online
 www.jabber-germany.de
@@ -4756,6 +4756,7 @@ www.szyrzyk.pl
 www.taufner.net
 www.timothytimothy.cf
 www.tirapan.top
+www.trovs.ru
 www.urology.wiki
 www.vdsn-nl-2.azatmutq.com
 www.vpn.stroialliance.com
