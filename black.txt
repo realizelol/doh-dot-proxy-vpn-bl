@@ -676,6 +676,7 @@ ax.ns1net.com
 axaxa.fun
 axell24.ml
 ayasesayuki.shop
+aydank.freeddns.org
 ayzu.fun
 az2q.xyz
 azagramac.duckdns.org
@@ -987,6 +988,7 @@ ddns.bigmaomao.xyz
 ddns.ddns.bigqy.eu.org
 ddns.ddnsddns.online
 ddns.haha2048.site
+ddns.itsnooblk.xyz
 ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
@@ -1567,6 +1569,7 @@ dns.kutovoy.dev
 dns.l2h8.cn
 dns.l337.site
 dns.labar.re
+dns.laby.huyu.one
 dns.laison.ltd
 dns.laiwenbo.icu
 dns.lalafell.info
@@ -1831,6 +1834,7 @@ dns.skrzypiec.pl
 dns.sledge.cc
 dns.slinkyman.net
 dns.smirnov.tk
+dns.smvd.net
 dns.solonodes.net
 dns.sootoon.xyz
 dns.spil.co.id
@@ -1857,6 +1861,7 @@ dns.swehosting.se
 dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
+dns.syaifullah.id
 dns.t53.de
 dns.tacomafia.net
 dns.tapawan.ca
@@ -1893,6 +1898,7 @@ dns.tsgmcoinfra.com
 dns.tticus.art
 dns.tuankhaiit.com
 dns.tuna.tsinghua.edu.cn
+dns.tv-minecraft.ru
 dns.twnic.tw
 dns.twtrs.com
 dns.txq.life
@@ -2043,6 +2049,7 @@ dns1.sytes.net
 dns1.tardishost.ru
 dns1.taterdns.nl
 dns1.techeasy.org
+dns1.timothy-dev.com
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -2536,6 +2543,7 @@ eu1.dns.lavate.ch
 europe-west.avastdns.com
 europe.avastdns.com
 europe.doh.sb
+ev-goztepe.duckdns.org
 everovpn.co
 evyy.net
 eweyo-de1.duckdns.org
@@ -3088,6 +3096,7 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
+kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -3123,6 +3132,7 @@ kz-pav-w-p-1.nashkan.net
 la.ray0512.win
 lab-1.sellan.fr
 lab.sellan.fr
+laby.huyu.one
 lajc.sytes.net
 lamdtl.giize.com
 lampedns.bagmeijer.nl
@@ -3873,6 +3883,7 @@ resolver1.opendns.com
 resolver2-fs.opendns.com
 resolver2.absolight.net
 resolver2.dyndnsinternetguide.com
+resolver2.hosting-cloud.net
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
 resolver3.absolight.net
@@ -3950,6 +3961,7 @@ saomai.dynu.com
 saoudiproxy.info
 sarawut.ddns.net
 saruman.freeddns.org
+sascha-rabold.de
 saya.rnrkurir.com
 sb.nanhang.xyz
 sbdns.co.in
@@ -4127,6 +4139,7 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
