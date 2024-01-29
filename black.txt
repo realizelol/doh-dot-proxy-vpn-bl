@@ -2171,7 +2171,6 @@ dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
 dnstls.mobik.com
-dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsupstream02.familieberfelo.nl
 dnsvps.familiamv.ml
@@ -3005,6 +3004,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3013,6 +3013,7 @@ jmarston.duckdns.org
 jnb01.dnscry.pt
 jnprd.com
 johnsson.ovh
+jojo1204.xyz
 jonasdevries.de
 jonathanaugusto.freeddns.org
 jonesboyz.duckdns.org
@@ -4237,7 +4238,6 @@ testdjango.live
 testguard.meexx.de
 tetra.aeins.at
 tezoi.duckdns.org
-tg2a7d4.glddns.com
 thanh933.cf
 thanos.pleumkungz.com
 thebeloveduck.duckdns.org
