@@ -92,6 +92,7 @@ abstergo.it
 aceproxy.com
 acevpn.com
 acomit.lk
+ad-dns.lista.my.id
 ad.257053.xyz
 ad.344556.xyz
 ad.aghaaliagha.tk
@@ -2593,6 +2594,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2650,6 +2652,7 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
+firefenix.ddns.net
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -3045,7 +3048,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3140,7 +3142,6 @@ kobi4k9i.slt.sched.intlscdn.com
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
-kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -4194,7 +4195,6 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -4381,6 +4381,7 @@ ublock-dns-resolver-02.northeurope.cloudapp.azure.com
 ublock-dns-resolver-03.westeurope.cloudapp.azure.com
 ubuntu1.adgw.tk
 ueni.dyndns.org
+uf-dns.lista.my.id
 ufovpn.io
 uk-lon.doh.sb
 uk-unblock.xyz
