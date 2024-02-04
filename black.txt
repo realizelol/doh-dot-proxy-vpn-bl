@@ -3048,6 +3048,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3142,6 +3143,7 @@ kobi4k9i.slt.sched.intlscdn.com
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
+kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -3308,6 +3310,7 @@ megumin.is.my.waifu.cz
 mehide.asia
 meiju444.tk
 melbicom-server.site
+memorialus.eu.org
 meowless.club
 metproxy.com
 meudns.minhacasainteligente.cf
@@ -4195,6 +4198,7 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ssh-storage.ru
@@ -4498,7 +4502,6 @@ us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
 us1.dns.lavate.ch
-us1.easyflying.top
 us1.intellsystemworld.xyz
 us5.wan.hc7z.com
 usa1.altcensored.com
