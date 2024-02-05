@@ -183,6 +183,7 @@ adghome.joeszef.com
 adghome.joseph.com.ph
 adghome2.mail-endpoint.com
 adghs.de
+adguard-2.ddns.net
 adguard-aws.charraud.eu
 adguard-aws.gdmn.dev
 adguard-be-azure.westeurope.cloudapp.azure.com
@@ -318,6 +319,7 @@ adguard.lilis.xin
 adguard.lista.my.id
 adguard.londonwebnerd.cloud
 adguard.lspcr.space
+adguard.madeconengenharia.com.br
 adguard.mapor.co
 adguard.marto.si
 adguard.mattiafenzi.uk
@@ -406,6 +408,7 @@ adguard.vape.ong
 adguard.vegann.space
 adguard.vrehm.fr
 adguard.wallura.eu
+adguard.wangziyun.online
 adguard.willhotard.com
 adguard.wirimij.nl
 adguard.wualai.com
@@ -414,6 +417,7 @@ adguard.xiaolingg.io.vn
 adguard.xiaoniaoyou.com
 adguard.yamamoto.ren
 adguard.yoandev.co
+adguard.youler.com
 adguard.youroute.ru
 adguard.youshitsune.tech
 adguard.yuki2th.xyz
@@ -847,6 +851,7 @@ caycewebsolutions.com
 cc.3eto.com
 cc.somimobile.com
 cc2.v8er.net
+cc210b36bb9e.sn.mynetname.net
 ccadguard.ddns.net
 ccyykk.top
 cdn.0ms.dev
@@ -1431,6 +1436,7 @@ dns.freyja.pw
 dns.frguthrie.app
 dns.froth.zone
 dns.fsociety.club
+dns.fulgore.fr
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
 dns.futuredns.me
@@ -1710,6 +1716,7 @@ dns.nietostuff.com
 dns.nikolagjorgjijoski.com
 dns.ningkelle.id
 dns.nixnet.xyz
+dns.nj0.de
 dns.njal.la
 dns.nnet.services
 dns.noad.me
@@ -1797,6 +1804,7 @@ dns.rasks.ru
 dns.rasp.tv
 dns.rassadnikov.ru
 dns.rayanbab.com
+dns.rbpi.cc
 dns.rbs.my.id
 dns.reckoningslug.name
 dns.redroot.me
@@ -2221,6 +2229,7 @@ dnx.tttpai.com
 do.dnscrypt.uk
 do.shimul.me
 docker-hub.ir
+docker.youler.com
 dockernet.vpsburti.com
 doctorbrobotnik.com
 dog.dns.qwer.pw
@@ -2268,6 +2277,7 @@ doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.armadillodns.net
 doh.arroudlohgpg.site
+doh.artsvr.my.id
 doh.asecdns.com
 doh.asia.dnswarden.com
 doh.au.ahadns.net
@@ -2325,6 +2335,7 @@ doh.funil.de
 doh.funtopia.tv
 doh.futa.gg
 doh.gcp.pathofgrace.com
+doh.ginetz.id
 doh.greenwood.eu.org
 doh.gslb2.xfinity.com
 doh.hottis.de
@@ -2722,6 +2733,7 @@ ftgfw.tk
 fuangkhon.com
 fuchur.pentament.de
 fukuda.ccnt.fr
+fulgore.fr
 fullaccesstointernet.int.eu.org
 fullaccesstointernet.jp.eu.org
 funti.cc
@@ -3226,6 +3238,7 @@ ljk.kkizz.cn
 llk01.dnscry.pt
 lmkatest.ru
 lmz.meudns.minhacasainteligente.cf
+ln7371.top
 local.sufly.top
 locaweb.moleniuk.com
 logs.danamas.net
@@ -3992,6 +4005,7 @@ s.101818.xyz
 s.960423.xyz
 s.idsam.com
 s.salome.my.id
+s1.s2.shahramv1.site
 s1.soft88.click
 s1.srch.top
 s3-api.arashi.solutions
@@ -4036,6 +4050,7 @@ sdns22.gkonuralp.com
 sdvizhkov.ru
 se-sto-w-1.nashkan.net
 se-sto-w-2.nashkan.net
+sea-ydmaz-docker.southeastasia.cloudapp.azure.com
 sea01.dnscry.pt
 seanyan.ddns.net
 seaofbits.com
@@ -4190,6 +4205,7 @@ speedproxy.online
 spidervpn.org
 sporium.org
 spysurfing.com
+sq.trin.icu
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
 sradminfk.ddns.net
@@ -4502,6 +4518,7 @@ us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
 us1.dns.lavate.ch
+us1.easyflying.top
 us1.intellsystemworld.xyz
 us5.wan.hc7z.com
 usa1.altcensored.com
