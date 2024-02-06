@@ -785,6 +785,7 @@ box.negaforce.com
 boxpn.com
 br-sao-w-1.nashkan.net
 br.servers.legat.ml
+br2.lezainski.com
 bravedns.com
 brazilproxy.info
 brb.pp.ua
@@ -900,6 +901,7 @@ clic.eu.org
 clientdns3.softcom.net
 cloakvpn.com
 cloud.198.games
+cloud.198.games.cdn.dnsv1.com
 cloud.centralgenerator.net
 cloud.graphicpoint.pl
 cloud.jjlizz.com
@@ -1030,6 +1032,7 @@ de-fsn-w-32.nashkan.net
 de-fsn-w-33.nashkan.net
 de-fsn-w-9.nashkan.net
 de-fsn-w-f-1.nashkan.net
+de-fsn-w-f-2.nashkan.net
 de-fsn-w-p-1.nashkan.net
 de-nue-w-1.nashkan.net
 de-nue-w-2.nashkan.net
@@ -1658,6 +1661,7 @@ dns.mgiptvpro.ml
 dns.micro.alloxr.info
 dns.mikeliu.org
 dns.mikopono.nl
+dns.mikou.be
 dns.mikrotikrumahan.my.id
 dns.milangeorge.com
 dns.milkpie.one
@@ -2124,6 +2128,7 @@ dns2.ipv6.dnscrypt.ca
 dns2.karmanet.ch
 dns2.keipert.me
 dns2.klcd.eu
+dns2.lezainski.com
 dns2.lfac.ml
 dns2.lfac.xyz
 dns2.linzefeng.top
@@ -2460,6 +2465,7 @@ donghovietkid.cloud
 dontfilter.us
 door.plasmadancer.ru
 dop.privatedns.org
+doq.sa-sa.eu
 dorkanddoodle.duckdns.org
 dosvid.tk
 dot-ch.blahdns.com
@@ -2685,6 +2691,7 @@ forum.ginovs.nl
 foxyserg.myddns.me
 fr-dns1.bancuh.com
 fr-dns2.bancuh.com
+fr-gra-w-f-1.nashkan.net
 fr-par-w-1.nashkan.net
 fr-sbg-w-4.nashkan.net
 fr1.dnswarden.com
@@ -2822,6 +2829,7 @@ guard-linodefree.tk
 guard.19kom.de
 guard.beliefanx.me
 guard.izzledudetech.com
+guard.lumusimc.co.uk
 guard.magic-pics.tk
 guard.pp.ua
 guard.sntrk.ru
@@ -3052,6 +3060,7 @@ jabber-server.de
 jackyes.ovh
 jambi.undo.it
 james-solomon.com
+japan.1vpn.fun
 jarjar.meganerd.nl
 jatadguardhome.duckdns.org
 jaye.sh
@@ -3359,6 +3368,7 @@ mrunlock.space
 msfste.site
 msr177.com
 msxnet.ru
+mtdkdhs0.slt.sched.tdnsv8.com
 muc-ns01.ibytex.systems
 muc01.dnscry.pt
 muffincat.ru
@@ -3387,6 +3397,7 @@ myip.mmmalia.com
 mykewl.pro
 myownadguard.ovh
 mypihole.hopto.org
+myplatesd.quick-groovy.my.id
 myprivateproxy.net
 myprivityvpn.softether.net
 myproxy.info
@@ -4098,6 +4109,7 @@ server01.dr-adguard.de
 server01.karl.one
 server01.vboekel.nl
 server03.dr-adguard.de
+server1.cloud.hwtwco.uk
 server1.greendns.green1052.com
 server3.boldteam.ir
 serverfriend.altervista.org
@@ -4342,6 +4354,7 @@ tls.zhiyou.me
 tlsl.windyvale.net
 tlz.asia
 tlz.bio
+to.llzz.top
 toaster.lol
 todns.work
 token.safebrowsing.apple
@@ -4540,6 +4553,7 @@ ux.go20.cf
 v.dnscrypt.uk
 v.itsa.cc
 v.or2o.ml
+v.qdev.cc
 v.yuwentian.com
 v1.lifeym.xyz
 v1461642.hosted-by-vdsina.ru
