@@ -6,6 +6,7 @@
 1.0rz.space
 1.11i.eu
 1.dns.noridev.moe
+1.rock-review.ru
 1001.cloudflare-dns.com
 10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com
 1111.cloudflare-dns.com
@@ -57,6 +58,7 @@
 501w.net
 52lanlan.com
 53.slepov.dev
+546413.xyz
 5g.o0o.re
 6692.giize.com
 6e47fb7.online-server.cloud
@@ -103,7 +105,6 @@ ad.dscw.io
 ad.emekm.fr
 ad.guard.ru.net
 ad.huyct.net
-ad.hy131212.tk
 ad.justincounts.com
 ad.lsal.fr
 ad.miaouu.top
@@ -130,6 +131,7 @@ adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
 adb.aiec.vn
 adb.nods.in
+adbl-tslagter.nl
 adblock-dot.dnswarden.com
 adblock-larssonshus.duckdns.org
 adblock.any.dns.nixnet.xyz
@@ -246,7 +248,6 @@ adguard.connexum.mx
 adguard.coriolanus.top
 adguard.crestfallen.de
 adguard.crobix.ovh
-adguard.darrenhizon.com
 adguard.dashofsunny.com
 adguard.ddns.net
 adguard.deersg.duckdns.org
@@ -261,6 +262,7 @@ adguard.digitalsewer.com
 adguard.discounthost.co.uk
 adguard.dizdarevic.dev
 adguard.djay.tk
+adguard.docker.xnj.ovh
 adguard.dsns.cloud
 adguard.dtness.com
 adguard.ef67daisuki.club
@@ -336,7 +338,6 @@ adguard.mjthemelancholy.xyz
 adguard.mokocup.cf
 adguard.mokocup.dev
 adguard.mrmartian.co
-adguard.mtuan.dev
 adguard.multivpn.bz
 adguard.mulu.at
 adguard.myddns.me
@@ -465,7 +466,6 @@ adguardh.ga
 adguardhom.ddns.net
 adguardhome-vps.couli.fr
 adguardhome.atakorah.com
-adguardhome.ddns.net
 adguardhome.dev
 adguardhome.eastasia.cloudapp.azure.com
 adguardhome.fr.couli.fr
@@ -524,7 +524,6 @@ ag.hostme.co.il
 ag.iyn.one
 ag.linux.repair
 ag.marschi.de
-ag.sageton.pl
 ag.ssrahul96.xyz
 ag.wntrmute.net
 ag01.de.hallmen.it
@@ -647,6 +646,8 @@ arm.zengmengyu1.tk
 arm2.nzcow.com
 arm3.nzcow.com
 armorrush.eu.org
+arrakis.korolyzer.com.br
+arvilx3.tk
 as17820865.click
 as6604t-04.myasustor.com
 asbordns.ddns.net
@@ -693,6 +694,7 @@ awsdns.vpnrf.com
 ax.ns1net.com
 axaxa.fun
 axell24.ml
+axistechsupport.com
 ayasesayuki.shop
 aydank.freeddns.org
 ayzu.fun
@@ -709,7 +711,9 @@ b.ns.dnslify.com
 b.safe.ns.dnslify.com
 b2u7d7r9.stackpathcdn.com
 b5lwtlgyqyly1typvyshftccwxuhk3zq.space
+bacer.msk.ru
 baedns.duckdns.org
+bahopir188.dnshome.de
 ban.ppppppeeesss.info
 banana.991123.xyz
 banhbaothiu.site
@@ -748,6 +752,7 @@ bigart.su
 bili.cccc.cyou
 bilidon.dnsuser.info
 bilidon.info
+biliun.me
 bing.000036.xyz
 birnenwasser.ddnss.de
 blackhole.aflr.io
@@ -795,17 +800,18 @@ brazilproxy.info
 brb.pp.ua
 bropines.online
 brovpn.io
+bt.luoo.cc
 btb.dog
 btguard.com
 bubu-cloud.myds.me
 buc-m2.illmods.com
+bucheli.synology.me
 buffered.com
 bughome.duckdns.org
 bumblebee.site
 bunch-o-nerds.com
 bushido.node.rferee.dev
 bushmancastle.duckdns.org
-bvk.capy.su
 bvo.giize.com
 bw.i81.ru
 bw.marsgo.top
@@ -816,8 +822,10 @@ bypassed.life
 bypassed.zone
 bypasser.us
 bytant.link
+c-asm.circumitor.de
 c-c.eve.surf
 c-dns.com
+c-rm.circumitor.de
 c.cicitt.ch
 c.malicioustation.icu
 c0ntroller.de
@@ -886,12 +894,14 @@ chlaebi.info
 chlaebi.synology.me
 chno.xyz
 chriskutschker.de
+christcru.tk
 christophbrem.com
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 chronicle14.tplinkdns.com
 chungocoai.name.vn
 cintra.ml
+circumitor.de
 cirruscloud.it
 citizenvpn.com
 cld.996969.xyz
@@ -938,6 +948,7 @@ connect.moonficonnect.com
 connectix.xyz
 contacts.dehb.ru
 controld.com
+coriolanus.top
 cossxiu.ga
 cpux.ru
 craft.vps.pw
@@ -1016,6 +1027,7 @@ ddns.itsnooblk.xyz
 ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
+ddnsnet.site
 de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
@@ -1323,7 +1335,6 @@ dns.coixia.com
 dns.colorfreedom.org
 dns.comeonjames.club
 dns.comss.one
-dns.confrontingcode.com
 dns.connect.fail
 dns.containerpi.co
 dns.containerpi.com
@@ -1354,6 +1365,7 @@ dns.decisivedevops.com
 dns.decky.eu
 dns.decloudus.com
 dns.deekshith.in
+dns.delia.is
 dns.deluxerpanda.se
 dns.demirse.com
 dns.developer.li
@@ -1491,7 +1503,6 @@ dns.hempfoundation.net
 dns.henek.ovh
 dns.henek.ru
 dns.herkhof.nl
-dns.hesitance.site
 dns.hinet.net
 dns.hinytz.com
 dns.hitmw.cn
@@ -1624,6 +1635,7 @@ dns.lat-team.com
 dns.lat-team.xyz
 dns.lavir.com
 dns.lehonganh.id.vn
+dns.letmedo.cc
 dns.lfac.ml
 dns.lfac.xyz
 dns.lgprk.com
@@ -1790,7 +1802,6 @@ dns.phuctran.cloud
 dns.pieterdherde.com
 dns.pietjacobs.be
 dns.pldweb.net
-dns.ple91.tk
 dns.pmxu.link
 dns.pointless.chat
 dns.porteii.com
@@ -1869,6 +1880,7 @@ dns.seekfor.top
 dns.sellan.fr
 dns.serdcebolit.ru
 dns.servergs.net
+dns.servizimv.it
 dns.sev.monster
 dns.shaw.ca
 dns.shecan.ir
@@ -1930,7 +1942,6 @@ dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
 dns.thechance.family
-dns.thegodfatheriam.tk
 dns.theres.one
 dns.therifleman.name
 dns.thhbdd.eu.org
@@ -1987,6 +1998,7 @@ dns.vaultguard.eu
 dns.vd.i81.ru
 dns.vdl.io
 dns.vectorsigma.ru
+dns.vegdiabetic.com
 dns.venya.tech
 dns.victorhachard.fr
 dns.vietdns.vn
@@ -2124,6 +2136,7 @@ dns2.afastserver.com
 dns2.alekberg.net
 dns2.art-nas.pp.ua
 dns2.bai0012.com
+dns2.baishiyuan.cn
 dns2.bartoszturek.online
 dns2.biryuk.name
 dns2.cantello.media
@@ -2237,6 +2250,7 @@ dnstls.neutopia.org
 dnsunfiltered.adguard.com
 dnsupstream02.familieberfelo.nl
 dnsvps.familiamv.ml
+dnsvps.familiamv.net
 dnsvps.porteii.com
 dnsvs.duckdns.org
 dnsvs.ovh
@@ -2629,6 +2643,7 @@ eyg01.dnscry.pt
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
+f97.xyz
 faceless.me
 family-filter-dns.cleanbrowsing.org
 family.5ososea.com
@@ -2745,6 +2760,8 @@ freexite.com
 freeyouproxytube.com
 freeyoutube.net
 friend.bedro.cloud
+fritz-er.circumitor.de
+fritz-hbh.circumitor.de
 frog.dns.qwer.pw
 frontpace.co.uk
 frontpace.net
@@ -2768,6 +2785,7 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
+gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2838,7 +2856,10 @@ greenhamadguard.com.au
 greppie.nl
 groupy.ga
 groupy.su
+grunwald-marc.de
 gtm-sg-5r538sziu04.go-behind.one
+guanmengkai.com
+guanmengkai.com.w.kunlunpi.com
 guard-linodefree.tk
 guard.19kom.de
 guard.beliefanx.me
@@ -3290,6 +3311,9 @@ lv-rig-w-2.nashkan.net
 lv.long-nguyen.info
 lv1.nixnet.xyz
 lwhjszcnzjhz.site
+m-asm.circumitor.de
+m-cm.circumitor.de
+m-rm.circumitor.de
 m.myspace.sbs
 ma1.guardmydns.com
 macmini.qujing.eu.org
@@ -3367,6 +3391,7 @@ mkvvpssrv12.freemyip.com
 mo0on15.com
 moaz-adguard.duckdns.org
 mocha.r.rnet.ie
+mock-rw.de
 mofolinux.com
 mojserwer.myasustor.com
 montmorot.duckdns.org
@@ -3405,6 +3430,7 @@ mydevpn.eu
 mydns.an2kin.cyou
 mydns.bielperes.me
 mydns.cloud
+mydnssabeen.duckdns.org
 myhottiemama.de
 myip.mmmalia.com
 mykewl.pro
@@ -3661,6 +3687,7 @@ or2o.tk
 ora1.nocnik.org
 oracle-lab01.crmd.co.za
 oracle.cepheus0.com
+oracle001.330k.biz
 oracle2.herry.dev
 oracle5.losfa.xyz
 oracle6.losfa.xyz
@@ -3771,6 +3798,7 @@ polaris.cx
 polaris.mrmartian.co
 polippix.org
 pollproxy.info
+pooblet.co.za
 pop.novacia.com.ua
 pope.cnblw.me
 portal.iddqd.uk
@@ -3981,7 +4009,6 @@ resolver3.absolight.net
 resolver4.dns.openinternet.io
 resov.wehao.net
 rethinkdns.com
-reversedns.one
 rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.censurfridns.nu
 rgnet-iad.anycast.uncensoreddns.dk
@@ -4002,6 +4029,7 @@ rml.mobi
 rndns.com
 ro-buc-w-1.nashkan.net
 ro-buc-w-2.nashkan.net
+ro-buc-w-f-1.nashkan.net
 robertfenyiner.ddns.net
 roboticsbenchmarking.xyz
 roc.net.sys.of.icu
@@ -4278,6 +4306,7 @@ stuxen.duckdns.org
 suanr.top
 suedeproxy.info
 sufly.top
+sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 supervpn.best
@@ -4341,6 +4370,7 @@ testguard.meexx.de
 tetra.aeins.at
 tezoi.duckdns.org
 tg2a7d4.glddns.com
+thamrin.ddns.net
 thanh933.cf
 thanos.pleumkungz.com
 thebeloveduck.duckdns.org
@@ -4353,6 +4383,7 @@ think-howling.com
 tiafun.com
 tienpham.id.vn
 tiger.dns.qwer.pw
+tiger2.tk
 tigrons.ru
 tikvpn.com
 timedns.org
@@ -4376,6 +4407,7 @@ token.safebrowsing.apple
 tokyodns.songnguyen.name.vn
 tokyodns2.songnguyen.name.vn
 tomatoproxy.eu
+tondns.fr
 top10vpn.com
 topvpnguides.com
 tor.bravesoftware.com
@@ -4390,6 +4422,7 @@ towman.ddns.net
 tpa01.dnscry.pt
 tpe01.dnscry.pt
 tr-ist-w-1.nashkan.net
+tr-ist-w-p-2.nashkan.net
 tr-izm-w-1.nashkan.net
 tran.net.vn
 travelvpn.info
@@ -4427,7 +4460,6 @@ ua-kyv-w-1.nashkan.net
 ublock-dns-resolver-01.swedencentral.cloudapp.azure.com
 ublock-dns-resolver-02.northeurope.cloudapp.azure.com
 ublock-dns-resolver-03.westeurope.cloudapp.azure.com
-ubuntu1.adgw.tk
 ueni.dyndns.org
 uf-dns.lista.my.id
 ufovpn.io
@@ -4585,6 +4617,7 @@ v3.passby.ga
 v6.rubyfish.cn
 v7.frame-one.cc
 vaasa.songnguyen.name.vn
+vadim.online
 vador.sillundil.ovh
 valis.sx
 vallecerroazul.com
@@ -4633,6 +4666,7 @@ vmok.ru
 vn-hcm-w-1.nashkan.net
 vobas.com
 void-gate.irre.li
+volkens.services
 vova.hr.i81.ru
 vova.vd.i81.ru
 vova.vpn.i81.ru
@@ -4831,7 +4865,6 @@ wossow.com
 www.abovetheclouds.fun
 www.acomit.lk
 www.adg.datamatter.co.za
-www.adguard-server.cf
 www.adguard.marto.si
 www.andrewnw.xyz
 www.ayzu.fun
@@ -4840,7 +4873,6 @@ www.beautifullife.eu.org
 www.beautifulthings.eu.org
 www.bilidon.info
 www.c-dns.com
-www.chertila.tk
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
@@ -4879,7 +4911,7 @@ www.pukanuragan.ru
 www.qwenty.ru
 www.richardo.net
 www.srgaghome.freemyip.com
-www.starinmars.life
+www.sukidayo.eu.org
 www.surfbelow.com
 www.svg33.eu
 www.szyrzyk.pl
@@ -4899,6 +4931,7 @@ x.ns1net.com
 x.res.wang
 x861g.duckdns.org
 xantirealityx.net
+xdns.my.id
 xenergy.cc
 xfer.au
 xhol.top
@@ -4931,7 +4964,6 @@ ychen.cf
 ychen.ga
 ychen.gq
 ychen.tk
-ycy3.hyf.cool
 yellowproxy.net
 yingroad.top
 ymjx.shimmerl.top
