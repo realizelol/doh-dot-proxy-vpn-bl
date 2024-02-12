@@ -572,7 +572,10 @@ aleafy.ddns.net
 alexpollard.synology.me
 ali.dn53.my.id
 ali.loveweiqi.cn
+alidns.51top.info
+alidns.cb1999.top
 alidns.com
+alidns2.cb1999.top
 alisa.hr.i81.ru
 alisa.vd.i81.ru
 alisa.vpn.i81.ru
@@ -1168,6 +1171,7 @@ dns.1.bsh4.com
 dns.123099.xyz
 dns.1833015459.site
 dns.193.gs
+dns.1byte.top
 dns.2.bsh4.com
 dns.209.wf
 dns.23-4.cn
@@ -1187,6 +1191,7 @@ dns.532641.xyz
 dns.58jdl.com
 dns.5ive.net
 dns.5ososea.com
+dns.5pj58.ltd
 dns.717.social
 dns.7sec.com.br
 dns.7vpn.com
@@ -1333,6 +1338,7 @@ dns.cloudnx.cloud
 dns.cloudseriousshit.com
 dns.cloudtrust.solutions
 dns.cloudyun.top
+dns.clun.top
 dns.cmrg.net
 dns.cnblw.me
 dns.codarbyte.de
@@ -1485,10 +1491,12 @@ dns.goldplate.org
 dns.google
 dns.google.com
 dns.goshawk22.uk
+dns.gptofjiang.top
 dns.grqu.de
 dns.grusdas.net
 dns.gt500.ru
 dns.gtnk.my.id
+dns.guard.io
 dns.guoxueziyuan.com
 dns.h0me.cc
 dns.h0schi.cloud
@@ -2090,6 +2098,7 @@ dns02.oceanprint.com.br
 dns02.wewa.me
 dns03.almir1904.eu
 dns1-secure.wifire.it
+dns1.1byte.top
 dns1.a-desg.cc
 dns1.adrianion.eu
 dns1.afastserver.com
@@ -2166,6 +2175,7 @@ dns2.lfac.ml
 dns2.lfac.xyz
 dns2.linzefeng.top
 dns2.luan.contact
+dns2.modcake.club
 dns2.n3120.wang
 dns2.newapi.host
 dns2.nextcloudend.info
@@ -2192,9 +2202,11 @@ dns3.rhscz.eu
 dns3.sas-wres.cc
 dns3.wistarip.com
 dns4.imkvq.com
+dns4.mannix.top
 dns4me.net
 dns4me.xyz
 dns5.gamersonline.me
+dns5.mannix.top
 dns53.dipen.me
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -2209,6 +2221,7 @@ dnsaws.rasp.tv
 dnsblock.solvarea.nl
 dnsbot.fiedin.com
 dnscache.e-utp.net
+dnscache.redflagblog.org
 dnscity.org
 dnscrypt-cert.blahdns.com
 dnscrypt-cert.browser.yandex.net
@@ -2603,7 +2616,6 @@ ecs-auto.fanscloud.net
 ecs-doh.dnswarden.com
 ecxs.asia
 edbit.duckdns.org
-edc-pws.com
 eddi.usgovtrafficmanager.net
 edelgard.duckdns.org
 edgar.tobkar.net
@@ -3116,6 +3128,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -4976,7 +4989,6 @@ yanggan.eu.org
 yario.ru
 yarp.lefolgoc.net
 yatesfamily.cloud
-ycg01.dnscry.pt
 ychen.cf
 ychen.ga
 ychen.gq
