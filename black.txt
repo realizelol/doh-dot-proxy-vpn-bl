@@ -308,7 +308,6 @@ adguard.jpjb.net
 adguard.jwhan99.xyz
 adguard.k-likhachev.ru
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.kaytek.org
 adguard.kenzohost.de
 adguard.kiboko.it
@@ -867,6 +866,7 @@ cattery.noddos.top
 cattery2.eastasia.cloudapp.azure.com
 cattery2.noddos.top
 caycewebsolutions.com
+cbs.arashi.solutions
 cc.3eto.com
 cc.somimobile.com
 cc2.v8er.net
@@ -2721,7 +2721,6 @@ filya.vd.i81.ru
 filya.vpn.i81.ru
 finchvpn.com
 findmethedns.info
-firefenix.ddns.net
 firefox.dns.nextdns.io
 firewall.darknet.bg
 firstcontact.site
@@ -2808,7 +2807,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -4608,7 +4606,6 @@ us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
 us1.dns.lavate.ch
-us1.easyflying.top
 us1.intellsystemworld.xyz
 us5.wan.hc7z.com
 usa1.altcensored.com
