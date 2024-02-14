@@ -190,6 +190,7 @@ adghome.joeszef.com
 adghome.joseph.com.ph
 adghome2.mail-endpoint.com
 adghs.de
+adgrus.tvmix.my.id
 adguard-2.ddns.net
 adguard-aws.charraud.eu
 adguard-aws.gdmn.dev
@@ -411,6 +412,7 @@ adguard.titov.es
 adguard.v1l.de
 adguard.vape.ong
 adguard.vegann.space
+adguard.voidnix.com
 adguard.vrehm.fr
 adguard.wallura.eu
 adguard.wangziyun.online
@@ -760,10 +762,12 @@ bilidon.info
 biliun.me
 bing.000036.xyz
 birnenwasser.ddnss.de
+bit.psyk.fr
 blackhole.aflr.io
 blackhole.gugainfo.com.br
 blackhole.myon.lu
 blackvpn.com
+blade.lixd.club
 blast.broadband.ink
 bld.sys-adm.in
 blewpass.com
@@ -866,7 +870,6 @@ cattery.noddos.top
 cattery2.eastasia.cloudapp.azure.com
 cattery2.noddos.top
 caycewebsolutions.com
-cbs.arashi.solutions
 cc.3eto.com
 cc.somimobile.com
 cc2.v8er.net
@@ -1171,7 +1174,6 @@ dns.1.bsh4.com
 dns.123099.xyz
 dns.1833015459.site
 dns.193.gs
-dns.1byte.top
 dns.2.bsh4.com
 dns.209.wf
 dns.23-4.cn
@@ -1191,7 +1193,6 @@ dns.532641.xyz
 dns.58jdl.com
 dns.5ive.net
 dns.5ososea.com
-dns.5pj58.ltd
 dns.717.social
 dns.7sec.com.br
 dns.7vpn.com
@@ -1338,7 +1339,6 @@ dns.cloudnx.cloud
 dns.cloudseriousshit.com
 dns.cloudtrust.solutions
 dns.cloudyun.top
-dns.clun.top
 dns.cmrg.net
 dns.cnblw.me
 dns.codarbyte.de
@@ -1491,7 +1491,6 @@ dns.goldplate.org
 dns.google
 dns.google.com
 dns.goshawk22.uk
-dns.gptofjiang.top
 dns.grqu.de
 dns.grusdas.net
 dns.gt500.ru
@@ -1827,6 +1826,7 @@ dns.privilab.net
 dns.proximit.org
 dns.psociety.de
 dns.psycla.be
+dns.psyk.fr
 dns.pub
 dns.pumpkinvrar.com
 dns.pumplex.com
@@ -2098,7 +2098,6 @@ dns02.oceanprint.com.br
 dns02.wewa.me
 dns03.almir1904.eu
 dns1-secure.wifire.it
-dns1.1byte.top
 dns1.a-desg.cc
 dns1.adrianion.eu
 dns1.afastserver.com
@@ -2175,7 +2174,6 @@ dns2.lfac.ml
 dns2.lfac.xyz
 dns2.linzefeng.top
 dns2.luan.contact
-dns2.modcake.club
 dns2.n3120.wang
 dns2.newapi.host
 dns2.nextcloudend.info
@@ -2202,11 +2200,9 @@ dns3.rhscz.eu
 dns3.sas-wres.cc
 dns3.wistarip.com
 dns4.imkvq.com
-dns4.mannix.top
 dns4me.net
 dns4me.xyz
 dns5.gamersonline.me
-dns5.mannix.top
 dns53.dipen.me
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -2221,7 +2217,6 @@ dnsaws.rasp.tv
 dnsblock.solvarea.nl
 dnsbot.fiedin.com
 dnscache.e-utp.net
-dnscache.redflagblog.org
 dnscity.org
 dnscrypt-cert.blahdns.com
 dnscrypt-cert.browser.yandex.net
@@ -2484,6 +2479,7 @@ doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
+doh.yaseeme.icu
 doh.zephyrus.id
 doh003.280blocker.net
 doh1.alidns.com
@@ -2645,6 +2641,7 @@ essentiallyjay.com
 ethernet.mxx.giize.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
+eu.ghost.pm
 eu1.dns.lavate.ch
 europe-west.avastdns.com
 europe.avastdns.com
@@ -2661,7 +2658,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2807,6 +2803,7 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
+gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
