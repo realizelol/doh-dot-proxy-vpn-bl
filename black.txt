@@ -321,6 +321,7 @@ adguard.kss.ovh
 adguard.lalantha.xyz
 adguard.laurenlaufman.com
 adguard.lchao.me
+adguard.leadseason.eu
 adguard.lege.despagne.net
 adguard.lilis.xin
 adguard.lista.my.id
@@ -955,6 +956,7 @@ comss.ru
 connect.edmoon.co.uk
 connect.moonficonnect.com
 connectix.xyz
+console.carestyle.org
 contacts.dehb.ru
 controld.com
 coriolanus.top
@@ -1148,6 +1150,7 @@ dns-jp0.cyhsu.xyz
 dns-nosec.quad9.net
 dns-nyc.aaflalo.me
 dns-over-https.com
+dns-ovh.panszelescik.pl
 dns-pa.incogdns.com
 dns-preview-alb-541438575.us-east-1.elb.amazonaws.com
 dns-primary.giaan.org
@@ -1171,6 +1174,7 @@ dns-weblock.wevpn.com
 dns.010812.xyz
 dns.0ooo.icu
 dns.1.bsh4.com
+dns.111311.xyz
 dns.123099.xyz
 dns.1833015459.site
 dns.193.gs
@@ -1338,6 +1342,7 @@ dns.cloudlnk.net
 dns.cloudnx.cloud
 dns.cloudseriousshit.com
 dns.cloudtrust.solutions
+dns.cloudvoid.eu.org
 dns.cloudyun.top
 dns.cmrg.net
 dns.cnblw.me
@@ -1368,6 +1373,7 @@ dns.d96.info
 dns.daddyparodz.com
 dns.daemon.za.net
 dns.danamas.net
+dns.danayasastore.my.id
 dns.danielnet.eu
 dns.david888.com
 dns.davidruhmann.com
@@ -1386,6 +1392,7 @@ dns.digitaladapt.com
 dns.digitale-gesellschaft.ch
 dns.digitalegesellschaft.ch
 dns.digitalsize.net
+dns.digiultsparrow.space
 dns.dionperera.com
 dns.dmr.pw
 dns.dns-over-https.com
@@ -1690,6 +1697,7 @@ dns.maxte7.xyz
 dns.maybe.icu
 dns.me7878.com
 dns.meeo.win
+dns.mega-marimo.net
 dns.melalandia.tk
 dns.melashri.eu.org
 dns.mestdag.fr
@@ -2051,6 +2059,7 @@ dns.wkwkwk.fun
 dns.wns.watch
 dns.woexp.ru
 dns.woodyli.dev
+dns.world-vpn.online
 dns.worthmind.net
 dns.wpice.ru
 dns.wugui.zone
@@ -2256,6 +2265,7 @@ dnss.egormix.com
 dnss.lol
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
+dnssec.dns.enginyring.com
 dnssenoads.alekberg.net
 dnsserver.mailchan.eu
 dnssilo.top
@@ -2805,7 +2815,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2823,6 +2832,7 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
 gb-lon-w-5.nashkan.net
+gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 gc.cyberbeta.cn
@@ -3125,7 +3135,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3781,6 +3790,7 @@ philqoo.com
 phl01.dnscry.pt
 phucbui.top
 phx01.dnscry.pt
+pi.adblocker.eu.org
 pi.daryllswer.net
 pi.homeanywhere.org
 pi1.node15.com
@@ -3810,6 +3820,7 @@ pixie.porkbun.com
 pkproxy.info
 pl-waw-w-1.nashkan.net
 pl-waw-w-2.nashkan.net
+pl-waw-w-f-1.nashkan.net
 pl-waw-w-p-1.nashkan.net
 plantationlight.ddns.net
 planty.ddns.us
@@ -4722,6 +4733,7 @@ vpn.nnip.org
 vpn.oswlinc.com
 vpn.sakhwow.ru
 vpn.stroialliance.com
+vpn.technicule.info
 vpn0109.voodonline.fr
 vpnbook.com
 vpnbrowse.com
@@ -4965,6 +4977,7 @@ xiaolong.link
 xie.ke
 xitenow.com
 xitesite.com
+xjpdns.354688.xyz
 xkariak.asuscomm.com
 xm.ln7371.top
 xn--2grr3t07h.online
@@ -5039,6 +5052,7 @@ zorrovpn.io
 zougloub.eu
 zpn.im
 zrh1-ns01.monzoon.net
+ztv.su
 zuhause.webteufel.net
 zulkas.top
 zxcvb.pp.ua
