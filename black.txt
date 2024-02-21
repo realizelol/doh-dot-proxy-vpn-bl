@@ -1354,6 +1354,7 @@ dns.comss.one
 dns.connect.fail
 dns.containerpi.co
 dns.containerpi.com
+dns.controld.com
 dns.cpux.ru
 dns.cretu.xyz
 dns.crop3ox.website
@@ -1382,6 +1383,7 @@ dns.decisivedevops.com
 dns.decky.eu
 dns.decloudus.com
 dns.deekshith.in
+dns.dekedin.me
 dns.delia.is
 dns.deluxerpanda.se
 dns.demirse.com
@@ -1777,6 +1779,7 @@ dns.noobel.cn
 dns.norgan.net
 dns.noridev.moe
 dns.norvig.dk
+dns.notjakob.com
 dns.novali.date
 dns.novg.net
 dns.npe.bz
@@ -2405,7 +2408,6 @@ doh.it.ahadns.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
 doh.killtw.im
-doh.klizi.cn.cdn.cloudflare.net
 doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.lee1024.xyz
@@ -4408,7 +4410,6 @@ testdjango.live
 testguard.meexx.de
 tetra.aeins.at
 tezoi.duckdns.org
-tg2a7d4.glddns.com
 thamrin.ddns.net
 thanh933.cf
 thanos.pleumkungz.com
@@ -4694,6 +4695,7 @@ vladpro.ru
 vload.net
 vm.delfini.online
 vm.mytm.cc
+vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vm2.oowo.de
