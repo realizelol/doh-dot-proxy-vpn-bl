@@ -23,6 +23,7 @@
 1dns.dev
 1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1.cloudflaredns.com
+1free.1capy.com
 1freeproxy.pw
 1qaz.de
 2.0rz.space
@@ -56,6 +57,7 @@
 4everproxy.com
 4yix.l.time4vps.cloud
 501w.net
+52bhn.dynv6.net
 52lanlan.com
 53.slepov.dev
 546413.xyz
@@ -413,6 +415,7 @@ adguard.titov.es
 adguard.v1l.de
 adguard.vape.ong
 adguard.vegann.space
+adguard.vik.ro
 adguard.voidnix.com
 adguard.vrehm.fr
 adguard.wallura.eu
@@ -959,6 +962,7 @@ controld.com
 coriolanus.top
 cossxiu.ga
 cpux.ru
+cqd.duckdns.org
 craft.vps.pw
 crazyproxy.org
 crd.circl.lu
@@ -1383,6 +1387,7 @@ dns.decloudus.com
 dns.deekshith.in
 dns.dekedin.me
 dns.delia.is
+dns.delitarus.ru
 dns.deluxerpanda.se
 dns.demirse.com
 dns.developer.li
@@ -1449,6 +1454,7 @@ dns.exonip.de
 dns.expert
 dns.ext4.in
 dns.extrawdw.net
+dns.ezyss.id
 dns.f97.xyz
 dns.fafr.fun
 dns.fahr.in
@@ -1813,6 +1819,7 @@ dns.panszelescik.pl
 dns.patrickbianchi.com
 dns.pawitra.net
 dns.paxavemedia.com
+dns.pbs.gentility.org
 dns.pccoach.nl
 dns.periactes.com
 dns.pernika.net
@@ -1874,6 +1881,7 @@ dns.rodovatech.com
 dns.rohanjain.in
 dns.ronc.ru
 dns.root.me
+dns.rootlab.top
 dns.rotunneling.net
 dns.rrinformatica.it
 dns.rshtkdn.ru
@@ -1957,6 +1965,7 @@ dns.t53.de
 dns.tacomafia.net
 dns.tapawan.ca
 dns.tb4.me
+dns.tbnk.ca
 dns.teaminfo.fr
 dns.techcpu.net
 dns.telekom.de
@@ -2398,6 +2407,7 @@ doh.in.ahadns.net
 doh.infotek.net.id
 doh.infracell.net
 doh.insec.link
+doh.iranet.cam
 doh.it.ahadns.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -2539,6 +2549,7 @@ dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
 dot.es.ahadns.net
 dot.ffmuc.net
+dot.gordmo.com
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.la.ahadns.net
@@ -2626,6 +2637,7 @@ ee-tll.doh.sb
 egshe.myqnapcloud.com
 eime.goip.de
 eliatofani.ovh
+elisabeth.klarsgarden.com
 elshad-adgh-dns.ru
 emby.rasp.tv
 embyserver.eu.org
@@ -2662,7 +2674,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2849,6 +2860,7 @@ geti2p.net
 getproxi.es
 ggdns.club
 ggrbb.xyz
+gigabyteperseconde.digiaquabndala.store
 ginnungagap.rabenhain.net
 git.andrewnw.xyz
 gitdns.ddnsfree.com
@@ -2956,6 +2968,7 @@ hk-w-1.nashkan.net
 hk-w-4.nashkan.net
 hk.101818.xyz
 hk.1662001.xyz
+hk.ahua.ltd
 hk.erw.cc
 hk.feiyuyu.net
 hk.layjune.com
@@ -2991,6 +3004,7 @@ home.irrelevant.cc
 home.jobytan.com
 home.kinopu.com
 home.kompot.space
+home.liudeqin.com
 home.marcrnt.de
 home.norvrandt.co.uk
 home.phucbui.top
@@ -3129,6 +3143,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3137,7 +3152,6 @@ jmarston.duckdns.org
 jnb01.dnscry.pt
 jnprd.com
 johnsson.ovh
-jojo1204.xyz
 jonasdevries.de
 jonathanaugusto.freeddns.org
 jonesboyz.duckdns.org
@@ -3351,6 +3365,7 @@ mail.andrewnw.xyz
 mail.data.haus
 mail.pragmasec.nl
 mail.strassmair.org
+mail.vik.ro
 mailer.amlegion.org
 mailkyb.co
 main.nn7.pw
@@ -3492,6 +3507,7 @@ nas.dasisp.com
 nas.dehb.ru
 nas.delage.li
 nas.embraced.co
+nas.guyifei.cn
 nas1403.duckdns.org
 nas302.ddns.net
 nasalife.top
@@ -3588,6 +3604,7 @@ ns.slynx.net
 ns.solutics.ec
 ns.tkdns.ru
 ns.try-dns.online
+ns.vik.ro
 ns0.fdn.fr
 ns01.hostrocket.com.ua
 ns01.lflemming.space
@@ -3756,7 +3773,6 @@ pasi.cat
 paskam.tk
 pass12335.myds.me
 pates.services.sfr.fr.casepp.sfr.fr
-paulopinto.duckdns.org
 pccoach.ddns.net
 pcd96.duckdns.org
 pcgo.fun
@@ -3815,6 +3831,7 @@ pl-waw-w-f-1.nashkan.net
 pl-waw-w-p-1.nashkan.net
 plantationlight.ddns.net
 planty.ddns.us
+plex.skin57.de
 plichaa12.ddns.net
 pliszka.ml
 pluton.plan9-dns.com
@@ -4010,6 +4027,7 @@ res-lux-1.jupitrdns.com
 res-lux-2.jupitrdns.com
 res.zijji.com
 resolv.srv-pro.de
+resolve.fknw.de
 resolve.srv-pro.de
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
@@ -4286,6 +4304,7 @@ sp1wpdybsw1twq1d.myfritz.net
 spacedns.org
 spacevpn.io
 spanproxy.com
+spb1.naum.fun
 spedo.co
 speedproxy.online
 spidervpn.org
@@ -4588,6 +4607,7 @@ us-den-w-2.nashkan.net
 us-east.adhole.org
 us-hil-w-p-1.nashkan.net
 us-jac-w-1.nashkan.net
+us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-p-1.nashkan.net
 us-la-w-4.nashkan.net
@@ -4643,6 +4663,7 @@ v3.passby.eu.org
 v3.passby.ga
 v6.rubyfish.cn
 v7.frame-one.cc
+v8.frame-one.cc
 vaasa.songnguyen.name.vn
 vadim.online
 vador.sillundil.ovh
@@ -4671,6 +4692,9 @@ videounblocker.net
 vidproxy.com
 vie01.dnscry.pt
 viewyoutube.net
+vik-ios.adguard.vik.ro
+vik-ios.vik.ro
+vik.ro
 vikose.com.vn
 vir.accesscam.org
 virga.pp.ua
@@ -4705,6 +4729,7 @@ voyage-s01.cloudku.technology
 vpn-byen.dk
 vpn-dns-adsblocker.duckdns.org
 vpn-tw.teng.sh
+vpn.1free.1capy.com
 vpn.ac
 vpn.adrielso.tec.br
 vpn.appsverse.com
@@ -4723,6 +4748,7 @@ vpn.net
 vpn.nnip.org
 vpn.oswlinc.com
 vpn.sakhwow.ru
+vpn.spb1.naum.fun
 vpn.stroialliance.com
 vpn.technicule.info
 vpn0109.voodonline.fr
@@ -4832,7 +4858,6 @@ vps357.brueggus.de
 vps359.brueggus.de
 vps4.scho.io
 vps66.brueggus.de
-vpschito.duckdns.org
 vpservice.cf
 vpsus3.pzhg.me
 vrehm.fr
@@ -4893,6 +4918,7 @@ wolfdogcat.online
 wonderland.ws
 workhost.eu
 wossow.com
+www.1free.1capy.com
 www.abovetheclouds.fun
 www.acomit.lk
 www.adg.datamatter.co.za
@@ -4938,6 +4964,7 @@ www.personal-dns.site
 www.pioko.net
 www.pukanuragan.ru
 www.richardo.net
+www.spb1.naum.fun
 www.srgaghome.freemyip.com
 www.sukidayo.eu.org
 www.surfbelow.com
@@ -4948,6 +4975,7 @@ www.tirapan.top
 www.trovs.ru
 www.urology.wiki
 www.vdsn-nl-2.azatmutq.com
+www.vik.ro
 www.vpn.stroialliance.com
 www.vpnhellings.nl
 www.zburger.top
@@ -4998,6 +5026,7 @@ yingroad.top
 ymjx.shimmerl.top
 ymq01.dnscry.pt
 yory2cave.hopto.me
+youdns.duckdns.org
 your-dns.run
 yourcheat.com
 youtubebyclick.com
