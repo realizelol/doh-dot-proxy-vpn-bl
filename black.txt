@@ -3158,7 +3158,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3792,6 +3791,7 @@ pasi.cat
 paskam.tk
 pass12335.myds.me
 pates.services.sfr.fr.casepp.sfr.fr
+paulo.nom.za
 pccoach.ddns.net
 pcd96.duckdns.org
 pcgo.fun
