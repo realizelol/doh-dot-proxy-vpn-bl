@@ -708,7 +708,6 @@ axell24.ml
 axistechsupport.com
 ayasesayuki.shop
 aydank.freeddns.org
-ayzu.fun
 az2q.xyz
 azagramac.duckdns.org
 azbs.ddmm.eu.org
@@ -1108,9 +1107,7 @@ dhold.2025up.xyz
 dht.aelitis.com
 dht.transmissionbt.com
 dht.vuze.com
-di1.shahramv1.site
 di2626.xyz
-di3.shahramv1.site
 diblock.rnrkurir.com
 digi77.com
 digitale-gesellschaft.ch
@@ -1130,6 +1127,7 @@ dns-2.lostvpn.ru
 dns-2.trust2it.ch
 dns-adguard.cloudnx.cloud
 dns-adguard.ru
+dns-ams.harvester.fr
 dns-ams.pdf-docs.ru
 dns-any.jupitrdns.com
 dns-asia.wugui.zone
@@ -1604,6 +1602,7 @@ dns.jnmj.cc
 dns.jnprd.com
 dns.joaofidelix.com.br
 dns.joey01245.nl
+dns.jsd.web.id
 dns.jstockley.com
 dns.juancamos.com
 dns.jucker.engineering
@@ -1726,6 +1725,7 @@ dns.mipauns.com
 dns.mirandil.ru
 dns.misland.net
 dns.mlxysf.pp.ua
+dns.mni.li
 dns.mo0on15.com
 dns.mocn.top
 dns.moesite.top
@@ -1768,7 +1768,6 @@ dns.neutopia.org
 dns.nextdns.io
 dns.ngc7331.top
 dns.nguyendn.com
-dns.nguyenhoane.io.vn
 dns.nhtsky.com
 dns.niccoli.cc
 dns.nicolas.vip
@@ -1795,6 +1794,7 @@ dns.npe.bz
 dns.nt63.me
 dns.nullgate.net
 dns.nullrecon.com
+dns.nzxti5.co.uk
 dns.oasg.xyz
 dns.oc0.co
 dns.oceanprint.com.br
@@ -2006,6 +2006,7 @@ dns.tuankhaiit.com
 dns.tuna.tsinghua.edu.cn
 dns.tv-minecraft.ru
 dns.twnic.tw
+dns.twopudding.icu
 dns.twtrs.com
 dns.txq.life
 dns.tylavergne.com
@@ -2053,7 +2054,6 @@ dns.wahr.top
 dns.wakgood.net
 dns.walshnet.co.uk
 dns.wang.art
-dns.wangci.online
 dns.warexify.com
 dns.wargan.io
 dns.warpnine.de
@@ -2217,6 +2217,7 @@ dns2.steering.nextdns.io
 dns2.superstefan.ml
 dns2.sytes.net
 dns2.vinc.me
+dns2.vpcore.pro
 dns2vps.porteii.com
 dns3.afastserver.com
 dns3.h0schi.cloud
@@ -2727,6 +2728,7 @@ fffly.xyz
 fggdd.top
 fi-hel-w-1.nashkan.net
 fi-hel-w-2.nashkan.net
+fi-hel-w-f-2.nashkan.net
 fi-hel-w-p-1.nashkan.net
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
@@ -2764,6 +2766,7 @@ foxyserg.myddns.me
 fr-dns1.bancuh.com
 fr-dns2.bancuh.com
 fr-gra-w-f-1.nashkan.net
+fr-gra-w-p-1.nashkan.net
 fr-par-w-1.nashkan.net
 fr-sbg-w-4.nashkan.net
 fr1.dnswarden.com
@@ -3153,7 +3156,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3257,7 +3259,6 @@ kr-sel.doh.sb
 kr-x64-2.lov.host
 kr.loukky.com
 kr.pigs.eu.org
-kr.telex.app
 kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.censurfridns.dk
@@ -3327,6 +3328,7 @@ lipunyushka.ru
 live.jjlizz.com
 ljk.kkizz.cn
 llk01.dnscry.pt
+llull.duckdns.org
 lmkatest.ru
 ln7371.top
 local.sufly.top
@@ -3407,6 +3409,7 @@ max.sardinesindigo.cf
 maxfong.cc
 maye.ir
 mci01.dnscry.pt
+mcore.us.to
 mcptero.teunschrader.nl
 mcttechs.com
 md5mtp4y.fbxos.fr
@@ -3528,6 +3531,7 @@ nat64.tuxis.nl
 nathor.ddns.net
 naw01.dnscry.pt
 nayemador.com
+nc6d6ofnfu9puwnc.eastasia.cloudapp.azure.com
 nd.lgprk.com
 nd.nimbahanet.xyz
 ndns.233py.com
@@ -4390,6 +4394,7 @@ surve.dehb.ru
 sv.oispace.eu.org
 sv3.minhduc.pw
 svg33.eu
+sweden.1vpn.fun
 sweden.capy.su
 sweethome.in.eu.org
 switch.ch
@@ -4536,6 +4541,7 @@ uk.deghy.ir
 uk.heikwan.tech
 uk.teradns.org
 uk01.dns4me.net
+ukns.milangas2.top
 ultimateproxy.net
 ultrafun.net
 ultravpn.com
@@ -4847,8 +4853,10 @@ vps314.brueggus.de
 vps32.brueggus.de
 vps324.brueggus.de
 vps325.brueggus.de
+vps326.brueggus.de
 vps327.brueggus.de
 vps328.brueggus.de
+vps329.brueggus.de
 vps333.brueggus.de
 vps334.brueggus.de
 vps335.brueggus.de
@@ -4879,6 +4887,7 @@ vpservice.cf
 vpsus3.pzhg.me
 vrehm.fr
 vsrv15195.customer.xenway.de
+vtcuong.site
 vudy.ru
 vvmm.me
 vyprvpn.com
@@ -4941,7 +4950,6 @@ www.acomit.lk
 www.adg.datamatter.co.za
 www.adguard.marto.si
 www.andrewnw.xyz
-www.ayzu.fun
 www.barnabech.fr
 www.beautifullife.eu.org
 www.beautifulthings.eu.org
@@ -5069,6 +5077,7 @@ yyaan.com
 yyqsite.top
 yyz01.dnscry.pt
 yzh97rc.xyz
+z.vipit.one
 za-joh-w-2.nashkan.net
 zabolotskikh.dev
 zacebookpk.com
