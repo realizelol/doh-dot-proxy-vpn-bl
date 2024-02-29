@@ -882,6 +882,7 @@ cc210b36bb9e.sn.mynetname.net
 ccadguard.ddns.net
 ccyykk.top
 cdn.0ms.dev
+cdn.45lnd.ir
 cdn.implementsfreedom.studio
 cdzopi.duckdns.org
 cedricreitz.com
@@ -1323,6 +1324,7 @@ dns.cearhome.top
 dns.cfd.com.ar
 dns.cfiec.net
 dns.chadeyron.fr
+dns.chalkychalk.com
 dns.chaosen3.co.uk
 dns.charraud.eu
 dns.chenu.ch
@@ -1369,6 +1371,7 @@ dns.cubesworld.net
 dns.cucaracha.space
 dns.cuehosting.com
 dns.cwlys.com
+dns.cxl.moe
 dns.cybereager.net
 dns.cynthialabs.net
 dns.d309044.eu
@@ -1744,6 +1747,7 @@ dns.msxnet.ru
 dns.mtnh.tk
 dns.muadib.club
 dns.mudryi.ovh
+dns.muellerstech.de
 dns.mullvad.net
 dns.murgi.de
 dns.murzyn.top
@@ -1791,6 +1795,7 @@ dns.notjakob.com
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.npsolution.it
 dns.nt63.me
 dns.nullgate.net
 dns.nullrecon.com
@@ -2600,6 +2605,7 @@ dr-adguard.de
 dr3d.my.id
 draco.plan9-ns2.com
 drahonn.pro
+drandrade21.freeddns.org
 drive.jjlizz.com
 dronix27.ru
 drwg.org
@@ -2683,6 +2689,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -3129,6 +3136,7 @@ ir.deghy.ir
 irgrdns.nullapp.xyz
 iris.woozeno.eu
 irre.li
+isakula.space
 isolacje.homeip.net
 ispunblock.com
 ist01.dnscry.pt
@@ -3156,6 +3164,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -4421,7 +4430,6 @@ tarni.pp.ua
 tartanbahn.eu.org
 tarugo.capeta.tk
 taufner.net
-tbs01.dnscry.pt
 td-doh.dns.t53.de
 telex.app
 tenta.com
@@ -4438,8 +4446,6 @@ testaghome.meshkov.info
 testdjango.live
 testguard.meexx.de
 tetra.aeins.at
-tezoi.duckdns.org
-tg2a7d4.glddns.com
 thamrin.ddns.net
 thanh933.cf
 thanos.pleumkungz.com
@@ -4851,7 +4857,6 @@ vps312.brueggus.de
 vps313.brueggus.de
 vps314.brueggus.de
 vps32.brueggus.de
-vps324.brueggus.de
 vps325.brueggus.de
 vps326.brueggus.de
 vps327.brueggus.de
@@ -4942,6 +4947,7 @@ wmapi.cn
 woalongit.synology.me
 wolfdogcat.online
 wonderland.ws
+workcavestl.duckdns.org
 workhost.eu
 wossow.com
 www.1free.1capy.com
@@ -5003,6 +5009,7 @@ www.vdsn-nl-2.azatmutq.com
 www.vik.ro
 www.vpn.stroialliance.com
 www.vpnhellings.nl
+www.workcavestl.duckdns.org
 www.zburger.top
 wyx.cloud
 wzybigman.xyz
