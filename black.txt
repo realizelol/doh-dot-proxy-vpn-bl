@@ -4446,6 +4446,8 @@ testaghome.meshkov.info
 testdjango.live
 testguard.meexx.de
 tetra.aeins.at
+tezoi.duckdns.org
+tg2a7d4.glddns.com
 thamrin.ddns.net
 thanh933.cf
 thanos.pleumkungz.com
