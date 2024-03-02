@@ -1148,6 +1148,7 @@ dns-fr-psv1.cloudsides.com
 dns-frankfurt.mii-xms.com
 dns-free.link
 dns-gcp.aaflalo.me
+dns-google.st.net-perform.com
 dns-guard1.cryptroute.com
 dns-guard2.cryptroute.com
 dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
@@ -5098,6 +5099,7 @@ zblank.cn
 zend2.com
 zendproxy.com
 zenmate.com
+zephir.monocul.us
 zephyrus.id
 zero.dns0.eu
 zetland.rm-ni.uk
