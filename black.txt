@@ -195,6 +195,7 @@ adghome.joseph.com.ph
 adghome2.mail-endpoint.com
 adghs.de
 adgrus.tvmix.my.id
+adguard-03.new-asgard.net
 adguard-2.ddns.net
 adguard-aws.charraud.eu
 adguard-aws.gdmn.dev
@@ -210,6 +211,7 @@ adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-north.citadelnet.works
 adguard-server.cf
+adguard-server.pp.ua
 adguard-sg.linode.haberl.io
 adguard-us1.cloudmini.net
 adguard-us2.cloudmini.net
@@ -281,6 +283,7 @@ adguard.eximpius.xyz
 adguard.exium.net
 adguard.ext.devkon.org
 adguard.ext.rizult.net
+adguard.fihch.ru
 adguard.fija-web.net
 adguard.firestrike-services.de
 adguard.forst.one
@@ -364,8 +367,8 @@ adguard.onlyfriends.info
 adguard.ota.moe
 adguard.ouate2phoque.ovh
 adguard.piekacz.pl
-adguard.planckstudio.in
 adguard.plumedns.com
+adguard.pmoebi.xyz
 adguard.polemarch.live
 adguard.pouifamily.fr
 adguard.pp.ua
@@ -1045,6 +1048,7 @@ ddns.l2h8.cn
 ddns.oii.im
 ddns.one23.one
 ddnsnet.site
+de-190.persiannit.net
 de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
@@ -1280,7 +1284,6 @@ dns.b33.space
 dns.b612.me
 dns.baabab.com
 dns.bahien.com
-dns.banic.hu
 dns.bastnet.co
 dns.bazipardaz.com
 dns.bebasid.com
@@ -1451,6 +1454,7 @@ dns.engineer-lib.ru
 dns.erebur.net
 dns.erw.cc
 dns.esegece.com
+dns.esnube.es
 dns.eu-frankfurt-1.oci.oraclecloud.com
 dns.eu-frankfurt-1.oci.oraclecloud.net
 dns.eu-frankfurt-1.oraclecloud.com
@@ -1606,7 +1610,6 @@ dns.jnmj.cc
 dns.jnprd.com
 dns.joaofidelix.com.br
 dns.joey01245.nl
-dns.jsd.web.id
 dns.jstockley.com
 dns.juancamos.com
 dns.jucker.engineering
@@ -1729,7 +1732,6 @@ dns.mipauns.com
 dns.mirandil.ru
 dns.misland.net
 dns.mlxysf.pp.ua
-dns.mni.li
 dns.mo0on15.com
 dns.mocn.top
 dns.moesite.top
@@ -1849,6 +1851,7 @@ dns.pointless.chat
 dns.porteii.com
 dns.pragmasec.nl
 dns.prashunchi.com.np
+dns.presencebuggy.my.id
 dns.privacy.cm
 dns.privado.ovh
 dns.privilab.net
@@ -1866,6 +1869,7 @@ dns.qkc.fr
 dns.quad9.net
 dns.quickline.ch
 dns.qwkurl.com
+dns.qwqawa.asia
 dns.r00l.pp.ua
 dns.radityaharya.com
 dns.radityaharya.me
@@ -2335,7 +2339,6 @@ doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
 doh.10yusufahmad.my.id
-doh.167g.com
 doh.233py.com
 doh.2kil.com
 doh.30x.me
@@ -2690,7 +2693,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2838,6 +2840,7 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
+gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2894,7 +2897,6 @@ go10go10.tonedtanya.com
 goga7777777.bissnes.org
 goitoi.duckdns.org
 goldpool.net
-goofas.duckdns.org
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goproxy.asia
@@ -3165,7 +3167,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3223,7 +3224,6 @@ kaitain.restena.lu
 kakoito.site
 karawan.pnamae.com
 karimdns.com
-katherine-cloud-ip02.newcore.cl
 katherine-dns.newcore.cl
 kawaii.moeshop.online
 kawpad.southeastasia.cloudapp.azure.com
@@ -3258,7 +3258,6 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
-kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -3374,7 +3373,6 @@ m-asm.circumitor.de
 m-cm.circumitor.de
 m-rm.circumitor.de
 m.myspace.sbs
-m9bgkdgyzjmo3efa.dscloud.mobi
 ma1.guardmydns.com
 macmini.qujing.eu.org
 mad01.dnscry.pt
@@ -3549,6 +3547,7 @@ neatdns.ustclug.org
 nebula.neo7.kim
 nebula.tru.io
 neelhatesads.cf
+nenam.eu
 neo.esbpcs.my.id
 neochronicles.live
 neoland.cloud
@@ -3580,6 +3579,7 @@ ninjacloak.com
 ninjaproxy.eu
 ninjaweb.xyz
 ninny.duckdns.org
+nitter.ujwie.co
 nj.guardmydns.com
 nl-ams-w-3.nashkan.net
 nl-ams.doh.sb
@@ -3865,6 +3865,7 @@ plichaa12.ddns.net
 pliszka.ml
 pluton.plan9-dns.com
 pluton.plan9dns.com
+pns2.sadraidc.com
 polaris.cx
 polaris.mrmartian.co
 polippix.org
@@ -4052,9 +4053,7 @@ remote.sufly.top
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
-res-las-1.jupitrdns.com
 res-lux-1.jupitrdns.com
-res-lux-2.jupitrdns.com
 res.zijji.com
 resolv.srv-pro.de
 resolve.fknw.de
@@ -4142,6 +4141,7 @@ s3-api.arashi.solutions
 s3.arashi.solutions
 sa01.dns4me.net
 sabeendns.hopto.org
+sabeendns1.duckdns.org
 sacarino.es
 safe.dns.yandex.ru
 safe.dot.dns.yandex.net
@@ -4348,7 +4348,6 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ss.0001.xyz
@@ -4374,6 +4373,7 @@ sto01.dnscry.pt
 stopcensoring.me
 storage.jjlizz.com
 storydoh.kinergetica.com
+strangeservercdn.site
 strata.gurupannu.com
 stratus.bugz.fr
 stream.securely.sh
@@ -4405,7 +4405,6 @@ sv.oispace.eu.org
 sv3.minhduc.pw
 svg33.eu
 sweden.1vpn.fun
-sweden.capy.su
 sweethome.in.eu.org
 switch.ch
 swoletux.ave.zone
@@ -4748,6 +4747,7 @@ vmi1067860.contaboserver.net
 vmi880423.contaboserver.net
 vmok.ru
 vn-hcm-w-1.nashkan.net
+vn.dns.abpvn.com
 vobas.com
 void-gate.irre.li
 volkens.services
@@ -4995,7 +4995,6 @@ www.nonanon.pl
 www.olivier-raspberrypi.changeip.org
 www.pdnssrvagh.online
 www.personal-dns.site
-www.pioko.net
 www.pukanuragan.ru
 www.richardo.net
 www.spb1.naum.fun
