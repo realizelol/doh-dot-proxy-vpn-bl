@@ -752,7 +752,6 @@ beautifulcity.eu.org
 beautifullife.eu.org
 beautifulthings.eu.org
 bebracraft.ru
-beeb0a704d90.sn.mynetname.net
 beevpn.com
 belfort.fltn.us
 berd.moe
@@ -863,7 +862,6 @@ cactusvpn.com
 caifuwu.com
 callies-online.site
 calm-crown.freemyip.com
-camn.uk
 canadaproxy.info
 canadianshield.cira.ca
 cantblockthis.org
@@ -2845,7 +2843,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -3043,6 +3040,7 @@ home.realldz.id.vn
 home.snow-sugar.net
 home.tuankhaiit.com
 home.wriedts.de
+home2.ddnss.eu
 home27.duckdns.org
 home3.brosena.xyz
 home47a.mooo.com
@@ -3357,6 +3355,7 @@ loli.sektehalodavid.click
 lomoff.spb.ru
 lon-dns.bitdefender.net
 lon01.dnscry.pt
+longdz.ddns.net
 lookingglass.site
 lopana.com
 lops.lol
@@ -4784,6 +4783,7 @@ vpn.g-s-a.me
 vpn.geshido.ru
 vpn.gosami.xyz
 vpn.i81.ru
+vpn.jens-server.de
 vpn.k-likhachev.ru
 vpn.midjrney.ru
 vpn.mozilla.org
@@ -4872,6 +4872,7 @@ vps312.brueggus.de
 vps313.brueggus.de
 vps314.brueggus.de
 vps32.brueggus.de
+vps324.brueggus.de
 vps325.brueggus.de
 vps326.brueggus.de
 vps327.brueggus.de
