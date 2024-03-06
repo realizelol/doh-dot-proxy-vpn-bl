@@ -385,6 +385,7 @@ adguard.randomaizer.lentel.ru
 adguard.rdekuyper.nl
 adguard.rennes.despagne.net
 adguard.richardapplegate.io
+adguard.richoux.me
 adguard.ro0t.us
 adguard.romantrojer.ch
 adguard.rowdyengeesje.nl
@@ -862,6 +863,7 @@ cactusvpn.com
 caifuwu.com
 callies-online.site
 calm-crown.freemyip.com
+camn.uk
 canadaproxy.info
 canadianshield.cira.ca
 cantblockthis.org
@@ -1284,6 +1286,7 @@ dns.b33.space
 dns.b612.me
 dns.baabab.com
 dns.bahien.com
+dns.baishiyuan.cn
 dns.bastnet.co
 dns.bazipardaz.com
 dns.bebasid.com
@@ -1341,6 +1344,7 @@ dns.chrxmvtik.dev
 dns.chuppa.com.au
 dns.circl.lu
 dns.ciscofreak.com
+dns.citrahost.com
 dns.citystars.cn
 dns.clanless.ovh
 dns.clanto.cloud
@@ -1480,6 +1484,7 @@ dns.feedbot.xyz
 dns.feldy.my.id
 dns.fifux.be
 dns.filipccz.eu
+dns.fills.cn
 dns.firefenix.cf
 dns.flatuslifir.is
 dns.flwagners.com
@@ -2843,6 +2848,7 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
+gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2866,6 +2872,7 @@ gb-lon-w-p-2.nashkan.net
 gc.cyberbeta.cn
 gclouddns.com
 gcplog.seggs.cn
+gcptw.minko.ren
 ge.libaced.one
 geckovpn.xyz
 geg01.dnscry.pt
@@ -2951,7 +2958,6 @@ haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcm.quydang.name.vn
 hcu.icu
-hdf084sqbme.sn.mynetname.net
 heimdall.ff0x.ca
 hel01.dnscry.pt
 helios.plan9-dns.com
@@ -3040,7 +3046,6 @@ home.realldz.id.vn
 home.snow-sugar.net
 home.tuankhaiit.com
 home.wriedts.de
-home2.ddnss.eu
 home27.duckdns.org
 home3.brosena.xyz
 home47a.mooo.com
@@ -3539,6 +3544,7 @@ nas.dehb.ru
 nas.delage.li
 nas.embraced.co
 nas.guyifei.cn
+nas.stefanoperna.it
 nas1403.duckdns.org
 nas302.ddns.net
 nasalife.top
@@ -4750,6 +4756,7 @@ vladpro.ru
 vload.net
 vm.delfini.online
 vm.mytm.cc
+vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vm2.oowo.de
@@ -4783,7 +4790,6 @@ vpn.g-s-a.me
 vpn.geshido.ru
 vpn.gosami.xyz
 vpn.i81.ru
-vpn.jens-server.de
 vpn.k-likhachev.ru
 vpn.midjrney.ru
 vpn.mozilla.org
@@ -4872,7 +4878,6 @@ vps312.brueggus.de
 vps313.brueggus.de
 vps314.brueggus.de
 vps32.brueggus.de
-vps324.brueggus.de
 vps325.brueggus.de
 vps326.brueggus.de
 vps327.brueggus.de
