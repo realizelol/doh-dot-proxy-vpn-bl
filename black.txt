@@ -103,8 +103,10 @@ acomit.lk
 ad-dns.lista.my.id
 ad.257053.xyz
 ad.344556.xyz
+ad.800801.xyz
 ad.aghaaliagha.tk
 ad.dscw.io
+ad.dsh.lol
 ad.emekm.fr
 ad.guard.ru.net
 ad.gusald.com
@@ -420,6 +422,7 @@ adguard.tetnet.net
 adguard.thatisfun.in
 adguard.tigrex.net
 adguard.titov.es
+adguard.tmdproject.nl
 adguard.v1l.de
 adguard.vape.ong
 adguard.vegann.space
@@ -888,6 +891,7 @@ ccyykk.top
 cdn.0ms.dev
 cdn.45lnd.ir
 cdn.implementsfreedom.studio
+cdn.thetcs.eu.org
 cdzopi.duckdns.org
 cedricreitz.com
 celo.net
@@ -906,6 +910,7 @@ chenrouter.chironys.com
 chertila.tk
 chewbacca.meganerd.nl
 chibstatic.ru
+chicago.gtxvpnpro.xyz
 chillglobal.com
 chithra.dilli.dev
 chlaebi.info
@@ -1679,6 +1684,7 @@ dns.letmedo.cc
 dns.lfac.ml
 dns.lfac.xyz
 dns.lgprk.com
+dns.lietschaend.de
 dns.lifeym.xyz
 dns.lildinosaur.com
 dns.lilith.cloud
@@ -2103,6 +2109,7 @@ dns.xydustc.me
 dns.xyzz.live
 dns.yameenassotally.com
 dns.yandex.ru
+dns.yatima.tv
 dns.ygonline.de
 dns.yingroad.top
 dns.ykwbai.top
@@ -2275,6 +2282,7 @@ dnselbagre.telnet-isp.com
 dnsenc.com
 dnses.alekberg.net
 dnsfamily.adguard.com
+dnsfilter.domotik.us
 dnsforfamily.com
 dnsforge.de
 dnsfr.markovskilab.com
@@ -2848,7 +2856,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2954,6 +2961,7 @@ h.gjrick.tw
 h.ra3.in
 hahnjo.de
 hanahira.dev
+hanniel.tech
 haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcm.quydang.name.vn
@@ -3047,7 +3055,6 @@ home.realldz.id.vn
 home.snow-sugar.net
 home.tuankhaiit.com
 home.wriedts.de
-home2.ddnss.eu
 home27.duckdns.org
 home3.brosena.xyz
 home47a.mooo.com
@@ -3531,6 +3538,7 @@ n2.zmy.cloud
 n5.lsasss.com
 na-texas-adguard-01.joshsevero.dev
 na.nyc.01.adguard.joshseveros.network
+na.phx.adguard.01.joshseveros.network
 nadik.host
 nafni.one
 naganohara-yoimiya.momokko.moe
@@ -4049,6 +4057,7 @@ radmin-vpn.com
 radmin-vpn.org
 raffoz-pve.gotdns.ch
 rafi.dynns.com
+ralfs-dns.dsh.lol
 rapidproxy.us
 rares.pro
 rasp.matthias-iwer.de
@@ -4134,6 +4143,7 @@ rootserver.live
 ros.osmenoga.com
 roucious.dyndns-remote.com
 router.bittorrent.com
+router.sapib.ca
 router.utorrent.com123unblock.fun
 routerdieb-dns.de
 rpz-public-resolver1.rrdns.pch.net
@@ -4791,7 +4801,6 @@ vpn.g-s-a.me
 vpn.geshido.ru
 vpn.gosami.xyz
 vpn.i81.ru
-vpn.jens-server.de
 vpn.k-likhachev.ru
 vpn.midjrney.ru
 vpn.mozilla.org
@@ -4880,7 +4889,6 @@ vps312.brueggus.de
 vps313.brueggus.de
 vps314.brueggus.de
 vps32.brueggus.de
-vps324.brueggus.de
 vps325.brueggus.de
 vps326.brueggus.de
 vps327.brueggus.de
@@ -5077,6 +5085,7 @@ ychen.tk
 ychen00.eu.org
 ychen01.eu.org
 yellowproxy.net
+yeralin.net
 yingroad.top
 ymjx.shimmerl.top
 ymq01.dnscry.pt
