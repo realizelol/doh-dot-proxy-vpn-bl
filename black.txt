@@ -86,7 +86,6 @@ a.safe.ns.dnslify.com
 a.sinafreenet.ml
 a.sunday.eu.org
 a.vvvglass.com
-a1507.asuscomm.com
 a5135324.csie.io
 aalqudah.site
 aattwwss.duckdns.org
@@ -153,7 +152,6 @@ adblock.lv1.dns.nixnet.xyz
 adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adblock.robinlanckman.com
-adblock.weresolve.in
 adblockdns.live
 adblocker.cpadin.com
 adc.789910.xyz
@@ -559,7 +557,6 @@ agh.josephyap.me
 agh.kul-lippek.de
 agh.kyashi.fun
 agh.noton.tk
-agh.odvpn.ru
 agh.printk.info
 agh.srv.tenete.net
 agh.xinfeng16m.top
@@ -681,7 +678,6 @@ atelier.alica.idv.tw
 atl.firestorrrm.com
 atl01.dnscry.pt
 atlantic.dyn1.de
-atlas.cllctv.site
 atlasvpn.com
 atomicvps.xyz
 atoproxy.com
@@ -689,7 +685,6 @@ atozproxy.com
 atsilva.link
 au-syd-w-2.nashkan.net
 au-syd-w-3.nashkan.net
-au-syd-w-f-1.nashkan.net
 au-syd-w-p-1.nashkan.net
 au-syd.doh.sb
 au.teradns.org
@@ -838,6 +833,7 @@ bw.marsgo.top
 bwg.seggs.cn
 bwh.why4free.top
 bwh2.telex.app
+by.paskam.xyz
 bypassed.life
 bypassed.zone
 bypasser.us
@@ -1021,6 +1017,7 @@ d2.shabi.icu
 d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
+d37kfudu0dkr11.cloudfront.net
 d3vy.ru
 dadns.one
 daisukivn.asuscomm.com
@@ -1405,7 +1402,6 @@ dns.decky.eu
 dns.decloudus.com
 dns.deekshith.in
 dns.dekedin.me
-dns.delia.is
 dns.delitarus.ru
 dns.deluxerpanda.se
 dns.demirse.com
@@ -1555,6 +1551,7 @@ dns.hitmw.cn
 dns.hjh2007.top
 dns.homelabapp.com
 dns.hopper.org.uk
+dns.hopsken.com
 dns.hostingim.com
 dns.hostux.net
 dns.hotta.page
@@ -1896,6 +1893,7 @@ dns.rbpi.cc
 dns.rbs.my.id
 dns.reckoningslug.name
 dns.redroot.me
+dns.renardyre.com
 dns.repressoh.it
 dns.req1.fr
 dns.resoft.org
@@ -2527,6 +2525,7 @@ doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
+doh.xyz
 doh.yaseeme.icu
 doh.zephyrus.id
 doh003.280blocker.net
@@ -3038,7 +3037,6 @@ home.enjoymylife.net
 home.f7b6h9.tk
 home.fc.idv.tw
 home.firefenix.cf
-home.irrelevant.cc
 home.jobytan.com
 home.kinopu.com
 home.kompot.space
@@ -3056,7 +3054,6 @@ home.realldz.id.vn
 home.snow-sugar.net
 home.tuankhaiit.com
 home.wriedts.de
-home2.ddnss.eu
 home27.duckdns.org
 home3.brosena.xyz
 home47a.mooo.com
@@ -3187,6 +3184,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3242,7 +3240,6 @@ kaans.io
 kaiser.int.eu.org
 kaitain.restena.lu
 kakoito.site
-karawan.pnamae.com
 karimdns.com
 katherine-cloud-ip02.newcore.cl
 katherine-dns.newcore.cl
@@ -3271,6 +3268,7 @@ kilabit.info
 killads.vpms.xyz
 kintoun.alves.cc
 kintyre.uk
+kirnet.ru
 kirov.v6.rocks
 kiv01.dnscry.pt
 kiwifunke.duckdns.org
@@ -3427,7 +3425,6 @@ marimuttz.asuscomm.com
 markolll.ru
 mars.pccoach.nl
 marzban.severvpn.ru
-mash-tec.de
 mask-api.fe2.apple-dns.net
 mask-h.icloud.com
 mastergad.me
@@ -3538,7 +3535,6 @@ n11649246144.netvigator.com
 n2.zmy.cloud
 n5.lsasss.com
 na-texas-adguard-01.joshsevero.dev
-na.nyc.01.adguard.joshseveros.network
 na.phx.adguard.01.joshseveros.network
 nadik.host
 nafni.one
@@ -3679,6 +3675,7 @@ ns1.matkomek.cloud
 ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
+ns1.sc-lezhi.com
 ns1.wagno.info
 ns2-doh.iriseden.fr
 ns2.1899.com.mx
@@ -3777,7 +3774,6 @@ opera-proxy.net
 opera.cloudflare-dns.com
 opera.com
 opera.software
-or2o.tk
 ora1.nocnik.org
 oracle-lab01.crmd.co.za
 oracle.cepheus0.com
@@ -4080,7 +4076,6 @@ remote.sufly.top
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
-res-lux-1.jupitrdns.com
 res.zijji.com
 resolv.srv-pro.de
 resolve.fknw.de
@@ -4458,7 +4453,6 @@ takhtakh.domyah.net
 tanmoyvpn.ddns.net
 tarni.pp.ua
 tartanbahn.eu.org
-tarugo.capeta.tk
 taufner.net
 td-doh.dns.t53.de
 telex.app
@@ -4505,7 +4499,6 @@ tls.jackyhou.idv.tw
 tls.vietguards.cloud
 tls.zhiyou.me
 tlsh.windyvale.net
-tlsl.windyvale.net
 tlz.asia
 tlz.bio
 to.llzz.top
@@ -4692,7 +4685,6 @@ us1.dns.lavate.ch
 us1.intellsystemworld.xyz
 us5.wan.hc7z.com
 usa1.altcensored.com
-usad.cloudbasesolutions.online
 usafastproxy.info
 usdedi.ecapsul.com
 use-application-dns.net
@@ -4735,7 +4727,6 @@ valleverde.icu
 vanced.ddns.net
 vanced.sytes.net
 vancrafter.click
-vanes32.duckdns.org
 vani.long-nguyen.info
 varganet.org
 vasya.hr.i81.ru
@@ -4802,7 +4793,6 @@ vpn.g-s-a.me
 vpn.geshido.ru
 vpn.gosami.xyz
 vpn.i81.ru
-vpn.jens-server.de
 vpn.k-likhachev.ru
 vpn.midjrney.ru
 vpn.mozilla.org
@@ -4891,7 +4881,6 @@ vps312.brueggus.de
 vps313.brueggus.de
 vps314.brueggus.de
 vps32.brueggus.de
-vps324.brueggus.de
 vps325.brueggus.de
 vps326.brueggus.de
 vps327.brueggus.de
@@ -5002,6 +4991,7 @@ www.dehb.ru
 www.dns.stud.cloud
 www.dnsadguard.co.uk
 www.dnsforge.de
+www.doh.xyz
 www.dupatruwi22.fun
 www.eccloud.de
 www.elshad-adgh-dns.ru
@@ -5016,7 +5006,6 @@ www.jabber-germany.de
 www.khsan.com
 www.kondrcloud.ru
 www.lboxtv.top
-www.mash-tec.de
 www.masters-of-cloud.de
 www.maxfong.cc
 www.moonbd.top
