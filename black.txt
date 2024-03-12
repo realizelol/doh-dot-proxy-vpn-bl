@@ -1017,7 +1017,6 @@ d2.shabi.icu
 d2bphvjyj895l0.cloudfront.net
 d3.shabi.icu
 d3.supremum.io
-d37kfudu0dkr11.cloudfront.net
 d3vy.ru
 dadns.one
 daisukivn.asuscomm.com
@@ -1126,6 +1125,7 @@ dislike.eu.org
 dk-cop-w-1.nashkan.net
 dltkhn01.ddns.net
 dmit.xxxxxxxxx.gq
+dmtmpb4btyxdz.cloudfront.net
 dn.ckjack.com
 dn5.talesam.org
 dns-01.hir.app
@@ -2707,7 +2707,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2855,7 +2854,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2863,6 +2861,8 @@ garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
 gateway.baltes.info
+gateway.fe.apple-dns.net
+gateway.fe2.apple-dns.net
 gateway.fomichev.cloud
 gateway.mcebox.com
 gauss.pp.ua
@@ -4078,6 +4078,7 @@ res-acst2.absolight.net
 res-acst3.absolight.net
 res.zijji.com
 resolv.srv-pro.de
+resolve.corpa.me
 resolve.fknw.de
 resolve.srv-pro.de
 resolve2.srv-pro.de
@@ -4882,10 +4883,8 @@ vps313.brueggus.de
 vps314.brueggus.de
 vps32.brueggus.de
 vps325.brueggus.de
-vps326.brueggus.de
 vps327.brueggus.de
 vps328.brueggus.de
-vps329.brueggus.de
 vps333.brueggus.de
 vps334.brueggus.de
 vps335.brueggus.de
