@@ -2707,6 +2707,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2854,6 +2855,7 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
+gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2861,8 +2863,6 @@ garanphomai.ga
 gate.oliver-pietsch.de
 gateway-el.cname.ustclug.org
 gateway.baltes.info
-gateway.fe.apple-dns.net
-gateway.fe2.apple-dns.net
 gateway.fomichev.cloud
 gateway.mcebox.com
 gauss.pp.ua
@@ -3063,6 +3063,7 @@ homeguard.sleziona.org
 homelabjaw.tk
 homemoscow34.website
 homeproxy.com
+homeserverlocal.ddns.net
 hoofoo.icu
 hooliganska.duckdns.org
 horns.world
@@ -4256,7 +4257,6 @@ server1.cloud.hwtwco.uk
 server1.greendns.green1052.com
 server3.boldteam.ir
 serverfriend.altervista.org
-servernation.xyz
 serverrmha1.ddnsku.my.id
 serveur-yan.synology.me
 service.c698fc0a.cfd
@@ -4761,6 +4761,7 @@ vladpro.ru
 vload.net
 vm.delfini.online
 vm.mytm.cc
+vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vm2.oowo.de
@@ -4883,8 +4884,10 @@ vps313.brueggus.de
 vps314.brueggus.de
 vps32.brueggus.de
 vps325.brueggus.de
+vps326.brueggus.de
 vps327.brueggus.de
 vps328.brueggus.de
+vps329.brueggus.de
 vps333.brueggus.de
 vps334.brueggus.de
 vps335.brueggus.de
