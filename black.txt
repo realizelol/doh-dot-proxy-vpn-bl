@@ -2855,7 +2855,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -3185,6 +3184,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3822,6 +3822,7 @@ parrotsec.org
 pasi.cat
 paskam.tk
 pass12335.myds.me
+passcloud.xyz
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pccoach.ddns.net
