@@ -2663,6 +2663,7 @@ edbit.duckdns.org
 eddi.usgovtrafficmanager.net
 edelgard.duckdns.org
 edgar.tobkar.net
+edge.nextdns.io
 edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
@@ -2707,7 +2708,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -4373,6 +4373,7 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ss.0001.xyz
