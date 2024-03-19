@@ -4146,6 +4146,7 @@ router.utorrent.com123unblock.fun
 routerdieb-dns.de
 rpz-public-resolver1.rrdns.pch.net
 rsocks.net
+rtrdgovt.com
 ru-mos-w-1.nashkan.net
 ru-mos-w-2.nashkan.net
 ru-mos-w-p-1.nashkan.net
