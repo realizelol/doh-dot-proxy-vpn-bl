@@ -2829,6 +2829,7 @@ freevpnsoftware.net
 freexite.com
 freeyouproxytube.com
 freeyoutube.net
+frguthrie.app
 friend.bedro.cloud
 fritz-er.circumitor.de
 fritz-hbh.circumitor.de
@@ -4762,6 +4763,7 @@ vladpro.ru
 vload.net
 vm.delfini.online
 vm.mytm.cc
+vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vm2.oowo.de
