@@ -645,6 +645,7 @@ anycast.dns.nextdns.io
 anycast.ffmuc.net
 anycast.uncensoreddns.dk
 anycast.uncensoreddns.org
+api.cloudflareclient.com
 apne1.dns.terumi.club
 appart.yoannchappaz.best
 apple-dns.net
@@ -947,6 +948,7 @@ cloud8.yydsgod.eu.org
 cloudbasesolutions.online
 cloudflare-dns.com
 cloudflare-gateway.com
+cloudflareresolve.com
 cloudns.bosco.ovh
 cloudseriousshit.com
 cloudsrv.charitosnet.de
@@ -1583,6 +1585,7 @@ dns.internal.hosmatic.com
 dns.invisv.com
 dns.ipegg.top
 dns.ipoac.nl
+dns.ipty.de
 dns.ipv6dns.com
 dns.irumatech.com
 dns.islandnet.com
@@ -3178,6 +3181,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3265,11 +3269,13 @@ kirnet.ru
 kirov.v6.rocks
 kiv01.dnscry.pt
 kiwifunke.duckdns.org
+kk.sshub.win
 kn10.top
 knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
+kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -4361,6 +4367,7 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ss.0001.xyz
