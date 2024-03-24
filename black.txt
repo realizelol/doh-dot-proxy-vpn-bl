@@ -1889,6 +1889,7 @@ dns.rbpi.cc
 dns.rbs.my.id
 dns.reckoningslug.name
 dns.redroot.me
+dns.relay.ovpn.bond
 dns.renardyre.com
 dns.repressoh.it
 dns.req1.fr
@@ -2852,7 +2853,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -3717,7 +3717,6 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nzitdog.onthewifi.com
 o--o.duckdns.org
-o.o.ovpn.bond
 o.rsaikat.com
 o1.lt
 oci.tacomafia.net
