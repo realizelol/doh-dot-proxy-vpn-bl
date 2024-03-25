@@ -883,6 +883,7 @@ cc.3eto.com
 cc.somimobile.com
 cc2.v8er.net
 cc210b36bb9e.sn.mynetname.net
+cc210f4a872c.sn.mynetname.net
 ccadguard.ddns.net
 ccyykk.top
 cdn.0ms.dev
@@ -3275,7 +3276,6 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
-kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
