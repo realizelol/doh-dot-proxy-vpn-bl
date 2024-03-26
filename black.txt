@@ -98,7 +98,6 @@ abstergo.it
 aceproxy.com
 acevpn.com
 acomit.lk
-ad-dns.lista.my.id
 ad.257053.xyz
 ad.344556.xyz
 ad.800801.xyz
@@ -196,7 +195,6 @@ adghome2.mail-endpoint.com
 adghs.de
 adgrus.tvmix.my.id
 adguard-03.new-asgard.net
-adguard-2.ddns.net
 adguard-aws.charraud.eu
 adguard-aws.gdmn.dev
 adguard-be-azure.westeurope.cloudapp.azure.com
@@ -461,6 +459,7 @@ adguard2.546413.xyz
 adguard2.atl.jsanagustin.net
 adguard2.bonis.de
 adguard2.cloudmini.net
+adguard2.dnsovertor.cc
 adguard2.dsns.cloud
 adguard2.frece.de
 adguard2.gaconsulting.com.au
@@ -655,6 +654,7 @@ arashi.eu.org
 arashi.solutions
 arches-srv1.8ws.net
 arches-srv2.8ws.net
+archie-vps.ddns.net
 ard.net.sys.of.icu
 area51.mywire.org
 arespctw.tk
@@ -1886,7 +1886,6 @@ dns.rasks.ru
 dns.rasp.tv
 dns.rassadnikov.ru
 dns.rayanbab.com
-dns.rbpi.cc
 dns.rbs.my.id
 dns.reckoningslug.name
 dns.redroot.me
@@ -2406,6 +2405,7 @@ doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnslify.com
+doh.dnsovertor.cc
 doh.dnswarden.com
 doh.dohdns.one
 doh.dscloud.me
@@ -2536,7 +2536,6 @@ doh2.blahdns.com
 doh2.dnswarden.com
 doh2.gslb2.xfinity.com
 doh2.seby.io
-doh2.znps.xyz
 doh3.almir1904.eu
 dohdns.com
 dohdododo.tonedtanya.com
@@ -2704,6 +2703,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2781,7 +2781,6 @@ fly.flylcc.cc
 fly.io
 flyvpn.com
 fnt01.dnscry.pt
-fokus.o0o.si
 fonfrodo.asuscomm.com
 forum.ginovs.nl
 foxyserg.myddns.me
@@ -2800,7 +2799,6 @@ fra1.eyecay.xyz
 fra2.eyecay.xyz
 franceproxy.pw
 frank-web.dedyn.io
-free-mind.online
 free-proxy-list.net
 free-proxy.com
 free-proxy.cz
@@ -2854,6 +2852,7 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
+gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -3005,6 +3004,7 @@ hk.1662001.xyz
 hk.ahua.ltd
 hk.erw.cc
 hk.feiyuyu.net
+hk.janebooom.com
 hk.layjune.com
 hk.mangosysdns.com
 hk.meidouling.com
@@ -3144,7 +3144,6 @@ iofixdns1.duckdns.org
 iofixdns2.duckdns.org
 iot-dns.com
 ip.wcy9.com
-ip2.hdy.sh
 ipharaon.ru
 ipoac.nl
 ipredia.org
@@ -3173,7 +3172,6 @@ jackyes.ovh
 jalexx.freeboxos.fr
 jambi.undo.it
 james-solomon.com
-japan.1vpn.fun
 jarjar.meganerd.nl
 jatadguardhome.duckdns.org
 jaye.sh
@@ -3182,7 +3180,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3276,6 +3273,7 @@ knight1.de
 kolobok2.duckdns.org
 kondrcloud.ru
 korzhov.dev
+kostek.dyndns.org
 kotys.hr.i81.ru
 kotys.vd.i81.ru
 kotys.vpn.i81.ru
@@ -3473,6 +3471,7 @@ mocha.r.rnet.ie
 mofolinux.com
 mojserwer.myasustor.com
 montmorot.duckdns.org
+monty.best
 moonbd.top
 morbitzer.de
 moto.adg.siudzinski.net
@@ -3515,7 +3514,6 @@ myip.pyry.me
 mykewl.pro
 myownadguard.ovh
 mypihole.hopto.org
-myplatesd.quick-groovy.my.id
 myprivateproxy.net
 myprivityvpn.softether.net
 myproxy.info
@@ -4366,7 +4364,6 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ss.0001.xyz
@@ -4986,6 +4983,7 @@ www.c-dns.com
 www.chlaebi.info
 www.chungocoai.name.vn
 www.dehb.ru
+www.destru.crabdance.com
 www.dns.stud.cloud
 www.dnsadguard.co.uk
 www.dnsforge.de
