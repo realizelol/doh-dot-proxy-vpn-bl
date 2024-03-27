@@ -883,7 +883,6 @@ cc.3eto.com
 cc.somimobile.com
 cc2.v8er.net
 cc210b36bb9e.sn.mynetname.net
-cc210f4a872c.sn.mynetname.net
 ccadguard.ddns.net
 ccyykk.top
 cdn.0ms.dev
@@ -2852,7 +2851,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -3180,6 +3178,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -4364,6 +4363,7 @@ sriedmueadguard.casa
 srm.name
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 ss.0001.xyz
