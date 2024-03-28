@@ -3178,7 +3178,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -4083,6 +4082,7 @@ resolver.frank-ruan.com
 resolver.noaddns.com
 resolver.r0cket.net
 resolver.rferee.dev
+resolver.sunet.se
 resolver.unstoppable.io
 resolver.vanderbasch.com
 resolver1-fs.opendns.com
@@ -4431,7 +4431,6 @@ syd.core.access.zznet.fun
 syd01.dnscry.pt
 syd1.norgannetworks.net.au
 syre.pp.ua
-system4.codarbyte.de
 szyrzyk.pl
 t.jimmy.best
 t1c.240130034.xyz
