@@ -688,6 +688,7 @@ au-syd-w-2.nashkan.net
 au-syd-w-3.nashkan.net
 au-syd-w-p-1.nashkan.net
 au-syd.doh.sb
+au.rslvr.eu
 au.teradns.org
 au01.dns4me.net
 au02.dns4me.net
@@ -759,6 +760,7 @@ bestvpnrating.com
 betternet.co
 bev.dns.walshnet.co.uk
 bg-sof-w-3.nashkan.net
+bg.rslvr.eu
 bh.wael.name
 bigart-dns.tk
 bigart.su
@@ -1890,6 +1892,7 @@ dns.reckoningslug.name
 dns.redroot.me
 dns.relay.ovpn.bond
 dns.renardyre.com
+dns.repinger.my.id
 dns.repressoh.it
 dns.req1.fr
 dns.resoft.org
@@ -3007,6 +3010,7 @@ hk.layjune.com
 hk.mangosysdns.com
 hk.meidouling.com
 hk.ravi.top
+hk.rslvr.eu
 hk.wooy.cool
 hk2.ooroot.com
 hk2.ss.startagegames.com
@@ -3178,6 +3182,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3205,6 +3210,7 @@ jp.hm3.day
 jp.kano.sh
 jp.meidouling.com
 jp.ray0512.win
+jp.rslvr.eu
 jp.tiar.app
 jp.tiarap.org
 jp01.just-a-web.com
@@ -3605,6 +3611,7 @@ nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.adg.ghostzone.wtf
 nl.galaskar.ga
+nl.rslvr.eu
 nlb.gbrossi.com.br
 nlname.freecdn.one
 no-ad.levcloud.cloudns.nz
@@ -4268,6 +4275,7 @@ sg.adhole.org
 sg.gridns.xyz
 sg.jnraptor.com
 sg.mubibai.com
+sg.rslvr.eu
 sg.telex.app
 sg.teradns.org
 sg.yepdns.com
@@ -4667,6 +4675,7 @@ us-sea-w-5.nashkan.net
 us-sea-w-6.nashkan.net
 us.doh.cloudveil.org
 us.novali.date
+us.rslvr.eu
 us.wisw.tk
 us01.dns4me.net
 us02.dns4me.net
