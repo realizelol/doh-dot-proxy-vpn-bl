@@ -172,6 +172,7 @@ adg.jmdesign.uk
 adg.jnorton.us
 adg.nods.in
 adg.nosfe.de
+adg.pidns.de
 adg.pssv.top
 adg.qwqwe.link
 adg.rokh.biz
@@ -430,6 +431,7 @@ adguard.willhotard.com
 adguard.wirimij.nl
 adguard.wualai.com
 adguard.wydler.eu
+adguard.x88x.xyz
 adguard.xiaolingg.io.vn
 adguard.xiaoniaoyou.com
 adguard.yamamoto.ren
@@ -687,6 +689,7 @@ atsilva.link
 au-syd-w-2.nashkan.net
 au-syd-w-3.nashkan.net
 au-syd-w-p-1.nashkan.net
+au-syd-w-p-2.nashkan.net
 au-syd.doh.sb
 au.rslvr.eu
 au.teradns.org
@@ -833,6 +836,7 @@ bushmancastle.duckdns.org
 bvo.giize.com
 bw.i81.ru
 bw.marsgo.top
+bwg.559299366.xyz
 bwg.seggs.cn
 bwh.why4free.top
 bwh2.telex.app
@@ -1568,6 +1572,7 @@ dns.hva.li
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.iblockads.net
+dns.ibreeze.xyz
 dns.ictorn.dev
 dns.ihaveacloud.com
 dns.ikataruto.com
@@ -1587,7 +1592,6 @@ dns.internal.hosmatic.com
 dns.invisv.com
 dns.ipegg.top
 dns.ipoac.nl
-dns.ipty.de
 dns.ipv6dns.com
 dns.irumatech.com
 dns.islandnet.com
@@ -1831,6 +1835,7 @@ dns.ours.luxe
 dns.ovpn.bond
 dns.ovpss.top
 dns.ozgo.info
+dns.p3k.sk
 dns.p55k.com
 dns.pacificmonster.com
 dns.paesa.es
@@ -2405,6 +2410,7 @@ doh.dns.sb
 doh.dns.snopyta.org
 doh.dns1.lonet.org
 doh.dns4all.eu
+doh.dnscron.com
 doh.dnscrypt.uk
 doh.dnslify.com
 doh.dnsovertor.cc
@@ -2572,6 +2578,7 @@ dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
 dot.cox.net
 dot.dns-ga.de
+dot.dnscron.com
 dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
@@ -2705,7 +2712,6 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2854,6 +2860,7 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
+gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -2960,6 +2967,7 @@ h.ra3.in
 hahnjo.de
 hanahira.dev
 hanniel.tech
+harveyhome.top
 haswell-www.a.guindehi.ch
 hc.xiwen1988.top
 hcm.quydang.name.vn
@@ -3166,6 +3174,7 @@ itnerden.no
 itopvpn.com
 ivacy.com
 ivanromanov.ru
+ivica-vulas.from.hr
 ivnkn.xyz
 ivpn.net
 jabber-germany.de
@@ -3182,7 +3191,6 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
-jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -3679,6 +3687,7 @@ ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns1.wagno.info
+ns1.znit.net.bd
 ns2-doh.iriseden.fr
 ns2.1899.com.mx
 ns2.dnsprivacy.at
@@ -3760,6 +3769,7 @@ onion.sh
 onion.to
 onion.ws
 onlyfriends.info
+oostelbos.dynu.com
 op.htyweb.top
 open-resolver1.unima.ac.id
 open.dns0.eu
@@ -3899,6 +3909,7 @@ pope.cnblw.me
 portal.iddqd.uk
 porttwo.bigbangtheory.monster
 postalsv1.mkid.top
+ppmanu.ddns.net
 pqh.ddns.net
 premiumtier-network.instadart.net
 preview.dnsteam.globuscs.info
@@ -4310,6 +4321,7 @@ sin02.dnscry.pt
 sinas85.synology.me
 singapore.fuckll.com
 singaporeproxy.nu
+singy.smartq.dev
 sink.nolo.ltd
 sip.amigo-mgn.ru
 sips.my.id
@@ -4759,6 +4771,7 @@ vladpro.ru
 vload.net
 vm.delfini.online
 vm.mytm.cc
+vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vm2.oowo.de
@@ -5031,6 +5044,7 @@ www.szyrzyk.pl
 www.taufner.net
 www.tirapan.top
 www.trovs.ru
+www.unasw.eu
 www.urology.wiki
 www.vdsn-nl-2.azatmutq.com
 www.vik.ro
