@@ -869,7 +869,6 @@ cactusvpn.com
 caifuwu.com
 callies-online.site
 calm-crown.freemyip.com
-camn.uk
 canadaproxy.info
 canadianshield.cira.ca
 cantblockthis.org
@@ -1967,6 +1966,7 @@ dns.slinkyman.net
 dns.smirnov.tk
 dns.smvd.net
 dns.spil.co.id
+dns.spirio.fr
 dns.spok.fun
 dns.srijan.site
 dns.srinivasrao.co.in
@@ -2712,6 +2712,7 @@ expressvpn.com
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -2860,7 +2861,6 @@ gaharchat.my.id
 gaia.plonknet.com
 galileo.math.unipd.it
 gambling-goat.khaosadv.com
-gandhico2.duckdns.org
 ganzsicherso.tk
 gaoadmin.win
 garage.jjlizz.com
@@ -3191,6 +3191,7 @@ jcdns.fun
 jefe.space
 jeffreyblank.net
 jenanga.ipv64.net
+jianyi.studio
 jit.ddns.net
 jjm.asia
 jkdsm.com
@@ -4545,6 +4546,7 @@ triton.data.haus
 trojan.nowave.top
 trovs.ru
 trr.dns.nextdns.io
+truta.org
 trytackle.ddns.net
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
@@ -4586,6 +4588,7 @@ ukns.milangas2.top
 ultimateproxy.net
 ultrafun.net
 ultravpn.com
+unasw.eu
 unbl0ck.fun
 unbl0ck.online
 unblock-sites.com
@@ -4771,7 +4774,6 @@ vladpro.ru
 vload.net
 vm.delfini.online
 vm.mytm.cc
-vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vm2.oowo.de
