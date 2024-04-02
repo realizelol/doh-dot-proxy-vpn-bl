@@ -1895,7 +1895,6 @@ dns.rayanbab.com
 dns.rbs.my.id
 dns.reckoningslug.name
 dns.redroot.me
-dns.relay.ovpn.bond
 dns.renardyre.com
 dns.repinger.my.id
 dns.repressoh.it
@@ -3072,6 +3071,7 @@ homeguard.sleziona.org
 homelabjaw.tk
 homemoscow34.website
 homeproxy.com
+homeserverlocal.ddns.net
 hoofoo.icu
 hooliganska.duckdns.org
 horns.world
@@ -3279,6 +3279,7 @@ kirnet.ru
 kirov.v6.rocks
 kiv01.dnscry.pt
 kiwifunke.duckdns.org
+kk.sshub.win
 kn10.top
 knight1.de
 kolobok2.duckdns.org
@@ -3401,7 +3402,6 @@ m-cm.circumitor.de
 m-rm.circumitor.de
 m.myspace.sbs
 ma1.guardmydns.com
-macmini.qujing.eu.org
 mad01.dnscry.pt
 maddino.dedyn.io
 maddw.com
@@ -4050,6 +4050,7 @@ quickproxy.co.uk
 qwenty.ru
 r1bnc.com
 r1bnc.eu.org
+r2s.qujing.eu.org
 r4u2c9i5.stackpathcdn.com
 ra.r2ss.tk
 rabanete.duckdns.org
@@ -4715,6 +4716,7 @@ v.itsa.cc
 v.or2o.ml
 v.qdev.cc
 v.yuwentian.com
+v1.lifeym.xyz
 v1461642.hosted-by-vdsina.ru
 v1550018.hosted-by-vdsina.ru
 v1552270.hosted-by-vdsina.ru
@@ -4771,7 +4773,6 @@ vladpro.ru
 vload.net
 vm.delfini.online
 vm.mytm.cc
-vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vm2.oowo.de
