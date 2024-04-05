@@ -37,6 +37,7 @@ jobs:
                     https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn \
                     https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes \
                     https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies \
+                    https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies \
                     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt \
                     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt \
                     2>/dev/null; \
@@ -47,7 +48,7 @@ jobs:
                 -e "/^$/d" -e "s/\s.*//g" -e "/^[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}$/d" \
                 -e "s|^https\?://||g" -e "s|/.*$||g" -e "s|:.*$||g" | sort -u | sed \
                 -e '/^|\(12\|2\)\?proxy\.ga/d'; "$(: '# fix 012proxy.ga error of "plain.black.hosts.list"')"; \
-            ) | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" \
+            ) | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" | sed 's/#//g' \
           ) > black.txt
       - name: Get current date
         id: get-date
