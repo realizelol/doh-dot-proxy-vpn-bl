@@ -37,7 +37,8 @@ jobs:
                     https://raw.githubusercontent.com/nextdns/dns-bypass-methods/main/vpn \
                     https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes \
                     https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies \
-                    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt \
+                    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt \
+                    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt \
                     2>/dev/null; \
                 curl -s "https://raw.githubusercontent.com/wiki/curl/curl/DNS-over-HTTPS.md" | \
                     awk -F'|' '/^# Publicly available servers/,/^# Private DNS Server with DoH setup examples/{print$3}' | \
