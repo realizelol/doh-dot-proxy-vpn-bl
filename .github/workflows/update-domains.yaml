@@ -55,7 +55,7 @@ jobs:
           ) > black-tmp.txt; sleep 2; [ -f black.txt ] && true > black.txt; \
           while read -r black_cleanup; do \
             if [ -n "$(dig "${black_cleanup}" +short +ignore +notcp +tries=3 +timeout=1)" ]; then \
-              echo "${black_cleanup}" >> black.txt; \
+              echo "${black_cleanup}" >> black.txt; fi; \
           done < <(cat black-tmp.txt | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$"); \
           sleep 2; rm -f black-tmp.txt
       - name: Get current date
