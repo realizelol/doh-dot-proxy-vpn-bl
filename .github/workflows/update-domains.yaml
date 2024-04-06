@@ -19,7 +19,7 @@ jobs:
         run:  |
           ( ( ( \
                 curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300\
-                    https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/index.html >2/dev/null | \
+                    https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/index.html 2>/dev/null | \
                     awk -F'"' '/data-clipboard-text=/{print$4}' | sed -e "s|.*//||g" -e "s|/.*||g" | sort -u; \
                 curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300 \
                     https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz | \
