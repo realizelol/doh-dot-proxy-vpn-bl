@@ -18,11 +18,13 @@ jobs:
       - name: Update Lists
         run:  |
           ( ( ( \
-                curl -s https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/index.html | \
+                curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300\
+                    https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/index.html >2/dev/null | \
                     awk -F'"' '/data-clipboard-text=/{print$4}' | sed -e "s|.*//||g" -e "s|/.*||g" | sort -u; \
-                curl -s https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz | \
-                    sed '/^\(;\|\$\|@\|\s\)/d' | sed "s/\sCNAME\s\.//g"; \
-                curl -sfSL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300 \
+                curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300 \
+                    https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz | \
+                    sed '/^\(;\|\$\|@\|\s\)/d' 2>/dev/null | sed "s/\sCNAME\s\.//g"; \
+                curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300 \
                     https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt \
                     https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains \
                     https://raw.githubusercontent.com/dibdot/doh-ip-blocklists/master/doh-domains.txt \
@@ -41,7 +43,8 @@ jobs:
                     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt \
                     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt \
                     2>/dev/null; \
-                curl -s "https://raw.githubusercontent.com/wiki/curl/curl/DNS-over-HTTPS.md" | \
+                curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300\
+                    "https://raw.githubusercontent.com/wiki/curl/curl/DNS-over-HTTPS.md" 2>/dev/null | \
                     awk -F'|' '/^# Publicly available servers/,/^# Private DNS Server with DoH setup examples/{print$3}' | \
                     grep -oP "https://[A-Za-z0-9\-\._~]*(:[0-9]*)?\/[A-Za-z0-9\-\._~]*" \
               ) | sed -e "s/[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\s*//g" -e "/^#.*$/d" \
@@ -49,7 +52,12 @@ jobs:
                 -e "s|^https\?://||g" -e "s|/.*$||g" -e "s|:.*$||g" | sort -u | sed \
                 -e '/^|\(12\|2\)\?proxy\.ga/d'; "$(: '# fix 012proxy.ga error of "plain.black.hosts.list"')"; \
             ) | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" | sed 's/#//g' \
-          ) > black.txt
+          ) > black-tmp.txt; sleep 2; [ -f black.txt ] && true > black.txt; \
+          while read -r black_cleanup; do \
+            if [ -n "$(dig "${black_cleanup}" +short +ignore +notcp +tries=3 +timeout=1)" ]; then \
+              echo "${black_cleanup}" >> black.txt; \
+          done < <(cat black-tmp.txt | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$"); \
+          sleep 2; rm -f black-tmp.txt
       - name: Get current date
         id: get-date
         run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT
