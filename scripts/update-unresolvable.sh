@@ -1,8 +1,8 @@
 #!/usr/bin/bash
-if [ -z "${1:-}" ]; then
+if [ -z "${1}" ]; then
   param_cnt=1
 else
-  param_cnt="${1:-}"
+  param_cnt="${1}"
 fi
 # split content to domain and counter and check every line
 content_lines="$(wc -l <unresolvable.txt)"
