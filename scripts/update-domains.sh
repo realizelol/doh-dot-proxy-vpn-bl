@@ -6,8 +6,8 @@
           https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/index.html 2>/dev/null | \
           awk -F'"' '/data-clipboard-text=/{print$4}' | sed -e "s|.*//||g" -e "s|/.*||g" | sort -u; \
       curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300 \
-          https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz | \
-          sed '/^\(;\|\$\|@\|\s\)/d' 2>/dev/null | sed "s/\sCNAME\s\.//g"; \
+          https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH.rpz 2>/dev/null | \
+          sed '/^\(;\|\$\|@\|\s\)/d' | sed "s/\sCNAME\s\.//g"; \
       curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300 \
           https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt \
           https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains \
@@ -36,10 +36,11 @@
       -e "s|^https\?://||g" -e "s|/.*$||g" -e "s|:.*$||g" | sort -u | sed \
       -e '/^|\(12\|2\)\?proxy\.ga/d'; $(: '# fix 012proxy.ga error of "plain.black.hosts.list"'); \
   ) | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" | sed 's/#//g' \
-) > black.txt
+) > black-tmp-curl.txt
 sleep 2
 # cleanup unresolvables
-while read -r cleanup_unresolvable; do
-  sed -i "/${cleanup_unresolvable}/d" black.txt
-done < <( { sed -n "s/^\(.*\)#\([1-3]\)$/\1/p" unresolvable.txt; cat unresolvable_perm.txt; } | \
-            grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$")
+diff -u black-tmp-curl.txt <(sed -n "s/^\(.*\)#[1-3]/\1/p" unresolvable.txt) | grep '^-' > black-tmp-diff.txt
+diff -u black-tmp-diff.txt unresolvable_perm.txt | grep '^-' > black.txt
+# cleaup temporary files
+sleep 2
+rm -f black-tmp-curl.txt black-tmp-diff.txt
