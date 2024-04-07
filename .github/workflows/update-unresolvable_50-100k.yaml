@@ -1,0 +1,29 @@
+name: Update Unresolvable Domains
+run-name: updating [ DoH + DoT + Proxy + VPN + Tor ] unresolvable domains
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "00 19 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 2
+      - name: Update Lists
+        run:  |
+          bash scripts/update-unresolvable.sh 50001
+      - name: Get current date
+        id: get-date
+        run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT
+      - name: Upload Stuff to GitHub via https://github.com/stefanzweifel/git-auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: './unresolvable.txt ./unresolvable_perm.txt'
+          disable_globbing: true
+          commit_message: Update unresolvable domains - ${{ steps.get-date.outputs.date }}

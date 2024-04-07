@@ -15,11 +15,13 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 2
-      - name: Delayed re-pull (2min)
+      - name: Delayed re-pull (2min) to get new domains
         run: sleep 120; git pull
       - name: Get IPv6 # Exclude: https://www.iana.org/assignments/iana-ipv6-special-registry/iana-ipv6-special-registry.xhtml
         run:  |
           bash scripts/update-domain2ips.sh IPv6
+      - name: Re-pull before push to get possible new black.ipv4
+        run: git pull
       - name: Get current date
         id: get-date
         run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT

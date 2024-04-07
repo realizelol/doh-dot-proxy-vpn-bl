@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 2
       - name: Update Lists
         run:  |
-          bash scripts/update-unresolvable.sh
+          bash scripts/update-unresolvable.sh 200001
       - name: Get current date
         id: get-date
         run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT

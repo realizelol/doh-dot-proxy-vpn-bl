@@ -40,7 +40,7 @@ if [ "${1:-}" == "IPv6" ]; then
       echo "${ip}" >> black-tmp.ipv6
     done
   fi
-  grep -oE "${ip6regex}" black-tmp.ipv6 | sort -Vu | sed '/^$/d'                                        | \
+  grep -oE "${ip6regex}" black-tmp.ipv6 | sort -Vu | sed -e '/^$/d' -e '/^::$/d'                        | \
     grep -vE "(^::ffff:|^64:ff9b:(0|1):|^100:|^2001:0|^2001:[1-3]0?:0|^2001:4:112:|^2001:db8:)"         | \
     grep -vE "(^2002:|^2620:4f:8000:|^f[c-d][0-9a-f][0-9a-f]:|^fe[8-9a-b][0-9a-f]:|^ff[0-9a-f][0-9a-f]:)" \
     >> black.ipv6; rm -f black-tmp.ipv6
