@@ -39,8 +39,10 @@
 ) > black-tmp-curl.txt
 sleep 2
 # cleanup unresolvables
-diff -u black-tmp-curl.txt <(sed -n "s/^\(.*\)#[1-3]/\1/p" unresolvable.txt) | grep '^-' > black-tmp-diff.txt
-diff -u black-tmp-diff.txt unresolvable_perm.txt | grep '^-' > black.txt
+diff -u black-tmp-curl.txt <(sed -n "s/^\(.*\)#[1-3]/\1/p" unresolvable.txt)  \
+  | grep '^-' | sed "s/^-*//g" > black-tmp-diff.txt
+diff -u black-tmp-diff.txt unresolvable_perm.txt | grep '^-' | sed "s/^-*//g" \
+  > black.txt
 # cleaup temporary files
 sleep 2
 rm -f black-tmp-curl.txt black-tmp-diff.txt
