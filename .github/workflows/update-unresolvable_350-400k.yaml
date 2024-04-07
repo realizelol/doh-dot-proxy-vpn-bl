@@ -1,4 +1,4 @@
-name: Update Unresolvable Domains
+name: Update Unresolvable Domains 350 - 400k
 run-name: updating [ DoH + DoT + Proxy + VPN + Tor ] unresolvable domains
 on:
   push:
@@ -18,6 +18,8 @@ jobs:
       - name: Update Lists
         run:  |
           bash scripts/update-unresolvable.sh 350001
+      - name: Re-pull before push
+        run: git pull
       - name: Get current date
         id: get-date
         run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT
@@ -26,4 +28,4 @@ jobs:
         with:
           file_pattern: './unresolvable.txt ./unresolvable_perm.txt'
           disable_globbing: true
-          commit_message: Update unresolvable domains - ${{ steps.get-date.outputs.date }}
+          commit_message: Update unresolvable domains - 350-400k - ${{ steps.get-date.outputs.date }}
