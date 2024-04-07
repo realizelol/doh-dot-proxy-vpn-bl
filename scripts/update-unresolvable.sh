@@ -1,10 +1,13 @@
 #!/usr/bin/bash
-param_cnt="${1}"
-
+if [ -z "${1:-}" ]; then
+  param_cnt=1
+else
+  param_cnt="${1:-}"
+fi
 # split content to domain and counter and check every line
 content_lines="$(wc -l <unresolvable.txt)"
 sed_begin="$(seq "${param_cnt}" "50000" "${content_lines}")"
-sed_end="$(( $(seq "${param_cnt}" "50000" "${content_lines}" | tail -n1) + "49999" ))"
+sed_end="$(( $(echo "${sed_begin}" | tail -n1) + "49999" ))"
 
 if [ "${param_cnt}" -lt "${sed_end}" ] && [ "${param_cnt}" -gt "${sed_begin}" ]; then
 
