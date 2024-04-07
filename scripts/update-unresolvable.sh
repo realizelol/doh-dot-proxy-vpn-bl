@@ -9,7 +9,7 @@ content_lines="$(wc -l <unresolvable.txt)"
 sed_begin="$(seq "${param_cnt}" "50000" "${content_lines}")"
 sed_end="$(( $(echo "${sed_begin}" | tail -n1) + "49999" ))"
 
-if [ "${param_cnt}" -lt "${sed_end}" ] && [ "${param_cnt}" -gt "${sed_begin}" ]; then
+if [ "${param_cnt}" -lt "${sed_end}" ]; then
 
   echo "${sed_begin}" | while read -r sed_line; do
     sed -n "s/^\(.*\)#\([1-3]\)$/\1\t\2/p" unresolvable.txt | \
