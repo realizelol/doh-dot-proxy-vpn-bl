@@ -14,3 +14,5 @@ mask-canary.icloud.com
 108.177.15.132 # www.google.com
 173.194.76.132 # www.google.com
 216.239.36.54 # Games: Resident Evil 3 Remake 2020 + Goose Goose Duck
+forcesafesearch.google.com
+216.239.38.120 # Google SafeSearch

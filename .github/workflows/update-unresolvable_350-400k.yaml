@@ -1,9 +1,6 @@
 name: Update Unresolvable Domains 350 - 400k
 run-name: updating [ DoH + DoT + Proxy + VPN + Tor ] unresolvable domains
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "00 19 * * *"
 
