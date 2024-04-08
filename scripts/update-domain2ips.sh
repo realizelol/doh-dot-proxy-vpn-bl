@@ -8,7 +8,7 @@ ipregex='(([0-9a-fA-F]{1,4}:){7,7}[0-9a-fA-F]{1,4}|([0-9a-fA-F]{1,4}:){1,7}:|([0
 ip4regex="((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])"
 ip6regex="${ipregex//[[:space:]]/}"
 
-if [ "${1:-}" == "IPv4" ]; then
+if [ "${1}" == "IPv4" ]; then
   ipv4=(); while read -r dns2ip_v4; do
     dig4="$(dig @8.8.8.8 "${dns2ip_v4}" in A -4 +short +ignore +notcp +timeout=2 2>/dev/null || true)"
     if [ -n "${dig4}" ] && ! echo "${dig4}" | grep -q "^0\.0\.0\.0\|^127\.0\.0\.1$\|^;"; then
@@ -27,7 +27,7 @@ if [ "${1:-}" == "IPv4" ]; then
     grep -vE "(^192\.31\.196\.|192\.52\.193\.|192\.175\.48\.|^192\.0\.(0|2)\.|^198\.1[8-9]\.0\.|^255\.255\.255\.255)"  \
       >> black.ipv4; rm -f black-tmp.ipv4
 fi
-if [ "${1:-}" == "IPv6" ]; then
+if [ "${1}" == "IPv6" ]; then
   ipv6=(); while read -r dns2ip_v6; do
     dig6="$(dig @8.8.8.8 "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +timeout=2 2>/dev/null || true)"
     if [ -n "${dig6}" ] && ! echo "${dig6}" | grep -q "^::$\|^::1$\|^53:$\|^;"; then

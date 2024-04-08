@@ -1,4 +1,4 @@
-name: Update Unresolvable Domains 50 - 100k
+name: Update Unresolvable Domains 050 - 100k
 run-name: updating [ DoH + DoT + Proxy + VPN + Tor ] unresolvable domains
 on:
   push:

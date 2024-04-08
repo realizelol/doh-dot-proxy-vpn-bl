@@ -18,8 +18,6 @@ jobs:
       - name: Get IPv4 # Exclude: https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
         run:  |
           bash scripts/update-domain2ips.sh IPv4
-      - name: Re-pull before push to get possible new black.ipv6
-        run: git pull
       - name: Get current date
         id: get-date
         run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT
