@@ -16,16 +16,19 @@ if [ "${1}" == "IPv4" ]; then
     fi
   done < <(grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" black.txt)
   if [ "$(echo "${ipv4[*]}" | sed "s/ /\n/g" | sort -Vu | grep -coE "${ip4regex}")" -ge 100 ]; then
-    true > black.ipv4
     for ip in "${ipv4[@]}"; do
       echo "${ip}" >> black-tmp.ipv4
     done
   fi
+  # check for changes
+  git fetch
+  git pull
+  # create new black.ipv4
   grep -oE "${ip4regex}" black-tmp.ipv4 | sort -Vu | sed '/^$/d'                                                     | \
     grep -vE "(^10\.|^169\.254\.|^172\.(1[6-9]|2[0-9]|3[0-1])\.|^192\.168\.|^22[4-9]\.|^23[0-9]\.|^2[4-5][0-9]\.)"   | \
     grep -vE "(^192\.88\.99\.|^198\.51\.100\.|^203\.0\.113\.|^100\.6[4-9]\.|^100\.[7-9][0-9]\.|^100\.1[0-2][0-7]\.)" | \
     grep -vE "(^192\.31\.196\.|192\.52\.193\.|192\.175\.48\.|^192\.0\.(0|2)\.|^198\.1[8-9]\.0\.|^255\.255\.255\.255)"  \
-      >> black.ipv4; rm -f black-tmp.ipv4
+    > black.ipv4; sleep 1; rm -f black-tmp.ipv4
 fi
 if [ "${1}" == "IPv6" ]; then
   ipv6=(); while read -r dns2ip_v6; do
@@ -35,13 +38,16 @@ if [ "${1}" == "IPv6" ]; then
     fi
   done < <(grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" black.txt)
   if [ "$(echo "${ipv6[*]}" | sed "s/ /\n/g" | sort -Vu | grep -coE "${ip6regex}")" -ge 100 ]; then
-    true > black.ipv6
     for ip in "${ipv6[@]}"; do
       echo "${ip}" >> black-tmp.ipv6
     done
   fi
+
+  # check for changes
+  git fetch
+  git pull
   grep -oE "${ip6regex}" black-tmp.ipv6 | sort -Vu | sed -e '/^$/d' -e '/^::$/d'                        | \
     grep -vE "(^::ffff:|^64:ff9b:(0|1):|^100:|^2001:0|^2001:[1-3]0?:0|^2001:4:112:|^2001:db8:)"         | \
     grep -vE "(^2002:|^2620:4f:8000:|^f[c-d][0-9a-f][0-9a-f]:|^fe[8-9a-b][0-9a-f]:|^ff[0-9a-f][0-9a-f]:)" \
-    >> black.ipv6; rm -f black-tmp.ipv6
+    > black.ipv6; sleep 1; rm -f black-tmp.ipv6
 fi
