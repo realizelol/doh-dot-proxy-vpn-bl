@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "15 02 * * *"
+    - cron: "05 01 * * *"
 
 jobs:
   update:
@@ -15,8 +15,6 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 2
-      - name: Delayed re-pull (2min) to get new domains
-        run: sleep 120; git pull
       - name: Get IPv4 # Exclude: https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
         run:  |
           bash scripts/update-domain2ips.sh IPv4
@@ -29,5 +27,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: './black.ipv4'
-          disable_globbing: false
+          disable_globbing: true
           commit_message: Update domains2ip - IPv4 - ${{ steps.get-date.outputs.date }}

@@ -49,13 +49,13 @@ if [ "${param_cnt}" -lt "${sed_end}" ]; then
   diff -u "unresolvable.txt" "unresolvable_${param_cnt}.txt" \
     | grep '^-' | sed -e "s/^-*//g" -e "/unresolvable_.*.txt/d" \
     | while read -r change_unresolvable; do
-      sed -i "s|${change_unresolvable//#*}.*|${change_unresolvable}/g" \
+      sed -i "s|${change_unresolvable//#*}.*|${change_unresolvable}|g" \
         "unresolvable.txt"
     done
   diff -u "unresolvable_perm.txt" "unresolvable_perm_${param_cnt}.txt" \
     | grep '^-' | sed -e "s/^-*//g" -e "/unresolvable_.*.txt/d" \
     | while read -r change_unresolvable_perm; do
-      sed -i "s|${change_unresolvable_perm//#*}.*|${change_unresolvable_perm}/g" \
+      sed -i "s|${change_unresolvable_perm//#*}.*|${change_unresolvable_perm}|g" \
         "unresolvable_perm.txt"
     done
 
