@@ -8,8 +8,7 @@ param_delim="50000"
 param_end="$(( param_delim - 1 ))"
 # split content to domain and counter and check every line
 content_lines="$(grep -cvE "$(while read -r line; do echo "^${line}#[1-3]$"; done < unresolvable_perm.txt)" unresolvable.txt)"
-get_begin=(); for i in $(seq "${param_cnt}" "${param_delim}" "${content_lines}"); do get_begin+=( "${i}" ); done
-get_last="${get_begin[-1]}"
+get_last="$(awk 'BEGIN{for (i=1; i<='"${content_lines}"'; i=i+50000) print i}' | tail -n1)"
 get_end="$(( get_last + param_end ))"
 
 cp "unresolvable.txt" "unresolvable_${param_cnt}.txt"
