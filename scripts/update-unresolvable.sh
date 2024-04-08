@@ -8,17 +8,18 @@ param_delim="50000"
 param_end="$(( param_delim - 1 ))"
 # split content to domain and counter and check every line
 content_lines="$(grep -cvE "$(while read -r line; do echo "^${line}#[1-3]$"; done < unresolvable_perm.txt)" unresolvable.txt)"
-sed_begin=(); for i in $(seq "${param_cnt}" "${param_delim}" "${content_lines}"); do sed_begin+=( "${i}" ); done
-sed_end="$(( "${sed_begin[-1]}" + param_end ))"
+get_begin=(); for i in $(seq "${param_cnt}" "${param_delim}" "${content_lines}"); do get_begin+=( "${i}" ); done
+get_last="${get_begin[-1]}"
+get_end="$(( get_last + param_end ))"
 
 cp "unresolvable.txt" "unresolvable_${param_cnt}.txt"
 cp "unresolvable_perm.txt" "unresolvable_perm_${param_cnt}.txt"
 
-if [ "${param_cnt}" -le "${sed_end}" ]; then
+if [ "${param_cnt}" -le "${get_end}" ]; then
 
   { sed -n "s/^\(.*\)#\([1-3]\)$/\1\t\2/p" "unresolvable_${param_cnt}.txt" | \
   grep -vE "$(while read -r line; do echo -e "^${line}\t[1-3]$"; done < "unresolvable_perm_${param_cnt}.txt")"; \
-  } | sed -n "${param_cnt},$(( param_cnt + param_delim ))p" | while read -r domain cnt; do
+  } | sed -n "${param_cnt},$(( param_cnt + param_end ))p" | while read -r domain cnt; do
     if [ "${cnt}" -eq 3 ]; then
       # if there's no output on dig then delete line
       if [ -z "$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +tries=3 +timeout=1)" ]; then
