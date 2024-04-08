@@ -10,13 +10,13 @@ ip6regex="${ipregex//[[:space:]]/}"
 
 if [ "${1:-}" == "IPv4" ]; then
   ipv4=(); while read -r dns2ip_v4; do
-    dig4="$(dig "${dns2ip_v4}" in A -4 +short +ignore +notcp +timeout=2 2>/dev/null || true)"
+    dig4="$(dig @8.8.8.8 "${dns2ip_v4}" in A -4 +short +ignore +notcp +timeout=2 2>/dev/null || true)"
     if [ -n "${dig4}" ] && ! echo "${dig4}" | grep -q "^0\.0\.0\.0\|^127\.0\.0\.1$\|^;"; then
       ipv4+=( "${dig4}" )
     fi
   done < <(grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" black.txt)
   if [ "$(echo "${ipv4[*]}" | sed "s/ /\n/g" | sort -Vu | grep -coE "${ip4regex}")" -ge 100 ]; then
-    true >> black.ipv4
+    true > black.ipv4
     for ip in "${ipv4[@]}"; do
       echo "${ip}" >> black-tmp.ipv4
     done
@@ -29,7 +29,7 @@ if [ "${1:-}" == "IPv4" ]; then
 fi
 if [ "${1:-}" == "IPv6" ]; then
   ipv6=(); while read -r dns2ip_v6; do
-    dig6="$(dig "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +timeout=2 2>/dev/null || true)"
+    dig6="$(dig @8.8.8.8 "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +timeout=2 2>/dev/null || true)"
     if [ -n "${dig6}" ] && ! echo "${dig6}" | grep -q "^::$\|^::1$\|^53:$\|^;"; then
       ipv6+=( "${dig6}" )
     fi
