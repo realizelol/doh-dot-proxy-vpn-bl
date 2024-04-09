@@ -28,26 +28,26 @@ if [ "${param_cnt}" -le "${get_end}" ]; then
   fi; } | sed -n "${param_cnt},$(( param_cnt + param_end ))p" | while read -r domain cnt; do
     if [ "${cnt}" -eq 3 ]; then
       # if there's no output on dig then delete line
-      if [ -z "$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +tries=3 +timeout=1)" ]; then
+      if [ -z "$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +timeout=2 2>/dev/null)" ]; then
         sed -i "/^${domain}#[1-3]$/d" "unresolvable_${param_cnt}.txt"
         # and add domain to permanent unresolvable
         if ! grep -q "^${domain}$" "unresolvable_perm_${param_cnt}.txt"; then
           echo "${domain}" >> "unresolvable_perm_${param_cnt}.txt"
+        else
+          # if it was reachable delete from unresolvable
+          sed -i "/^${domain}#[1-3]$/d" "unresolvable_${param_cnt}.txt"
         fi
-      else
-        # if it was reachable delete from unresolvable
-        sed -i "/^${domain}#[1-3]$/d" "unresolvable_${param_cnt}.txt"
       fi
     fi
     if [ "${cnt}" -eq 2 ] || [ "${cnt}" -eq 1 ]; then
       # if there's no output on dig then increase(+1) counter of domain
-      if [ -z "$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +tries=3 +timeout=1)" ]; then
+      if [ -z "$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +timeout=2 2>/dev/null)" ]; then
         cnt_sed="$(( cnt + 1 ))"
         sed -i "s/^\(${domain}#\)[1-3]$/\1${cnt_sed}/g" "unresolvable_${param_cnt}.txt"
+      else
+        # if it was reachable delete from unresolvable
+        sed -i "/^${domain}#[1-3]$/d" "unresolvable_${param_cnt}.txt"
       fi
-    else
-      # if it was reachable delete from unresolvable
-      sed -i "/^${domain}#[1-3]$/d" "unresolvable_${param_cnt}.txt"
     fi
   done
 
