@@ -15,6 +15,7 @@ fi
 get_last="$(awk 'BEGIN{for (i=1; i<='"${content_lines}"'; i=i+50000) print i}' | tail -n1)"
 get_end="$(( get_last + param_end ))"
 
+# save a temporary backup
 cp "unresolvable.txt" "unresolvable_${param_cnt}.txt"
 cp "unresolvable_perm.txt" "unresolvable_perm_${param_cnt}.txt"
 
@@ -28,7 +29,8 @@ if [ "${param_cnt}" -le "${get_end}" ]; then
   fi; } | sed -n "${param_cnt},$(( param_cnt + param_end ))p" | while read -r domain cnt; do
     if [ "${cnt}" -eq 3 ]; then
       # if there's no output on dig then delete line
-      if [ -z "$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +timeout=2 2>/dev/null)" ]; then
+      dig_cmd="$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +timeout=2 2>/dev/null)"
+      if [ -z "${dig_cmd}" ] || [ "${dig_cmd}" = "0.0.0.0" ] || [ "${dig_cmd}" = "127.0.0.1" ]; then
         sed -i "/^${domain}#[1-3]$/d" "unresolvable_${param_cnt}.txt"
         # and add domain to permanent unresolvable
         if ! grep -q "^${domain}$" "unresolvable_perm_${param_cnt}.txt"; then
@@ -41,7 +43,8 @@ if [ "${param_cnt}" -le "${get_end}" ]; then
     fi
     if [ "${cnt}" -eq 2 ] || [ "${cnt}" -eq 1 ]; then
       # if there's no output on dig then increase(+1) counter of domain
-      if [ -z "$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +timeout=2 2>/dev/null)" ]; then
+      dig_cmd="$(dig @8.8.8.8 "${domain}" +short +ignore +notcp +timeout=2 2>/dev/null)"
+      if [ -z "${dig_cmd}" ] || [ "${dig_cmd}" = "0.0.0.0" ] || [ "${dig_cmd}" = "127.0.0.1" ]; then
         cnt_sed="$(( cnt + 1 ))"
         sed -i "s/^\(${domain}#\)[1-3]$/\1${cnt_sed}/g" "unresolvable_${param_cnt}.txt"
       else
@@ -55,16 +58,20 @@ if [ "${param_cnt}" -le "${get_end}" ]; then
   git fetch
   git pull
   diff -u "unresolvable.txt" "unresolvable_${param_cnt}.txt" \
-    | grep '^-' | sed -e "s/^-*//g" -e "/unresolvable_.*.txt/d" \
+    | grep '^+' | sed -e "s/^+*//g" -e "/unresolvable_.*.txt/d" \
     | while read -r change_unresolvable; do
       sed -i "s|^${change_unresolvable//#*}#[1-3]$|${change_unresolvable}|g" \
         "unresolvable.txt"
     done
   diff -u "unresolvable_perm.txt" "unresolvable_perm_${param_cnt}.txt" \
-    | grep '^-' | sed -e "s/^-*//g" -e "/unresolvable_.*.txt/d" \
+    | grep '^+' | sed -e "s/^+*//g" -e "/unresolvable_.*.txt/d" \
     | while read -r change_unresolvable_perm; do
       sed -i "s|^${change_unresolvable_perm//#*}#[1-3]$|${change_unresolvable_perm}|g" \
         "unresolvable_perm.txt"
     done
 
 fi
+
+# cleanup
+rm -f "unresolvable_${param_cnt}.txt"
+rm -f "unresolvable_perm_${param_cnt}.txt"

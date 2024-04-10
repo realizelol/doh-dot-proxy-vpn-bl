@@ -1,12 +1,12 @@
-mask.icloud.com
-mask-h2.icloud.com
-mask-api.icloud.com
-mask-api.fe.apple-dns.net
-mask-t.apple-dns.net
-mask.apple-dns.net
-doh.dns.apple.com
-canary.mask.apple-dns.net
-mask-canary.icloud.com
+mask.icloud.com # Better use DNS blocking => NXDOMAIN
+mask-h2.icloud.com # Better use DNS blocking => NXDOMAIN
+mask-api.icloud.com # Better use DNS blocking => NXDOMAIN
+mask-api.fe.apple-dns.net # Better use DNS blocking => NXDOMAIN
+mask-t.apple-dns.net # Better use DNS blocking => NXDOMAIN
+mask.apple-dns.net # Better use DNS blocking => NXDOMAIN
+doh.dns.apple.com # Better use DNS blocking => NXDOMAIN
+canary.mask.apple-dns.net # Better use DNS blocking => NXDOMAIN
+mask-canary.icloud.com # Better use DNS blocking => NXDOMAIN
 13.32.121.69 # Amazon CloudFront AWS
 17.253.0.0/16 # iTunes / Apple CDN
 74.125.133.132 # www.google.com
@@ -14,5 +14,5 @@ mask-canary.icloud.com
 108.177.15.132 # www.google.com
 173.194.76.132 # www.google.com
 216.239.36.54 # Games: Resident Evil 3 Remake 2020 + Goose Goose Duck
-forcesafesearch.google.com
+forcesafesearch.google.com # Google SafeSearch
 216.239.38.120 # Google SafeSearch
