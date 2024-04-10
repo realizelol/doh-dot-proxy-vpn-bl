@@ -8,6 +8,26 @@ ipregex='(([0-9a-fA-F]{1,4}:){7,7}[0-9a-fA-F]{1,4}|([0-9a-fA-F]{1,4}:){1,7}:|([0
 ip4regex="((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])"
 ip6regex="${ipregex//[[:space:]]/}"
 
+# ipv4only -> using cidr2ip.py instead
+cidr2ip() {
+
+  SAVE_IFS="${IFS}"
+  BASE_IP="${1%/*}"
+  IP_CIDR="${1#*/}"
+
+  IP_MASK=$((0xFFFFFFFF << ( 32 - IP_CIDR )))
+  IFS=. read -r a b c d <<<"${BASE_IP}"
+  ip=$(( ( b << 16 ) + ( c << 8 ) + d ))
+  ipstart=$((ip & IP_MASK))
+  ipend=$(((ipstart | ~IP_MASK) & 0x7FFFFFFF))
+
+  seq "${ipstart}" "${ipend}" | while read -r i; do
+    echo "${a}.$(((i & 0xFF0000) >> 16)).$(((i & 0xFF00) >> 8)).$((i & 0x00FF))"
+  done
+  IFS="${SAVE_IFS}"
+
+}
+
 if [ "${1}" == "IPv4" ]; then
 
   # get ip4s of domains
@@ -33,7 +53,7 @@ if [ "${1}" == "IPv4" ]; then
     white_sed_4+=( "${wip4}" )
   done < <(sed -nr "s%^(${ip4regex})[[:space:]]#.*%\1%p" white.txt)
   while read -r subnet4; do
-    white_ip4s="$(nmap -sL -n "${subnet4}" | awk '/Nmap scan report/{print$NF}')"
+    white_ip4s="$(python3 scripts/cidr2ip.py "${subnet4}")"
   done < <(sed -nr "s%^(${ip4regex}/[0-9]{1,2})[[:space:]]#.*%\1%p" white.txt)
   while read -r wip4; do white_sed_4+=( "${wip4}" ); done < <(printf '%s\n' "${white_ip4s[@]}")
   echo "${white_sed_4[@]}" > "white_sed_4.txt"
@@ -45,7 +65,7 @@ if [ "${1}" == "IPv4" ]; then
     grep -vE "(^192\.31\.196\.|192\.52\.193\.|192\.175\.48\.|^192\.0\.(0|2)\.|^198\.1[8-9]\.0\.|^255\.255\.255\.255)"  \
     > black.ipv4
   # cleanup
-  rm -f black-tmp.ipv4
+  rm -f black-tmp.ipv4 white_sed_4.txt
   unset ipv4 dig4 white_sed_4 subnet4 white_ip4s wip4
 fi
 if [ "${1}" == "IPv6" ]; then
@@ -73,7 +93,7 @@ if [ "${1}" == "IPv6" ]; then
     white_sed_4+=( "${wip6}" )
   done < <(sed -nr "s%^(${ip6regex})[[:space:]]#.*%\1%p" white.txt)
   while read -r subnet6; do
-    white_ip6s="$(nmap -sL -n "${subnet6}" | awk '/Nmap scan report/{print$NF}')"
+    white_ip6s="$(python3 scripts/cidr2ip.py "${subnet6}")"
   done < <(sed -nr "s%^(${ip6regex}/[0-9]{1,2})[[:space:]]#.*%\1%p" white.txt)
   while read -r wip6; do white_sed_6+=( "${wip6}" ); done < <(printf '%s\n' "${white_ip6s[@]}")
   echo "${white_sed_6[@]}" > "white_sed_6.txt"
@@ -84,6 +104,6 @@ if [ "${1}" == "IPv6" ]; then
     grep -vE "(^2002:|^2620:4f:8000:|^f[c-d][0-9a-f][0-9a-f]:|^fe[8-9a-b][0-9a-f]:|^ff[0-9a-f][0-9a-f]:)"  \
     > black.ipv6
   # cleanup
-  rm -f black-tmp.ipv6
+  rm -f black-tmp.ipv6 white_sed_6.txt
   unset ipv4 dig6 white_sed_6 subnet6 white_ip6s wip6
 fi
