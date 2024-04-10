@@ -8029,6 +8029,7 @@ dns-any.jupitrdns.com
 dns-asia.wugui.zone
 dns-br.leonardo.tec.br
 dns-cluster1.lewsion.com
+dns-cybersec.nordthreatprotection.com
 dns-de.veho.de
 dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
@@ -8049,6 +8050,7 @@ dns-guard1.cryptroute.com
 dns-guard2.cryptroute.com
 dns-integration-alb-618104398.us-east-1.elb.amazonaws.com
 dns-jp0.cyhsu.xyz
+dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-nyc.aaflalo.me
 dns-over-https.com
@@ -8431,6 +8433,7 @@ dns.kamilszczepanski.com
 dns.karl.one
 dns.kawa.tf
 dns.kejinno.com
+dns.keke125.com
 dns.kernel-error.de
 dns.kescher.at
 dns.keskinnetwork.com
@@ -8471,6 +8474,7 @@ dns.lista.my.id
 dns.lithvik.com
 dns.ljq87.top
 dns.lmir.info
+dns.lobbygod.com
 dns.loony-tech.de
 dns.lostvpn.ru
 dns.ltse.cloud
@@ -8536,6 +8540,7 @@ dns.narl.app
 dns.narrowband.net.au
 dns.nas-server.ru
 dns.nashi.us.to
+dns.neilzone.co.uk
 dns.nekofish.cc
 dns.nerdytechgeeks.co.za
 dns.netraptor.com.au
@@ -8873,6 +8878,7 @@ dns1.newapi.host
 dns1.nextdns.io
 dns1.nielsdb.be
 dns1.niub.one
+dns1.oryxlabs.com
 dns1.permafrostmiami.com
 dns1.pietjacobs.be
 dns1.quickline.ch
@@ -17900,7 +17906,6 @@ jgofiles.com
 jh2.info
 jh8.info
 ji9.info
-jianyi.studio
 jidur.co.cc
 jiggynation.com
 jihe.info
@@ -18473,7 +18478,6 @@ korzhov.dev
 kosciuszko.co.cc
 koselforex.co.cc
 kosmos.nz.gs
-kostek.dyndns.org
 kosurf.com
 kotys.hr.i81.ru
 kotys.vd.i81.ru
@@ -19971,6 +19975,7 @@ metemma.com
 meteor.newsofmaricopa.com
 meteor1.eu.org
 methods-inside.co.cc
+metis.sheggi.ch
 metonator-proxy.appspot.com
 metop.info
 metro-maple.com
@@ -21926,6 +21931,7 @@ ns3.rowie.at
 ns4.opennameserver.org
 ns8469rfvth42.xyz
 nsa.onnonetworks.com
+nsauth1.kooman.org
 nsb.onnonetworks.com
 nsc.torgues.net
 nsec.arnor.org
@@ -32820,7 +32826,6 @@ sroxyechose-surfs.tk
 sroxyechose.tk
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 srvnet.co.cc
@@ -39240,7 +39245,6 @@ vlil.com
 vload.net
 vm.delfini.online
 vm.mytm.cc
-vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vm2.oowo.de
