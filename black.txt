@@ -8181,6 +8181,7 @@ dns.bw.i81.ru
 dns.c0ntroller.de
 dns.c515.icu
 dns.cachitopetshop.com
+dns.caksono.com
 dns.canavan.co
 dns.carson-family.com
 dns.carter.me
@@ -8245,6 +8246,7 @@ dns.decloudus.com
 dns.deekshith.in
 dns.dekedin.me
 dns.delitarus.ru
+dns.dev-umbrellagov.com
 dns.dgea.fr
 dns.dhemant.observer
 dns.digitale-gesellschaft.ch
@@ -8318,6 +8320,7 @@ dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
 dns.futuredns.me
 dns.fydne.dev
+dns.gamban.com
 dns.geets.ru
 dns.ghexu.com
 dns.ghost.pm
@@ -8436,6 +8439,7 @@ dns.keweon.center
 dns.kirillpe.dev
 dns.kloiber.co.at
 dns.knightlsy.asia
+dns.koala.us.to
 dns.kolar-it.com
 dns.kolyma.uz
 dns.korzhyk.pp.ua
@@ -8578,6 +8582,7 @@ dns.oii.im
 dns.opendns.com
 dns.ord.chriswang.work
 dns.orencak.eu
+dns.oryxlabs.com
 dns.osmenoga.com
 dns.oszx.co
 dns.otezz.net
@@ -8672,6 +8677,7 @@ dns.servizimv.it
 dns.sev.monster
 dns.shaw.ca
 dns.shecan.ir
+dns.sheggi.ch
 dns.shimul.me
 dns.sidot.xyz
 dns.silen.org
@@ -8721,6 +8727,7 @@ dns.techcpu.net
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
+dns.thegoodsource.net
 dns.theres.one
 dns.therifleman.name
 dns.thhbdd.eu.org
@@ -9161,7 +9168,9 @@ doh.insec.link
 doh.iranet.cam
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kel.pe
 doh.killtw.im
+doh.kooman.org
 doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.lee1024.xyz
@@ -9172,6 +9181,7 @@ doh.luigi.nexific.it
 doh.lululu.eu.org
 doh.lululujp.eu.org
 doh.lv
+doh.maskab.com
 doh.max.net.id
 doh.mcasviper.de
 doh.meetz.pw
