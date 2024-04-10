@@ -1491,6 +1491,7 @@ adguard.rubengarrido.com
 adguard.samuelthomasfamily.net
 adguard.schandlserver.de
 adguard.schlikow.de
+adguard.sealyserver.com
 adguard.searom.ovh
 adguard.sekular.pl
 adguard.servernation.xyz
