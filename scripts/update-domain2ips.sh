@@ -56,10 +56,10 @@ if [ "${1}" == "IPv4" ]; then
     white_ip4s="$(python3 scripts/cidr2ip.py "${subnet4}")"
   done < <(sed -nr "s%^(${ip4regex}/[0-9]{1,2})[[:space:]]#.*%\1%p" white.txt)
   while read -r wip4; do white_sed_4+=( "${wip4}" ); done < <(printf '%s\n' "${white_ip4s[@]}")
-  echo "${white_sed_4[@]}" > "white_sed_4.txt"
+  printf '%s\n' "${white_sed_4[@]}" > "white_sed_4.txt"
 
   # create new black.ipv4
-  grep -oE "${ip4regex}" black-tmp.ipv4 | grep -Fvx "white_sed_4.txt" | sort -Vu | sed '/^$/d'                       | \
+  grep -Fvxf white_sed_4.txt black-tmp.ipv4 | grep -oE "${ip4regex}" | sort -Vu | sed '/^$/d'                        | \
     grep -vE "(^10\.|^169\.254\.|^172\.(1[6-9]|2[0-9]|3[0-1])\.|^192\.168\.|^22[4-9]\.|^23[0-9]\.|^2[4-5][0-9]\.)"   | \
     grep -vE "(^192\.88\.99\.|^198\.51\.100\.|^203\.0\.113\.|^100\.6[4-9]\.|^100\.[7-9][0-9]\.|^100\.1[0-2][0-7]\.)" | \
     grep -vE "(^192\.31\.196\.|192\.52\.193\.|192\.175\.48\.|^192\.0\.(0|2)\.|^198\.1[8-9]\.0\.|^255\.255\.255\.255)"  \
@@ -96,10 +96,10 @@ if [ "${1}" == "IPv6" ]; then
     white_ip6s="$(python3 scripts/cidr2ip.py "${subnet6}")"
   done < <(sed -nr "s%^(${ip6regex}/[0-9]{1,2})[[:space:]]#.*%\1%p" white.txt)
   while read -r wip6; do white_sed_6+=( "${wip6}" ); done < <(printf '%s\n' "${white_ip6s[@]}")
-  echo "${white_sed_6[@]}" > "white_sed_6.txt"
+  printf '%s\n' "${white_sed_6[@]}" > "white_sed_6.txt"
 
   # create new black.ipv6
-  grep -oE "${ip6regex}" black-tmp.ipv6 | grep -Fvx "white_sed_6.txt" | sort -Vu | sed '/^$/d'           | \
+  grep -Fvxf white_sed_6.txt black-tmp.ipv6 | grep -oE "${ip6regex}" | sort -Vu | sed '/^$/d'            | \
     grep -vE "(^::$|^::ffff:|^64:ff9b:(0|1):|^100:|^2001:0|^2001:[1-3]0?:0|^2001:4:112:|^2001:db8:)"     | \
     grep -vE "(^2002:|^2620:4f:8000:|^f[c-d][0-9a-f][0-9a-f]:|^fe[8-9a-b][0-9a-f]:|^ff[0-9a-f][0-9a-f]:)"  \
     > black.ipv6
