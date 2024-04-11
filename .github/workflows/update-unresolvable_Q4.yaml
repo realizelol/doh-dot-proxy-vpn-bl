@@ -1,9 +1,6 @@
 name: Update Unresolvable Domains Queue4
 run-name: updating [ DoH + DoT + Proxy + VPN + Tor ] unresolvable domains
 on:
-  push:
-    branches:
-      - master
   workflow_run:
     workflows: [Update Unresolvable Domains Queue3]
     types: [completed]
@@ -28,4 +25,4 @@ jobs:
         with:
           file_pattern: './unresolvable.txt ./unresolvable_perm.txt'
           disable_globbing: true
-          commit_message: Update unresolvable domains - Queue4 - ${{ steps.get-date.outputs.date }}
+          commit_message: Update unresolvable domains - Q4 - ${{ steps.get-date.outputs.date }}

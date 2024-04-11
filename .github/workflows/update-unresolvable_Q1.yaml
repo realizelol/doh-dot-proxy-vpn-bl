@@ -26,4 +26,4 @@ jobs:
         with:
           file_pattern: './unresolvable.txt ./unresolvable_perm.txt'
           disable_globbing: true
-          commit_message: Update unresolvable domains - Queue1 - ${{ steps.get-date.outputs.date }}
+          commit_message: Update unresolvable domains - Q1 - ${{ steps.get-date.outputs.date }}
