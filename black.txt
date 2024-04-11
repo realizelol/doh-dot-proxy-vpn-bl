@@ -579,6 +579,7 @@
 3browse.info
 3d-printed.tk
 3dczar.co.cc
+3dns.eu
 3g-proxy.co.cc
 3g-star-0proxy.tk
 3h5.net
@@ -8175,6 +8176,7 @@ dns.benpro.fr
 dns.beta.gandi.net
 dns.biliun.me
 dns.bitdefender.net
+dns.bitservices.io
 dns.blaze-sk.ru
 dns.blokada.org
 dns.bluestarnc.com
@@ -8378,6 +8380,7 @@ dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
 dns.hva.li
+dns.hypercute.eu
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.iblockads.net
@@ -8412,6 +8415,7 @@ dns.itnetpass.ru
 dns.itsec.crolla.net
 dns.itwht.com
 dns.itya.xyz
+dns.janl.eu
 dns.jcdn.site
 dns.jean.im
 dns.jelebruh.xyz
@@ -8727,6 +8731,7 @@ dns.stud.cloud
 dns.supercluster.io
 dns.superstefan.win
 dns.surobe.com
+dns.svoi.dev
 dns.swehosting.se
 dns.swin.pro
 dns.switch.ch
