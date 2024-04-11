@@ -1,8 +1,13 @@
-name: Update Unresolvable Domains 200 - 250k
+name: Update Unresolvable Domains Queue2
 run-name: updating [ DoH + DoT + Proxy + VPN + Tor ] unresolvable domains
 on:
-  schedule:
-    - cron: "00 19 * * *"
+  push:
+    branches:
+      - master
+  workflow_run:
+    workflows: [Update Unresolvable Domains Queue1]
+    types: [completed]
+    branches: [master]
 
 jobs:
   update:
@@ -14,7 +19,7 @@ jobs:
           fetch-depth: 2
       - name: Update Lists
         run:  |
-          bash scripts/update-unresolvable.sh 200001
+          bash scripts/update-unresolvable.sh 50001
       - name: Get current date
         id: get-date
         run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT
@@ -23,4 +28,4 @@ jobs:
         with:
           file_pattern: './unresolvable.txt ./unresolvable_perm.txt'
           disable_globbing: true
-          commit_message: Update unresolvable domains - 200-250k - ${{ steps.get-date.outputs.date }}
+          commit_message: Update unresolvable domains - Queue2 - ${{ steps.get-date.outputs.date }}

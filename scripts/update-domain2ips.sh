@@ -8,33 +8,19 @@ ipregex='(([0-9a-fA-F]{1,4}:){7,7}[0-9a-fA-F]{1,4}|([0-9a-fA-F]{1,4}:){1,7}:|([0
 ip4regex="((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])"
 ip6regex="${ipregex//[[:space:]]/}"
 
-# ipv4only -> using cidr2ip.py instead
-cidr2ip() {
-
-  SAVE_IFS="${IFS}"
-  BASE_IP="${1%/*}"
-  IP_CIDR="${1#*/}"
-
-  IP_MASK=$((0xFFFFFFFF << ( 32 - IP_CIDR )))
-  IFS=. read -r a b c d <<<"${BASE_IP}"
-  ip=$(( ( b << 16 ) + ( c << 8 ) + d ))
-  ipstart=$((ip & IP_MASK))
-  ipend=$(((ipstart | ~IP_MASK) & 0x7FFFFFFF))
-
-  seq "${ipstart}" "${ipend}" | while read -r i; do
-    echo "${a}.$(((i & 0xFF0000) >> 16)).$(((i & 0xFF00) >> 8)).$((i & 0x00FF))"
-  done
-  IFS="${SAVE_IFS}"
-
-}
-
 if [ "${1}" == "IPv4" ]; then
 
   # get ip4s of domains
   ipv4=(); while read -r dns2ip_v4; do
-    dig4="$(dig @8.8.8.8 "${dns2ip_v4}" in A -4 +short +ignore +notcp +timeout=2 2>/dev/null)"
-    if [ -n "${dig4}" ] && ! echo "${dig4}" | grep -q "^0\.0\.0\.0\|^127\.0\.0\.1$\|^;"; then
-      ipv4+=( "${dig4}" )
+    dig4=(); while read -r dig2ip_v4; do
+      dig4+=( "${dig2ip_v4}" )
+    done < <(dig @8.8.8.8 "${dns2ip_v4}" in A -4 +short +ignore +notcp +timeout=2 2>/dev/null)
+    if [ -n "${dig4[*]}" ]; then
+      while read -r dig_ip4; do
+        if ! echo "${dig_ip4}" | grep -q "^0\.0\.0\.0\|^127\.0\.0\.1$\|^;"; then
+          ipv4+=( "${dig_ip4}" )
+        fi
+      done < <(printf '%s\n' "${dig4[@]}")
     fi
   done < <(grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" black.txt)
   if [ "$(echo "${ipv4[*]}" | sed "s/ /\n/g" | sort -Vu | grep -coE "${ip4regex}")" -ge 100 ]; then
@@ -72,14 +58,20 @@ if [ "${1}" == "IPv6" ]; then
 
   # get ip6s of domains
   ipv6=(); while read -r dns2ip_v6; do
-    dig6="$(dig @8.8.8.8 "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +timeout=2 2>/dev/null)"
-    if [ -n "${dig6}" ] && ! echo "${dig6}" | grep -q "^::$\|^::1$\|^53:$\|^;"; then
-      ipv6+=( "${dig6}" )
+    dig6=(); while read -r dig2ip_v6; do
+      dig6+=( "${dig2ip_v6}" )
+    done < <(dig @8.8.8.8 "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +timeout=2 2>/dev/null)
+    if [ -n "${dig6[*]}" ]; then
+      while read -r dig_ip6; do
+        if ! echo "${dig_ip6}" | grep -q "^::$\|^::1$\|^53:$\|^;"; then
+          ipv6+=( "${dig_ip6}" )
+        fi
+      done < <(printf '%s\n' "${dig6[@]}")
     fi
   done < <(grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" black.txt)
   if [ "$(echo "${ipv6[*]}" | sed "s/ /\n/g" | sort -Vu | grep -coE "${ip6regex}")" -ge 100 ]; then
-    for ip in "${ipv6[@]}"; do
-      echo "${ip}" >> black-tmp.ipv6
+    for ip6 in "${ipv6[@]}"; do
+      echo "${ip6}" >> black-tmp.ipv6
     done
   fi
 
@@ -90,7 +82,7 @@ if [ "${1}" == "IPv6" ]; then
   # create whitelist IPv6
   white_sed_6=()
   while read -r wip6; do
-    white_sed_4+=( "${wip6}" )
+    white_sed_6+=( "${wip6}" )
   done < <(sed -nr "s%^(${ip6regex})[[:space:]]#.*%\1%p" white.txt)
   while read -r subnet6; do
     white_ip6s="$(python3 scripts/cidr2ip.py "${subnet6}")"
@@ -105,5 +97,5 @@ if [ "${1}" == "IPv6" ]; then
     > black.ipv6
   # cleanup
   rm -f black-tmp.ipv6 white_sed_6.txt
-  unset ipv4 dig6 white_sed_6 subnet6 white_ip6s wip6
+  unset ipv6 dig6 white_sed_6 subnet6 white_ip6s wip6
 fi
