@@ -5990,6 +5990,7 @@ cc.3eto.com
 cc.somimobile.com
 cc2.v8er.net
 cc210b36bb9e.sn.mynetname.net
+cc210f4a872c.sn.mynetname.net
 ccant.com
 ccno.info
 ccproxy.pw
@@ -8388,6 +8389,7 @@ dns.ibreeze.xyz
 dns.ictorn.dev
 dns.ihaveacloud.com
 dns.ikataruto.com
+dns.iki.my.id
 dns.ilhamsyahids.com
 dns.imaicool.com
 dns.immanuelschaffer.de
@@ -8446,6 +8448,7 @@ dns.karl.one
 dns.kawa.tf
 dns.kejinno.com
 dns.keke125.com
+dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 dns.keskinnetwork.com
@@ -8817,6 +8820,7 @@ dns.wakgood.net
 dns.walshnet.co.uk
 dns.wang.art
 dns.wargan.io
+dns.warma.me
 dns.warpnine.de
 dns.watch
 dns.wdnts.ml
@@ -8893,6 +8897,7 @@ dns1.newapi.host
 dns1.nextdns.io
 dns1.nielsdb.be
 dns1.niub.one
+dns1.nordvpn.com
 dns1.oryxlabs.com
 dns1.permafrostmiami.com
 dns1.pietjacobs.be
@@ -8953,6 +8958,7 @@ dns2.nextcloudend.info
 dns2.nextdns.io
 dns2.nhgnet.de
 dns2.niub.one
+dns2.nordvpn.com
 dns2.patrickbianchi.com
 dns2.porteii.com
 dns2.prima-solusindo.com
@@ -9237,6 +9243,7 @@ doh.qis.io
 doh.quickline.ch
 doh.rasmusminde.dk
 doh.rezhajul.io
+doh.runsel.id
 doh.sa-sa.eu
 doh.safesurfer.io
 doh.sandbox.opendns.com
@@ -17925,7 +17932,6 @@ jgofiles.com
 jh2.info
 jh8.info
 ji9.info
-jianyi.studio
 jidur.co.cc
 jiggynation.com
 jihe.info
@@ -39593,6 +39599,7 @@ vps317.brueggus.de
 vps32.brueggus.de
 vps322.brueggus.de
 vps325.brueggus.de
+vps326.brueggus.de
 vps327.brueggus.de
 vps328.brueggus.de
 vps329.brueggus.de
