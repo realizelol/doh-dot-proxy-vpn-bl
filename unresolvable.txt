@@ -52840,7 +52840,7 @@ pagetime.tk#3
 pageunblock.info#3
 pageunlock.info#3
 pageus.info#3
-pagewash.com#2
+pagewash.com#3
 pagewash.info#3
 pagewater.tk#3
 pagewebproxys.tk#3
@@ -56718,7 +56718,7 @@ proxmobile.info#3
 prox.mobilrings.info#3
 proxmoip-proxmoe.tk#3
 proxmonster.net#3
-prox.montrealflowers.com#2
+prox.montrealflowers.com#3
 proxmo-proxmoe.tk#3
 proxmo-proxmo.tk#3
 proxmoxh.tk#3
@@ -85130,7 +85130,7 @@ vbrowser-university.tk#3
 vbrowservpn-4universitys.tk#3
 vbrowservpn-universitys.tk#3
 vbsocial-xproxya.tk#3
-vc4.info#2
+vc4.info#3
 vc9.info#3
 vcamo.com#3
 vcamp.info#3
