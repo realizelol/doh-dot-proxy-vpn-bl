@@ -671,6 +671,7 @@
 505x.com
 50dollarforex.co.cc
 5115.info
+51576162.ru
 51proxy.info
 52apde.tk
 52bhn.dynv6.net
@@ -1313,6 +1314,7 @@ adg.datamatter.co.za
 adg.dz.ax
 adg.geili.me
 adg.herry.dev
+adg.ikhwanto.com
 adg.jabertechnologies.ch
 adg.jmdesign.uk
 adg.jnorton.us
@@ -1596,6 +1598,7 @@ adh.haoqing.site
 adh.sigma.monster
 adherence.info
 adherforex.co.cc
+adhome.2011101.xyz
 adhome.chinghuat.com
 adhome.maige.fun
 adhome.nvtai.id.vn
@@ -5672,7 +5675,6 @@ c.cicitt.ch
 c.culby2.com
 c.gracemp.org
 c.malicioustation.icu
-c0ntroller.de
 c0q.net
 c1.ownvps.ml
 c1.yydsgod.eu.org
@@ -8086,6 +8088,7 @@ dns-unfiltered.adguard.com
 dns-weblock.wevpn.com
 dns.010812.xyz
 dns.0ooo.icu
+dns.0x55.net
 dns.1.bsh4.com
 dns.111311.xyz
 dns.123099.xyz
@@ -8155,6 +8158,7 @@ dns.aquilenet.fr
 dns.arapurayil.com
 dns.ares-taiwan.com
 dns.artikel10.org
+dns.asterimoon.com
 dns.atsilva.link
 dns.audet.cloud
 dns.auffray.org
@@ -8278,6 +8282,7 @@ dns.doubleangels.com
 dns.downloadacar.today
 dns.dreamworker.idv.tw
 dns.drivearasaka.online
+dns.drnarrow.com
 dns.dyn1.de
 dns.east.comss.one
 dns.ebner.tech
@@ -8382,6 +8387,7 @@ dns.huseynov.work
 dns.huyhoangit.net
 dns.hva.li
 dns.hypercute.eu
+dns.i6p.eu
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.iblockads.net
@@ -8444,6 +8450,7 @@ dns.juyic.cn
 dns.k3nny.fr
 dns.kaandikec.com
 dns.kamilszczepanski.com
+dns.karfamily.net
 dns.karl.one
 dns.kawa.tf
 dns.kejinno.com
@@ -8468,6 +8475,7 @@ dns.kr.chavy.dev
 dns.kriswerry.nl
 dns.krol.cloud
 dns.krushkov.com
+dns.kukal.cz
 dns.l2h8.cn
 dns.l337.site
 dns.labar.re
@@ -8566,6 +8574,7 @@ dns.neubsi.at
 dns.neutopia.org
 dns.nextdns.io
 dns.ngc7331.top
+dns.nghialele.net
 dns.nguyendn.com
 dns.nhtsky.com
 dns.niccoli.cc
@@ -8623,6 +8632,7 @@ dns.paxavemedia.com
 dns.pccoach.nl
 dns.periactes.com
 dns.pernika.net
+dns.pesaventofilippo.com
 dns.pgnhatrang.com
 dns.philqoo.com
 dns.phucbui.top
@@ -8740,6 +8750,7 @@ dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
 dns.syaifullah.id
+dns.synhdigital.fr
 dns.t53.de
 dns.tacomafia.net
 dns.tapawan.ca
@@ -8915,6 +8926,7 @@ dns1.tardishost.ru
 dns1.taterdns.nl
 dns1.techeasy.org
 dns1.timothy-dev.com
+dns1.understandingcyber.co.uk
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -8930,6 +8942,7 @@ dns2.art-nas.pp.ua
 dns2.bai0012.com
 dns2.bartoszturek.online
 dns2.biryuk.name
+dns2.bortus.io
 dns2.cantello.media
 dns2.cbio.top
 dns2.confrontingcode.com
@@ -8942,6 +8955,7 @@ dns2.gms.net.id
 dns2.guidocioni.it
 dns2.h0schi.cloud
 dns2.home-albrecht.com
+dns2.i-puppy.ru
 dns2.idsam.com
 dns2.ipv6.dnscrypt.ca
 dns2.karmanet.ch
@@ -9043,6 +9057,7 @@ dnspod.clzapp.com
 dnspodnet.tk
 dnsprox.tk
 dnsproxy.ff.avast.com
+dnspub.restena.lu
 dnss.egormix.com
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
@@ -9081,6 +9096,7 @@ do57.com
 docker-bing.co.cc
 docker-hub.ir
 docker.youler.com
+docker.zhczax50pzofm4g4.myfritz.net
 dockernet.vpsburti.com
 docoja.com
 docs.cloud.rigaprecast.com
@@ -9133,6 +9149,7 @@ doh.abraservice.xyz
 doh.afna.link
 doh.alidns.com
 doh.almir1904.eu
+doh.amonsul.net
 doh.apad.pro
 doh.apad.pro.cdn.cloudflare.net
 doh.applied-privacy.net
@@ -9251,6 +9268,7 @@ doh.sb
 doh.seby.io
 doh.sidnlabs.nl
 doh.sungai.stream
+doh.synhdigital.fr
 doh.syshero.org
 doh.technochat.in
 doh.tiar.app
@@ -9266,6 +9284,7 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
+doh.zephyrsec.cfd
 doh003.280blocker.net
 doh1.alidns.com
 doh1.b-cdn.net
@@ -9984,6 +10003,7 @@ ebypass.info
 ebypass.org
 ebypass.tripod.com
 ec-ss.com
+ec.i-puppy.ru
 ec2-23-20-103-122.compute-1.amazonaws.com
 ec2-34-194-122-51.compute-1.amazonaws.com
 ec2-52-12-183-214.us-west-2.compute.amazonaws.com
@@ -10272,6 +10292,7 @@ ernow.com
 erp-itc.be
 erpdatadsl.co.cc
 errita.co.cc
+erroring.ignorelist.com
 ersiforex.co.cc
 eruptmountnow.co.cc
 es-mad-w-2.nashkan.net
@@ -11764,6 +11785,7 @@ fly-bi.info
 fly.178.at
 fly.fishbase.ca
 fly.flylcc.cc
+fly.flymlc.com
 fly.io
 fly24.net
 fly8.info
@@ -16370,6 +16392,7 @@ homeblock.com
 homedns.gumeniuk.com
 homeequityloansecuresurf.tk
 homeguard.sleziona.org
+homelab2.terabit.net.id
 homemail.info
 homemor-tgage.tk
 homemoscow34.website
@@ -17817,6 +17840,7 @@ jais.info
 jaisoft.in
 jaisoft.tk
 jajalanmas.co.cc
+jakubaws.dd-dns.de
 jakubblaze1.appspot.com
 jalexx.freeboxos.fr
 jalisihora.co.cc
@@ -17932,6 +17956,7 @@ jgofiles.com
 jh2.info
 jh8.info
 ji9.info
+jianyi.studio
 jidur.co.cc
 jiggynation.com
 jihe.info
@@ -19506,7 +19531,6 @@ m600i.co.cc
 m7d.info
 m82.net
 m9p.info
-ma1.guardmydns.com
 maal.info
 mablet.com
 mabokers.co.cc
@@ -21461,6 +21485,7 @@ newyork-healthready.tk
 newyork-proxy.com
 newyorkproxies.co.cc
 newyoungun.com
+nexashield.fr
 nexearn.com
 nexiforex.co.cc
 next-fact.co.cc
@@ -21604,7 +21629,6 @@ nitesurf.co.cc
 nitrosurf.nz.gs
 nitter.ujwie.co
 nity.info
-nj.guardmydns.com
 njal.la
 njfpy.com
 njtzzrvg0lwj3bsn.info
@@ -21938,6 +21962,7 @@ ns1.flodns.net
 ns1.hjk.kr
 ns1.hjk.me
 ns1.i-evolve.net
+ns1.lab321.pro
 ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
@@ -30346,6 +30371,7 @@ rnmap.com
 ro-buc-w-1.nashkan.net
 ro-buc-w-2.nashkan.net
 ro-buc-w-f-1.nashkan.net
+ro-buc-w-p-1.nashkan.net
 ro0t.net
 roachhost.com
 road-indefinitely.tk
@@ -32817,6 +32843,7 @@ spyl.info
 spymailer.com
 spynot.com
 spyoff.com
+spyrodragon76.fleuryk.ovh
 spys.one
 spys.ru
 spysurf.info
@@ -39740,6 +39767,7 @@ warm-pass.tk
 warmth-lines.tk
 warpproxy.com
 warrantysecuresurf2.tk
+warrier120.duckdns.org
 warrior-freedom.co.cc
 wasbiggers.tk
 waselpro.com
