@@ -1645,6 +1645,7 @@ ads.hudebniklipy.cz
 ads.hunga1k47.com
 ads.svx.adbrite.com
 ads.tbservers.ca
+ads.therman.eu
 ads.tieuanhquoc.info
 ads.x88.in
 adsadkjsadjksakldjxx.math-solver.online
@@ -1771,6 +1772,7 @@ agh-yz.russel053.com
 agh.710523.xyz
 agh.alematho.de
 agh.alushi.net
+agh.broaddy.com
 agh.doubleatech.site
 agh.fltn.us
 agh.josephyap.me
@@ -2863,7 +2865,6 @@ app.cloud.rigaprecast.com
 apparelnews.co.cc
 appart.yoannchappaz.best
 appearancesurf.co.cc
-apple-dns.net
 apple-gen.com
 apple-ip.info
 apple-nike.com
@@ -3409,6 +3410,7 @@ aztc.info
 azuforex.co.cc
 azure.cloudflare-dns.com
 azure.quydang.name.vn
+azure.razor1911.xyz
 azurf.com
 b-browser.info
 b-dns.se
@@ -5470,8 +5472,6 @@ bypass3.cn
 bypass4.info
 bypass4.me
 bypass4free.co.cc
-bypass4proxy.cn
-bypass4student.cn
 bypass4you.ws
 bypass5-that.tk
 bypass5.cn
@@ -5753,7 +5753,6 @@ camera-proxy.tk
 camera.64x.org
 camesurf.co.cc
 camisard.co.cc
-camn.uk
 camosurf.co.cc
 camouflaze.co.cc
 campesino.info
@@ -6500,6 +6499,7 @@ cloud.graphicpoint.pl
 cloud.jjlizz.com
 cloud.jogjacloud.com
 cloud.samutz.com
+cloud.securifi.com.my
 cloud.tezoi.com
 cloud00.com
 cloud7.cz.cc
@@ -8170,6 +8170,7 @@ dns.b33.network
 dns.b33.space
 dns.b612.me
 dns.baabab.com
+dns.bagmeijer.nl
 dns.bahien.com
 dns.baishiyuan.cn
 dns.basestation.my.id
@@ -8453,6 +8454,7 @@ dns.kamilszczepanski.com
 dns.karfamily.net
 dns.karl.one
 dns.kawa.tf
+dns.kc2wbx.com
 dns.kejinno.com
 dns.keke125.com
 dns.kerekes.xyz
@@ -8620,6 +8622,7 @@ dns.otezz.net
 dns.ours.luxe
 dns.ovpn.bond
 dns.ovpss.top
+dns.owlfarm.org
 dns.ozgo.info
 dns.p3k.sk
 dns.p55k.com
@@ -9192,6 +9195,7 @@ doh.dscloud.me
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
+doh.epaphrodit.us
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.fatucloud.gosprout.org
@@ -11881,7 +11885,6 @@ forever-onltkesxsurfs.tk
 foreverblock.com
 foreveronltkesx.tk
 foreverusproxybusiness.gq
-forex-4market-9.tk
 forex-4u2.co.cc
 forex-5.tk
 forex-5hotanalysis.tk
@@ -12286,6 +12289,10 @@ forex3trading.co.cc
 forex4-trading-software-9.tk
 forex40hotanalysis.tk
 forex4book.tk
+forex4forex5.tk
+forex4free.tk
+forex4freex.tk
+forex4market-8.tk
 forex5-profit-proxy.tk
 forex5-scalping-5.tk
 forex5trading-signals-7.tk
@@ -14537,6 +14544,7 @@ gmembers-sshourus.tk
 gmembersbest.tk
 gmemberssshour.tk
 gmemberssshourus.tk
+gmf2.ddns.net
 gmuforex.co.cc
 gn-z11.franscois.co.za
 gn6hoasz2o4tveit.dynv6.net
@@ -19744,7 +19752,6 @@ mashable.hi5.com
 mashforex.co.cc
 mashproxy.co.cc
 masivebomb.co.cc
-mask-api.fe2.apple-dns.net
 mask-bebo.info
 mask-blogs.info
 mask-download.info
@@ -20687,6 +20694,7 @@ mydailyproxy.com
 mydanfoss.com
 mydevpn.eu
 mydns.cloud
+mydns.ddns.me
 mydodgestealth.xyz
 mydragon.nz.gs
 mydvister.com
@@ -23794,6 +23802,7 @@ pprox.com
 pproxy.com
 pptp-vpn.tk
 ppz.net
+pq7hdf.com
 pqh.ddns.net
 pqypql.com
 pr-0-xy-our.tk
@@ -26816,7 +26825,6 @@ proxy.ruv.net
 proxy.s0s.info
 proxy.sacaschool.com
 proxy.saddlerydepot.com
-proxy.safebrowsing.apple
 proxy.santiagodenoche.com
 proxy.santonggu.cn
 proxy.saoisan.com
@@ -30536,6 +30544,7 @@ ru-mos-w-2.nashkan.net
 ru-mos-w-p-1.nashkan.net
 ru-mow.doh.sb
 ru.hdvpro.info
+ru.i-puppy.ru
 rubbesan.co.cc
 ruby-group.xyz
 rubyproxy.com
@@ -31615,6 +31624,7 @@ sg-sin.doh.sb
 sg-w-1.nashkan.net
 sg-w-4.nashkan.net
 sg-w-5.nashkan.net
+sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 sg.101818.xyz
 sg.adhole.org
@@ -35802,6 +35812,7 @@ tiiner.com
 tija.info
 tiki-surfs.tk
 tikvpn.com
+tiliandns.duckdns.org
 timb.info
 time-is-fun.co.cc
 time-job.tk
@@ -35931,7 +35942,6 @@ toggleforexbrokersite.co.cc
 toilforex.co.cc
 toink.co.cc
 toja.info
-token.safebrowsing.apple
 tokyodns.songnguyen.name.vn
 tokyodns2.songnguyen.name.vn
 tokyonune.co.cc
@@ -38701,6 +38711,7 @@ us-proxy.cn
 us-proxy.co.cc
 us-proxy.info
 us-proxy.org
+us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us-sea-w-5.nashkan.net
 us-sea-w-6.nashkan.net
@@ -39307,6 +39318,7 @@ vlil.com
 vload.net
 vm.delfini.online
 vm.mytm.cc
+vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vmathpie.com
@@ -39564,6 +39576,7 @@ vps-33e5a7f3.vps.ovh.us
 vps-amgr.duckdns.org
 vps-ovh.pb2004.pl
 vps-proxy.co.cc
+vps-relay.pesaventofilippo.com
 vps.19790307.xyz
 vps.abgnetwork.es
 vps.ak42.io
@@ -41794,6 +41807,7 @@ www.agencyproxy.com
 www.agenteinmobiliario.info
 www.agentssl.info
 www.agetnewipnowx.tk
+www.agh.broaddy.com
 www.agileproxy.com
 www.agios.info
 www.agirly.com
@@ -65527,6 +65541,7 @@ zaxiproxy.com
 zblank.cn
 zbook.us
 zbuforex.co.cc
+zburger.top
 zbux.net
 zcc.com.ru
 zcha.com
