@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 # shellcheck disable=2091
 
+# get some lists
 ( ( ( \
       curl -sL --connect-timeout 5 --max-time 60 --retry 5 --retry-delay 10 --retry-max-time 300 \
           https://raw.githubusercontent.com/dnswarden/dnswarden.github.io/main/index.html 2>/dev/null | \
@@ -35,14 +36,13 @@
       -e "/^$/d" -e "s/\s.*//g" -e "/^[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}$/d" \
       -e "s|^https\?://||g" -e "s|/.*$||g" -e "s|:.*$||g" | sort -u | sed \
       -e '/^|\(12\|2\)\?proxy\.ga/d'; $(: '# fix 012proxy.ga error of "plain.black.hosts.list"'); \
-  ) | grep -vE "^$(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt)$" | sed 's/#//g' \
+  ) | sed 's/#//g' \
 ) > black-tmp-curl.txt
 sleep 2
 # cleanup unresolvables
-diff -u black-tmp-curl.txt <(sed -n "s/^\(.*\)#[1-3]/\1/p" unresolvable.txt)  \
-  | grep '^-' | sed -e "s/^-*//g" -e "/black-tmp-.*.txt/d" > black-tmp-diff.txt
-diff -u black-tmp-diff.txt unresolvable_perm.txt \
-  | grep '^-' | sed -e "s/^-*//g" -e "/black-tmp-.*.txt/d" > black.txt
+grep -Fvxf <(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt) black-tmp-curl.txt > black-tmp.txt
+grep -Fvxf <(sed -n "s/^\(.*\)#[1-3]/\1/p" unresolvable.txt) black-tmp.txt > black-tmp-diff.txt
+grep -Fvxf unresolvable_perm.txt black-tmp-diff.txt > black.txt
 # cleaup temporary files
 sleep 2
 rm -f black-tmp-curl.txt black-tmp-diff.txt
