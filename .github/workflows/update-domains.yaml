@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "00 22 * * *"
+    - cron: "00 22 * * *" # UTC
 
 jobs:
   update:
