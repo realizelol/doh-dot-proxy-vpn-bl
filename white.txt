@@ -1,18 +1,37 @@
+##
+# Domains
+##
 mask.icloud.com # Better use DNS blocking => NXDOMAIN
 mask-h2.icloud.com # Better use DNS blocking => NXDOMAIN
 mask-api.icloud.com # Better use DNS blocking => NXDOMAIN
 mask-api.fe.apple-dns.net # Better use DNS blocking => NXDOMAIN
+mask-api.fe2.apple-dns.net # Better use DNS blocking => NXDOMAIN
 mask-t.apple-dns.net # Better use DNS blocking => NXDOMAIN
+apple-dns.net # Better use DNS blocking => NXDOMAIN
 mask.apple-dns.net # Better use DNS blocking => NXDOMAIN
 doh.dns.apple.com # Better use DNS blocking => NXDOMAIN
 canary.mask.apple-dns.net # Better use DNS blocking => NXDOMAIN
 mask-canary.icloud.com # Better use DNS blocking => NXDOMAIN
-13.32.121.69 # Amazon CloudFront AWS
-17.253.0.0/16 # iTunes / Apple CDN
-74.125.133.132 # www.google.com
-89.187.169.47 # anton.app
-108.177.15.132 # www.google.com
-173.194.76.132 # www.google.com
-216.239.36.54 # Games: Resident Evil 3 Remake 2020 + Goose Goose Duck
+proxy.safebrowsing.apple # Don't block @ all => Otherwise needs to turn off tracking in wifi/ssid settings
+token.safebrowsing.apple # Don't block @ all => Otherwise needs to turn off tracking in wifi/ssid settings
+#
+anton.app # Anton - learning platform for school
 forcesafesearch.google.com # Google SafeSearch
-216.239.38.120 # Google SafeSearch
+www.google.com # Google :)
+wo-in-f132.1e100.net # Google - Reason: Unknown
+##
+# IPv4
+##
+13.32.121.69 # Amazon CloudFront AWS - Reason: Unknown
+17.253.0.0/16 # iTunes / Apple CDN
+74.125.133.132 # wo-in-f132.1e100.net - Google - Reason: Unknown / Translate ?!
+74.125.238.132 # wo-in-f132.1e100.net - Google - Reason: Unknown / Translate ?!
+89.187.169.47 # anton.app - Anton - learning platform for school
+#108.177.15.132 # wr-in-f132.1e100.net - Google - Reason: Unknown
+#173.194.76.132 # ws-in-f132.1e100.net - Google - Reason: Unknown
+216.239.36.54 # us-central1-gaggle-staging.cloudfunctions.net - Games: Resident Evil 3 Remake 2020 + Goose Goose Duck
+216.239.38.120 # forcesafesearch.google.com - Google SafeSearch
+##
+# IPv6
+##
+2a00:1450:400c:c07::84 # wo-in-f132.1e100.net - Google - Reason: Unknown
