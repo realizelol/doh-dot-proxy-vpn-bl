@@ -51,7 +51,3 @@ if [ "${param_cnt}" -le "${get_end}" ]; then
   done
 
 fi
-
-# cleanup
-rm -f "unresolvable.txt"
-rm -f "unresolvable_perm.txt"
