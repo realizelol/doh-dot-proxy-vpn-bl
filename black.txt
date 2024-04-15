@@ -640,6 +640,7 @@ a-surefire.co.cc
 a-uu.com
 a-whole-freepass.co.cc
 a-wkyc.co.cc
+a.cpfrx.info
 a.family.ns.dnslify.com
 a.jij.kr
 a.lilinth.com
@@ -647,6 +648,7 @@ a.lolg.ru
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
+a.zpn.me
 a1free-optimal.prcdn.net
 a1p.org
 a1proxy.com
@@ -913,6 +915,7 @@ ademnjejes.co.cc
 adeniji.net
 adf-114.neta.otrofda.nl
 adfree.usableprivacy.net
+adfreedns.top
 adfreeproxy.com
 adfreeproxy.cz.cc
 adg-swe.h4nt3r.com
@@ -930,6 +933,7 @@ adg.pidns.de
 adg.pssv.top
 adg.qwqwe.link
 adg.rokh.biz
+adg.rueiliu.space
 adg.siudzinski.net
 adg.swh123.xyz
 adg.yuzi.one
@@ -1034,6 +1038,7 @@ adguard.haneulo.com
 adguard.helpdesk38.ru
 adguard.ihatemy.live
 adguard.infrapod.nl
+adguard.interne.benj-lab.fr
 adguard.ithernit.com
 adguard.jakinet.id
 adguard.jaydub.cloud
@@ -1042,6 +1047,7 @@ adguard.jfchenier.ca
 adguard.johndave.me
 adguard.jwhan99.xyz
 adguard.k-likhachev.ru
+adguard.kamrul.dev
 adguard.kenzohost.de
 adguard.kiboko.it
 adguard.kngnet.de
@@ -1094,6 +1100,7 @@ adguard.ro0t.us
 adguard.romantrojer.ch
 adguard.rowdyengeesje.nl
 adguard.rubengarrido.com
+adguard.ruby.ci
 adguard.samuelthomasfamily.net
 adguard.schandlserver.de
 adguard.schlikow.de
@@ -3720,6 +3727,7 @@ cameleo.ru
 camera.64x.org
 camesurf.co.cc
 camisard.co.cc
+camn.uk
 camosurf.co.cc
 camouflaze.co.cc
 campesino.info
@@ -4671,6 +4679,7 @@ crotpumpkins.co.cc
 crownproxy.com
 crowny.info
 crowstunnel.co.cc
+croxy.network
 croxy.org
 croxy.red
 croxyproxy.com
@@ -4898,6 +4907,7 @@ dadanesesek.co.cc
 daddy-surf.co.cc
 dadns.one
 dafanajwa.co.cc
+dahamnw.at
 dahirforex.co.cc
 daili888.cn
 daily-freepack.co.cc
@@ -5066,6 +5076,7 @@ dedicated-proxy.info
 dedicated-service.co.cc
 dedicated.lvolland.fr
 dedicatedproxies.com
+dedidl.com
 dee.su
 deebee.info
 deep-jealous.co.cc
@@ -5576,6 +5587,7 @@ dns.dreamworker.idv.tw
 dns.drivearasaka.online
 dns.drnarrow.com
 dns.dyn1.de
+dns.dzkeji.xyz
 dns.east.comss.one
 dns.ebner.tech
 dns.edc-pws.com
@@ -5679,6 +5691,7 @@ dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
 dns.hva.li
+dns.hwtwco.uk
 dns.hypercute.eu
 dns.i6p.eu
 dns.iamanuragh.in
@@ -5749,6 +5762,7 @@ dns.kawa.tf
 dns.kc2wbx.com
 dns.kejinno.com
 dns.keke125.com
+dns.kellys.pw
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -5761,6 +5775,7 @@ dns.knightlsy.asia
 dns.koala.us.to
 dns.kolar-it.com
 dns.kolyma.uz
+dns.kongjak.com
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dns.kostydenis.me
@@ -5773,6 +5788,7 @@ dns.kukal.cz
 dns.l2h8.cn
 dns.l337.site
 dns.labar.re
+dns.labnekotest.site
 dns.laison.ltd
 dns.lancar.id
 dns.lapan.org
@@ -5831,6 +5847,7 @@ dns.mikrotikrumahan.my.id
 dns.milangeorge.com
 dns.milkpie.one
 dns.mlxysf.pp.ua
+dns.mnml.co.in
 dns.mo0on15.com
 dns.mocn.top
 dns.moesite.top
@@ -5872,6 +5889,7 @@ dns.nextdns.io
 dns.ngc7331.top
 dns.nghialele.net
 dns.nguyendn.com
+dns.nhmt.xyz
 dns.nhtsky.com
 dns.niccoli.cc
 dns.nicolas.vip
@@ -5938,6 +5956,7 @@ dns.pietjacobs.be
 dns.pldweb.net
 dns.ple91.uk
 dns.pmxu.link
+dns.pnh.my.id
 dns.pointless.chat
 dns.porteii.com
 dns.pragmasec.nl
@@ -5999,6 +6018,7 @@ dns.scarx.net
 dns.schlagheck.berlin
 dns.schmidt-zoarn.de
 dns.scuola.org
+dns.seaotter.cc
 dns.seby.io
 dns.seekfor.top
 dns.sellan.fr
@@ -6057,6 +6077,7 @@ dns.tb4.me
 dns.tbnk.ca
 dns.teaminfo.fr
 dns.techcpu.net
+dns.tefuir0829.cn
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
@@ -6132,6 +6153,7 @@ dns.wang.art
 dns.wargan.io
 dns.warma.me
 dns.warpnine.de
+dns.warrior.fr
 dns.watch
 dns.wdnts.ml
 dns.webika.site
@@ -6163,6 +6185,7 @@ dns.youni.win
 dns.yumenashyi.com
 dns.yyaan.com
 dns.yyaan.top
+dns.yyjeqhc.cn
 dns.zarchbox.fr
 dns.zeinima.com
 dns.zfsystem.tech
@@ -6188,6 +6211,7 @@ dns1-secure.wifire.it
 dns1.a-desg.cc
 dns1.adrianion.eu
 dns1.biryuk.name
+dns1.blackrandcrf.ru
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
@@ -6219,6 +6243,7 @@ dns1.tardishost.ru
 dns1.techeasy.org
 dns1.timothy-dev.com
 dns1.understandingcyber.co.uk
+dns1.wyss.network
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -6246,6 +6271,7 @@ dns2.i-puppy.ru
 dns2.idsam.com
 dns2.keipert.me
 dns2.klcd.eu
+dns2.kloiber.co.at
 dns2.lezainski.com
 dns2.linzefeng.top
 dns2.newapi.host
@@ -7414,6 +7440,7 @@ ezvideo.info
 f-a-s-t-e-r.co.cc
 f-itc.be
 f-secure.com
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -7509,6 +7536,7 @@ family.5ososea.com
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.teknoholistik.com
@@ -9170,6 +9198,7 @@ gamevic.com
 gamingssh.com
 gamingunited.info
 ganalbanar.co.cc
+gandhico2.duckdns.org
 gang4.info
 gangparadise.com
 ganl.lieverkaal.nl
@@ -9835,6 +9864,7 @@ grunsurf.nz.gs
 grunwald-marc.de
 grut.info
 gryzek.pl
+gsat.familyds.com
 gsuforex.co.cc
 gt500.co.cc
 gtlplant.com
@@ -9954,6 +9984,8 @@ hammerproxy.ws
 hanahira.dev
 handig.info
 handily.net
+handy-matthias.dns.internal.espresso-tasse.de
+handy-nils.dns.internal.espresso-tasse.de
 hanforex.co.cc
 hangdongforex.co.cc
 hanniel.tech
@@ -10526,6 +10558,7 @@ home.jobytan.com
 home.kinopu.com
 home.kompot.space
 home.liudeqin.com
+home.luther.io
 home.marcrnt.de
 home.norvrandt.co.uk
 home.phucbui.top
@@ -10583,6 +10616,7 @@ hostaddress.cz.cc
 hostapp.eu
 hostapp.info
 hostbabies.co.cc
+hostdare.qtxd.net
 hostedadguard.greatharts.com
 hostedproxy.cz.cc
 hostedweb.info
@@ -10601,6 +10635,7 @@ hostinganime.com
 hostingbabies.co.cc
 hostingdemon.com
 hostingproxy.com
+hostless.club
 hostname.cz.cc
 hostph.com
 hostplan.info
@@ -13444,6 +13479,7 @@ msxnet.ru
 msxpsoftware.co.cc
 msxsecurity.com
 mtdkdhs0.slt.sched.tdnsv8.com
+mtdz.duckdns.org
 mten12.free.fr
 mtr-ca.prcdn.net
 mttbkk.com
@@ -13745,6 +13781,7 @@ nas.dehb.ru
 nas.delage.li
 nas.embraced.co
 nas.guyifei.cn
+nas.patrick-antoine.fr
 nas.stefanoperna.it
 nas1403.duckdns.org
 nasalife.top
@@ -14433,6 +14470,7 @@ obion.info
 obje.info
 object-shoots.co.cc
 oblimanias.co.cc
+obportus.ddns.net
 observer.funpic.de
 obsq.org
 obuscar.com
@@ -14846,6 +14884,7 @@ orange2.info
 orangedog.info
 orangeproxy.com
 orangeproxy.net
+orasrv.kellys.pw
 orau.lz0724.com
 orbic.info
 orchestrated.mask.wtf.la
@@ -15123,6 +15162,7 @@ pbproxy2.co
 pbrkproxy.co.cc
 pc-portal.at
 pc-streaming.com
+pcbrdh8v6m.digitallink.be
 pcbypass.info
 pccoach.ddns.net
 pcd96.duckdns.org
@@ -15279,6 +15319,7 @@ phtravels.co.cc
 phucbui.top
 phx01.dnscry.pt
 phyt.info
+pi-dns.gordon81.com
 pi.adblocker.eu.org
 pi.daryllswer.net
 pi.homeanywhere.org
@@ -15459,6 +15500,7 @@ policetheworld.co.cc
 polideportivo.info
 polippix.org
 polishit.co.cc
+polisidns.4ch.my.id
 polno.info
 polog.cz.cc
 polojeanz.co.cc
@@ -17650,6 +17692,8 @@ ptnproxy.co.cc
 ptoserver.com
 ptproxy.info
 ptunnel.com
+pub.hsuan.ink
+pub.hsuan.ink.eo.dnse0.com
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 public-myspace-proxy.info
@@ -18348,6 +18392,7 @@ rollag.co.cc
 roma.vpn.geshido.ru
 romanhider.co.cc
 romaniaproxy.blogspot.fr
+rome.digitallink.be
 roming-holly.co.cc
 rondadisit.co.cc
 ronfeed.com
@@ -19475,6 +19520,8 @@ smartforex.co.cc
 smartgadgets.org
 smartmoneysurf.co.cc
 smartpanda.net
+smartphone-niels.pcbrdh8v6m.digitallink.be
+smartphone-saskia.pcbrdh8v6m.digitallink.be
 smartphonesurf.co.cc
 smartprox.com
 smartproxies.co.cc
@@ -21196,6 +21243,7 @@ t9space.com
 t9z.net
 tabblad.com
 taberna.info
+tablet-matthias.dns.internal.espresso-tasse.de
 tablewire.com
 tagferrari.co.cc
 tahukecrot.co.cc
@@ -21769,6 +21817,7 @@ topshareware.com
 topshits.co.cc
 topsii.com
 topsiteproxy.cn
+topsun.pw
 topsuperfast.co.cc
 toptip.cc
 toptunnel.com
@@ -23673,6 +23722,7 @@ vps.avc.cx
 vps.filatov.link
 vps.fleuryk.ovh
 vps.grussenmeyer.com
+vps.irrelevant.cc
 vps.jmarkin.ru
 vps.techrich.net
 vps03.brueggus.de
@@ -23782,6 +23832,7 @@ vulb.com
 vulnerability-assessment.cz.cc
 vulnerability.co.cc
 vuls.info
+vultr2.kongjak.com
 vvd1.net
 vvvvv.cz.cc
 vvvvvvvvvvvvvvvvvvvvvvvvvvvppppppppppppp.ic.cz
@@ -26543,6 +26594,7 @@ www.digital3.cn
 www.digital5.cn
 www.digitalconnect.info
 www.digitalevolution.net
+www.digitallink.be
 www.digitallink.info
 www.digitalproxy.info
 www.digitalsoftware.info
