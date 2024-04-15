@@ -14,7 +14,7 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@master
         with:
-          fetch-depth: 2
+          fetch-depth: 1
       - name: Update Lists
         run:  |
           bash scripts/update-domains.sh

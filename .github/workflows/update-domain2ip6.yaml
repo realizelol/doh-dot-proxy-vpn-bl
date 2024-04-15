@@ -14,7 +14,7 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@master
         with:
-          fetch-depth: 2
+          fetch-depth: 1
       - name: Delayed re-pull (2min) to get new domains after push
         run: sleep 120; git pull
       - name: Get IPv6 # Exclude: https://www.iana.org/assignments/iana-ipv6-special-registry/iana-ipv6-special-registry.xhtml

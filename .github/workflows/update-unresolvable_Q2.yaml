@@ -14,9 +14,7 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@master
         with:
-          fetch-depth: 2
-      - name: Delayed re-pull (2min) to get new domains after push
-        run: sleep 120; git pull
+          fetch-depth: 1
       - name: Update Lists
         run:  |
           bash scripts/update-unresolvable.sh 50001
@@ -28,4 +26,5 @@ jobs:
         with:
           file_pattern: './unresolvable.txt ./unresolvable_perm.txt'
           disable_globbing: true
+          status_options: '--untracked-files=no'
           commit_message: Update unresolvable domains - Q2 - ${{ steps.get-date.outputs.date }}
