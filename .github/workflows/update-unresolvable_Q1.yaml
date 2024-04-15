@@ -26,4 +26,5 @@ jobs:
         with:
           file_pattern: './unresolvable.txt ./unresolvable_perm.txt'
           disable_globbing: true
+          status_options: '--untracked-files=no'
           commit_message: Update unresolvable domains - Q1 - ${{ steps.get-date.outputs.date }}
