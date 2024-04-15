@@ -15,6 +15,8 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 2
+      - name: Delayed re-pull (2min) to get new domains after push
+        run: sleep 120; git pull
       - name: Update Lists
         run:  |
           bash scripts/update-unresolvable.sh 100001
