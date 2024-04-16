@@ -15,6 +15,8 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
+      - name: Delayed re-pull (5sec) to get new unresolvables by Q3
+        run: sleep 5; git pull
       - name: Update Lists
         run:  |
           bash scripts/update-unresolvable.sh 150001
