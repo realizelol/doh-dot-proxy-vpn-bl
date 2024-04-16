@@ -1,15 +1,12 @@
 name: Update Unresolvable Domains Queue1
 run-name: updating [ DoH + DoT + Proxy + VPN + Tor ] unresolvable domains
 on:
-  workflow_run:
-    workflows: [Update Domains]
-    types: [completed]
-    branches: [master]
+  schedule:
+    - cron: "00 15 * * *" # UTC
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout the repo
         uses: actions/checkout@master

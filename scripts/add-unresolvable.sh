@@ -1,4 +1,7 @@
 #!/usr/bin/bash
 
-sort -u unresolvable.ipv{4,6} -o unresolvable.txt
-rm -f unresolvable.ipv{4,6}
+git fetch
+git pull
+move unresolvable.txt unresolvable.diff
+sort -u unresolvable.ipv{4,6} unresolvable.diff -o unresolvable.txt
+rm -f unresolvable.{diff,ipv4,ipv6}

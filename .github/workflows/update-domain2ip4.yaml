@@ -2,13 +2,14 @@ name: Domains to IP4s
 run-name: converting [ DoH + DoT + Proxy + VPN + Tor ] domains to IPv4
 on:
   workflow_run:
-    workflows: [Update Unresolvable Domains Queue4]
+    workflows: [Update Domains]
     types: [completed]
     branches: [master]
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout the repo
         uses: actions/checkout@master
