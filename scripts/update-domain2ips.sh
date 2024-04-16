@@ -15,7 +15,17 @@ if [ "${1}" == "IPv4" ]; then
   # get ip4s of domains
   ipv4=(); while read -r dns2ip_v4; do
     dig4=(); while read -r dig2ip_v4; do
-      dig4+=( "${dig2ip_v4}" )
+      if [ -n "${dig2ip_v4}" ]; then
+        dig4+=( "${dig2ip_v4}" )
+      else
+        if grep -q "${dns2ip_v4}" unresolvable_perm.txt; then
+          sed -i "/${dns2ip_v4}/d" unresolvable_perm.txt
+        elif ! grep -q "${dns2ip_v4}" unresolvable.txt && \
+             ! grep -q "${dns2ip_v4}" unresolvable_perm.txt && \
+             ! grep -q "${dns2ip_v4}\|${dig2ip_v4}" white.txt; then
+          echo "${dns2ip_v4}#1" >> unresolvable.txt
+        fi
+      fi
     done < <(dig @9.9.9.10 "${dns2ip_v4}" in A -4 +short +ignore +notcp +timeout=2 2>/dev/null)
     if [ -n "${dig4[*]}" ]; then
       while read -r dig_ip4; do
@@ -61,7 +71,17 @@ if [ "${1}" == "IPv6" ]; then
   # get ip6s of domains
   ipv6=(); while read -r dns2ip_v6; do
     dig6=(); while read -r dig2ip_v6; do
-      dig6+=( "${dig2ip_v6}" )
+      if [ -n "${dig2ip_v6}" ]; then
+        dig4+=( "${dig2ip_v6}" )
+      else
+        if grep -q "${dns2ip_v6}" unresolvable_perm.txt; then
+          sed -i "/${dns2ip_v6}/d" unresolvable_perm.txt
+        elif ! grep -q "${dns2ip_v6}" unresolvable.txt && \
+             ! grep -q "${dns2ip_v6}" unresolvable_perm.txt && \
+             ! grep -q "${dns2ip_v6}\|${dig2ip_v6}" white.txt; then
+          echo "${dns2ip_v6}#1" >> unresolvable.txt
+        fi
+      fi
     done < <(dig @9.9.9.10 "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +timeout=2 2>/dev/null)
     if [ -n "${dig6[*]}" ]; then
       while read -r dig_ip6; do

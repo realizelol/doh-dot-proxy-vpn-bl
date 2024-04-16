@@ -26,6 +26,7 @@ jobs:
       - name: Upload Stuff to GitHub via https://github.com/stefanzweifel/git-auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: './black.ipv4'
+          file_pattern: './black.ipv4 ./unresolvable.txt ./unresolvable_perm.txt'
           disable_globbing: true
+          status_options: '--untracked-files=no'
           commit_message: Update domains2ip - IPv4 - ${{ steps.get-date.outputs.date }}

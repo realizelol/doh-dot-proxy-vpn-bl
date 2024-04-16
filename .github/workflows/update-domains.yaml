@@ -26,4 +26,5 @@ jobs:
         with:
           file_pattern: './black.txt'
           disable_globbing: true
+          status_options: '--untracked-files=no'
           commit_message: Update domains - ${{ steps.get-date.outputs.date }}

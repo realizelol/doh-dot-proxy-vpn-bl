@@ -24,12 +24,15 @@ while [ -z "${prev_git_commit_no}" ] && [ "${git_cnt}" -ne 25 ]; do
   fi
   git_cnt="$(( git_cnt + 1 ))"
 done
-# reset if lines < 50000 [ via prev queue ]
-changed_lines="$(git diff "HEAD~${prev_git_commit_no}..HEAD" -- unresolvable.txt | grep -c '^-[^--]')"
+unset prev_git_commit
+while [ -z "${prev_git_commit}" ] && read -r rev; do
+  git show -p "${rev}" | grep -q "Update unresolvable domains - Q[2-4]" && \
+    prev_git_commit="${rev}"
+done < <(git rev-list HEAD -- unresolvable.txt)
+# reset if lines < 50000 [ get deleted lines of the prev queue ]
+changed_lines="$(git diff "${prev_git_commit}..HEAD" -- unresolvable.txt | grep -c '^-[^--]')"
 if [ "${changed_lines}" -ge 1 ]; then
   param_cnt="$(( param_cnt - changed_lines ))"
-elif [ "${content_lines}" -le 50000 ]; then
-  param_cnt=1
 fi
 
 # if param_cnt is <= the last determined line
@@ -71,3 +74,6 @@ if [ "${param_cnt}" -le "${get_end}" ]; then
   done
 
 fi
+
+# Sort unresolvable_perm.txt
+sort -o unresolvable_perm.txt{,}
