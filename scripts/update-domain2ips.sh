@@ -18,12 +18,9 @@ if [ "${1}" == "IPv4" ]; then
       if [ -n "${dig2ip_v4}" ]; then
         dig4+=( "${dig2ip_v4}" )
       else
-        if grep -q "${dns2ip_v4}" unresolvable_perm.txt; then
-          sed -i "/${dns2ip_v4}/d" unresolvable_perm.txt
-        elif ! grep -q "${dns2ip_v4}" unresolvable.txt && \
-             ! grep -q "${dns2ip_v4}" unresolvable_perm.txt && \
-             ! grep -q "${dns2ip_v4}\|${dig2ip_v4}" white.txt; then
-          echo "${dns2ip_v4}#1" >> unresolvable.txt
+        if ! grep -q "${dns2ip_v4}" unresolvable.txt && \
+           ! grep -q "${dns2ip_v4}\|${dig2ip_v4}" _white.txt; then
+          echo "${dns2ip_v4}#1" >> unresolvable.ipv4
         fi
       fi
     done < <(dig @9.9.9.10 "${dns2ip_v4}" in A -4 +short +ignore +notcp +timeout=2 2>/dev/null)
@@ -34,7 +31,7 @@ if [ "${1}" == "IPv4" ]; then
         fi
       done < <(printf '%s\n' "${dig4[@]}")
     fi
-  done < <(grep -Fvxf <(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt) black.txt)
+  done < <(grep -Fvxf <(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' _white.txt) black.txt)
   if [ "$(echo "${ipv4[*]}" | sed "s/ /\n/g" | sort -Vu | grep -coE "${ip4regex}")" -ge 100 ]; then
     for ip in "${ipv4[@]}"; do
       echo "${ip}" >> black-tmp.ipv4
@@ -49,10 +46,10 @@ if [ "${1}" == "IPv4" ]; then
   white_sed_4=()
   while read -r wip4; do
     white_sed_4+=( "${wip4}" )
-  done < <(sed -nr "s%^(${ip4regex})[[:space:]]#.*%\1%p" white.txt)
+  done < <(sed -nr "s%^(${ip4regex})[[:space:]]#.*%\1%p" _white.txt)
   while read -r subnet4; do
     white_ip4s="$(python3 scripts/cidr2ip.py "${subnet4}")"
-  done < <(sed -nr "s%^(${ip4regex}/[0-9]{1,2})[[:space:]]#.*%\1%p" white.txt)
+  done < <(sed -nr "s%^(${ip4regex}/[0-9]{1,2})[[:space:]]#.*%\1%p" _white.txt)
   while read -r wip4; do white_sed_4+=( "${wip4}" ); done < <(printf '%s\n' "${white_ip4s[@]}")
   printf '%s\n' "${white_sed_4[@]}" > "white_sed_4.txt"
 
@@ -61,9 +58,10 @@ if [ "${1}" == "IPv4" ]; then
     grep -vE "(^10\.|^169\.254\.|^172\.(1[6-9]|2[0-9]|3[0-1])\.|^192\.168\.|^22[4-9]\.|^23[0-9]\.|^2[4-5][0-9]\.)"   | \
     grep -vE "(^192\.88\.99\.|^198\.51\.100\.|^203\.0\.113\.|^100\.6[4-9]\.|^100\.[7-9][0-9]\.|^100\.1[0-2][0-7]\.)" | \
     grep -vE "(^192\.31\.196\.|192\.52\.193\.|192\.175\.48\.|^192\.0\.(0|2)\.|^198\.1[8-9]\.0\.|^255\.255\.255\.255)"  \
-    > black.ipv4
+    > black.tmp4
+  sort -u black.tmp4 <(python3 scripts/cidr2ip.py "$(cat _black.ipv4)") -o black.ipv4
   # cleanup
-  rm -f black-tmp.ipv4 white_sed_4.txt
+  rm -f black-tmp.ipv4 white_sed_4.txt black.tmp4
   unset ipv4 dig4 white_sed_4 subnet4 white_ip4s wip4
 fi
 if [ "${1}" == "IPv6" ]; then
@@ -74,12 +72,9 @@ if [ "${1}" == "IPv6" ]; then
       if [ -n "${dig2ip_v6}" ]; then
         dig4+=( "${dig2ip_v6}" )
       else
-        if grep -q "${dns2ip_v6}" unresolvable_perm.txt; then
-          sed -i "/${dns2ip_v6}/d" unresolvable_perm.txt
-        elif ! grep -q "${dns2ip_v6}" unresolvable.txt && \
-             ! grep -q "${dns2ip_v6}" unresolvable_perm.txt && \
-             ! grep -q "${dns2ip_v6}\|${dig2ip_v6}" white.txt; then
-          echo "${dns2ip_v6}#1" >> unresolvable.txt
+        if ! grep -q "${dns2ip_v6}" unresolvable.txt && \
+           ! grep -q "${dns2ip_v6}\|${dig2ip_v6}" _white.txt; then
+          echo "${dns2ip_v6}#1" >> unresolvable.ipv6
         fi
       fi
     done < <(dig @9.9.9.10 "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +timeout=2 2>/dev/null)
@@ -90,7 +85,7 @@ if [ "${1}" == "IPv6" ]; then
         fi
       done < <(printf '%s\n' "${dig6[@]}")
     fi
-  done < <(grep -Fvxf <(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt) black.txt)
+  done < <(grep -Fvxf <(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' _white.txt) black.txt)
   if [ "$(echo "${ipv6[*]}" | sed "s/ /\n/g" | sort -Vu | grep -coE "${ip6regex}")" -ge 100 ]; then
     for ip6 in "${ipv6[@]}"; do
       echo "${ip6}" >> black-tmp.ipv6
@@ -105,10 +100,10 @@ if [ "${1}" == "IPv6" ]; then
   white_sed_6=()
   while read -r wip6; do
     white_sed_6+=( "${wip6}" )
-  done < <(sed -nr "s%^(${ip6regex})[[:space:]]#.*%\1%p" white.txt)
+  done < <(sed -nr "s%^(${ip6regex})[[:space:]]#.*%\1%p" _white.txt)
   while read -r subnet6; do
     white_ip6s="$(python3 scripts/cidr2ip.py "${subnet6}")"
-  done < <(sed -nr "s%^(${ip6regex}/[0-9]{1,2})[[:space:]]#.*%\1%p" white.txt)
+  done < <(sed -nr "s%^(${ip6regex}/[0-9]{1,2})[[:space:]]#.*%\1%p" _white.txt)
   while read -r wip6; do white_sed_6+=( "${wip6}" ); done < <(printf '%s\n' "${white_ip6s[@]}")
   printf '%s\n' "${white_sed_6[@]}" > "white_sed_6.txt"
 
@@ -116,8 +111,9 @@ if [ "${1}" == "IPv6" ]; then
   grep -Fvxf white_sed_6.txt black-tmp.ipv6 | grep -oE "${ip6regex}" | sort -Vu | sed '/^$/d'            | \
     grep -vE "(^::$|^::ffff:|^64:ff9b:(0|1):|^100:|^2001:0|^2001:[1-3]0?:0|^2001:4:112:|^2001:db8:)"     | \
     grep -vE "(^2002:|^2620:4f:8000:|^f[c-d][0-9a-f][0-9a-f]:|^fe[8-9a-b][0-9a-f]:|^ff[0-9a-f][0-9a-f]:)"  \
-    > black.ipv6
+    > black.tmp6
+  sort -u black.tmp6 <(python3 scripts/cidr2ip.py "$(cat _black.ipv6)") -o black.ipv6
   # cleanup
-  rm -f black-tmp.ipv6 white_sed_6.txt
+  rm -f black-tmp.ipv6 white_sed_6.txt black.tmp6
   unset ipv6 dig6 white_sed_6 subnet6 white_ip6s wip6
 fi

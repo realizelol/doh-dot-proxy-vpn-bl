@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "00 22 * * *" # UTC
+    - cron: "00 15 * * *" # UTC
 
 jobs:
   update:
@@ -26,4 +26,5 @@ jobs:
         with:
           file_pattern: './black.txt'
           disable_globbing: true
+          status_options: '--untracked-files=no'
           commit_message: Update domains - ${{ steps.get-date.outputs.date }}

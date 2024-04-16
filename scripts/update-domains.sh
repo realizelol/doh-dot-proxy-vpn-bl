@@ -38,10 +38,12 @@
       -e '/^|\(12\|2\)\?proxy\.ga/d'; $(: '# fix 012proxy.ga error of "plain.black.hosts.list"'); \
   ) | sed 's/#//g' \
 ) > black-tmp-curl.txt
-git fetch
-git pull
+sleep 2
 # cleanup unresolvables
-grep -Fvxf <(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' white.txt) black-tmp-curl.txt > black.txt
+grep -Fvxf <(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' _white.txt) black-tmp-curl.txt > black-tmp.txt
+grep -Fvxf <(sed -n "s/^\(.*\)#[1-3]/\1/p" unresolvable.txt) black-tmp.txt > black-tmp-diff.txt
+grep -Fvxf unresolvable_perm.txt black-tmp-diff.txt > black-tmp-diff_perm.txt
+sort -u black-tmp-diff_perm.txt _black.txt -o black.txt
 # cleaup temporary files
 sleep 2
-rm -f black-tmp-curl.txt
+rm -f black-tmp-curl.txt black-tmp-diff.txt black-tmp-diff_perm.txt

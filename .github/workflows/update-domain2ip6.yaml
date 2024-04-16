@@ -1,11 +1,10 @@
 name: Domains to IP6s
 run-name: converting [ DoH + DoT + Proxy + VPN + Tor ] domains to IPv6
 on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: "00 22 * * *" # UTC
+  workflow_run:
+    workflows: [Update Unresolvable Domains Queue4]
+    types: [completed]
+    branches: [master]
 
 jobs:
   update:
@@ -15,8 +14,6 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: Delayed re-pull (2min) to get new domains after push
-        run: sleep 120; git pull
       - name: Get IPv6 # Exclude: https://www.iana.org/assignments/iana-ipv6-special-registry/iana-ipv6-special-registry.xhtml
         run:  |
           bash scripts/update-domain2ips.sh IPv6
@@ -26,7 +23,7 @@ jobs:
       - name: Upload Stuff to GitHub via https://github.com/stefanzweifel/git-auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: './black.ipv6 ./unresolvable.txt ./unresolvable_perm.txt'
+          file_pattern: './black.ipv6 ./unresolvable.ipv6'
           disable_globbing: true
           status_options: '--untracked-files=no'
           commit_message: Update domains2ip - IPv6 - ${{ steps.get-date.outputs.date }}

@@ -1,11 +1,10 @@
 name: Domains to IP4s
 run-name: converting [ DoH + DoT + Proxy + VPN + Tor ] domains to IPv4
 on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: "00 22 * * *" # UTC
+  workflow_run:
+    workflows: [Update Unresolvable Domains Queue4]
+    types: [completed]
+    branches: [master]
 
 jobs:
   update:
@@ -15,8 +14,6 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: Delayed re-pull (2min) to get new domains after push
-        run: sleep 120; git pull
       - name: Get IPv4 # Exclude: https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
         run:  |
           bash scripts/update-domain2ips.sh IPv4
@@ -26,7 +23,7 @@ jobs:
       - name: Upload Stuff to GitHub via https://github.com/stefanzweifel/git-auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: './black.ipv4 ./unresolvable.txt ./unresolvable_perm.txt'
+          file_pattern: './black.ipv4 ./unresolvable.ipv4'
           disable_globbing: true
           status_options: '--untracked-files=no'
           commit_message: Update domains2ip - IPv4 - ${{ steps.get-date.outputs.date }}
