@@ -18,8 +18,7 @@ if [ "${1}" == "IPv4" ]; then
       if [ -n "${dig2ip_v4}" ]; then
         dig4+=( "${dig2ip_v4}" )
       else
-        if ! grep -q "${dns2ip_v4}" unresolvable.txt && \
-           ! grep -q "${dns2ip_v4}\|${dig2ip_v4}" _white.txt; then
+        if ! grep -q "${dns2ip_v4}" unresolvable.txt && ! grep -q "${dns2ip_v4}" _white.txt; then
           echo "${dns2ip_v4}#1" >> unresolvable.ipv4
         fi
       fi
@@ -72,8 +71,7 @@ if [ "${1}" == "IPv6" ]; then
       if [ -n "${dig2ip_v6}" ]; then
         dig4+=( "${dig2ip_v6}" )
       else
-        if ! grep -q "${dns2ip_v6}" unresolvable.txt && \
-           ! grep -q "${dns2ip_v6}\|${dig2ip_v6}" _white.txt; then
+        if ! grep -q "${dns2ip_v6}" unresolvable.txt && ! grep -q "${dns2ip_v6}" _white.txt; then
           echo "${dns2ip_v6}#1" >> unresolvable.ipv6
         fi
       fi

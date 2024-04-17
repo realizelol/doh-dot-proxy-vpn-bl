@@ -28,5 +28,5 @@ jobs:
         with:
           file_pattern: './black.ipv6 ./unresolvable.ipv6'
           disable_globbing: true
-          status_options: '--untracked-files=no'
+          status_options: '--untracked-files=normal'
           commit_message: Update domains2ip - IPv6 - ${{ steps.get-date.outputs.date }}

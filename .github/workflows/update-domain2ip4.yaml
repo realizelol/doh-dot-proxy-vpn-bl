@@ -28,5 +28,5 @@ jobs:
         with:
           file_pattern: './black.ipv4 ./unresolvable.ipv4'
           disable_globbing: true
-          status_options: '--untracked-files=no'
+          status_options: '--untracked-files=normal'
           commit_message: Update domains2ip - IPv4 - ${{ steps.get-date.outputs.date }}
