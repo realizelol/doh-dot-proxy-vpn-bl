@@ -80,7 +80,7 @@ if [ "${1}" == "IPv6" ]; then
   ipv6=(); while read -r dns2ip_v6; do
     dig6=(); while read -r dig2ip_v6; do
       if [ -n "${dig2ip_v6}" ]; then
-        dig4+=( "${dig2ip_v6}" )
+        dig6+=( "${dig2ip_v6}" )
       else
         if ! grep -q "${dns2ip_v6}" unresolvable.txt && ! grep -q "${dns2ip_v6}" _white.txt; then
           echo "${dns2ip_v6}#1" >> unresolvable.ipv6
