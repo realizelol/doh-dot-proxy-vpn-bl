@@ -43,7 +43,7 @@ sleep 2
 grep -Fvxf <(sed -e '/^#.*/d' -e 's/[[:space:]]*#.*$//g' -e 's/[[:space:]]*//g' _white.txt) black-tmp-curl.txt > black-tmp.txt
 grep -Fvxf <(sed -n "s/^\(.*\)#[1-3]/\1/p" unresolvable.txt) black-tmp.txt > black-tmp-diff.txt
 grep -Fvxf unresolvable_perm.txt black-tmp-diff.txt > black-tmp-diff_perm.txt
-sort -u black-tmp-diff_perm.txt _black.txt -o black.txt
+sort -u black-tmp-diff_perm.txt <(sed -e '/^#.*/d' -e 's/[[:space:]]*#.*$//g' -e 's/[[:space:]]*//g' _black.txt) -o black.txt
 # cleaup temporary files
 sleep 2
 rm -f black-tmp-curl.txt black-tmp-diff.txt black-tmp-diff_perm.txt
