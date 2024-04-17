@@ -217,6 +217,7 @@
 1costaricalink.com
 1dns.dev
 1dot1dot1dot1.cloudflare-dns.com
+1ee.top
 1forex.co.cc
 1foru.org
 1foxy.com
@@ -894,6 +895,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
+adblock.renedis.nl
 adblockdns.live
 adblocker.cpadin.com
 adblockluna.com
@@ -915,6 +917,7 @@ ademnjejes.co.cc
 adeniji.net
 adf-114.neta.otrofda.nl
 adfree.usableprivacy.net
+adfreedns.link
 adfreedns.top
 adfreeproxy.com
 adfreeproxy.cz.cc
@@ -972,6 +975,7 @@ adguard.acrobyte.org
 adguard.agadez.net
 adguard.alex-tools.dev
 adguard.almanasports.com
+adguard.americasnet.com.br
 adguard.aminetwork.biz
 adguard.amscenter.net
 adguard.app.sabino.pro
@@ -998,6 +1002,7 @@ adguard.cnbeining.com
 adguard.coriolanus.top
 adguard.crestfallen.de
 adguard.crobix.ovh
+adguard.damir-lukina.com
 adguard.dashofsunny.com
 adguard.ddns.net
 adguard.deersg.duckdns.org
@@ -1020,6 +1025,7 @@ adguard.eximpius.xyz
 adguard.exium.net
 adguard.ext.devkon.org
 adguard.ext.rizult.net
+adguard.fam-rodenburg.nl
 adguard.fihch.ru
 adguard.fija-web.net
 adguard.frece.de
@@ -1230,6 +1236,7 @@ ads.x88.in
 adsadkjsadjksakldjxx.math-solver.online
 adsensesolutions.com
 adsfree.ddns.net
+adsfysdfgiuy.ydns.eu
 adslsslpage.co.cc
 adsocialmediamarketing.com
 adtec.aidentec.top
@@ -1266,6 +1273,7 @@ ae-fuj-w-1.nashkan.net
 ae-fuj-w-2.nashkan.net
 ae-fuj-w-3.nashkan.net
 ae-fuj-w-4.nashkan.net
+ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 ae13.com
 aerforex.co.cc
@@ -2153,6 +2161,7 @@ at-individual.co.cc
 at-saving-surf.co.cc
 at-unique-flat.co.cc
 at-ways.co.cc
+at-wie-w-p-1.nashkan.net
 at.igg.biz
 at.pzhg.me
 at18.com
@@ -5013,7 +5022,6 @@ ddd.xiaofuc.top
 ddd2.loukky.com
 ddelay.co.uk
 ddeworld.com
-ddns.ddns.bigqy.eu.org
 ddns.ddnsddns.online
 ddns.itsnooblk.xyz
 ddns.l2h8.cn
@@ -5681,6 +5689,7 @@ dns.hinytz.com
 dns.hjh2007.top
 dns.hopper.org.uk
 dns.hopsken.com
+dns.horcrux.vip
 dns.hostingim.com
 dns.hostux.net
 dns.hotta.page
@@ -5699,6 +5708,7 @@ dns.hypercute.eu
 dns.i6p.eu
 dns.iamanuragh.in
 dns.iamninja.ru
+dns.ian.rocks
 dns.iblockads.net
 dns.ibreeze.xyz
 dns.ictorn.dev
@@ -5953,6 +5963,7 @@ dns.periactes.com
 dns.pernika.net
 dns.pesaventofilippo.com
 dns.pgnhatrang.com
+dns.phillipjberry.net
 dns.philqoo.com
 dns.phucbui.top
 dns.pieterdherde.com
@@ -6178,6 +6189,7 @@ dns.xie.ke
 dns.xinwujiang.cn
 dns.xivilay.dev
 dns.xryen.com
+dns.xwdmw.xyz
 dns.xydustc.me
 dns.yameenassotally.com
 dns.yandex.ru
@@ -6206,6 +6218,7 @@ dns0.tardishost.ru
 dns01.almir1904.eu
 dns01.enginyring.com
 dns01.flm9.net
+dns01.sdu.pp.ua
 dns01.woosahdigitalhosted.com
 dns02.almir1904.eu
 dns02.enginyring.com
@@ -6309,6 +6322,7 @@ dnsadguard.co.uk
 dnsaguard1.duckdns.org
 dnsaws.rasp.tv
 dnsbot.fiedin.com
+dnscdn.bai0012.com
 dnscity.org
 dnscrypt-cert.ffmuc.net
 dnsdoh.art
@@ -6432,6 +6446,7 @@ doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cloud-sekeng.com
+doh.cnetwork.cloud
 doh.cornes.me
 doh.corpa.me
 doh.cox.net
@@ -6541,6 +6556,7 @@ doh.tiarap.org
 doh.totoro.pub
 doh.umbrella.com
 doh.us.dnswarden.com
+doh.valscosmos.com
 doh.viatech.com.tw
 doh.wangyaomin.com
 doh.weleven.top
@@ -7447,6 +7463,7 @@ ezvideo.info
 f-a-s-t-e-r.co.cc
 f-itc.be
 f-secure.com
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f2-dns.asuzac.com.vn
 f4fp.com
@@ -8543,7 +8560,6 @@ fr-par-w-1.nashkan.net
 fr-sbg-w-4.nashkan.net
 fr.wasalive.com
 fr1.dnswarden.com
-fra-oracle-1.hosts.dada.li
 fra.core.access.zznet.fun
 fra01.dnscry.pt
 fra1.eyecay.xyz
@@ -11582,6 +11598,7 @@ jh2.info
 jh8.info
 jhonty.com
 ji9.info
+jianyi.studio
 jidur.co.cc
 jiggynation.com
 jihe.info
@@ -12041,6 +12058,7 @@ korzhov.dev
 kosciuszko.co.cc
 koselforex.co.cc
 kosmos.nz.gs
+kostek.dyndns.org
 kosurf.com
 kotys.hr.i81.ru
 kotys.vd.i81.ru
@@ -13712,6 +13730,7 @@ mysterium.arashi.solutions
 mysteward.info
 mystic.xyz.moochurch.com
 mysticrivers.co.cc
+mysuperspace.uk
 mysurfo.nz.gs
 myswift.info
 mysys.net
@@ -14347,6 +14366,7 @@ ns.try-dns.online
 ns.vik.ro
 ns0.fdn.fr
 ns01.hostrocket.com.ua
+ns02.nerdytechgeeks.co.za
 ns1.1899.com.mx
 ns1.95997.ip-ns.net
 ns1.bit-trails.nl
@@ -18457,7 +18477,6 @@ rselite.com
 rsiso.com
 rsocks.net
 rt5rw3.co.cc
-rtrdgovt.com
 rtun.info
 rtunnel.com
 ru-mos-w-1.nashkan.net
@@ -20000,6 +20019,7 @@ srm.name
 sromforex.co.cc
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 srvnet.co.cc
@@ -23543,7 +23563,6 @@ vlil.com
 vload.net
 vm.delfini.online
 vm.mytm.cc
-vm01.eban.eu.org
 vm1.arashi.solutions
 vm2.arashi.solutions
 vmathpie.com
@@ -24584,6 +24603,7 @@ www.1browse.cn
 www.1browse.info
 www.1club.info
 www.1costaricalink.com
+www.1ee.top
 www.1foru.org
 www.1foxy.com
 www.1freeproxy.pw
