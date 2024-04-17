@@ -50,7 +50,7 @@ if [ "${1}" == "IPv4" ]; then
     white_ip4s="$(python3 scripts/cidr2ip.py "${wsubnet4}")"
   done < <(sed -nr "s%^(${ip4regex}/[0-9]{1,2})[[:space:]]*#.*%\1%p" _white.txt)
   while read -r wip4; do white_sed_4+=( "${wip4}" ); done < <(printf '%s\n' "${white_ip4s[@]}")
-  printf '%s\n' "${white_sed_4[@]}" > "white_sed_4.txt"
+  printf '%s\n' "${white_sed_4[@]}" | sed '/^$/d' > "white_sed_4.txt"
 
   # create blacklist IPv4
   black_sed_4=()
@@ -61,7 +61,7 @@ if [ "${1}" == "IPv4" ]; then
     black_ip4s="$(python3 scripts/cidr2ip.py "${bsubnet4}")"
   done < <(sed -nr "s%^(${ip4regex}/[0-9]{1,2})[[:space:]]*#.*%\1%p" _black.ipv4)
   while read -r bip4; do black_sed_4+=( "${bip4}" ); done < <(printf '%s\n' "${black_ip4s[@]}")
-  printf '%s\n' "${black_sed_4[@]}" > "black_sed_4.txt"
+  printf '%s\n' "${black_sed_4[@]}" | sed '/^$/d' > "black_sed_4.txt"
 
   # create new black.ipv4
   grep -Fvxf white_sed_4.txt black-tmp.ipv4 | grep -oE "${ip4regex}" | sort -Vu | sed '/^$/d'                        | \
@@ -114,7 +114,7 @@ if [ "${1}" == "IPv6" ]; then
     white_ip6s="$(python3 scripts/cidr2ip.py "${wsubnet6}")"
   done < <(sed -nr "s%^(${ip6regex}/[0-9]{1,3})[[:space:]]*#.*%\1%p" _white.txt)
   while read -r wip6; do white_sed_6+=( "${wip6}" ); done < <(printf '%s\n' "${white_ip6s[@]}")
-  printf '%s\n' "${white_sed_6[@]}" > "white_sed_6.txt"
+  printf '%s\n' "${white_sed_6[@]}" | sed '/^$/d' > "white_sed_6.txt"
 
   # create blacklist IPv6
   black_sed_6=()
@@ -125,7 +125,7 @@ if [ "${1}" == "IPv6" ]; then
     black_ip6s="$(python3 scripts/cidr2ip.py "${bsubnet6}")"
   done < <(sed -nr "s%^(${ip6regex}/[0-9]{1,3})[[:space:]]*#.*%\1%p" _black.ipv6)
   while read -r bip6; do black_sed_6+=( "${bip6}" ); done < <(printf '%s\n' "${black_ip6s[@]}")
-  printf '%s\n' "${black_sed_6[@]}" > "black_sed_6.txt"
+  printf '%s\n' "${black_sed_6[@]}" | sed '/^$/d' > "black_sed_6.txt"
 
   # create new black.ipv6
   grep -Fvxf white_sed_6.txt black-tmp.ipv6 | grep -oE "${ip6regex}" | sort -Vu | sed '/^$/d'            | \
