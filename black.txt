@@ -1,3 +1,5 @@
+#       BLACKLIST - Domains
+##
 0--0.0--0.blue-jade.net
 0--0.moneyextravaganza.com
 0-0-0-0-0-0-0-0-0.20megsfree.com
