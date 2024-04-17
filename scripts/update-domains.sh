@@ -40,7 +40,7 @@
 ) > black-tmp-curl.txt
 sleep 2
 # cleanup unresolvables
-grep -Fvxf <(sed -e '/^#.*/d' -e 's/\s*#.*$//g' -e 's/[[:space:]]//g' _white.txt) black-tmp-curl.txt > black-tmp.txt
+grep -Fvxf <(sed -e '/^#.*/d' -e 's/[[:space:]]*#.*$//g' -e 's/[[:space:]]*//g' _white.txt) black-tmp-curl.txt > black-tmp.txt
 grep -Fvxf <(sed -n "s/^\(.*\)#[1-3]/\1/p" unresolvable.txt) black-tmp.txt > black-tmp-diff.txt
 grep -Fvxf unresolvable_perm.txt black-tmp-diff.txt > black-tmp-diff_perm.txt
 sort -u black-tmp-diff_perm.txt _black.txt -o black.txt

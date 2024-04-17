@@ -1,14 +1,25 @@
-38.132.106.139 # cyberghostvpn.com
-84.200.69.80 # dns.watch
-84.200.70.40 # dns.watch
-94.247.43.254 # opennic.org
-192.71.245.208 # opennic.org
-194.187.251.67 # cyberghostvpn.com
-194.25.0.68 # resolv-f.dtag.de
-194.25.0.70 # resolvbpa-f.t-ipnet.de
-217.0.43.2 # dns.telekom.de
-217.0.43.50 # dns.telekom.de
-217.0.43.66 # dns.telekom.de
-217.0.43.114 # dns.telekom.de
-217.0.43.146 # dns.telekom.de
-217.0.43.162 # dns.telekom.de
+##
+#       BLACKLIST - IPv4
+##
+38.132.106.138         # newyork-ns01.cyberghostvpn.com - cyberghostvpn.com
+38.132.106.139         # newyork-ns01.cyberghostvpn.com - cyberghostvpn.com
+38.132.106.140         # newyork-ns01.cyberghostvpn.com - cyberghostvpn.com
+84.200.69.80           # resolver1.dns.watch - dns.watch
+84.200.70.40           # resolver2.dns.watch - dns.watch
+94.247.43.254          # opennic1.eth-services.de - opennic.org
+194.187.251.66         # manchester-ns01.cyberghostvpn.com - cyberghostvpn.com
+194.187.251.67         # manchester-ns01.cyberghostvpn.com - cyberghostvpn.com
+194.187.251.68         # manchester-ns01.cyberghostvpn.com - cyberghostvpn.com
+194.25.0.52            # resolv-l.dtag.de - Telekom Company Connect
+194.25.0.54            # resolvbpa-l.t-ipnet.de - Telekom
+194.25.0.60            # resolv-h.dtag.de - Telekom Company Connect
+194.25.0.62            # resolvbpa-h.t-ipnet.de - Telekom
+194.25.0.68            # resolv-f.dtag.de - Telekom Company Connect
+194.25.0.70            # resolvbpa-f.t-ipnet.de - Telekom
+195.10.195.195         # opennic2.eth-services.de - opennic.org
+217.0.43.2             # h-nxr-a02.isp.t-ipnet.de - dns.telekom.de
+217.0.43.50            # d-nxr-a02.isp.t-ipnet.de - dns.telekom.de
+217.0.43.66            # b-nxr-a02.isp.t-ipnet.de - dns.telekom.de
+217.0.43.114           # f-nxr-a02.isp.t-ipnet.de - dns.telekom.de
+217.0.43.146           # ul-nxr-a02.isp.t-ipnet.de - dns.telekom.de
+217.0.43.162           # m-nxr-a02.isp.t-ipnet.de - dns.telekom.de

@@ -1,1 +1,4 @@
+##
+#       BLACKLIST - Domains
+##
 adguardhome.ddns.net

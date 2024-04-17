@@ -26,7 +26,7 @@ jobs:
       - name: Upload Stuff to GitHub via https://github.com/stefanzweifel/git-auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: './unresolvable.txt'
+          file_pattern: './unresolvable.txt ./unresolvable.ipv4 ./unresolvable.ipv6'
           disable_globbing: true
           status_options: '--untracked-files=no'
           commit_message: Add unresolvable domains - ${{ steps.get-date.outputs.date }}

@@ -1,0 +1,19 @@
+##
+#       BLACKLIST - IPv6
+##
+2001:1608:10:25::1c04:b12f                    # resolver1.dns.watch - dns.watch
+2001:1608:10:25::9249:d69b                    # resolver2.dns.watch - dns.watch
+2003:40:2000::53                              # resolv-f.dtag.de - Telekom Company Connect
+2003:40:2000::b9a                             # resolvbpa-f.t-ipnet.de - Telekom
+2003:40:4000::53                              # resolv-l.dtag.de - Telekom Company Connect
+2003:40:4000::b9a                             # resolvbpa-l.t-ipnet.de - Telekom
+2003:56::53                                   # resolv-h.dtag.de - Telekom Company Connect
+2003:56::b9a                                  # resolvbpa-h.t-ipnet.de - Telekom
+2003:180:2::4:0:53                            # b-nxrlb-a02.isp6.t-ipnet.de - dns.telekom.de
+2003:180:2:1000:0:4:0:53                      # d-nxrlb-a02.isp6.t-ipnet.de - dns.telekom.de
+2003:180:2:4000:0:4:0:53                      # h-nxrlb-a02.isp6.t-ipnet.de - dns.telekom.de
+2003:180:2:7000:0:4:0:53                      # m-nxrlb-a02.isp6.t-ipnet.de - dns.telekom.de
+2003:180:2:8100:0:4:0:53                      # f-nxrlb-a02.isp6.t-ipnet.de - dns.telekom.de
+2003:180:2:b000:0:4:0:53                      # ul-nxrlb-a02.isp6.t-ipnet.de - dns.telekom.de
+2a00:f826:8:1::254                            # opennic1.eth-services.de - opennic.org
+2a00:f826:8:2::195                            # opennic2.eth-services.de - opennic.org
