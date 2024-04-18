@@ -69,7 +69,7 @@ if [ "${1}" == "IPv4" ]; then
     grep -vE "(^192\.88\.99\.|^198\.51\.100\.|^203\.0\.113\.|^100\.6[4-9]\.|^100\.[7-9][0-9]\.|^100\.1[0-2][0-7]\.)" | \
     grep -vE "(^192\.31\.196\.|192\.52\.193\.|192\.175\.48\.|^192\.0\.(0|2)\.|^198\.1[8-9]\.0\.|^255\.255\.255\.255)"  \
     > black.tmp4
-  sort -u black.tmp4 black_sed_4.txt -o black.ipv4
+  sort -Vu black.tmp4 black_sed_4.txt -o black.ipv4
   # cleanup
   rm -f black-tmp.ipv4 white_sed_4.txt black_sed_4.txt black.tmp4
   unset ipv4 dig4 white_sed_4 wsubnet4 white_ip4s wip4 black_sed_4 bsubnet4 black_ip4s bip4
@@ -132,7 +132,7 @@ if [ "${1}" == "IPv6" ]; then
     grep -vE "(^::$|^::ffff:|^64:ff9b:(0|1):|^100:|^2001:0|^2001:[1-3]0?:0|^2001:4:112:|^2001:db8:)"     | \
     grep -vE "(^2002:|^2620:4f:8000:|^f[c-d][0-9a-f][0-9a-f]:|^fe[8-9a-b][0-9a-f]:|^ff[0-9a-f][0-9a-f]:)"  \
     > black.tmp6
-  sort -u black.tmp6 black_sed_6.txt -o black.ipv6
+  sort -Vu black.tmp6 black_sed_6.txt -o black.ipv6
   # cleanup
   rm -f black-tmp.ipv6 white_sed_6.txt black_sed_6.txt black.tmp6
   unset ipv6 dig6 white_sed_6 wsubnet6 white_ip6s wip6 black_sed_6 bsubnet6 black_ip6s bip6
