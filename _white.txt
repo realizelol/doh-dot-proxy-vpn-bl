@@ -30,6 +30,12 @@ wo-in-f132.1e100.net                                # Google - Reason: Unknown
 17.253.0.0/16                                       # iTunes / Apple CDN
 74.125.133.132                                      # wo-in-f132.1e100.net - Google - Reason: Unknown / Translate ?!
 74.125.238.132                                      # wo-in-f132.1e100.net - Google - Reason: Unknown / Translate ?!
+76.76.21.22                                         # shffls.com - Shuffles is a new app for creative play and collective collaging
+76.76.21.61                                         # shffls.com - Shuffles is a new app for creative play and collective collaging
+76.76.21.93                                         # shffls.com - Shuffles is a new app for creative play and collective collaging
+76.76.21.98                                         # shffls.com - Shuffles is a new app for creative play and collective collaging
+76.76.21.164                                        # shffls.com - Shuffles is a new app for creative play and collective collaging
+76.76.21.241                                        # shffls.com - Shuffles is a new app for creative play and collective collaging
 89.187.169.47                                       # anton.app - Anton - learning platform for school
 #108.177.15.132                                     # wr-in-f132.1e100.net - Google - Reason: Unknown
 #173.194.76.132                                     # ws-in-f132.1e100.net - Google - Reason: Unknown
