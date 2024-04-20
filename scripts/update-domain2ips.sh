@@ -22,7 +22,7 @@ if [ "${1}" == "IPv4" ]; then
           echo "${dns2ip_v4}#1" >> unresolvable.ipv4
         fi
       fi
-    done < <(dig @9.9.9.10 "${dns2ip_v4}" in A -4 +short +ignore +notcp +tries=2 +timeout=5 2>/dev/null)
+    done < <(dig @9.9.9.10 "${dns2ip_v4}" in A -4 +short +ignore +notcp +tries=2 +timeout=2 2>/dev/null)
     if [ -n "${dig4[*]}" ]; then
       while read -r dig_ip4; do
         if ! echo "${dig_ip4}" | grep -q "^0\.0\.0\.0\|^127\.0\.0\.1$\|^;"; then
@@ -86,7 +86,7 @@ if [ "${1}" == "IPv6" ]; then
           echo "${dns2ip_v6}#1" >> unresolvable.ipv6
         fi
       fi
-    done < <(dig @9.9.9.10 "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +tries=2 +timeout=5 2>/dev/null)
+    done < <(dig @9.9.9.10 "${dns2ip_v6}" in AAAA -4 +short +ignore +notcp +tries=2 +timeout=2 2>/dev/null)
     if [ -n "${dig6[*]}" ]; then
       while read -r dig_ip6; do
         if ! echo "${dig_ip6}" | grep -q "^::$\|^::1$\|^53:$\|^;"; then
