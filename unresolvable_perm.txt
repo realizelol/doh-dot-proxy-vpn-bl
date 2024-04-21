@@ -35653,6 +35653,7 @@ hipproxy.info
 hippy.belybuy.com
 hippy.buycaphill.com
 hippy.buycitation.com
+hippy.cz.cc
 hippy.swishbuy.net
 hippy.youwillbuyit.com
 hiprofitforex.tk
@@ -143778,6 +143779,7 @@ www.proxyhash.info
 www.proxyhash.pw
 www.proxyhat.com
 www.proxyhat.tk
+www.proxyhaven.com
 www.proxyhaxs.com
 www.proxyhd.com
 www.proxyhe.info
@@ -172941,6 +172943,7 @@ zonesurf.info
 zoneunblock.info
 zoningsafesurfnow.tk
 zooch.info
+zool.cz.cc
 zoolank.ed.mu
 zoom-server.tk
 zoom.hu.tl
