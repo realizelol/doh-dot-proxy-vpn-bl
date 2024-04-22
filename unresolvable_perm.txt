@@ -48776,6 +48776,7 @@ newsdelta.net
 newsdogg.com
 newsea.ga
 newsecurefast.tk
+newserver.co.nl
 newserver.gq
 newservice.cf
 newservice.ga
@@ -56122,6 +56123,7 @@ proxon.info
 proxone.info
 proxonia.com
 proxonimity.com
+proxonline.cz.cc
 proxonline.info
 proxonte.info
 proxoon.info
@@ -56136,6 +56138,7 @@ proxover.info
 proxover.tk
 proxoverthephone.com
 proxoverthephone.info
+proxox.cz.cc
 proxoyd.info
 proxp.info
 proxpalace.tk
