@@ -21,7 +21,7 @@ token.safebrowsing.apple                            # Don't block @ all => Other
 ##
 anton.app                                           # Anton - learning platform for school
 forcesafesearch.google.com                          # Google SafeSearch
-vulkane.net                                         # Vulkane - Site about vulcanos
+vulkane.net                                         # Vulkane - Site about volcanos
 wo-in-f132.1e100.net                                # Google - Reason: Unknown
 www.google.com                                      # Google :)
 ##
@@ -39,7 +39,7 @@ www.google.com                                      # Google :)
 76.76.21.123                                        # shffls.com - Shuffles is a new app for creative play and collective collaging
 76.76.21.164                                        # shffls.com - Shuffles is a new app for creative play and collective collaging
 76.76.21.241                                        # shffls.com - Shuffles is a new app for creative play and collective collaging
-81.169.145.72                                       # vulkane.net - Site about vulcanos
+81.169.145.72                                       # vulkane.net - Site about volcanos
 89.187.169.47                                       # anton.app - Anton - learning platform for school
 #108.177.15.132                                     # wr-in-f132.1e100.net - Google - Reason: Unknown
 #173.194.76.132                                     # ws-in-f132.1e100.net - Google - Reason: Unknown
