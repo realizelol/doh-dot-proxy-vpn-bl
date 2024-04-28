@@ -32156,6 +32156,7 @@ gotoproxy.info
 gotorange.info
 gotosite.tk
 gotosites.info
+gotospace.cz.cc
 gotosurf.info
 gotosurf.tk
 gototheweb.info
@@ -114649,6 +114650,7 @@ www.freeproxylisting.biz
 www.freeproxylisting.info
 www.freeproxylistings.com
 www.freeproxylists.biz
+www.freeproxylistsite.com
 www.freeproxylistz.info
 www.freeproxymarco1.ml
 www.freeproxymartin.ga
