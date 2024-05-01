@@ -782,6 +782,7 @@
 1proxy.info
 1proxy.ninja
 1proxy.pazou.org
+1proxy.pw
 1proxy.ro
 1proxy.rocks
 1proxy.science
@@ -14587,6 +14588,7 @@ chatoriented.tk
 chatroomdd.com
 chatrx.gq
 chatunblocker.info
+chatyeri.org
 chavdude.com
 chavstar.com
 chaxweht.tk
@@ -16510,6 +16512,7 @@ connectionproxy.com
 connectionproxy.info
 connectionproxy.net
 connectionrapide.tk
+connectkey.info
 connectlaunch.tk
 connectlinksbypass.tk
 connectluxe.net
@@ -19801,6 +19804,7 @@ doh.es.ahadns.net
 doh.fasya.net
 doh.freegod.ml
 doh.ginetz.id
+doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
 doh.linuxsec.org
@@ -21630,6 +21634,7 @@ empresse.tk
 emproxy.info
 empson.tk
 emptyproxy.com
+emuby.com
 emuproxy.info
 emyspacebypass.info
 emyspaceproxy.com
@@ -25695,6 +25700,7 @@ fmshiva.com
 fmvss403.info
 fmyspace.info
 fnproxy.com
+fo-h.com
 fo03r32.tk
 fobproxy.info
 foby.info
@@ -28228,6 +28234,7 @@ freeproxy.bookofmormonstudy.com
 freeproxy.buildmediapc.com
 freeproxy.chickenkiller.com
 freeproxy.chiefmo.net
+freeproxy.click
 freeproxy.custom-comp.net
 freeproxy.daleeman.com
 freeproxy.date
@@ -34077,6 +34084,7 @@ hiddenprivacys.tk
 hiddenpro.info
 hiddenprofile.info
 hiddenprox.info
+hiddenproxies.com
 hiddenproxies.ml
 hiddenproxy.gq
 hiddenproxy.in
@@ -39086,6 +39094,7 @@ ipwired.info
 ipwizzard.com
 ipxmas.info
 ipxserver.tk
+ipzap.com
 ipzero.info
 ipzilla.op.pn
 ipzip.info
@@ -40501,6 +40510,7 @@ k-tunnel.info
 k03vds.duckdns.org
 k0e.info
 k0rtus-gg.ru
+k12gradebook.com
 k17free.tk
 k1h.info
 k1ppa.info
@@ -48055,6 +48065,7 @@ nerdaol.ga
 nerdcheating.tk
 nerdfactory.info
 nerdfight.info
+nerdlinger.com
 nerdpc.info
 nerdproxy.tk
 nerdstock.tk
@@ -49220,6 +49231,7 @@ nirin.tk
 nirvanaproxy.tk
 nisasa.info
 nisfelmojtama3.com
+nismu.com
 nissansurf.tk
 nitecore.tk
 nitecrime.tk
@@ -72629,6 +72641,7 @@ suministrar.info
 summaryboxis.tk
 summer.clawed.info
 summer.ed.mu
+summer.fr.gg
 summer1.info
 summer3.info
 summeraccess.info
@@ -114554,6 +114567,7 @@ www.freeproxy-surfs.tk
 www.freeproxy-totala.tk
 www.freeproxy.black
 www.freeproxy.blue
+www.freeproxy.click
 www.freeproxy.date
 www.freeproxy.gr
 www.freeproxy.im
@@ -134579,6 +134593,7 @@ www.nocostmortgagerefinance10.tk
 www.nocostproxy.info
 www.nocredit.tk
 www.nocreditcheckloan.tk
+www.nodeblock.com
 www.nodebt.tk
 www.nodeproxy.info
 www.nodeproxy.net
@@ -152848,6 +152863,7 @@ www.socialopen.info
 www.socialoperatoronline.xyz
 www.socialpass.tk
 www.socialpassfast.tk
+www.socialprivacy.info
 www.socialprox.info
 www.socialproxy.cf
 www.socialproxy.ga
@@ -154082,6 +154098,7 @@ www.sslm04.ml
 www.sslme.info
 www.sslprivateserver.info
 www.sslproksy.info
+www.sslprox.com
 www.sslproxi.tk
 www.sslproxie.info
 www.sslproxy.cf
@@ -156572,6 +156589,7 @@ www.surfimmeasurables.tk
 www.surfin.science
 www.surfinboards.tk
 www.surfincognito.info
+www.surfincognito.net
 www.surfincognito.tk
 www.surfincollege.info
 www.surfindart.com
@@ -164873,6 +164891,7 @@ www.unpowerdrop.tk
 www.unpronestock.tk
 www.unprotectit.com
 www.unprox.info
+www.unproxy.com
 www.unproxyss.tk
 www.unratedweb.info
 www.unrealistic.tk
@@ -165781,6 +165800,7 @@ www.uw5.info
 www.uwish.tk
 www.uwlc.info
 www.uwo7nder.tk
+www.uwqy.com
 www.uxblu.com
 www.uxxula.info
 www.uyerp7.tk
@@ -170802,6 +170822,7 @@ www.yproxy-for-surfersa.tk
 www.yproxy2.tk
 www.yproxy3.tk
 www.yproxy4.tk
+www.yroxy.com
 www.yrrr.info
 www.ysaproxy.tk
 www.yschnell-3.tk
@@ -172299,6 +172320,7 @@ yourproxy.club
 yourproxy.co.uk
 yourproxy.com.ar
 yourproxy.in
+yourproxy.org
 yourproxy.party
 yourproxy.pl
 yourproxy.science
