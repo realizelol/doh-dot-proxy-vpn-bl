@@ -86491,6 +86491,7 @@ webproxysamuraisurf.tk
 webproxyschool.cf
 webproxyserve.net
 webproxyserver.cn
+webproxyserver.cz.cc
 webproxyserver.ga
 webproxyserver.info
 webproxyserver.tk
@@ -118089,6 +118090,7 @@ www.goproxies.ml
 www.goproxing.biz
 www.goproxing.net
 www.goproxite.top
+www.goproxy.in
 www.goproxy.info
 www.goproxy.org
 www.goproxy.us
