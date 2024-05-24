@@ -36170,6 +36170,7 @@ hosted.jayare.info
 hosted.jaytex.ca
 hosted.jaytex.org
 hostedbypass.info
+hostedproxy.cz.cc
 hostedrealm.com
 hostedrealm.info
 hostedvpn.info
@@ -67651,6 +67652,7 @@ securejack.tk
 securejob.eu
 securekeep.com
 secureload.info
+secureloans.cz.cc
 securelog.cn
 secureloveproxy.tk
 securematic.tk
