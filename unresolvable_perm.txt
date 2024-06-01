@@ -60002,6 +60002,7 @@ proxydoctor.ml
 proxydog.info
 proxydogg.com
 proxydoll.com
+proxydomain.cz.cc
 proxydomain.info
 proxydomain.org
 proxydomainfree.tk
@@ -67616,6 +67617,7 @@ secured-online.xyz
 secured.bot.nu
 secured.globalunix.org
 secured.globec.net
+secured.unixglobal.net
 securedbypass.info
 securedcommercialloans.co.tv
 securedcommercialloans3.co.tv
