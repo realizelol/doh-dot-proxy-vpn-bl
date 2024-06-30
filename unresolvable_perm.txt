@@ -19819,6 +19819,7 @@ doh.ginetz.id
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.lee1024.xyz
 doh.linuxsec.org
 doh.lujiacai.top
 doh.nala.ru
@@ -26822,6 +26823,7 @@ forexunblocker.info
 forexuncensored.info
 forexunlk18.tk
 forexunlk20.tk
+forexunlock.cz.cc
 forexunlock.info
 forexunlock23.tk
 forexunlocker.cz.cc
@@ -44954,6 +44956,7 @@ meiyuj.tk
 mekitunnel.info
 melaney.info
 melbicom-server.site
+melchel.cz.cc
 melds.info
 melekeok.info
 meliconi.tk
@@ -70810,6 +70813,7 @@ spainsurf.info
 spainwine.info
 spakdoc.nz.gs
 spam-firewall-online.xyz
+spam-firewall.cz.cc
 spam-firewall.info
 spam-king.info
 spam-protection.xyz
@@ -79497,6 +79501,7 @@ tubanoproxy.tk
 tubanproxy.tk
 tube-proxys.tk
 tube.7dating.ru
+tube.cz.cc
 tube.prox4enter.tk
 tube.sharky.co.uk
 tube.x-hub.ro
