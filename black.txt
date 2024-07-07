@@ -427,6 +427,7 @@
 3sixty5.net
 3sk.info
 3toc.com
+3u6gx7qomyqyul1l.myfritz.net
 3xit.net
 4-2.info
 4-6.us
@@ -606,7 +607,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -6291,7 +6291,10 @@ dns.worthmind.net
 dns.wwwdjl.buzz
 dns.xcn.li
 dns.xinwujiang.cn
+dns.xiumu.org
+dns.xiumu.org.cdn.cloudflare.net
 dns.xivilay.dev
+dns.xlion.tw
 dns.xryen.com
 dns.xwdmw.xyz
 dns.xydustc.me
@@ -6977,6 +6980,7 @@ dualnitro.com
 dualopteron.co.cc
 dualpass.nz.gs
 dualproxy.com
+duanyu.net
 dub01.dnscry.pt
 duba.net
 dubb.info
@@ -7506,6 +7510,7 @@ exam-covering.co.cc
 examinfo.info
 examsurf.co.cc
 exce.info
+exchange-hosting.cz.cc
 exchangecom.co.cc
 exchangecoms.co.cc
 exchangegiftz.co.cc
@@ -7594,7 +7599,6 @@ ezvideo.info
 f-a-s-t-e-r.co.cc
 f-itc.be
 f.761761.xyz
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 f4sthost.com
@@ -9067,7 +9071,6 @@ freeyouproxytube.com
 freeyoutube.net
 freeyoutubeproxy.co.uk
 freeyoutubeproxy.com
-freeyoutubeproxy.org
 freezeblock.co.cc
 freezehiringnow.co.cc
 freezethefirewall.com
@@ -12303,7 +12306,6 @@ layer1.jnraptor.net
 layla-clapton-surf.co.cc
 layoutfly.com
 lazerprxy.co.cc
-lazo.cz.cc
 lboxtv.top
 lc.fibersurf.co.cc
 lcproxy.com
@@ -12347,7 +12349,6 @@ leeway.uz
 legaladvisor.us
 legalexpert.co.cc
 legallaw.tk
-legalsecure.cz.cc
 legalweb.info
 legend-ages.co.cc
 legend-area.co.cc
@@ -12717,7 +12718,6 @@ lotresusu.co.cc
 lotsofcoffee.com
 louderhq.com
 louforex.co.cc
-louisiana.cz.cc
 lova.long-nguyen.info
 love-paris.co.cc
 lovecarsproxy.info
@@ -13595,6 +13595,7 @@ mustusethis.co.cc
 mutemail.com
 muvies.info
 muxyuji.ru
+muyvsr.top
 mvparea.co.cc
 mwolk.com
 mx1.laoxiao789.com
@@ -14719,7 +14720,6 @@ onlinemarketingz.co.cc
 onlinenewbie.com
 onlineparalegal.co.cc
 onlineplay.info
-onlinepoker.cz.cc
 onlineproxy.ca
 onlineproxy.eu
 onlineproxy.io
@@ -15020,7 +15020,6 @@ ow3.net
 owega.com
 owemy.com
 owndns.dedyn.io
-owndomain.cz.cc
 owner-consider.co.cc
 ownfile.click79.com
 owngold.co.cc
@@ -17124,6 +17123,7 @@ proxymart.co.cc
 proxymask.com
 proxymaster.info
 proxymaster.me
+proxymasters.cz.cc
 proxymate.com
 proxymates.com
 proxymatice.appspot.com
@@ -18806,7 +18806,6 @@ scoobidoo.net
 scoolpass.co.cc
 scoopedmoms.co.cc
 scoots.co.cc
-scooty.info
 scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
@@ -18867,7 +18866,6 @@ secondpack.co.cc
 secondproxy.com
 secret-busted.co.cc
 secret-hosts.co.cc
-secret-network.cz.cc
 secret-open.co.cc
 secretbook.info
 secretbrowse.com
@@ -20688,7 +20686,6 @@ surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
 surffitness.co.cc
-surfforex.cz.cc
 surfforextrading.co.cc
 surffreedom.com
 surffreegrants.co.cc
@@ -23199,6 +23196,7 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
+usproxy.usa.cc
 usproxyserver.info
 ussurfer.nz.gs
 ustrip.co.cc
@@ -23210,6 +23208,7 @@ uswebproxy.net
 usz.xydustc.me
 usztoday.com
 utahdoc.com
+utangard.net
 utoob.co.cc
 utopianpal.com
 utopiapal.com
@@ -23759,6 +23758,7 @@ vps357.brueggus.de
 vps359.brueggus.de
 vps362.brueggus.de
 vps363.brueggus.de
+vps364.brueggus.de
 vps365.brueggus.de
 vps366.brueggus.de
 vps367.brueggus.de
@@ -24064,7 +24064,6 @@ websiteproxy.co.uk
 websiteproxy.com
 websiteproxy.net
 websiteredirect.com
-websitesschool.cz.cc
 websiteunblock.com
 websiteunblocked.com
 webslinger81.appspot.com
@@ -25447,7 +25446,6 @@ www.beefcurtains.org
 www.beel.info
 www.beemine.info
 www.beenbanned.com
-www.beer.dj
 www.beespeed.info
 www.beezee.info
 www.beijingcm.com
@@ -26324,7 +26322,6 @@ www.corporateinsurance.info
 www.corro.info
 www.corrupters.com
 www.corsario.info
-www.costfuel.com
 www.costmaninc.com
 www.cotse.net
 www.coud.info
@@ -28453,6 +28450,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -29718,7 +29716,6 @@ www.nationalcreditreport.info
 www.naturalproxy.com
 www.nava-proxy.tk
 www.navigationprivee.com
-www.naviguer.ca
 www.navydog.com
 www.nawt.info
 www.nazlimcafe.com
@@ -34206,7 +34203,6 @@ www.utopiapal.com
 www.utor.info
 www.utunnel.com
 www.utunnel.net
-www.uu.tj
 www.uugy.com
 www.uupv.com
 www.uuui.info
@@ -35265,6 +35261,7 @@ xproxy.eu
 xproxy.info
 xproxy.net
 xproxy.org
+xproxy.pl
 xproxy.ru
 xproxylist.com
 xpspyware.co.cc
