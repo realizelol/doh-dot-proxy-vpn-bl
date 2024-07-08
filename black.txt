@@ -427,7 +427,6 @@
 3sixty5.net
 3sk.info
 3toc.com
-3u6gx7qomyqyul1l.myfritz.net
 3xit.net
 4-2.info
 4-6.us
@@ -607,6 +606,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -828,7 +828,6 @@ active-work.co.cc
 activeconnect.info
 activedigital.info
 activeidentity.co.cc
-activeproxies.org
 activeserver.info
 activewebproxy.cf
 activpn.com
@@ -873,7 +872,6 @@ ad4msan.win
 ada.openbld.net
 adaforex.cz.cc
 adam-hughes.co.uk
-adami.hol.es
 adampowell.pro
 adaptiveproxy.com
 adaw.info
@@ -1037,6 +1035,7 @@ adguard.fihch.ru
 adguard.fija-web.net
 adguard.frece.de
 adguard.fresh-waffles.online
+adguard.frutuozo.com.br
 adguard.fun
 adguard.gambini.org
 adguard.gattow.com
@@ -2105,7 +2104,6 @@ artclass.lol
 artclass.site
 arteshbod.co.cc
 artistremortgage.co.cc
-artmam.net
 artmaxi.com
 aruforex.co.cc
 as-anything.co.cc
@@ -3342,7 +3340,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -5525,6 +5522,7 @@ dns.bazipardaz.com
 dns.beardic.cn
 dns.bebasid.com
 dns.belnet.be
+dns.benoit.jp.net
 dns.benpro.fr
 dns.beta.gandi.net
 dns.biliun.me
@@ -6086,6 +6084,7 @@ dns.readlook.tk
 dns.reckoningslug.name
 dns.redroot.me
 dns.redvau.lt
+dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
 dns.repinger.my.id
@@ -7467,7 +7466,6 @@ eusko.org
 euuforex.co.cc
 ev-goztepe.duckdns.org
 evade123.com
-evaded.net
 evadefilters.com
 evaha.com
 evantbyrne.info
@@ -7599,6 +7597,7 @@ ezvideo.info
 f-a-s-t-e-r.co.cc
 f-itc.be
 f.761761.xyz
+f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 f4sthost.com
@@ -8352,7 +8351,6 @@ forex-7.co.cc
 forex-analyzer.co.cc
 forex-apprentice.co.cc
 forex-bid.co.cc
-forex-broker-review.cz.cc
 forex-brokerage-0.tk
 forex-cds.co.cc
 forex-cheap.co.cc
@@ -10895,6 +10893,7 @@ hyperbyte.net
 hypergainforex.co.cc
 hyperhole.co.cc
 hypermode.info
+hyperproxy.890m.com
 hypersitesbreaker.co.cc
 hypersock.com
 hyperspace.toxopeus.it
@@ -11036,6 +11035,7 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
+ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -12349,6 +12349,7 @@ leeway.uz
 legaladvisor.us
 legalexpert.co.cc
 legallaw.tk
+legalsecure.cz.cc
 legalweb.info
 legend-ages.co.cc
 legend-area.co.cc
@@ -12718,6 +12719,7 @@ lotresusu.co.cc
 lotsofcoffee.com
 louderhq.com
 louforex.co.cc
+louisiana.cz.cc
 lova.long-nguyen.info
 love-paris.co.cc
 lovecarsproxy.info
@@ -13973,7 +13975,6 @@ networkpass.co.cc
 networkprotection.cz.cc
 networksql.co.cc
 networkstools.co.cc
-networktp.net
 neufast.co.cc
 neuphoenix.co.cc
 neur.info
@@ -15020,6 +15021,7 @@ ow3.net
 owega.com
 owemy.com
 owndns.dedyn.io
+owndomain.cz.cc
 owner-consider.co.cc
 ownfile.click79.com
 owngold.co.cc
@@ -15340,7 +15342,6 @@ phonyip.com
 photoclinic.co.cc
 photographco.com
 photography.backriverphotography.com
-phototype.cz.cc
 php-proxy.net
 php15.com
 phpbido.com
@@ -15978,7 +15979,6 @@ proxee.biz
 proxee.ws
 proxeey.com
 proxeight.co.cc
-proxer.890m.com
 proxer.ru
 proxers.com
 proxert.com
@@ -18806,6 +18806,7 @@ scoobidoo.net
 scoolpass.co.cc
 scoopedmoms.co.cc
 scoots.co.cc
+scooty.info
 scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
@@ -22426,7 +22427,6 @@ unblock.coolpage.biz
 unblock.de
 unblock.eu5.org
 unblock.fashionfollow.com
-unblock.freehost.net.au
 unblock.freehostplace.com
 unblock.freeoda.com
 unblock.freetzi.com
@@ -22438,7 +22438,6 @@ unblock.hinet.info
 unblock.igg.biz
 unblock.in
 unblock.it
-unblock.life-youth.com
 unblock.masterofpi.org
 unblock.meatkt.com
 unblock.medan-allindo.net
@@ -23884,7 +23883,6 @@ waybetter.info
 waybypass.co.cc
 waymaker.info
 waythru.com
-waytoproxy.com
 waytounblockwebsite.info
 waytowealth.co.cc
 wayunblockweb.co.cc
@@ -24064,6 +24062,7 @@ websiteproxy.co.uk
 websiteproxy.com
 websiteproxy.net
 websiteredirect.com
+websitesschool.cz.cc
 websiteunblock.com
 websiteunblocked.com
 webslinger81.appspot.com
@@ -25446,6 +25445,7 @@ www.beefcurtains.org
 www.beel.info
 www.beemine.info
 www.beenbanned.com
+www.beer.dj
 www.beespeed.info
 www.beezee.info
 www.beijingcm.com
@@ -26322,6 +26322,7 @@ www.corporateinsurance.info
 www.corro.info
 www.corrupters.com
 www.corsario.info
+www.costfuel.com
 www.costmaninc.com
 www.cotse.net
 www.coud.info
@@ -29716,6 +29717,7 @@ www.nationalcreditreport.info
 www.naturalproxy.com
 www.nava-proxy.tk
 www.navigationprivee.com
+www.naviguer.ca
 www.navydog.com
 www.nawt.info
 www.nazlimcafe.com
@@ -34203,6 +34205,7 @@ www.utopiapal.com
 www.utor.info
 www.utunnel.com
 www.utunnel.net
+www.uu.tj
 www.uugy.com
 www.uupv.com
 www.uuui.info
@@ -35372,6 +35375,7 @@ yetcom.info
 yfinance.info
 yfyr.com
 yfzo.com
+yh.hk1.shuaib.icu
 yh.themcgoughs.org
 yichongwu.cn
 yihuaxi.cn
