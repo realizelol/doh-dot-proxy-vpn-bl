@@ -15196,6 +15196,7 @@ class2u.info
 classab.info
 classbites.info
 classbreak.info
+classbrowser.com
 classesite.info
 classfinder.info
 classhide.com
@@ -43401,6 +43402,7 @@ loudproxy.ga
 loudproxy.gq
 loudproxy.ml
 loudsheep.ddns.net
+louisiana.cz.cc
 loukan.tk
 lounge.lava.cl
 loungebutler.info
@@ -53327,6 +53329,7 @@ photosfrombrazil.com
 photoshoping.net
 photoshopvideos.info
 phototeam.tk
+phototype.cz.cc
 photowebsurf.tk
 phound.info
 phoxxxy.com
@@ -56168,6 +56171,7 @@ proxinbox.us
 proxincrocks.info
 proxiness.info
 proxinet.info
+proxinetwork.com
 proxinfohd.tk
 proxing.asiaprinter.se
 proxingalive.info
@@ -81020,6 +81024,7 @@ unblock.errors-msg.net
 unblock.ezeserv.com
 unblock.flydewey.com
 unblock.freeftp.eu
+unblock.freehost.net.au
 unblock.freewhost.com
 unblock.fufu.hk
 unblock.fungamexyz.com
@@ -86561,6 +86566,7 @@ webproxie.us
 webproxies.be
 webproxies.biz
 webproxies.cn
+webproxies.co.vu
 webproxies.eu
 webproxies.in
 webproxies.win
