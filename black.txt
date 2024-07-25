@@ -296,7 +296,6 @@
 21ew.co.cc
 21stcenturybusiness.info
 2290.info
-232u.com
 23a.org
 247entry.com
 247proxies.co.cc
@@ -430,6 +429,7 @@
 3sixty5.net
 3sk.info
 3toc.com
+3u6gx7qomyqyul1l.myfritz.net
 3xit.net
 4-2.info
 4-6.us
@@ -4305,7 +4305,6 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5026,7 +5025,6 @@ darya.persiannit.net
 dash.flylcc.cc
 dashproxy.com
 dassault-aviation.co.cc
-data-security.cz.cc
 database.development.sanluix.org
 datadefense.org
 datafil.cn
@@ -6947,6 +6945,7 @@ dr-adguard.de
 dr.ag
 dr.jp.sslbb.win
 dr3ams.co.cc
+draconis1.eu.org
 dragonbypass.co.cc
 dragonoid.co.cc
 dragonspring.tk
@@ -7518,7 +7517,6 @@ eusko.org
 euuforex.co.cc
 ev-goztepe.duckdns.org
 evade123.com
-evaded.net
 evadefilters.com
 evaha.com
 evantbyrne.info
@@ -7630,6 +7628,7 @@ eyet.info
 eyg01.dnscry.pt
 eyou.eu
 eyuforex.co.cc
+eyym.com
 ez-proxy.co.cc
 ez9.info
 ezcrack.info
@@ -7825,7 +7824,6 @@ fast2furious.co.cc
 fast333.co.cc
 fastair.info
 fastamericanproxy.co.cc
-fastandfast.cz.cc
 fastaninonimous.co.cc
 fastanonimousweb.co.cc
 fastapp.eu
@@ -8079,7 +8077,6 @@ filestore.info
 fill-me.co.cc
 filtax.com
 filter.das.sch.id
-filter2005.com
 filterax.nz.gs
 filterbay.com
 filterblast.com
@@ -8216,6 +8213,7 @@ fireheap.com
 fireprox.com
 fireprox.net
 fireproxy.com
+firewall-filter.cz.cc
 firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
@@ -8353,7 +8351,6 @@ folk-network.co.cc
 follforex.co.cc
 follow-into.co.cc
 followed.co.cc
-follower-unblock.cz.cc
 following-these.co.cc
 followproxy.co.cc
 fomme.com
@@ -8409,6 +8406,7 @@ forex-demo.co.cc
 forex-filter.co.cc
 forex-forex-forex.co.cc
 forex-forums-2.tk
+forex-futures.cz.cc
 forex-haven.co.cc
 forex-lulu-demo.co.cc
 forex-men.co.cc
@@ -9489,6 +9487,7 @@ get-fast-access.co.cc
 get-freesurf.co.cc
 get-invizible.co.cc
 get-online.xyz
+get-resolution-ok-cdn.dahi.icu
 get-them.co.cc
 get-unblocked.co.cc
 get-vuze-vpn.com
@@ -9994,6 +9993,7 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
+greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -10439,7 +10439,6 @@ hidelive.com
 hideman.net
 hideme.be
 hideme.bestbux.net
-hideme.cz.cc
 hideme.de
 hideme.ed.mu
 hideme.eu
@@ -10510,7 +10509,6 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
-hidenall.co.vu
 hidencute.co.vu
 hidengine.co.cc
 hidenip.co.vu
@@ -11618,7 +11616,6 @@ iyeb.com
 iyoriforex.co.cc
 iyou.info
 izapi4.fr
-izhide.com
 izin.info
 izlio.com
 izzyco.nl
@@ -11664,6 +11661,7 @@ javacentral.net
 javajehovah.co.cc
 javajive.co.cc
 javakeraton.co.cc
+javi.lat
 javnowaaabbbcccs.tk
 jaxi.info
 jayanforex.co.cc
@@ -11875,6 +11873,7 @@ justprox.co.cc
 justproxy.co.uk
 justproxy.eu
 justproxy.me
+justproxy.net
 justproxy78iesite.tk
 justproxyit.com
 justrapid.com
@@ -12526,7 +12525,6 @@ likeall.info
 likebehind.co.cc
 likedomain.co.cc
 likeface07.tk
-likehiden.co.vu
 likemyeyes.co.cc
 likest.cn
 likethis-hole.co.cc
@@ -13543,6 +13541,7 @@ mountainfreeze.co.cc
 mour.info
 mousearound.info
 mousematrix.com
+mouseproxy.com
 mouseroad.com
 moveblock.com
 moveseek.com
@@ -14825,6 +14824,7 @@ open-p.co.cc
 open-proxies.blogspot.com
 open-resolver1.unima.ac.id
 open-surf.com
+open-today.cz.cc
 open-websites.us
 open.dns0.eu
 open.srv1.org
@@ -15276,6 +15276,7 @@ pccoach.ddns.net
 pcd96.duckdns.org
 pcgo.fun
 pcgraffiti.com
+pci-dss.cz.cc
 pcjco.ovh
 pcmesh.com
 pcornet.freeboxos.fr
@@ -15723,6 +15724,8 @@ ppz.net
 pq7hdf.com
 pqh.ddns.net
 pqypql.com
+pr-suspensions-neuweb-biz.expedrion.biz
+pr-suspensions.go.co
 pr0x1.com
 pr0xy.com
 pr0xy.eu
@@ -16854,7 +16857,6 @@ proxychoice.com
 proxychrome.co.cc
 proxycircle.com
 proxycity.com
-proxyclan.com
 proxyclass.com
 proxycle.com
 proxyclick.eu
@@ -17343,7 +17345,6 @@ proxyrack.co.cc
 proxyraid.info
 proxyrain.com
 proxyrangers.info
-proxyrank.com
 proxyranker.com
 proxyranks.com
 proxyraptor.com
@@ -17691,7 +17692,6 @@ proxywiz.com
 proxywizards.com
 proxywork.com
 proxyworks.com
-proxyworld.cz.cc
 proxyworm.com
 proxywsay.info
 proxywsproxys.tk
@@ -18203,6 +18203,7 @@ reflect4.me
 refreforex.co.cc
 refreshing-unlock.co.cc
 refugeurl.info
+registry-web-suspension-1912215664.us-east-1.elb.amazonaws.com
 regmin.com
 regzaproxy.co.cc
 rehabdrug.co.cc
@@ -18524,6 +18525,7 @@ royalchallengers.in
 royalproxy.co.cc
 royalproxy.info
 rpz-public-resolver1.rrdns.pch.net
+rr88.net
 rrdb.org
 rs1.theil.dev
 rselite.com
@@ -19429,6 +19431,7 @@ sip.amigo-mgn.ru
 sips.my.id
 siqn.com
 sirfur.info
+sirius1.eu.org
 sirty.com
 sise.info
 sisum.co.cc
@@ -20054,7 +20057,6 @@ srm.name
 sromforex.co.cc
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
-srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 srvnet.co.cc
@@ -20303,7 +20305,6 @@ studentmask.com
 studentmotivate.co.cc
 studentplay.co.cc
 studentproxy.com
-studentshield.cz.cc
 studentslackers.com
 studentwant.co.cc
 studentwantit.co.cc
@@ -21732,6 +21733,7 @@ tkedge.com
 tku.in
 tky-dns.bitdefender.net
 tl-l.com
+tldn.org
 tlembuk.co.cc
 tlembukpasar.co.cc
 tll01.dnscry.pt
@@ -22782,7 +22784,6 @@ unblockme.net
 unblockme.us
 unblockmedia.com
 unblockmenow.com
-unblockmenow.cz.cc
 unblockmyip.com
 unblockmyschool.ws
 unblockmysite.com
@@ -25930,7 +25931,6 @@ www.bypassany.info
 www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
-www.bypassed.org
 www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
@@ -26404,6 +26404,7 @@ www.coyr.com
 www.cpanote.com
 www.cpct.net
 www.cproxy.com
+www.cqul.com
 www.cqxin.com
 www.crackip.com
 www.crak.info
@@ -27663,6 +27664,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -29042,6 +29044,7 @@ www.kt8.org
 www.ktunnel.com
 www.ktunnel.net
 www.ktunnelproxy.com
+www.kuaforpazari.com
 www.kuco.info
 www.kudok.cn
 www.kuesu.com
@@ -30261,7 +30264,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -31793,6 +31795,7 @@ www.py3.info
 www.py4.info
 www.pyaw.com
 www.pyrez.com
+www.pytp.com
 www.pzeg.com
 www.pzoomer.com
 www.pzxa.com
@@ -32675,7 +32678,6 @@ www.sneaky1.com
 www.sneaky9.com
 www.sneakyaccess.com
 www.sneakybaby.com
-www.sneakydude.com
 www.sneakyfilters.info
 www.sneakyinternet.com
 www.sneakyjoe.com
@@ -34643,7 +34645,6 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
-www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
@@ -34850,6 +34851,7 @@ www.xbypass.com
 www.xcaptor.com
 www.xclicks.info
 www.xcollege.cn
+www.xdfg.net
 www.xe1.net
 www.xeaq.com
 www.xeem.info
@@ -35250,6 +35252,7 @@ xerosurf.com
 xetb.com
 xev.in
 xew.in
+xexe.cz.cc
 xfastnet.co.cc
 xfer.au
 xfreeschool.co.cc
@@ -35679,6 +35682,7 @@ zerotunnel.com
 zerovpn-app.com
 zetland.rm-ni.uk
 zeuz.org
+zexx.cz.cc
 zfilez.org
 zfreez.com
 zgta.com
