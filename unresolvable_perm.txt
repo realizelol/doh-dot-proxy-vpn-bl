@@ -59838,6 +59838,7 @@ proxycircle.info
 proxycity.info
 proxycitys.cn
 proxyck.com
+proxyclan.com
 proxyclass.info
 proxyclassic.com
 proxyclassified.com
@@ -63179,6 +63180,7 @@ proxyworker.tk
 proxyworks.net
 proxyworld.altervista.org
 proxyworld.cf
+proxyworld.cz.cc
 proxyworld.ga
 proxyworld.info
 proxyworlds.tk
@@ -153016,6 +153018,7 @@ www.sneakychucknorris.info
 www.sneakycloak.info
 www.sneakyconnect.info
 www.sneakydog.info
+www.sneakydude.com
 www.sneakyeight.info
 www.sneakyfive.info
 www.sneakyfour.info
