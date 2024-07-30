@@ -215,6 +215,7 @@
 1browse.info
 1clickvpn.net
 1club.info
+1costaricalink.com
 1dns.dev
 1dot1dot1dot1.cloudflare-dns.com
 1ee.top
@@ -1979,7 +1980,6 @@ apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
-api.cloud.rigaprecast.com
 api.cloudflareclient.com
 aplace.tk
 apladas.planet.ee
@@ -1989,7 +1989,6 @@ apol.info
 apollon.nz.gs
 apoo.info
 apoyar.info
-app.cloud.rigaprecast.com
 apparelnews.co.cc
 appart.yoannchappaz.best
 appearancesurf.co.cc
@@ -3098,7 +3097,6 @@ blocksufer.co.cc
 blocksurfer.co.cc
 blockthesense.co.cc
 blog-proxy.blogspot.com
-blog.cloud.rigaprecast.com
 blog.kimiblock.top
 blog2.bigciti.com
 blog2.dnbmedia.com
@@ -4065,7 +4063,6 @@ checkrighttime.co.cc
 checksbox.co.cc
 checkthe.info
 checktlistsed.co.cc
-checkup-proxies.cz.cc
 checkwiki.info
 cheekychipmunk.com
 cheekyproxy.com
@@ -4197,7 +4194,6 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
-clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4293,6 +4289,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4450,7 +4447,6 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4965,7 +4961,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5176,7 +5171,6 @@ deltagsm.net
 deluxehidevpnusa.tk
 demaio.co.cc
 demand-all.co.cc
-demo.cloud.rigaprecast.com
 demononthebooks.co.cc
 demonproxy.com
 demonstrated.mask.wtf.la
@@ -5258,6 +5252,7 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -5334,7 +5329,6 @@ discoforex.co.cc
 disconnect.me
 discountshoes.tk
 discover-some.co.cc
-discover.cz.cc
 discovered.mask.wtf.la
 disfraza.com
 disguised.info
@@ -5746,7 +5740,6 @@ dns.guard.io
 dns.guoxueziyuan.com
 dns.h0me.cc
 dns.h0schi.cloud
-dns.h3z.jp
 dns.ha-dvin.pp.ua
 dns.hackerwolf.xyz
 dns.hahnjo.de
@@ -6037,7 +6030,6 @@ dns.odinpl.com
 dns.odirf.de
 dns.ofdoom.net
 dns.oii.im
-dns.olgui.net
 dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
@@ -6527,7 +6519,6 @@ docker.youler.com
 docker.zhczax50pzofm4g4.myfritz.net
 dockernet.vpsburti.com
 docoja.com
-docs.cloud.rigaprecast.com
 docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
@@ -7628,7 +7619,6 @@ ezvideo.info
 f-a-s-t-e-r.co.cc
 f-itc.be
 f.761761.xyz
-f03a0e2fa9f5.sn.mynetname.net
 f1.dns.s3cure.me
 f4fp.com
 f4sthost.com
@@ -8195,6 +8185,7 @@ fireprox.com
 fireprox.net
 fireproxy.com
 firewall-filter.cz.cc
+firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8650,12 +8641,10 @@ fortliberty.org
 fortniters.info
 fortunelink.co.cc
 forum-pro.net
-forum.cloud.rigaprecast.com
 forum.ginovs.nl
 forum007.com
 forumand.com
 forumhosting.co.cc
-forunblocked.co.vu
 forwardprox.tk
 forwardproxie.com
 fosta.net
@@ -8850,7 +8839,6 @@ freegrantsurf.co.cc
 freeguard.info
 freehaven.net
 freehiddenvpn.gq
-freehidemyip.cz.cc
 freehidemyipaddress.blogspot.in
 freehighlevel.co.cc
 freehollandproxy.nl
@@ -9339,7 +9327,6 @@ gamevic.com
 gamingssh.com
 gamingunited.info
 ganalbanar.co.cc
-gandhico2.duckdns.org
 gang4.info
 gangparadise.com
 ganl.lieverkaal.nl
@@ -9617,6 +9604,7 @@ giydirmeoyunlari.oyunmemo.com
 gizlen.net
 gizlibaglanti.com
 gizlink.com
+gizlio.com
 gizliweb.com
 gizmo-bypass.co.cc
 gizoogle.com
@@ -10424,6 +10412,7 @@ hidemefast.net
 hidemefirst.com
 hidemeforex.co.cc
 hidemein.com
+hidemenow.cz.cc
 hidemenow.net
 hidemenow.ws
 hidemeproxy.cn
@@ -10481,6 +10470,7 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
+hidenall.co.vu
 hidencute.co.vu
 hidengine.co.cc
 hidenip.co.vu
@@ -12488,7 +12478,6 @@ likeall.info
 likebehind.co.cc
 likedomain.co.cc
 likeface07.tk
-likehiden.co.vu
 likemyeyes.co.cc
 likest.cn
 likethis-hole.co.cc
@@ -13209,7 +13198,6 @@ metalvideo.cz
 metasecurity.co.cc
 metaspinner-media.de
 metemma.com
-meteor.newsofmaricopa.com
 meteor1.eu.org
 methods-inside.co.cc
 metis.sheggi.ch
@@ -13505,7 +13493,6 @@ mousematrix.com
 mouseroad.com
 moveblock.com
 moveseek.com
-movieproxy.com
 movies4frees.co.cc
 moviesclub.org
 movietunnel.co.cc
@@ -14731,7 +14718,6 @@ onlinemarketingz.co.cc
 onlinenewbie.com
 onlineparalegal.co.cc
 onlineplay.info
-onlinepoker.cz.cc
 onlineproxy.ca
 onlineproxy.eu
 onlineproxy.io
@@ -14777,6 +14763,7 @@ open-p.co.cc
 open-proxies.blogspot.com
 open-resolver1.unima.ac.id
 open-surf.com
+open-today.cz.cc
 open-websites.us
 open.dns0.eu
 open.srv1.org
@@ -15227,7 +15214,6 @@ pccoach.ddns.net
 pcd96.duckdns.org
 pcgo.fun
 pcgraffiti.com
-pci-dss.cz.cc
 pcjco.ovh
 pcmesh.com
 pcornet.freeboxos.fr
@@ -16610,6 +16596,7 @@ proxy1.yoof.info
 proxy101.com
 proxy10gator.tk
 proxy111.com
+proxy1210.cz.cc
 proxy13.com
 proxy14.com
 proxy180.com
@@ -16640,6 +16627,7 @@ proxy46.com
 proxy4browsing.com
 proxy4college73.co.cc
 proxy4down.com
+proxy4free.co.vu
 proxy4free.com
 proxy4free.info
 proxy4free.me
@@ -17930,7 +17918,6 @@ qxfr.com
 qyue.com
 qyzv.com
 r-h.info
-r.j0.icom.org.np
 r0p.net
 r1bnc.com
 r1bnc.eu.org
@@ -17998,7 +17985,6 @@ rankpage.co.cc
 rapatrt.co.cc
 rapid.000a.de
 rapid.2gb.cc
-rapid.bigbox.info
 rapid.hoster3.com
 rapid.vizprint.com
 rapid.webnote.us
@@ -18534,7 +18520,6 @@ s-proxy.com
 s.101818.xyz
 s.960423.xyz
 s.idsam.com
-s.j0.icom.org.np
 s.lovestylish.com
 s.salome.my.id
 s1.rfsoftdev.ru
@@ -20393,7 +20378,6 @@ suppervpn-duper8-proxyips.tk
 supplementaire.com
 support-for.co.cc
 support-unlocksurf.co.cc
-support.cloud.rigaprecast.com
 supported.asdfg.us
 supportproxie.co.cc
 suppressor.info
@@ -20683,7 +20667,6 @@ surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
 surffitness.co.cc
-surfforex.cz.cc
 surfforextrading.co.cc
 surffreedom.com
 surffreegrants.co.cc
@@ -21214,7 +21197,6 @@ t-application.website
 t-dz.com
 t-vir.us
 t.jimmy.best
-t.lifestylethailand.com
 t1-proxy.co.cc
 t3r.info
 t9space.com
@@ -22692,11 +22674,13 @@ unblockit.ca
 unblockit.club
 unblockit.cn
 unblockit.eu
+unblockit.foo
 unblockit.id
 unblockit.in
 unblockit.link
 unblockit.ltd
 unblockit.me
+unblockit.meme
 unblockit.one
 unblockit.onl
 unblockit.pages.dev
@@ -22713,6 +22697,7 @@ unblockme.net
 unblockme.us
 unblockmedia.com
 unblockmenow.com
+unblockmenow.cz.cc
 unblockmyip.com
 unblockmyschool.ws
 unblockmysite.com
@@ -24318,7 +24303,6 @@ workproxy.net
 workrelated.info
 workrelatedworkstuff.appspot.com
 worksfire.co.cc
-workshop.precisewarehousing.com
 worksocial.info
 workstudyplay.com
 worksurfing.com
@@ -24673,7 +24657,6 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
-www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -24785,7 +24768,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -29696,7 +29678,6 @@ www.nationalcreditreport.info
 www.naturalproxy.com
 www.nava-proxy.tk
 www.navigationprivee.com
-www.naviguer.ca
 www.navydog.com
 www.nawt.info
 www.nazlimcafe.com
@@ -29898,6 +29879,7 @@ www.noto11.com
 www.notoneway.com
 www.notraceleft.com
 www.notrack.info
+www.notrack.org
 www.notrespassers.com
 www.notschool.info
 www.notthere.info
@@ -30183,6 +30165,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -30758,7 +30741,6 @@ www.proxy-online.com
 www.proxy-online.net
 www.proxy-pagedewebings.tk
 www.proxy-pass.com
-www.proxy-server.info
 www.proxy-server.org
 www.proxy-servers.info
 www.proxy-service.de
@@ -32797,6 +32779,7 @@ www.sre8.com
 www.srelo.com
 www.srgaghome.freemyip.com
 www.srvr.cn
+www.srwt.net
 www.ssap.info
 www.ssdoc.com
 www.sseo.info
@@ -34178,6 +34161,7 @@ www.utopiapal.com
 www.utor.info
 www.utunnel.com
 www.utunnel.net
+www.uu.tj
 www.uugy.com
 www.uupv.com
 www.uuui.info
@@ -34541,6 +34525,7 @@ www.webscale.info
 www.webschool.info
 www.websiteguru.com
 www.websitehider.com
+www.websiteopener.com
 www.websiteproxy.com
 www.websiteredirect.com
 www.websiteunblock.com
@@ -34767,6 +34752,7 @@ www.xbypass.com
 www.xcaptor.com
 www.xclicks.info
 www.xcollege.cn
+www.xdfg.net
 www.xe1.net
 www.xeaq.com
 www.xeem.info
@@ -35007,6 +34993,7 @@ www.zaxiproxy.com
 www.zbook.us
 www.zburger.top
 www.zbux.net
+www.zcha.com
 www.zeak.info
 www.zebradns.com
 www.zed1.com
