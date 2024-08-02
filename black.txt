@@ -2569,7 +2569,6 @@ bdns.io
 bdns.link
 bdns.nu
 bdns.pro
-bdomainnames.cz.cc
 bduforex.co.cc
 be-a-great.co.cc
 be-anywhere.co.cc
@@ -4291,7 +4290,6 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4318,7 +4316,6 @@ cmscfd.tk
 cmsforex.cz.cc
 cmsforexaccount.co.cc
 cmsforexakias.co.cc
-cmsforexdemo.cz.cc
 cmssky.com
 cmuforex.co.cc
 cn.turngreatwall.com
@@ -6789,7 +6786,6 @@ dominatrix.brandonsli.com
 dominoan.co.cc
 dominus.cz.cc
 domor.cz.cc
-domovoy.cz.cc
 domoz.cz.cc
 domx.info
 donare.info
@@ -7428,7 +7424,6 @@ especially-we.co.cc
 especiallyfree.co.cc
 espera.info
 esperanzas.info
-esproxy.com
 essenceoflove.co.cc
 essencero.net
 essential-subjected.co.cc
@@ -7558,6 +7553,7 @@ experienced.mask.wtf.la
 experimented.mask.wtf.la
 expertproxy.com
 experts-use.co.cc
+expired.hichina.com
 explode5.com
 explorehistory.co.uk
 exploreonline.info
@@ -9059,6 +9055,7 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
+freewebproxy.co.vu
 freewebproxy.com
 freewebproxy.net
 freewebproxy.net.cn
@@ -9218,7 +9215,6 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
-furnished.mask.wtf.la
 furniturelanddirect.com
 furproxie.co.cc
 furyforex.co.cc
@@ -9482,6 +9478,7 @@ getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
 getgodady.info
+gethidden.cz.cc
 gethide.com
 gethide.net
 geti2p.net
@@ -10408,6 +10405,7 @@ hidemefast.net
 hidemefirst.com
 hidemeforex.co.cc
 hidemein.com
+hidemenow.cz.cc
 hidemenow.net
 hidemenow.ws
 hidemeproxy.cn
@@ -10466,6 +10464,7 @@ hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
 hidenall.co.vu
+hidencute.co.vu
 hidengine.co.cc
 hidenip.co.vu
 hidenproxxy.tk
@@ -11163,7 +11162,6 @@ infernia.com
 infiniteproxy.info
 infisol.com
 inflatable-grip.co.cc
-influenced.mask.wtf.la
 influi.com
 info-hub.de
 infobuds.com
@@ -11230,7 +11228,6 @@ instantsite.info
 instantunblock.com
 instantunblockwebsite.info
 insteadvpn.co.cc
-instructed.mask.wtf.la
 insuauto.com
 insuranceautotips.co.cc
 insuranceforteens.co.cc
@@ -11244,17 +11241,14 @@ insurancesurfing.info
 insureforex.co.cc
 intactor.nz.gs
 intego.com
-integrated.mask.wtf.la
 integration.dnsteam.globuscs.info
 integretiesed.co.cc
 intelbuek.co.cc
 intellinkual.com
 intelliproxy.com
 inteltunnel.co.cc
-intensified.mask.wtf.la
 inter4activeprox.tk
 interbet.cn
-interceded.mask.wtf.la
 intercomnet.co.cc
 interestingly.eu.org
 interfree.com
@@ -11283,7 +11277,6 @@ internetunblock.com
 internetwpracy.appspot.com
 interphp.nz.gs
 intersurf.nz.gs
-intervened.mask.wtf.la
 interview.hiringtest.com
 intervpn.com
 interwin.co.cc
@@ -11779,6 +11772,7 @@ jumping-top.co.cc
 jumpstation.co.cc
 jumpthewall.com
 junemoon.net
+jungle-im.ir
 jungleproxy.com
 junglesurf.tk
 junkproxies.co.cc
@@ -12106,7 +12100,6 @@ konidin.co.cc
 konoko.co.cc
 kontenbloggue.co.cc
 kontolo.com
-konut.net
 koo.mynumber.org
 koolsurf.co.cc
 koperasi-indonesia.com
@@ -13359,7 +13352,6 @@ mockblock.com
 mocking-muffler.co.cc
 modal-auxilary.co.cc
 modeforex.co.cc
-moderated.mask.wtf.la
 modernproxy.com
 modio.info
 moep.us
@@ -13416,7 +13408,6 @@ montase.com
 monthlyssh.net
 monthlytoday.co.cc
 monthpayroll.co.cc
-montmorot.duckdns.org
 monty.best
 monvpn.com
 moolahsurf.co.cc
@@ -14752,7 +14743,6 @@ open-p.co.cc
 open-proxies.blogspot.com
 open-resolver1.unima.ac.id
 open-surf.com
-open-today.cz.cc
 open-websites.us
 open.dns0.eu
 open.srv1.org
@@ -14919,7 +14909,6 @@ orangeproxy.net
 orasrv.kellys.pw
 orau.lz0724.com
 orbic.info
-orchestrated.mask.wtf.la
 ord01.dnscry.pt
 order-best.co.cc
 orderbyone.co.cc
@@ -15249,7 +15238,6 @@ peoplesproxy.com
 pepperproxy.com
 peqno.com
 per.adfilter.net
-perceived.mask.wtf.la
 percival.empty.pw
 perfect-privacy.com
 perfecthide.com
@@ -15823,7 +15811,6 @@ problock.info
 probs.info
 probxy.nz.gs
 probyte.top
-processed.mask.wtf.la
 procheck.info
 procks.com
 procksee.com
@@ -17997,6 +17984,7 @@ rapidwire.net
 rapper.net
 raqc.net
 rarebay.com
+ras.brian-wee.com
 rashforex.co.cc
 rasp.matthias-iwer.de
 rateavon.je
@@ -18030,7 +18018,6 @@ rd4.info
 rd6.info
 rd7.info
 rdio.info
-rdjcloud.duckdns.org
 rdjdns.ajraspi.xyz
 rdkz.com
 rdns-a.adtech-it.com
@@ -18186,6 +18173,7 @@ renforex.co.cc
 renovaciones.info
 renseforex.co.cc
 reorg.biz
+reorganized.mask.wtf.la
 repaircredit.co.cc
 replieforex.co.cc
 repocket.co
@@ -19967,6 +19955,7 @@ srm.name
 sromforex.co.cc
 srv-revprox-01.atakorah.com
 srv1.web-mx.eu
+srv2.bartoszturek.online
 srv2.data-host.de
 srv5.jiripocta.cz
 srvnet.co.cc
@@ -20211,7 +20200,6 @@ studentmask.com
 studentmotivate.co.cc
 studentplay.co.cc
 studentproxy.com
-studentshield.cz.cc
 studentslackers.com
 studentwant.co.cc
 studentwantit.co.cc
@@ -20648,7 +20636,6 @@ surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
 surffitness.co.cc
-surfforex.cz.cc
 surfforextrading.co.cc
 surffreedom.com
 surffreegrants.co.cc
@@ -21226,7 +21213,6 @@ tanggalnom.co.cc
 tanxxx.free.fr
 tanyahati.co.cc
 tapor.com
-targeted.mask.wtf.la
 targetforex.co.cc
 targetsurf.co.cc
 tarni.pp.ua
@@ -21251,7 +21237,6 @@ td-doh.dns.t53.de
 tdec.info
 teah.info
 teamconnect.info
-teamed.mask.wtf.la
 teamproxy.com
 teamproxylist24.eu.com
 teamproxylist24.us.com
@@ -21357,7 +21342,6 @@ texasthe.com
 texrob.co.cc
 textproxylists.com
 tezin.com
-tezoi.duckdns.org
 tezzoo.com
 tfarolz.com
 tfsi.fibersurf.co.cc
@@ -23004,7 +22988,6 @@ up9.info
 upaj.net
 upbrite.com
 upcoming-delegation.co.cc
-updated.mask.wtf.la
 updatedproxies.com
 upgrade-programme.co.cc
 upgradednow.co.cc
@@ -23453,6 +23436,7 @@ vnzw.com
 vobas.com
 vocesinocentes.co.cc
 vodo.info
+voiced.mask.wtf.la
 voidid.com
 volcano.nz.gs
 volcanoerupt.co.cc
@@ -23597,6 +23581,7 @@ vpnsecure.me
 vpnshazam.com
 vpnshieldapp.com
 vpnsuper.app
+vpnto.bhadrikais.my.id
 vpntraffic.com
 vpntunnel.com
 vpntunnel.net
@@ -23847,6 +23832,7 @@ wdns.233py.com
 wealthypot.com
 weaning.co.cc
 wearoff.co.cc
+weathered.mask.wtf.la
 web-blaster.org
 web-fast.com
 web-proxies.org
@@ -24031,7 +24017,6 @@ webtypeunblok.co.cc
 webunblock.com
 webunblocker.com
 webunblocksites.info
-webunlocker.com
 webuzz.net
 webvq.com
 webwarper.net
@@ -24466,7 +24451,6 @@ www.1block.info
 www.1browse.cn
 www.1browse.info
 www.1club.info
-www.1costaricalink.com
 www.1ee.top
 www.1foru.org
 www.1foxy.com
@@ -26263,7 +26247,6 @@ www.corporateinsurance.info
 www.corro.info
 www.corrupters.com
 www.corsario.info
-www.costfuel.com
 www.costmaninc.com
 www.cotse.net
 www.coud.info
@@ -26650,7 +26633,6 @@ www.dwap.info
 www.dwape.com
 www.dwiloan.com
 www.dxuh.com
-www.dxuu.com
 www.dy9.org
 www.dygar.com
 www.dynander.com
@@ -26851,6 +26833,7 @@ www.euroteam.pl
 www.eurproxy.com
 www.eusko.org
 www.evade123.com
+www.evaded.net
 www.evadefilters.com
 www.evaha.com
 www.evantbyrne.info
@@ -27652,6 +27635,7 @@ www.getmearound.com
 www.getmepast.com
 www.getmepast.ws
 www.getnet.info
+www.getnewip.com
 www.getnow.biz
 www.getonfacebook.com
 www.getonthis.info
@@ -28390,7 +28374,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -28924,7 +28907,6 @@ www.kt8.org
 www.ktunnel.com
 www.ktunnel.net
 www.ktunnelproxy.com
-www.kuaforpazari.com
 www.kuco.info
 www.kudok.cn
 www.kuesu.com
@@ -34825,6 +34807,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -35079,7 +35062,6 @@ x-browser.co.cc
 x-fast.co.cc
 x-it.us
 x-kicker.co.cc
-x-o-x.duckdns.org
 x-pass.info
 x-proxy.com
 x-proxy.info
