@@ -25764,6 +25764,7 @@ folk-music.info
 folksfind.tk
 folletos.info
 follower-bypass.tk
+follower-unblock.cz.cc
 followerinet.tk
 followextends.tk
 followhomeled.tk
@@ -35702,6 +35703,7 @@ highwin.tk
 hignweb-anonymous-bestvpns.tk
 hignweb-anonymous-vpn.tk
 hignwebbestanonymousbestvpns.tk
+higpu.cn
 hihealths.tk
 hikelinkresource.tk
 hikingsafesurf1.tk
