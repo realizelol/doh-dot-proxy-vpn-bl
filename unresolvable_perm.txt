@@ -28008,6 +28008,7 @@ freehide.cn
 freehide.tk
 freehideip.org
 freehideme.top
+freehidemyip.cz.cc
 freehidemyip.info
 freehidenfast.tk
 freehider.ga
@@ -61508,6 +61509,7 @@ proxynow-offertkg-surfdes.tk
 proxynow-proxyforthewtks.tk
 proxynow.eu
 proxynow.info
+proxynow.net
 proxynow.top
 proxynow2.tk
 proxynow3.tk
@@ -68642,6 +68644,7 @@ sharechrome.info
 sharechromerope.tk
 shared.clawed.info
 shared.ed.mu
+shared.mask.wtf.la
 shareday.cf
 shareday.ga
 shareday.ml
@@ -83985,6 +83988,7 @@ useatwork.info
 usebebo.com
 usecloack.tk
 useconomyreports.tk
+used.mask.wtf.la
 usedas.tk
 usedcaronline.tk
 usedcarsineed.tk
@@ -84413,6 +84417,7 @@ valerie.ed.mu
 valessor.com
 valhala.tk
 valid-proxyi.tk
+validated.mask.wtf.la
 validatorchat.com
 validfreeproxy.tk
 validsurf.ed.mu
@@ -144890,6 +144895,7 @@ www.proxynow-offertkg-surfdes.tk
 www.proxynow-proxyforthewtks.tk
 www.proxynow.eu
 www.proxynow.info
+www.proxynow.net
 www.proxynow.top
 www.proxynow2.tk
 www.proxynow3.tk
