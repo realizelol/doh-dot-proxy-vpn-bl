@@ -45692,6 +45692,7 @@ modelwork.info
 modemproxy.info
 modemspeed.info
 modemsurf.info
+moderated.mask.wtf.la
 moderateonline.info
 modern-vpn.info
 modernhide.info
@@ -58086,6 +58087,7 @@ proxy.necomputerhelp.com
 proxy.neonxone.com
 proxy.neonxone.net
 proxy.neonxone.org
+proxy.net
 proxy.netsolbd.com
 proxy.newayrx.com
 proxy.newenglandcomputerservices.com
@@ -72495,6 +72497,7 @@ stressfreesurf.tk
 stressprox.info
 stresstestproxy.tk
 stresswagon.tk
+stretched.mask.wtf.la
 stretchoi-proxys.tk
 stretchoi-webs.tk
 stretchoiproxy.tk
