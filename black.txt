@@ -208,6 +208,7 @@
 1a.ns.ozer.im
 1and-online24h.tk
 1b.ns.ozer.im
+1banproxy.com
 1bestofproxy.appspot.com
 1block.info
 1blocker.ed.mu
@@ -5388,6 +5389,7 @@ dns-53.uk
 dns-53.us
 dns-adguard.cloudnx.cloud
 dns-adguard.ru
+dns-ads.jupitrdns.com
 dns-br.leonardo.tec.br
 dns-cache.switch.ch
 dns-cache2.switch.ch
@@ -5400,6 +5402,7 @@ dns-enzel.de
 dns-ext.familiamichels.com.br
 dns-family.adguard.com
 dns-family.esegece.com
+dns-firewall.cz.cc
 dns-fr-psv1.cloudsides.com
 dns-frankfurt.mii-xms.com
 dns-free.link
@@ -6076,7 +6079,6 @@ dns.odirf.de
 dns.ofdoom.net
 dns.oii.im
 dns.oliviertv.co.za
-dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ord.chriswang.work
 dns.orencak.eu
@@ -6830,6 +6832,7 @@ domainerhouse.com
 domainerproxy.cz.cc
 domainforextrade.co.cc
 domainname.cz.cc
+domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -6850,6 +6853,7 @@ dominated.info
 dominatrix.brandonsli.com
 dominoan.co.cc
 dominus.cz.cc
+domor.cz.cc
 domovoy.cz.cc
 domoz.cz.cc
 domx.info
@@ -7544,6 +7548,7 @@ eusko.org
 euuforex.co.cc
 ev-goztepe.duckdns.org
 evade123.com
+evaded.net
 evadefilters.com
 evaha.com
 evantbyrne.info
@@ -7614,6 +7619,7 @@ exorcismus.co.cc
 exoticnow.co.cc
 exp99.com
 expatshield.com
+expedited.mask.wtf.la
 experience-pass.co.cc
 experienced-many.co.cc
 experienced.mask.wtf.la
@@ -7799,7 +7805,6 @@ faplix.com
 fappersdelight.com
 faqorigin.co.cc
 faqtech.co.cc
-faqtup.nl
 faradns.net
 faradns2.net
 faraon.nz.gs
@@ -9909,6 +9914,7 @@ gotoproxy.com
 gotour.info
 gotoworldcup.co.cc
 gotproxies.com
+gotproxy.co.vu
 gotrusted.com
 gouc.fr
 gouforex.co.cc
@@ -11287,7 +11293,6 @@ instantsite.info
 instantunblock.com
 instantunblockwebsite.info
 insteadvpn.co.cc
-instructed.mask.wtf.la
 insuauto.com
 insuranceautotips.co.cc
 insuranceforteens.co.cc
@@ -11427,7 +11432,6 @@ iphant.de
 iphappy.com
 ipharaon.ru
 iphawk.info
-iphide.890m.com
 iphide.fibersurf.co.cc
 iphide.pl
 iphideaway.com
@@ -11761,7 +11765,6 @@ jobscorps.co.cc
 jobsexperd.co.cc
 jobsmonster.co.cc
 jobworker.co.cc
-joeltheodore.com
 joeproxy.com
 jofo.info
 johnsoninteractive.com
@@ -14802,7 +14805,6 @@ open-p.co.cc
 open-proxies.blogspot.com
 open-resolver1.unima.ac.id
 open-surf.com
-open-today.cz.cc
 open-websites.us
 open.dns0.eu
 open.srv1.org
@@ -15162,6 +15164,7 @@ par01.dnscry.pt
 paradforex.co.cc
 paradisesurf.co.cc
 paranoia.mydns.network
+pared.mask.wtf.la
 parikann.co.cc
 paris.de.com
 paris.divapark.com
@@ -15837,6 +15840,7 @@ privateproxy.net
 privateproxyreviews.com
 privateshadow.com
 privatesurf.co.cc
+privatesurf.co.vu
 privatesurf.us
 privatesurfforme.net
 privatesurfing.co.cc
@@ -16625,6 +16629,7 @@ proxy1.yoof.info
 proxy101.com
 proxy10gator.tk
 proxy111.com
+proxy1210.cz.cc
 proxy13.com
 proxy14.com
 proxy180.com
@@ -16883,7 +16888,6 @@ proxydrop.biz
 proxydrop.com
 proxydrop.info
 proxydrop.org
-proxyds.com
 proxyduchess.info
 proxydude.com
 proxydude.red
@@ -17307,7 +17311,6 @@ proxyrack.co.cc
 proxyraid.info
 proxyrain.com
 proxyrangers.info
-proxyrank.com
 proxyranker.com
 proxyranks.com
 proxyraptor.com
@@ -18005,6 +18008,7 @@ randomspike.com
 randomsurf.co.cc
 range-option.co.cc
 rank-high.co.cc
+ranked.mask.wtf.la
 rankpage.co.cc
 rapatrt.co.cc
 rapid.000a.de
@@ -18103,6 +18107,7 @@ recordproxies.co.cc
 recordsproxies.co.cc
 recovered.mask.wtf.la
 recta.info
+rectified.mask.wtf.la
 recure.com
 recycledmaterials.info
 recyclingcorner.com
@@ -18136,6 +18141,7 @@ redsea.meetz.pw
 redsniper.co.cc
 redspicy.com
 redsurfer.com
+reduced.mask.wtf.la
 redus.info
 redwy.com
 redzone1945.co.cc
@@ -18172,6 +18178,7 @@ reliableinfo.info
 reliableproxy.com
 reliablesplit.co.cc
 relibao.cn
+relied.mask.wtf.la
 relieforex.co.cc
 rellforex.co.cc
 reload-config.co.cc
@@ -18622,7 +18629,6 @@ safetypass.info
 safetysite.co.cc
 safetysurf.net
 safetyweb.co.cc
-safeunblock.com
 safeunblokweb.co.cc
 safevisit.net
 safeways.info
@@ -19015,6 +19021,7 @@ sekure.info
 selamatpagidok.co.cc
 selasiforex.co.cc
 selected-years.co.cc
+selected.mask.wtf.la
 selectsurf.co.cc
 self-destructing-email.com
 selfadserver.com
@@ -19166,6 +19173,7 @@ sg.teradns.org
 sg01.dns4me.net
 sg1-1.362430.xyz
 sg1.dnswarden.com
+sg2.curl.rs
 sg2.ooroot.com
 sg2.tt502.eu.org
 sga21.es
@@ -21365,7 +21373,6 @@ testaghome.meshkov.info
 testars.com
 testedprxy.co.cc
 testguard.meexx.de
-testified.mask.wtf.la
 testpilot.firefox.com
 tetapi.info
 tethforex.co.cc
@@ -21473,6 +21480,7 @@ theproxy.be
 theproxy.biz
 theproxy.bz
 theproxy.cc
+theproxy.club
 theproxy.com
 theproxy.dev
 theproxy.fun
@@ -21486,12 +21494,14 @@ theproxy.link
 theproxy.lol
 theproxy.me
 theproxy.page
+theproxy.red
 theproxy.us
 theproxy.vip
 theproxy.work
 theproxy.ws
 theproxy1-1.appspot.com
 theproxy2.biz
+theproxy2.cc
 theproxy2.com
 theproxy2.info
 theproxy2.org
@@ -21504,6 +21514,7 @@ theproxyconnection.com
 theproxyddl.com
 theproxyer.com
 theproxyfree.com
+theproxyfull.com
 theproxyguide.com
 theproxyguy.com
 theproxyhost.com
@@ -21512,6 +21523,7 @@ theproxylist.com
 theproxysite.com
 theproxysite.info
 theproxysite.org
+theproxysports.com
 theproxyultra.com
 theproxyx.appspot.com
 therabbitvpn.com
@@ -21857,7 +21869,6 @@ traceless.com
 traceroutes.co.cc
 track1.co.cc
 track5.co.cc
-tracked.mask.wtf.la
 trackingfreesurf.co.cc
 trackless.co.uk
 trackprxy.co.cc
@@ -22290,7 +22301,9 @@ ultrafun.net
 ultrahigh.co.cc
 ultrajoss.co.cc
 ultrajuegos.info
+ultraproxy.biz
 ultraproxy.info
+ultraproxyweb.com
 ultrareach.com
 ultrareach.net
 ultrasurf.es
@@ -22332,6 +22345,7 @@ unblock-directed.co.cc
 unblock-free.co.cc
 unblock-freepass.co.cc
 unblock-improvement.co.cc
+unblock-it.com
 unblock-me-facebook.com
 unblock-me-now.info
 unblock-me.co.cc
@@ -22562,6 +22576,7 @@ unblocked2.red
 unblocked2.space
 unblocked2.us
 unblocked2.vip
+unblocked4.com
 unblocked4.me
 unblocked4u.net
 unblocked4u.org
@@ -22746,6 +22761,7 @@ unblocks.net
 unblockschool.com
 unblocksit.es
 unblocksite-maneuver.co.cc
+unblocksite.biz
 unblocksite.ch
 unblocksite.eu
 unblocksite.fun
@@ -22872,7 +22888,6 @@ undergrounddesi.com
 undergrowing.co.cc
 underpass.info
 underplug.com
-underscored.mask.wtf.la
 undertheradar.info
 underthewall.info
 undetectableproxy.com
@@ -23476,6 +23491,7 @@ vnzw.com
 vobas.com
 vocesinocentes.co.cc
 vodo.info
+voiced.mask.wtf.la
 voidid.com
 volcano.nz.gs
 volcanoerupt.co.cc
@@ -23972,6 +23988,7 @@ webproxy4free.ga
 webproxy4free.gq
 webproxy4free.info
 webproxy4free.ml
+webproxyagent.com
 webproxybrowser.com
 webproxyfree.net
 webproxyinc.com
@@ -24171,6 +24188,7 @@ wikiproxy.com
 wikisurfer.co.cc
 wiksa.com
 wildcat.hawkhost.com
+wildproxy.info
 wildsurf.co.cc
 wildsurf.info
 wildtunnel.com
@@ -24643,7 +24661,6 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
-www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -25820,7 +25837,6 @@ www.bypassany.info
 www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
-www.bypassed.org
 www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
@@ -28398,7 +28414,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -28683,7 +28698,6 @@ www.ixmv.com
 www.ixune.com
 www.iyeb.com
 www.iyou.info
-www.izhide.com
 www.izlio.com
 www.j0f.info
 www.j2x.org
@@ -30725,7 +30739,6 @@ www.proxy-online.com
 www.proxy-online.net
 www.proxy-pagedewebings.tk
 www.proxy-pass.com
-www.proxy-server.info
 www.proxy-server.org
 www.proxy-servers.info
 www.proxy-service.de
@@ -34974,7 +34987,6 @@ www.zaxiproxy.com
 www.zbook.us
 www.zburger.top
 www.zbux.net
-www.zcha.com
 www.zeak.info
 www.zebradns.com
 www.zed1.com
@@ -35216,7 +35228,6 @@ xsproxyhtcs.tk
 xsruf.co.cc
 xstl.objet.seia.io
 xstl.seia.io
-xtbuy.com
 xteensx.co.cc
 xtrapremium.com
 xtremeline.co.cc
