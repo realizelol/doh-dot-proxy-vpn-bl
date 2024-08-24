@@ -19474,6 +19474,7 @@ dns-asia.wugui.zone
 dns-cluster1.lewsion.com
 dns-east.tylerwahl.com
 dns-family.duckdns.org
+dns-firewall.cz.cc
 dns-gcp.aaflalo.me
 dns-nyc.aaflalo.me
 dns-primary.giaan.org
@@ -20857,6 +20858,7 @@ e-proxysurf.info
 e-proxysurfz.tk
 e-puzzle.info
 e-redemption.tk
+e-students.cz.cc
 e-surf-proxies.info
 e-surfproxies.tk
 e-surfproxy.info
@@ -25752,6 +25754,7 @@ fobproxy.info
 foby.info
 focue.tk
 focuscylinder.tk
+focused.mask.wtf.la
 focusizer.tk
 focusonnowproxy.tk
 focusonnowproxys.tk
@@ -37070,6 +37073,7 @@ hyperventilate.tk
 hypervocal.tk
 hyperwebproxy.com
 hypnoritual.tk
+hypnotized.mask.wtf.la
 hypoallergenicpets.tk
 hyposi.info
 hyposurf.nz.gs
@@ -37876,6 +37880,7 @@ indiaproxy.info
 indiaproxy.net
 indiasurf.info
 indiatrip.xyz
+indicated.mask.wtf.la
 indiesurf.tk
 indign.net
 indirectprogress.info
@@ -38184,6 +38189,7 @@ intenses-bestproxys.tk
 intenseus-proxy.tk
 intenseus-proxys.tk
 intenseus6-proxys.tk
+intensified.mask.wtf.la
 intensivebrowsing.tk
 intensivetop.tk
 intent-ltd.com
@@ -38200,6 +38206,7 @@ interballonline.info
 interbreedin.tk
 interbully.info
 interbypass.info
+interceded.mask.wtf.la
 interdancenow.info
 interes-10trates.tk
 interest-rates.tk
@@ -42259,6 +42266,7 @@ libreaccess.com
 librero.info
 libwww.info
 libyadeputy.tk
+licensed.mask.wtf.la
 licensefast.tk
 licenseschool.info
 lichenruberplanus.tk
@@ -52102,6 +52110,7 @@ over1over.com
 overacity.com
 overba.info
 overblank.tk
+overcame.mask.wtf.la
 overcloak.info
 overco.info
 overcome.tk
@@ -64455,6 +64464,7 @@ ranisurf.tk
 rank-ptc.com
 rank.profliste.com
 rankbux.net
+ranked.mask.wtf.la
 rankhighly.tk
 ranonlinetayo.com
 ranstock.tk
@@ -64905,6 +64915,7 @@ recordhigh.tk
 recordi.tk
 recovercrashs.tk
 recoverdata-2013.tk
+recovered.mask.wtf.la
 recovery-2013.tk
 recovery-access.co.tv
 recovery-raid.tk
@@ -68071,6 +68082,7 @@ selawik.tk
 select-proxy.info
 selectbay.tk
 selected.clawed.info
+selected.mask.wtf.la
 selectel.tk
 selecteme.cf
 selecteme.gq
