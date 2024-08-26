@@ -973,7 +973,6 @@ adguard.abd.ong
 adguard.abdullahabas.online
 adguard.acrobyte.org
 adguard.agadez.net
-adguard.ajinga.net
 adguard.alex-tools.dev
 adguard.almanasports.com
 adguard.alu.dog
@@ -1995,7 +1994,6 @@ apple.ftpaccess.cc
 applefroth.com
 applenokia.co.cc
 appleofarcher.co.cc
-appleproxy.com
 applied-privacy.net
 applied-to.co.cc
 appliforex.co.cc
@@ -2007,7 +2005,6 @@ apps.facebook.com.web.tld.cc
 appsforexian.co.cc
 appshost.us
 appspect.com
-aprendizaje.info
 aprforex.co.cc
 aprilfool.co.cc
 aprilproxy.flu.cc
@@ -4519,6 +4516,7 @@ coolproxy.com
 coolstartpages.com
 coolsurf4.co.cc
 cooltunnel.com
+coolunblocked.co.vu
 coolway.info
 coolyoutubeproxy.com
 copetbrokerforex.co.cc
@@ -5535,7 +5533,6 @@ dns.busold.ws
 dns.bw.i81.ru
 dns.c0ntroller.de
 dns.cachitopetshop.com
-dns.caksono.com
 dns.carson-family.com
 dns.carter.me
 dns.cases.works
@@ -6500,7 +6497,6 @@ dnscrypt-cert.ffmuc.net
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
-dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.akali666.top
@@ -6798,7 +6794,6 @@ domainerhouse.com
 domainerproxy.cz.cc
 domainforextrade.co.cc
 domainname.cz.cc
-domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -6820,7 +6815,6 @@ dominatrix.brandonsli.com
 dominoan.co.cc
 dominus.cz.cc
 domor.cz.cc
-domovoy.cz.cc
 domoz.cz.cc
 domx.info
 donare.info
@@ -7911,7 +7905,6 @@ fastproxy.co.cc
 fastproxy.in
 fastproxy.info
 fastproxy.n8.biz
-fastproxy.nl
 fastproxy.org
 fastproxy.win
 fastproxy.ws
@@ -10162,7 +10155,6 @@ hatimpro.com
 hatl.info
 hatorproxy.co.cc
 hattee.co.cc
-hauxcore.de
 havanaprxy.co.cc
 have-chosen.co.cc
 have-reserved.co.cc
@@ -10480,12 +10472,12 @@ hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
 hidenall.co.vu
+hidencute.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
 hidenseek.org
 hidenspace.nz.gs
-hidenthis.co.vu
 hideofall.co.cc
 hideonline.net
 hideoxy.com
@@ -12214,6 +12206,7 @@ kwee.info
 kwiq.net
 kword.info
 kwork.info
+kx-97795-tr.xyz
 kx.qing-book.online
 kyjiep.com
 kytx.co.cc
@@ -13352,7 +13345,6 @@ mobilework.eu
 mobilsurf.co.cc
 mobiproxy.com
 mobla.info
-mobrain.xyz
 mobrender.com
 mocaf.co.cc
 mocau.com
@@ -13441,7 +13433,6 @@ moreproxies.com
 moreproxylist.co.cc
 morethanfast.co.cc
 morevpn.com
-moritaa.vv.si
 morning-glory.co.cc
 morningfolks.co.cc
 morninghunger.co.cc
@@ -13856,7 +13847,6 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -14752,6 +14742,7 @@ open-p.co.cc
 open-proxies.blogspot.com
 open-resolver1.unima.ac.id
 open-surf.com
+open-today.cz.cc
 open-websites.us
 open.dns0.eu
 open.srv1.org
@@ -17959,7 +17950,6 @@ rankpage.co.cc
 rapatrt.co.cc
 rapid.000a.de
 rapid.2gb.cc
-rapid.bigbox.info
 rapid.hoster3.com
 rapid.vizprint.com
 rapid.webnote.us
@@ -19240,7 +19230,6 @@ showvision.info
 shredingbusinees.co.cc
 shriv.com
 shru.info
-shrunkunseeingbacklight.info
 shuttlebusexpress.com
 shwforex.co.cc
 shybbw.myz.info
@@ -20186,6 +20175,7 @@ studentmask.com
 studentmotivate.co.cc
 studentplay.co.cc
 studentproxy.com
+studentshield.cz.cc
 studentslackers.com
 studentwant.co.cc
 studentwantit.co.cc
@@ -22642,7 +22632,6 @@ unblockit.one
 unblockit.onl
 unblockit.pages.dev
 unblockit.pro
-unblockit.rsvp
 unblockit.uno
 unblockliteforexsite.co.cc
 unblockliteforexsites.co.cc
@@ -23465,7 +23454,6 @@ vpn-for-test.ru
 vpn-free.com
 vpn-free.download
 vpn-proxies.co.cc
-vpn-quick.com
 vpn-server.xyz
 vpn-services.co.cc
 vpn-tw.teng.sh
@@ -23553,7 +23541,6 @@ vpnpie.org
 vpnprivacy.com
 vpnprivacy.services
 vpnpro.com
-vpnproxy.info
 vpnproxy.online
 vpnproxy.org
 vpnproxy.pw
@@ -24710,7 +24697,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -26586,6 +26572,7 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
+www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -27225,7 +27212,6 @@ www.foxyproxy.net
 www.fozz.info
 www.fpiu.com
 www.fpra.info
-www.fpx0.com
 www.fraction.ws
 www.fral.info
 www.france-alarme-nord.fr
@@ -28350,6 +28336,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -35166,7 +35153,6 @@ xsproxyhtcs.tk
 xsruf.co.cc
 xstl.objet.seia.io
 xstl.seia.io
-xtbuy.com
 xteensx.co.cc
 xtrapremium.com
 xtremeline.co.cc
@@ -35190,7 +35176,6 @@ xxicinema.co.cc
 xxx1.co.cc
 xxx24h.com
 xxxproxy.com
-xxxxx.cz.cc
 xycredit.com
 xyou.info
 xypro.info
@@ -35333,7 +35318,6 @@ your.eye.rs
 your2pass.nz.gs
 yourcheat.com
 yourcrazyshop.com
-yourdomainz.cz.cc
 youreatinghabits.com
 yourfree.eu
 yourfreedom.net
