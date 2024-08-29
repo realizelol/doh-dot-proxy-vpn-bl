@@ -609,7 +609,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -932,7 +931,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.pidns.de
 adg.pssv.top
-adg.qwqwe.link
 adg.rokh.biz
 adg.rueiliu.space
 adg.siudzinski.net
@@ -948,6 +946,7 @@ adgh.laufan.cn
 adgh.skyview.click
 adghome.charleschan.net
 adghome.joseph.com.ph
+adghome.mail-endpoint.com
 adghome2.mail-endpoint.com
 adghs.de
 adgrm.duckdns.org
@@ -1007,7 +1006,6 @@ adguard.dantynes.cyou
 adguard.dashofsunny.com
 adguard.dbase.in.rs
 adguard.ddns.net
-adguard.deersg.duckdns.org
 adguard.dehb.ru
 adguard.dekonix.ru
 adguard.demaks.org
@@ -1063,7 +1061,6 @@ adguard.johanliebert.top
 adguard.johndave.me
 adguard.jwhan99.xyz
 adguard.k-likhachev.ru
-adguard.kamrul.dev
 adguard.kenzohost.de
 adguard.kiboko.it
 adguard.kngnet.de
@@ -1148,7 +1145,6 @@ adguard.stoian.top
 adguard.streamlas.fr
 adguard.superbest.eu.org
 adguard.superstefan.win
-adguard.syobon.net
 adguard.taufner.net
 adguard.tcpu.io
 adguard.tenkoff.ru
@@ -1261,6 +1257,7 @@ adsfree.ddns.net
 adsfysdfgiuy.ydns.eu
 adslsslpage.co.cc
 adsocialmediamarketing.com
+adsv.duckdns.org
 adtec.aidentec.top
 adtforex.co.cc
 adtsecure.co.cc
@@ -1334,7 +1331,6 @@ ag.brianlee.fun
 ag.felixf.eu
 ag.ff0x.ca
 ag.hostme.co.il
-ag.iyn.one
 ag.linux.repair
 ag.marschi.de
 ag.ssrahul96.xyz
@@ -1457,6 +1453,7 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.ibd.ink
 alaforex.cz.cc
 alahgaberlah.co.cc
+alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -1650,6 +1647,7 @@ ampihan.co.cc
 ampsurf.co.cc
 ampswap.com
 amrforex.co.cc
+ams.core.access.zznet.fun
 ams01.dnscry.pt
 ams02.dnscry.pt
 ams1.startpage.com
@@ -2077,6 +2075,7 @@ arkadium.ed.mu
 arkadiy.myip.org
 arkeyboard.com
 arm-bar.co.cc
+arm.adblocker.eu.org
 arm2.nzcow.com
 arm3.nzcow.com
 armageddon.smkteluknaga.com
@@ -2130,6 +2129,7 @@ asecure.co.cc
 aseek.info
 asemkyeh.co.cc
 asesy.com
+ashidden.co.vu
 ashish.me
 asia.dased.com
 asiancities.org
@@ -2137,6 +2137,7 @@ asiansports.info
 asip.info
 ask-would.co.cc
 askabanforex.co.cc
+askatu.duckdns.org
 askgamblers.net
 askimcafe.com
 askm.info
@@ -2475,7 +2476,6 @@ bananaboatonline.com
 bananacake.co.cc
 bananaproxy.eu
 bananavpn.com
-banane.uk
 bandido.org
 bandwidthusage.co.cc
 bangaloreeducation.co.cc
@@ -2680,7 +2680,6 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
-best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -2712,7 +2711,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -3354,6 +3352,7 @@ browse-free.com
 browse.1industry.com
 browse.abccompany.biz
 browse.auraria.org
+browse.colodex.com
 browse.compuinter.com
 browse.maxposter.com
 browse000.co.cc
@@ -3498,7 +3497,6 @@ bushido.node.rferee.dev
 bushmancastle.duckdns.org
 busineesschool.co.cc
 business-firewalls.cz.cc
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -3845,7 +3843,6 @@ caricaturizar.com
 carinsurancecost.info
 carinsuranceforteens.co.cc
 carioka.dyndns.org
-carlaw.cz.cc
 carloancalc.co.cc
 carmodel.co.cc
 carpical.com
@@ -4059,7 +4056,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4173,7 +4169,6 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
-clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4269,7 +4264,6 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4423,7 +4417,6 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4515,6 +4508,7 @@ coolproxy.com
 coolstartpages.com
 coolsurf4.co.cc
 cooltunnel.com
+coolunblocked.co.vu
 coolway.info
 coolyoutubeproxy.com
 copetbrokerforex.co.cc
@@ -4935,7 +4929,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5126,6 +5119,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5383,7 +5377,6 @@ dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-over-https.com
 dns-ovh.panszelescik.pl
-dns-pa.incogdns.com
 dns-preview-alb-541438575.us-east-1.elb.amazonaws.com
 dns-privacy.puregeni.us
 dns-prod-alb-194669935.us-east-1.elb.amazonaws.com
@@ -5720,6 +5713,7 @@ dns.ginovs.nl
 dns.giorgiooppo.it
 dns.girino.org
 dns.glf.wtf
+dns.glsoft.ai
 dns.gmserv.cc
 dns.gnb09.id
 dns.goldplate.org
@@ -5876,6 +5870,7 @@ dns.kostydenis.me
 dns.kozich.net
 dns.kr.chavy.dev
 dns.kriswerry.nl
+dns.kritsa0.xyz
 dns.krol.cloud
 dns.krushkov.com
 dns.ksusonic.tech
@@ -6137,7 +6132,6 @@ dns.roedel.cloud
 dns.rohanjain.in
 dns.ronc.ru
 dns.root.me
-dns.root.rip
 dns.rootlab.top
 dns.rotunneling.net
 dns.rshtkdn.ru
@@ -6154,6 +6148,7 @@ dns.saneaki.com
 dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
+dns.sark.dev
 dns.sb
 dns.sbstructure.ir
 dns.scapetical.com
@@ -6231,11 +6226,13 @@ dns.tb4.me
 dns.tbnk.ca
 dns.teaminfo.fr
 dns.techcpu.net
+dns.techcrackr.com
 dns.technologycage.com
 dns.technostriker.com
 dns.tefuir0829.cn
 dns.telekom.de
 dns.tesem.dog
+dns.thd2020.cloud
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.theres.one
@@ -6351,6 +6348,7 @@ dns.ymv8.cn
 dns.youni.win
 dns.yrrev.com
 dns.yu.dev
+dns.yuanmu.site
 dns.yumenashyi.com
 dns.yyaan.com
 dns.yyaan.top
@@ -7809,7 +7807,6 @@ fast2furious.co.cc
 fast333.co.cc
 fastair.info
 fastamericanproxy.co.cc
-fastandfast.cz.cc
 fastaninonimous.co.cc
 fastanonimousweb.co.cc
 fastapp.eu
@@ -7995,6 +7992,7 @@ federallawyerforex.co.cc
 federforex.co.cc
 federicoferri.ovh
 feedsgo.com
+feef.cz.cc
 feel-beat.co.cc
 feelingtheblanks.com
 feelmuchbetter.co.cc
@@ -8196,6 +8194,7 @@ fireprox.com
 fireprox.net
 fireproxy.com
 firewall-filter.cz.cc
+firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8345,7 +8344,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9018,6 +9016,7 @@ freesurf.info
 freesurf.pl
 freesurferbypass.co.cc
 freesurfin.co.cc
+freesurfing.esy.es
 freesurfing.my3gb.com
 freesurfproxy.org
 freesurfway.co.cc
@@ -9087,7 +9086,6 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
-freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -9494,7 +9492,6 @@ getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
 getgodady.info
-gethidden.cz.cc
 gethide.com
 gethide.net
 geti2p.net
@@ -9863,6 +9860,7 @@ gotoproxy.com
 gotour.info
 gotoworldcup.co.cc
 gotproxies.com
+gotproxy.co.vu
 gotrusted.com
 gouc.fr
 gouforex.co.cc
@@ -10241,6 +10239,7 @@ herunazel.co.cc
 hesh.info
 heshan18.com
 heterochromia.co.cc
+hetz.sapient.cyou
 heuo.com
 hewletproxy.co.cc
 hexagonal.info
@@ -10607,7 +10606,6 @@ hk.559299366.xyz
 hk.ahua.ltd
 hk.end.pub
 hk.janebooom.com
-hk.layjune.com
 hk.mangosysdns.com
 hk.meidouling.com
 hk.ravi.top
@@ -11455,6 +11453,7 @@ irim.info
 iris.woozeno.eu
 iron-dot-cobalt-antenna-219709.appspot.com
 ironclads.co.cc
+irondome-inter.net
 ironore.co.cc
 ironsocket.com
 ironsurf.co.cc
@@ -12007,6 +12006,7 @@ kidsmath.info
 kiev-security.org.ua
 kievproxy.nz.gs
 kigelia-africana.co.cc
+kigurumi.space
 kikis.net16.net
 kilabit.info
 killads.vpms.xyz
@@ -12303,7 +12303,6 @@ layla-clapton-surf.co.cc
 layoutfly.com
 lazerprxy.co.cc
 lboxtv.top
-lbtboy.ru
 lc.fibersurf.co.cc
 lcproxy.com
 le-mesle.fr
@@ -13362,6 +13361,7 @@ mofolinux.com
 moforex.co.cc
 mofreetime.com
 mohicanaxes.co.cc
+moise-et-maurice-gardent-la-maison.schneiderus.org
 mojagames.com
 mojoyoyo.com
 moka9.com
@@ -13795,8 +13795,6 @@ n11649246144.netvigator.com
 n2.zmy.cloud
 n5.lsasss.com
 n777.info
-na.ash.adguard.01.joshseveros.network
-na.phx.adguard.01.joshseveros.network
 nabire.co.cc
 nadik.host
 nafftunnel.co.cc
@@ -14480,6 +14478,7 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nz7.info
 nzzm.com
+o--o.duckdns.org
 o-0proxy.coolpage.biz
 o-itc.be
 o.rsaikat.com
@@ -14746,7 +14745,6 @@ open-p.co.cc
 open-proxies.blogspot.com
 open-resolver1.unima.ac.id
 open-surf.com
-open-today.cz.cc
 open-websites.us
 open.dns0.eu
 open.srv1.org
@@ -15953,6 +15951,7 @@ proxee.biz
 proxee.ws
 proxeey.com
 proxeight.co.cc
+proxer.890m.com
 proxer.ru
 proxers.com
 proxert.com
@@ -16568,7 +16567,6 @@ proxy1.yoof.info
 proxy101.com
 proxy10gator.tk
 proxy111.com
-proxy1210.cz.cc
 proxy13.com
 proxy14.com
 proxy180.com
@@ -17779,6 +17777,7 @@ pygos.space
 pyproxy.com
 pyrez.com
 pyrxyoproyxoprxoyporpxyxop.o0k.info
+pytp.com
 pyuu.co.cc
 pzeg.com
 pzoomer.com
@@ -18310,7 +18309,6 @@ rjnox.com
 rko.in
 rku.in
 rnbnow.co.cc
-rndns.com
 rnmap.com
 ro-buc-w-1.nashkan.net
 ro-buc-w-f-1.nashkan.net
@@ -18420,6 +18418,7 @@ rpz-public-resolver1.rrdns.pch.net
 rr88.net
 rrdb.org
 rselite.com
+rsiso.com
 rsocks.net
 rt5rw3.co.cc
 rtun.info
@@ -18484,6 +18483,7 @@ s1.s2.shahramv1.site
 s1.srch.top
 s1on1.com
 s1p.info
+s2.d3mik.ru
 s2.rfsoftdev.ru
 s20.info
 s2vm.com
@@ -18612,6 +18612,7 @@ santabanta.ws
 santabreak.co.cc
 sanved.org
 sanyosurf.co.cc
+sanyulim.publicvm.com
 saomai.dynu.com
 saoudiproxy.info
 saoxa.sieuvip.com
@@ -19032,6 +19033,7 @@ serveur-yan.synology.me
 serveurproxy.net
 service-disruption.co.cc
 service.c698fc0a.cfd
+service.f170137e.icu
 service.yu.dev
 serviceasset.co.cc
 servicecompany.xyz
@@ -19106,7 +19108,6 @@ sg1.dnswarden.com
 sg2.curl.rs
 sg2.ooroot.com
 sg2.tt502.eu.org
-sga21.es
 sglegacy.com
 sgn01.dnscry.pt
 sgp.vpn.i-2.io
@@ -19311,6 +19312,7 @@ sip.amigo-mgn.ru
 sips.my.id
 siqn.com
 sirfur.info
+sirius1.eu.org
 sirty.com
 sise.info
 sisum.co.cc
@@ -22991,6 +22993,7 @@ uqep.com
 uqet.com
 uqqr.com
 uqwu.com
+uqwy.com
 uqxu.com
 uqzu.com
 ur-browser.com
@@ -24587,6 +24590,7 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
+www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -25540,7 +25544,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -26236,6 +26239,7 @@ www.coyr.com
 www.cpanote.com
 www.cpct.net
 www.cproxy.com
+www.cqul.com
 www.cqxin.com
 www.crackip.com
 www.crak.info
@@ -28804,6 +28808,7 @@ www.kickassunblock.info
 www.kickip.com
 www.kicks-ass.net
 www.kidsmath.info
+www.kigurumi.space
 www.killaroxy.com
 www.killblock.com
 www.killfilter.com
@@ -30088,6 +30093,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -33347,7 +33353,6 @@ www.toolforschool.info
 www.top-proxy.cn
 www.top-proxys.com
 www.top-site-list.com
-www.top100proxysites.com
 www.top20free.com
 www.topanon.com
 www.topaproxy.tk
@@ -34728,7 +34733,6 @@ www.xsent.com
 www.xsproxy.com
 www.xsproxyhtc.tk
 www.xsproxyhtcs.tk
-www.xtbuy.com
 www.xteb.biz
 www.xtrapremium.com
 www.xtreview.com
@@ -34764,7 +34768,6 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
-www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -35177,7 +35180,6 @@ xxicinema.co.cc
 xxx1.co.cc
 xxx24h.com
 xxxproxy.com
-xxxxx.cz.cc
 xycredit.com
 xyou.info
 xypro.info
@@ -35547,6 +35549,7 @@ zoopark-vpn.ddns.net
 zoophilia-sexpics.szanalmas.hu
 zoout.com
 zoozle.org
+zopp.cz.cc
 zoppass.com
 zorox.me
 zorrovpn.io
@@ -35593,3 +35596,4 @@ zz.darkenproject.com
 zzoop.com
 zzyzz.info
 zzzz.taidzi.com
+zzzzz.cz.cc
