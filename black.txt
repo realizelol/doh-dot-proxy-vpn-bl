@@ -609,6 +609,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -1453,7 +1454,6 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.ibd.ink
 alaforex.cz.cc
 alahgaberlah.co.cc
-alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -2680,6 +2680,7 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
+best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -2711,6 +2712,7 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
+bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -3497,6 +3499,7 @@ bushido.node.rferee.dev
 bushmancastle.duckdns.org
 busineesschool.co.cc
 business-firewalls.cz.cc
+business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -4056,6 +4059,7 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
+chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4169,6 +4173,7 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
+clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4264,6 +4269,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4417,6 +4423,7 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4929,6 +4936,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -6294,7 +6302,6 @@ dns.vietdns.vn
 dns.vinnyp.xyz
 dns.vinnyradev.com
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vk09.ru
 dns.vladpro.ru
@@ -6763,8 +6770,10 @@ doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh2.seby.io
 doh3.almir1904.eu
+dohde.blahdns.com
 dohdns.com
 dohdot.coxlab.net
+dohsg.blahdns.com
 dohtrial.att.net
 doinforex.co.cc
 doitproxy.co.cc
@@ -6813,6 +6822,7 @@ dominantproxy.tk
 dominated.info
 dominatrix.brandonsli.com
 dominoan.co.cc
+dominus.cz.cc
 domor.cz.cc
 domovoy.cz.cc
 domoz.cz.cc
@@ -7798,7 +7808,6 @@ fast-unlock.co.cc
 fast-web.info
 fast-youtube.co.cc
 fast.17p.de
-fast.890m.com
 fast.agila.com.br
 fast.free-school.co.cc
 fast.proxy.com.de
@@ -7807,6 +7816,7 @@ fast2furious.co.cc
 fast333.co.cc
 fastair.info
 fastamericanproxy.co.cc
+fastandfast.cz.cc
 fastaninonimous.co.cc
 fastanonimousweb.co.cc
 fastapp.eu
@@ -8344,6 +8354,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -8384,7 +8395,6 @@ forex-demo.co.cc
 forex-filter.co.cc
 forex-forex-forex.co.cc
 forex-forums-2.tk
-forex-futures.cz.cc
 forex-haven.co.cc
 forex-lulu-demo.co.cc
 forex-men.co.cc
@@ -9086,6 +9096,7 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
+freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -11703,7 +11714,6 @@ jobscorps.co.cc
 jobsexperd.co.cc
 jobsmonster.co.cc
 jobworker.co.cc
-joeltheodore.com
 joeproxy.com
 jofo.info
 johnsoninteractive.com
@@ -14099,6 +14109,7 @@ ngrok.com
 ngrok.dev
 ngrok.io
 ngrok.pizza
+ngrok.pro
 ngsproxy.co.cc
 ngux.com
 nguyenmailinh.com
@@ -17777,7 +17788,6 @@ pygos.space
 pyproxy.com
 pyrez.com
 pyrxyoproyxoprxoyporpxyxop.o0k.info
-pytp.com
 pyuu.co.cc
 pzeg.com
 pzoomer.com
@@ -21726,7 +21736,6 @@ tor-gateways.de
 tor-proxy.net
 tor.bravesoftware.com
 tor.calyxinstitute.org
-tor.ccc.de
 tor.cloudflare-dns.com
 tor.eff.org
 tor.softonic.fr
@@ -22896,7 +22905,6 @@ unlimitedway.com
 unlimitedwebaccess.com
 unloadblock.co.cc
 unlocate.me
-unlocateme.com
 unlocator.com
 unlock-disaster.co.cc
 unlock-forex.co.cc
@@ -24702,7 +24710,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -25544,6 +25551,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -26220,7 +26228,6 @@ www.corsario.info
 www.costfuel.com
 www.costmaninc.com
 www.cotse.net
-www.coud.info
 www.coupon2free.com
 www.coursadom.com
 www.courtside.info
@@ -27497,6 +27504,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -32371,7 +32379,6 @@ www.sitesneak.com
 www.sitespass.info
 www.sitestounblocksites.info
 www.sitesunblock.com
-www.sitesunblocker.com
 www.sitesurf.net
 www.sitesurfs.com
 www.sitetounblockwebsite.info
@@ -33353,6 +33360,7 @@ www.toolforschool.info
 www.top-proxy.cn
 www.top-proxys.com
 www.top-site-list.com
+www.top100proxysites.com
 www.top20free.com
 www.topanon.com
 www.topaproxy.tk
@@ -34733,6 +34741,7 @@ www.xsent.com
 www.xsproxy.com
 www.xsproxyhtc.tk
 www.xsproxyhtcs.tk
+www.xtbuy.com
 www.xteb.biz
 www.xtrapremium.com
 www.xtreview.com
@@ -34768,6 +34777,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -35073,7 +35083,6 @@ xerosurf.com
 xetb.com
 xev.in
 xew.in
-xexe.cz.cc
 xfastnet.co.cc
 xfer.au
 xfreeschool.co.cc
@@ -35227,7 +35236,6 @@ ychen.gq
 ychen.tk
 yd6n63ptky.com
 ye-proxy.co.cc
-yed2.cz.cc
 yeg.in
 yeh.biz
 yellow-ip.appspot.com
@@ -35311,7 +35319,6 @@ youproxy.info
 youproxytube.com
 your-anonym-ip.czechian.net
 your-dns.run
-your-domain.cz.cc
 your-freedom.de
 your-freedom.net
 your-proxy.com
@@ -35499,6 +35506,7 @@ zerotunnel.com
 zerovpn-app.com
 zetland.rm-ni.uk
 zeuz.org
+zexx.cz.cc
 zfilez.org
 zfreez.com
 zgta.com
@@ -35549,7 +35557,6 @@ zoopark-vpn.ddns.net
 zoophilia-sexpics.szanalmas.hu
 zoout.com
 zoozle.org
-zopp.cz.cc
 zoppass.com
 zorox.me
 zorrovpn.io
