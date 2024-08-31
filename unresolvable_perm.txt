@@ -51374,6 +51374,7 @@ open-proxy.cf
 open-proxy.ga
 open-proxy.gq
 open-sites.tk
+open-today.cz.cc
 open-url.com
 open-use.tk
 open22.info
@@ -172165,6 +172166,7 @@ xxxlimit.com
 xxxproxysite.info
 xxxsitis.com
 xxxunlock.info
+xxxxx.cz.cc
 xxxzzzzz.info
 xxyz.info
 xxzp.info
