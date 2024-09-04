@@ -34421,6 +34421,7 @@ hide.si-ftp.net
 hide.smithnephew.ru
 hide.stringmatrix.net
 hide.tftpd32.cn
+hide.usa.cc
 hide.zabazut.org
 hide.zapatos-tango.com
 hide01.info
