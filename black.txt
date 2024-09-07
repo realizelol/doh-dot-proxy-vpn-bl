@@ -1454,6 +1454,7 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
 alaforex.cz.cc
 alahgaberlah.co.cc
+alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -10754,6 +10755,7 @@ hostingproxy.com
 hostless.club
 hostph.com
 hostplan.info
+hostsecure.info
 hostwindsor.com
 hot-surf.co.cc
 hotac.ir
@@ -15964,7 +15966,6 @@ proxee.biz
 proxee.ws
 proxeey.com
 proxeight.co.cc
-proxer.890m.com
 proxer.ru
 proxers.com
 proxert.com
@@ -18429,7 +18430,6 @@ rpz-public-resolver1.rrdns.pch.net
 rr88.net
 rrdb.org
 rselite.com
-rsiso.com
 rsocks.net
 rt5rw3.co.cc
 rtun.info
@@ -25776,6 +25776,7 @@ www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
 www.bypassed.org
+www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
 www.bypasser.org
@@ -25863,7 +25864,6 @@ www.cameleo.ru
 www.campesino.info
 www.campusace.info
 www.campusbypass.com
-www.camsurf.info
 www.canadaproxy.info
 www.canadianstarship.com
 www.canbeanywhere.com
@@ -26039,7 +26039,6 @@ www.ciuc.info
 www.clai.info
 www.clanx.info
 www.claremcdonald.info
-www.classbrowser.com
 www.classforward.com
 www.classref.com
 www.clav.info
@@ -26826,6 +26825,7 @@ www.everythingtoshare.com
 www.everywhere.es
 www.eviewer.info
 www.evilgorilla.com
+www.evpn.net
 www.evri.info
 www.evur.net
 www.ewebn.com
@@ -29445,6 +29445,7 @@ www.mrunblock.info
 www.mrwebnet.com
 www.ms-excel-help.com
 www.mspproxy.com
+www.msprofiles.com
 www.msproxies.com
 www.msproxy.com
 www.msproxy.net
@@ -30099,7 +30100,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -34368,7 +34368,6 @@ www.webbanane.de
 www.webbest8453s.tk
 www.webblocks.com
 www.webbounce.com
-www.webbypass.com
 www.webcore.info
 www.webcurtain.info
 www.webdigi.info
@@ -34775,6 +34774,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
