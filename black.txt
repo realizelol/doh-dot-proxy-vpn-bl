@@ -893,7 +893,6 @@ adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adblock.renedis.nl
 adblockdns.live
-adblocker.cpadin.com
 adblockersite.com
 adblockluna.com
 adbuy.info
@@ -989,6 +988,7 @@ adguard.blogssl.com
 adguard.bonis.de
 adguard.bonsirven.eu
 adguard.brandonsli.com
+adguard.c0rrre.rocks
 adguard.camn.uk
 adguard.cell.co.id
 adguard.cepenjak.com
@@ -1028,6 +1028,7 @@ adguard.eximpius.xyz
 adguard.exium.net
 adguard.ext.devkon.org
 adguard.ext.rizult.net
+adguard.eyadmojahed.ddnsgeek.com
 adguard.fam-rodenburg.nl
 adguard.fihch.ru
 adguard.frece.de
@@ -1454,7 +1455,6 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
 alaforex.cz.cc
 alahgaberlah.co.cc
-alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -4847,6 +4847,7 @@ d.onlyjsmylord.org
 d.toairs.com
 d.wcguo.space
 d.zscale.gq
+d1.insec.link
 d101vabyweqq2v.cloudfront.net
 d1058937.mydomainwebhost.com
 d11nlh9luc38sm.cloudfront.net
@@ -5611,6 +5612,7 @@ dns.deadsec.net
 dns.decisivedevops.com
 dns.decky.eu
 dns.decloudus.com
+dns.dedsec.cc
 dns.deekshith.in
 dns.dekedin.me
 dns.delitarus.ru
@@ -5621,7 +5623,6 @@ dns.diarbagus.id
 dns.digitale-gesellschaft.ch
 dns.digitalegesellschaft.ch
 dns.digitalsize.net
-dns.digiultsparrow.space
 dns.dionperera.com
 dns.dns-53.com
 dns.dns-53.uk
@@ -5731,7 +5732,6 @@ dns.google.com
 dns.goshawk22.uk
 dns.grqu.de
 dns.grusdas.net
-dns.gt500.ru
 dns.guard.io
 dns.guoxueziyuan.com
 dns.gutwe.in
@@ -5783,6 +5783,7 @@ dns.iamninja.ru
 dns.ian.rocks
 dns.ibakerserver.pt
 dns.iblockads.net
+dns.ifrez.tv
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
@@ -5919,6 +5920,7 @@ dns.lobbygod.com
 dns.loony-tech.de
 dns.lostvpn.ru
 dns.ltse.cloud
+dns.lululu.dev
 dns.luotianyi.net
 dns.lupine.solutions
 dns.lusk.xyz
@@ -5939,7 +5941,6 @@ dns.marbledfennec.net
 dns.marcbond.uk
 dns.mariasantana.com.br
 dns.mateo.ovh
-dns.mathewakhil.online
 dns.matthias-prost.com
 dns.maxte7.xyz
 dns.maybe.icu
@@ -6084,7 +6085,6 @@ dns.pizzari.me
 dns.pldweb.net
 dns.ple91.uk
 dns.pmxu.link
-dns.pnh.my.id
 dns.pointless.chat
 dns.porteii.com
 dns.powerbs.net
@@ -6099,7 +6099,6 @@ dns.psyk.fr
 dns.pub
 dns.pumpkinvrar.com
 dns.pumplex.com
-dns.purah.link
 dns.purbalinggakab.go.id
 dns.qdevs.tech
 dns.qkc.fr
@@ -7818,7 +7817,6 @@ fast2furious.co.cc
 fast333.co.cc
 fastair.info
 fastamericanproxy.co.cc
-fastandfast.cz.cc
 fastaninonimous.co.cc
 fastanonimousweb.co.cc
 fastapp.eu
@@ -7936,7 +7934,6 @@ fastsrf.co.cc
 fastssh.com
 faststprxy.co.cc
 faststudent.co.cc
-fastsurf.890m.com
 fastsurfingweb.co.cc
 fastt4.blogspot.com
 fasttime.info
@@ -8031,7 +8028,6 @@ ffpu.com
 ffs.in
 ffsurf.net
 ffuforex.co.cc
-fggdd.top
 fguforex.co.cc
 fhuforex.co.cc
 fi-hel-w-1.nashkan.net
@@ -9028,7 +9024,6 @@ freesurf.info
 freesurf.pl
 freesurferbypass.co.cc
 freesurfin.co.cc
-freesurfing.esy.es
 freesurfing.my3gb.com
 freesurfproxy.org
 freesurfway.co.cc
@@ -9098,7 +9093,6 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
-freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -9252,7 +9246,6 @@ fusionweb.info
 fusn.info
 futcom.glumi.net
 futuredata.co.cc
-futuregeek.tech
 futureniche.com
 futurepay.co.cc
 futureschools.co.cc
@@ -10155,7 +10148,6 @@ harpwap.nz.gs
 harrisherd.com
 hartalega.com
 harvardproxy.co.cc
-harveyhome.top
 hash.co.gp
 hashbrick.com
 hastforex.co.cc
@@ -10664,6 +10656,7 @@ hollywood.practicalalchemy.org
 holyrex.co.cc
 holyubvpn.com
 home-by.co.cc
+home-server.store
 home.basthorst.eu
 home.bruckmoser.it
 home.chadeyron.fr
@@ -11795,6 +11788,7 @@ jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
 jupitervpn.ninja
+jupopo.com
 juproxy.com
 jurenomio.co.cc
 jurre-home.duckdns.org
@@ -15966,6 +15960,7 @@ proxee.biz
 proxee.ws
 proxeey.com
 proxeight.co.cc
+proxer.890m.com
 proxer.ru
 proxers.com
 proxert.com
@@ -18430,6 +18425,7 @@ rpz-public-resolver1.rrdns.pch.net
 rr88.net
 rrdb.org
 rselite.com
+rsiso.com
 rsocks.net
 rt5rw3.co.cc
 rtun.info
@@ -18596,6 +18592,7 @@ salmex.co.cc
 salmongrill.co.cc
 salmonstory.com
 salti.info
+salvietta.lauraeguido.com
 samair.ru
 samairproxy.co.cc
 samforex.co.cc
@@ -25776,7 +25773,6 @@ www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
 www.bypassed.org
-www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
 www.bypasser.org
@@ -26039,6 +26035,7 @@ www.ciuc.info
 www.clai.info
 www.clanx.info
 www.claremcdonald.info
+www.classbrowser.com
 www.classforward.com
 www.classref.com
 www.clav.info
@@ -28348,7 +28345,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -28727,6 +28723,7 @@ www.jumpthewall.com
 www.junemoon.net
 www.jungleproxy.com
 www.junov.com
+www.jupopo.com
 www.just-doit.com
 www.justbypass.com
 www.justclothes.info
@@ -30100,6 +30097,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -32394,7 +32392,6 @@ www.sjostudio.com
 www.sk4.info
 www.skdfrez.gq
 www.skebby.net
-www.skenk.com
 www.skillnext.info
 www.skimer.com
 www.skinhealthy.info
@@ -34774,7 +34771,6 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
-www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -35194,7 +35190,6 @@ xytheme.com
 xyz2.jammerxd.dev
 xyz2.zmjflow.com
 xyz3.jammerxd.dev
-xz.easyfly.tk
 xzz.in
 y-proxy.com
 y.ninth.biz
@@ -35599,4 +35594,3 @@ zz.darkenproject.com
 zzoop.com
 zzyzz.info
 zzzz.taidzi.com
-zzzzz.cz.cc
