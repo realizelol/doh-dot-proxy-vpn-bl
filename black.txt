@@ -828,6 +828,7 @@ active-work.co.cc
 activeconnect.info
 activedigital.info
 activeidentity.co.cc
+activeproxies.org
 activeserver.info
 activewebproxy.cf
 activpn.com
@@ -1199,6 +1200,7 @@ adguard3.ota.moe
 adguard4.ota.moe
 adguardcloud.bwasson.com
 adguardhome.atakorah.com
+adguardhome.cloud
 adguardhome.ddns.net
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
@@ -2690,6 +2692,7 @@ best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
 best-proxies.net
+best-proxify.cz.cc
 best-proxy.co.cc
 best-proxy.freehostia.com
 best-proxy.site
@@ -3455,6 +3458,7 @@ budik.cn
 budil.cn
 budiq.cn
 budis.cn
+budiw.cn
 budsurf.co.cc
 buffered.com
 bufferwith.co.cc
@@ -4422,6 +4426,7 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4582,6 +4587,7 @@ cpuforex.co.cc
 cpuusages.co.cc
 cpux.ru
 cpxproxies.co.cc
+cqd.duckdns.org
 cqul.com
 cqxin.com
 cracatoa.co.cc
@@ -6091,6 +6097,7 @@ dns.presencebuggy.my.id
 dns.princex.net
 dns.privacy.cm
 dns.privado.ovh
+dns.prokits.digital
 dns.propheci.xyz
 dns.psociety.de
 dns.psyk.fr
@@ -6498,7 +6505,6 @@ dnscrypt-cert.ffmuc.net
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
-dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.akali666.top
@@ -6781,7 +6787,6 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
-domain-name.cz.cc
 domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
@@ -6820,8 +6825,10 @@ dominantproxy.tk
 dominated.info
 dominatrix.brandonsli.com
 dominoan.co.cc
+dominus.cz.cc
 domor.cz.cc
 domovoy.cz.cc
+domoz.cz.cc
 domx.info
 donare.info
 donblock.com
@@ -7999,6 +8006,7 @@ federallawyerforex.co.cc
 federforex.co.cc
 federicoferri.ovh
 feedsgo.com
+feef.cz.cc
 feel-beat.co.cc
 feelingtheblanks.com
 feelmuchbetter.co.cc
@@ -12051,7 +12059,6 @@ kitetimes.com
 kittenbox.co.cc
 kiv01.dnscry.pt
 kiwi78.appspot.com
-kiwifunke.duckdns.org
 kixanax.co.cc
 kixmax.com
 kizib.com
@@ -15098,7 +15105,6 @@ pantavv.xyz
 pantoto.xyz
 pantspooper.co.cc
 panxxx.uw.hu
-panyyhh.xyz
 panzend.xyz
 papaforex.co.cc
 papco.info
@@ -15833,7 +15839,6 @@ programbase.co.cc
 programwin.co.cc
 progressreport.info
 progzee.com
-prohome.info
 prohouse.info
 prointern.info
 proip.info
@@ -24291,7 +24296,6 @@ wrongdead.cn
 wsfw.net
 wtfmagic.info
 wtfsurf.com
-wtools.eu
 wtsb.net
 wtunnel.com
 wu.freecphost.com
@@ -26818,7 +26822,6 @@ www.everythingtoshare.com
 www.everywhere.es
 www.eviewer.info
 www.evilgorilla.com
-www.evpn.net
 www.evri.info
 www.evur.net
 www.ewebn.com
@@ -29074,6 +29077,7 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
+www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
@@ -29605,6 +29609,7 @@ www.nationalcreditreport.info
 www.naturalproxy.com
 www.nava-proxy.tk
 www.navigationprivee.com
+www.naviguer.ca
 www.navydog.com
 www.nawt.info
 www.nazlimcafe.com
@@ -31715,6 +31720,7 @@ www.rapidproxy.us
 www.rapidproxylist.org
 www.rapidwire.net
 www.rapper.net
+www.raqc.net
 www.rarebay.com
 www.ratedproxy.com
 www.ratr.info
@@ -34464,7 +34470,6 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
-www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
@@ -35071,6 +35076,7 @@ xerosurf.com
 xetb.com
 xev.in
 xew.in
+xexe.cz.cc
 xfastnet.co.cc
 xfer.au
 xfreeschool.co.cc
