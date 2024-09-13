@@ -96571,6 +96571,7 @@ www.beenina.tk
 www.beepalert.tk
 www.beeprox.org
 www.beeproxy.info
+www.beer.dj
 www.beeranon.info
 www.beerhere.tk
 www.beerpass.info
@@ -147250,6 +147251,7 @@ www.python-web-proxy.cf
 www.python-web-proxy.ga
 www.python-web-proxy.ml
 www.pythonproxy.tk
+www.pytp.com
 www.pytproxy.com
 www.pyxiside.tk
 www.pyzproxy-surfs.tk
