@@ -398,6 +398,7 @@
 3368.info
 345.biz
 351242444.xyz
+354688.xyz
 35w.info
 360dns.pub
 365x24x7.in
@@ -828,7 +829,6 @@ active-work.co.cc
 activeconnect.info
 activedigital.info
 activeidentity.co.cc
-activeproxies.org
 activeserver.info
 activewebproxy.cf
 activpn.com
@@ -2683,7 +2683,6 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
-best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -4177,7 +4176,6 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
-clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -5692,6 +5690,7 @@ dns.farshidhakimy.de
 dns.fb.i81.ru
 dns.fc.idv.tw
 dns.feedbot.xyz
+dns.feelvm.dev
 dns.fehlsprache.de
 dns.felipefalcao.tech
 dns.ffnw.de
@@ -6505,6 +6504,7 @@ dnscrypt-cert.ffmuc.net
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
+dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.akali666.top
@@ -6787,6 +6787,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-name.cz.cc
 domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
@@ -7633,7 +7634,6 @@ ezloans.co.cc
 ezpow.com
 ezproxee.info
 ezproxies.com
-ezproxify.cz.cc
 ezproxy.org
 ezproxyer.com
 ezr.info
@@ -8357,7 +8357,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9029,6 +9028,7 @@ freesurf.info
 freesurf.pl
 freesurferbypass.co.cc
 freesurfin.co.cc
+freesurfing.esy.es
 freesurfing.my3gb.com
 freesurfproxy.org
 freesurfway.co.cc
@@ -12059,6 +12059,7 @@ kitetimes.com
 kittenbox.co.cc
 kiv01.dnscry.pt
 kiwi78.appspot.com
+kiwifunke.duckdns.org
 kixanax.co.cc
 kixmax.com
 kizib.com
@@ -13316,6 +13317,7 @@ misterprivacy.com
 misterproxy.com
 mistwall.co.cc
 misvunblock.co.cc
+mita-is.so-gorgeo.us.kg
 mithor.com
 mitico.info
 mitmproxy.org
@@ -13541,7 +13543,6 @@ mshardweb.co.cc
 msiwindosx.co.cc
 msnsurf.co.cc
 mspproxy.com
-msprofiles.com
 msproxies.com
 msproxy.com
 msproxy.fibersurf.co.cc
@@ -13861,7 +13862,6 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -16557,7 +16557,6 @@ proxy.ws
 proxy.wuziya.com
 proxy.wynd.network
 proxy.y0.pl
-proxy.yifanyi.cn
 proxy.z2games.com
 proxy.zacks.us
 proxy.zaterdag.net
@@ -16579,6 +16578,7 @@ proxy1.yoof.info
 proxy101.com
 proxy10gator.tk
 proxy111.com
+proxy1210.cz.cc
 proxy13.com
 proxy14.com
 proxy180.com
@@ -17962,7 +17962,6 @@ rankpage.co.cc
 rapatrt.co.cc
 rapid.000a.de
 rapid.2gb.cc
-rapid.bigbox.info
 rapid.hoster3.com
 rapid.vizprint.com
 rapid.webnote.us
@@ -24708,7 +24707,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -26822,6 +26820,7 @@ www.everythingtoshare.com
 www.everywhere.es
 www.eviewer.info
 www.evilgorilla.com
+www.evpn.net
 www.evri.info
 www.evur.net
 www.ewebn.com
@@ -34470,6 +34469,7 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
+www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
