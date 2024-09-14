@@ -988,7 +988,6 @@ adguard.blogssl.com
 adguard.bonis.de
 adguard.bonsirven.eu
 adguard.brandonsli.com
-adguard.c0rrre.rocks
 adguard.camn.uk
 adguard.cell.co.id
 adguard.cepenjak.com
@@ -1028,7 +1027,6 @@ adguard.eximpius.xyz
 adguard.exium.net
 adguard.ext.devkon.org
 adguard.ext.rizult.net
-adguard.eyadmojahed.ddnsgeek.com
 adguard.fam-rodenburg.nl
 adguard.fihch.ru
 adguard.frece.de
@@ -1202,6 +1200,7 @@ adguardcloud.bwasson.com
 adguardhome.atakorah.com
 adguardhome.cloud
 adguardhome.ddns.net
+adguardhome.favrep.ovh
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
 adguardhome.ponetwork.duckdns.org
@@ -1372,6 +1371,7 @@ agh.srv.tenete.net
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 agh2.server.my.id
+aghdns.com
 agileproxy.co.cc
 agileproxy.com
 agios.info
@@ -2004,7 +2004,6 @@ apps.facebook.com.web.tld.cc
 appsforexian.co.cc
 appshost.us
 appspect.com
-aprendizaje.info
 aprforex.co.cc
 aprilfool.co.cc
 aprilproxy.flu.cc
@@ -2468,7 +2467,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -2683,6 +2681,7 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
+best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -4176,6 +4175,7 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
+clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4271,6 +4271,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4847,7 +4848,7 @@ d.onlyjsmylord.org
 d.toairs.com
 d.wcguo.space
 d.zscale.gq
-d1.insec.link
+d1.vps.mtsdns.ru
 d101vabyweqq2v.cloudfront.net
 d1058937.mydomainwebhost.com
 d11nlh9luc38sm.cloudfront.net
@@ -4867,6 +4868,7 @@ d1ry4tp9yai77v.cloudfront.net
 d1yqrjo3t9z45y.cloudfront.net
 d1ziyscmc3vy4y.cloudfront.net
 d2.shabi.icu
+d2.vps.mtsdns.ru
 d218zko9b2en9z.cloudfront.net
 d21j7etzkdo9k9.cloudfront.net
 d21lp3bv4cvrq0.cloudfront.net
@@ -4884,6 +4886,7 @@ d2s11oshv6yhsg.cloudfront.net
 d2t530yk5s6ixp.cloudfront.net
 d2xl5j5majlxvm.cloudfront.net
 d3.shabi.icu
+d3.vps.mtsdns.ru
 d32z5ni8t5127x.cloudfront.net
 d33xcky42h0olw.cloudfront.net
 d3653e2epregbl.cloudfront.net
@@ -4899,6 +4902,7 @@ d3vbve16e4mwju.cloudfront.net
 d3vo8ia181ei2.cloudfront.net
 d3vy.ru
 d3world.com
+d4.vps.mtsdns.ru
 d4w.us
 d4x.org
 d4yge1fn4wr.d.firewalla.org
@@ -5177,6 +5181,7 @@ desksurf.co.cc
 desmart.info
 destu.cn
 detasemen-ngepet.co.cc
+deti.vps.mtsdns.ru
 detiforex.co.cc
 detonate.info
 deuforex.co.cc
@@ -5302,7 +5307,6 @@ discoforex.co.cc
 disconnect.me
 discountshoes.tk
 discover-some.co.cc
-discover.cz.cc
 discovered.mask.wtf.la
 disfraza.com
 disguised.info
@@ -5432,6 +5436,7 @@ dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 dns.888654.xyz
+dns.912366.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -5515,6 +5520,7 @@ dns.biliun.me
 dns.billyau.ne
 dns.bitdefender.net
 dns.bitservices.io
+dns.blaumer.dev
 dns.blaze-sk.ru
 dns.blokada.org
 dns.bluestarnc.com
@@ -5612,7 +5618,6 @@ dns.deadsec.net
 dns.decisivedevops.com
 dns.decky.eu
 dns.decloudus.com
-dns.dedsec.cc
 dns.deekshith.in
 dns.dekedin.me
 dns.delitarus.ru
@@ -5785,7 +5790,6 @@ dns.iamninja.ru
 dns.ian.rocks
 dns.ibakerserver.pt
 dns.iblockads.net
-dns.ifrez.tv
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
@@ -5922,7 +5926,6 @@ dns.lobbygod.com
 dns.loony-tech.de
 dns.lostvpn.ru
 dns.ltse.cloud
-dns.lululu.dev
 dns.luotianyi.net
 dns.lupine.solutions
 dns.lusk.xyz
@@ -6315,6 +6318,7 @@ dns.vmath.my.id
 dns.vmisch.tech
 dns.vojtat.cz
 dns.vpn.i81.ru
+dns.vps.mtsdns.ru
 dns.w3ctag.org
 dns.wael.name
 dns.wahr.top
@@ -6341,7 +6345,6 @@ dns.woodyli.dev
 dns.worthmind.net
 dns.wwwdjl.buzz
 dns.xinwujiang.cn
-dns.xiumu.org
 dns.xivilay.dev
 dns.xlion.tw
 dns.xryen.com
@@ -8206,7 +8209,6 @@ fireheap.com
 fireprox.com
 fireprox.net
 fireproxy.com
-firewall-filter.cz.cc
 firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
@@ -8357,6 +8359,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -8389,7 +8392,6 @@ forex-7.co.cc
 forex-analyzer.co.cc
 forex-apprentice.co.cc
 forex-bid.co.cc
-forex-broker-review.cz.cc
 forex-brokerage-0.tk
 forex-cds.co.cc
 forex-cheap.co.cc
@@ -10487,7 +10489,6 @@ hidenproxxy.tk
 hidenseek.me
 hidenseek.org
 hidenspace.nz.gs
-hidenthis.co.vu
 hideofall.co.cc
 hideonline.net
 hideoxy.com
@@ -10662,7 +10663,6 @@ hollywood.practicalalchemy.org
 holyrex.co.cc
 holyubvpn.com
 home-by.co.cc
-home-server.store
 home.basthorst.eu
 home.bruckmoser.it
 home.chadeyron.fr
@@ -10689,6 +10689,7 @@ home.r01.fr
 home.realldz.id.vn
 home.snow-sugar.net
 home.tuankhaiit.com
+home.vps.mtsdns.ru
 home.wriedts.de
 home.zonnet.nl
 home27.duckdns.org
@@ -11551,6 +11552,7 @@ iunlimit.com
 iuuy.com
 iuytrewq.com
 ivacy.com
+ivan.vps.mtsdns.ru
 ivanromanov.ru
 ivci.org
 iverve.com
@@ -12102,7 +12104,6 @@ koc.in
 kocapb.ru
 koeforex.co.cc
 kokesh.se
-kol.lol
 kolaymirc.net
 kolnproxy.nz.gs
 kolobok2.duckdns.org
@@ -12376,6 +12377,7 @@ lemud.co.cc
 lena.hr.i81.ru
 lena.vd.i81.ru
 lena.vpn.i81.ru
+lena.vps.mtsdns.ru
 lendby.com
 lenderinfo.co.cc
 lendingtime.tk
@@ -13554,6 +13556,7 @@ msxpsoftware.co.cc
 msxsecurity.com
 mten12.free.fr
 mtr-ca.prcdn.net
+mtsdns.ru
 mttbkk.com
 mtunnel.com
 mu.jungleheart.com
@@ -13862,6 +13865,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -13929,6 +13933,7 @@ netatwork.info
 netbrute.co.cc
 netcat.one
 netconceal.com
+netcup.chbu.ovh
 netcup.mismat.ch
 netevader.com
 netfast.eu
@@ -14140,7 +14145,6 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
-nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -16578,7 +16582,6 @@ proxy1.yoof.info
 proxy101.com
 proxy10gator.tk
 proxy111.com
-proxy1210.cz.cc
 proxy13.com
 proxy14.com
 proxy180.com
@@ -18198,6 +18201,7 @@ resolv3.trash.net
 resolve.corpa.me
 resolve.fknw.de
 resolve.srv-pro.de
+resolve02.srv-pro.de
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
 resolver.as203038.net
@@ -18594,7 +18598,6 @@ salmex.co.cc
 salmongrill.co.cc
 salmonstory.com
 salti.info
-salvietta.lauraeguido.com
 samair.ru
 samairproxy.co.cc
 samforex.co.cc
@@ -23598,6 +23601,7 @@ vps.fleuryk.ovh
 vps.grussenmeyer.com
 vps.irrelevant.cc
 vps.jmarkin.ru
+vps.mtsdns.ru
 vps.poly-tank.jp
 vps.techrich.net
 vps.vpsserver1.com
@@ -23637,7 +23641,6 @@ vps302.brueggus.de
 vps303.brueggus.de
 vps304.brueggus.de
 vps305.brueggus.de
-vps307.brueggus.de
 vps308.brueggus.de
 vps309.brueggus.de
 vps310.brueggus.de
@@ -23679,6 +23682,7 @@ vps372.brueggus.de
 vps373.brueggus.de
 vps374.brueggus.de
 vps375.brueggus.de
+vps378.brueggus.de
 vps4.scho.io
 vps51564.publiccloud.com.br
 vps66.brueggus.de
@@ -24707,6 +24711,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -26107,7 +26112,6 @@ www.clsproxy.com
 www.clubsurfer.com
 www.cmssky.com
 www.cnproxy.com
-www.cnsurf.cn
 www.cnt7.com
 www.co-make.com
 www.co11.info
@@ -35076,7 +35080,6 @@ xerosurf.com
 xetb.com
 xev.in
 xew.in
-xexe.cz.cc
 xfastnet.co.cc
 xfer.au
 xfreeschool.co.cc
