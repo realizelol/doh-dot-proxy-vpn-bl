@@ -3463,6 +3463,7 @@ activeproxi.tk
 activeproxies.cf
 activeproxies.ga
 activeproxies.ml
+activeproxies.org
 activeproxy.cf
 activeproxy.in
 activeproxy.info
@@ -58661,6 +58662,7 @@ proxy.yacysearch.net
 proxy.yanbushu.cn
 proxy.yaxmail.com
 proxy.ydubai.com
+proxy.yifanyi.cn
 proxy.yiisp.cn
 proxy.yimaiwu.cn
 proxy.yixiaomi.cn
@@ -64533,6 +64535,7 @@ rapid-surfs.tk
 rapid-vpn.info
 rapid.5nxs.com
 rapid.600megs.com
+rapid.bigbox.info
 rapid.cheap-avg.com
 rapid.clautech.com
 rapid.easyllsu.com
