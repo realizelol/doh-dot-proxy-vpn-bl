@@ -863,7 +863,6 @@ ad.timefine.org
 ad.tzockt.beer
 ad.visbran.fr
 ad.wiqi.app
-ad.wwhhkg.com
 ad1.heronet.nl
 ad1guard.duckdns.org
 ad2.heronet.nl
@@ -1157,7 +1156,6 @@ adguard.twotigers.xyz
 adguard.vape.ong
 adguard.vegann.space
 adguard.vik.ro
-adguard.voidnix.com
 adguard.vozersky.com
 adguard.vrehm.fr
 adguard.wallura.eu
@@ -1306,7 +1304,6 @@ aestheticgaming.com
 aetforex.co.cc
 aeuforex.co.cc
 aeyx.com
-aezadns.duckdns.org
 afaforex.cz.cc
 afec.info
 affcdn.net
@@ -3159,7 +3156,6 @@ bnuforex.co.cc
 boaforex.co.cc
 boatip.com
 boatsurf.co.cc
-bobaa.duckdns.org
 bobby-petrino.co.cc
 bobloblaw.info
 bobolaw1.appspot.com
@@ -3706,7 +3702,6 @@ ca-us-proxy-free.uuuq.com
 ca-yyc.doh.sb
 ca-yyz.doh.sb
 ca.doh.cloudveil.org
-ca.loii.in
 ca01.dns4me.net
 ca02.dns4me.net
 caat.info
@@ -4273,6 +4268,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5407,7 +5403,6 @@ dns-tunnel-check.googlezip.net
 dns-uk.su4ka.icu
 dns-uk2.su4ka.icu
 dns-unfiltered.adguard.com
-dns.000404000.xyz
 dns.010812.xyz
 dns.0ooo.icu
 dns.0rz.ing
@@ -5890,7 +5885,6 @@ dns.kriswerry.nl
 dns.kritsa0.xyz
 dns.krol.cloud
 dns.krushkov.com
-dns.ksusonic.tech
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
@@ -5906,6 +5900,7 @@ dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.lavir.com
 dns.learningman.top
+dns.lehonganh.id.vn
 dns.lepilleur.com
 dns.levonet.sk
 dns.lfac.ml
@@ -6232,7 +6227,6 @@ dns.swehosting.se
 dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
-dns.syaifullah.id
 dns.szpadel.ovh
 dns.t53.de
 dns.tacomafia.net
@@ -6302,7 +6296,6 @@ dns.vaultguard.eu
 dns.vd.i81.ru
 dns.vdl.io
 dns.vectorsigma.ru
-dns.vegdiabetic.com
 dns.velyn.my.id
 dns.venya.tech
 dns.victorhachard.fr
@@ -6350,7 +6343,6 @@ dns.xlion.tw
 dns.xryen.com
 dns.xuming.studio
 dns.xusqui.com
-dns.xwdmw.xyz
 dns.xydustc.me
 dns.xyz.ddnss.eu
 dns.yameenassotally.com
@@ -6447,7 +6439,6 @@ dns168.zhhz.cc
 dns2-secure.wifire.it
 dns2.adblocker.eu.org
 dns2.bai0012.com
-dns2.bartoszturek.online
 dns2.biryuk.name
 dns2.bortus.io
 dns2.cantello.media
@@ -8331,6 +8322,7 @@ fly24.net
 flybomber.co.cc
 flying-digger.co.cc
 flyingvelvet.co.cc
+flyloadguard.dynu.net
 flyng-geese.co.cc
 flyproxy.com
 flyproxy.info
@@ -10705,7 +10697,6 @@ homeaccess.info
 homeblock.com
 homedns.gumeniuk.com
 homeguard.sleziona.org
-homelab2.terabit.net.id
 homemail.info
 homemoscow34.website
 homeproxy.com
@@ -11639,7 +11630,6 @@ jcz.net
 jeal.info
 jebbies.com
 ject.info
-jefe.space
 jeffwu.net
 jeidas.com
 jejo.info
@@ -12163,7 +12153,6 @@ kracon.anycast.censurfridns.dk
 kracon.anycast.censurfridns.nu
 kracon.anycast.uncensoreddns.dk
 kracon.anycast.uncensoreddns.org
-krafty31.duckdns.org
 kral_oyun_kraloyun.sitemynet.com
 krap.info
 krate.info
@@ -12980,7 +12969,6 @@ margincallforex.co.cc
 marginforex.co.cc
 mariaproxy.co.cc
 marikangen.co.cc
-marimuttz.asuscomm.com
 mariogold.com
 marizs23.com
 mark.h5network.com
@@ -13581,6 +13569,7 @@ multiproxy.cn
 multipurpose1.terumi.club
 multiunblokweb.co.cc
 multyforex.co.cc
+mulya.cn
 mumbaiforums.com
 mumble.ddnss.de
 mumpi.com
@@ -15226,6 +15215,7 @@ pdfme.info
 pdns.elecura.net
 pdns.faelix.net
 pdns.fatlab.llc
+pdns.iamshakib.com
 pdns.itxe.net
 pdnssrvagh.online
 pdts.net
@@ -15405,6 +15395,7 @@ pimpmyspace.org
 pimpproxy.com
 pinch.info
 pinforex.co.cc
+pingbi.xyz
 pingproxy.com
 pingwebunblock.co.cc
 pink-banana.com
@@ -18935,7 +18926,6 @@ securezone.co.cc
 securf.com
 securifi.jagalabs.net
 securitales.com
-securitate.live
 securitize.info
 security-filter-dns.cleanbrowsing.org
 security-web.info
@@ -21617,9 +21607,9 @@ tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
 tls.jackyhou.idv.tw
 tls.vietguards.cloud
+tls.windyvale.net
 tlsext.com
 tlz.bio
-tm14.duckdns.org
 tmpfree.com
 tntproxy.com
 tnvpn.com
@@ -22203,7 +22193,6 @@ uk-proxy.co.uk
 uk-proxy.org.uk
 uk-unblock.xyz
 uk-us.co.cc
-uk.arian.lol
 uk.heikwan.tech
 uk.teradns.org
 uk01.dns4me.net
@@ -23883,7 +23872,6 @@ webjg.com
 webkh.com
 weblock.info
 weblockapp.com
-webmail.jpginformatica.com
 webmailwireless.co.cc
 webmeel.pragmasec.nl
 webminster.co.uk
@@ -30231,6 +30219,7 @@ www.pimpmyip.org
 www.pimpmyspace.org
 www.pimpproxy.com
 www.pinch.info
+www.pingbi.xyz
 www.pink-banana.com
 www.pinkalot.com
 www.pinkcows.com
@@ -30943,6 +30932,7 @@ www.proxydrop.biz
 www.proxydrop.com
 www.proxydrop.info
 www.proxydrop.org
+www.proxyds.com
 www.proxyduchess.info
 www.proxydude.com
 www.proxydude123.tk
@@ -35605,3 +35595,4 @@ zz.darkenproject.com
 zzoop.com
 zzyzz.info
 zzzz.taidzi.com
+zzzzz.cz.cc
