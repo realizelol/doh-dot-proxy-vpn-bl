@@ -801,7 +801,6 @@ acevpn.com
 acgroup.in
 acidrain.co.cc
 acidrain.tk
-aciforex.cz.cc
 acircuit.co.cc
 acmeblock.com
 acmesurf.com
@@ -916,7 +915,6 @@ adfree.usableprivacy.net
 adfreedns.link
 adfreedns.top
 adfreeproxy.com
-adfreeproxy.cz.cc
 adg-swe.h4nt3r.com
 adg.acrobyte.org
 adg.dankatapich.eu.org
@@ -947,7 +945,6 @@ adghome.joseph.com.ph
 adghome.mail-endpoint.com
 adghome2.mail-endpoint.com
 adghs.de
-adgrm.duckdns.org
 adgrus.tvmix.my.id
 adguard-03.new-asgard.net
 adguard-aws.gdmn.dev
@@ -1334,7 +1331,6 @@ ag.marschi.de
 ag.ssrahul96.xyz
 ag.wntrmute.net
 ag01.de.hallmen.it
-agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -1450,7 +1446,6 @@ akund.com
 akunssh.net
 akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
-alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
 alanis.igalan.com
@@ -4059,7 +4054,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4173,6 +4167,7 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
+clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4228,6 +4223,7 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
+cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4267,6 +4263,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4282,7 +4279,6 @@ clownforex.co.cc
 clsc.info
 clsproxy.com
 clubsurfer.com
-clubsv.duckdns.org
 cluenowmania.co.cc
 cluforex.co.cc
 clumforex.co.cc
@@ -4404,7 +4400,6 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
-compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -4420,6 +4415,7 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4935,6 +4931,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5159,7 +5156,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -5839,6 +5835,7 @@ dns.jundev.org
 dns.jungle-im.ir
 dns.junhengyun.com
 dns.jupitrdns.com
+dns.jupitrdns.net
 dns.just-hosting.net
 dns.justinnetworkingsolutions.com
 dns.juyic.cn
@@ -6497,7 +6494,6 @@ dnscrypt-cert.ffmuc.net
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
-dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.akali666.top
@@ -6803,6 +6799,7 @@ domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
+domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -7651,6 +7648,7 @@ fabulousproxy.co.cc
 face-huge.co.cc
 face-vote.com
 faceblocked.com
+faceblockme.com
 facebook-proxy.blogspot.com
 facebook-web-proxy.info
 facebook.frenz.ca
@@ -8198,6 +8196,8 @@ fireheap.com
 fireprox.com
 fireprox.net
 fireproxy.com
+firewall-filter.cz.cc
+firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8380,6 +8380,7 @@ forex-7.co.cc
 forex-analyzer.co.cc
 forex-apprentice.co.cc
 forex-bid.co.cc
+forex-broker-review.cz.cc
 forex-brokerage-0.tk
 forex-cds.co.cc
 forex-cheap.co.cc
@@ -10067,7 +10068,6 @@ gw-no.brueggus.de
 gwad.info
 gwait.com
 gwforex.co.cc
-gwps.duckdns.org
 gymarab.com
 gyny.info
 gyub.com
@@ -13851,6 +13851,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -15499,6 +15500,8 @@ plus68.com
 pluton.plan9-dns.com
 plutoproxy.com
 plyed.com
+pm1239-bd.xyz
+pm9352-bd.xyz
 pmnetgan.co.cc
 pns2.sadraidc.com
 po2.us
@@ -16945,6 +16948,7 @@ proxyh.com
 proxyhamer.ws
 proxyhappy.com
 proxyhash.net
+proxyhaven.com
 proxyhaze.com
 proxyhelp.org
 proxyhelper.com
@@ -18557,6 +18561,7 @@ safetypass.info
 safetysite.co.cc
 safetysurf.net
 safetyweb.co.cc
+safeunblock.com
 safeunblokweb.co.cc
 safevisit.net
 safeways.info
@@ -18987,7 +18992,6 @@ seriaforex.co.cc
 serpico.co.cc
 serrazul.com
 sers.info
-servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
@@ -26098,6 +26102,7 @@ www.clsproxy.com
 www.clubsurfer.com
 www.cmssky.com
 www.cnproxy.com
+www.cnsurf.cn
 www.cnt7.com
 www.co-make.com
 www.co11.info
@@ -26570,6 +26575,7 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
+www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -30084,6 +30090,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -30511,7 +30518,6 @@ www.proxierush.info
 www.proxies.bz
 www.proxies.com
 www.proxies.es
-www.proxies.gr
 www.proxies.me
 www.proxies.name
 www.proxies.org
@@ -32378,6 +32384,7 @@ www.sjostudio.com
 www.sk4.info
 www.skdfrez.gq
 www.skebby.net
+www.skenk.com
 www.skillnext.info
 www.skimer.com
 www.skinhealthy.info
@@ -35583,4 +35590,3 @@ zz.darkenproject.com
 zzoop.com
 zzyzz.info
 zzzz.taidzi.com
-zzzzz.cz.cc
