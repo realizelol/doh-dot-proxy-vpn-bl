@@ -294,6 +294,7 @@
 214598proxy.tk
 21ew.co.cc
 21stcenturybusiness.info
+220913.xyz
 2290.info
 232u.com
 23a.org
@@ -917,6 +918,7 @@ ademnjejes.co.cc
 adeniji.net
 adf-114.neta.otrofda.nl
 adf-115.neta.otrofda.nl
+adfight.ru
 adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.link
@@ -924,6 +926,7 @@ adfreedns.top
 adfreeproxy.com
 adfreeproxy.cz.cc
 adg-swe.h4nt3r.com
+adg-vie.h4nt3r.com
 adg.acrobyte.org
 adg.dankatapich.eu.org
 adg.datamatter.co.za
@@ -1068,6 +1071,7 @@ adguard.jwhan99.xyz
 adguard.k-likhachev.ru
 adguard.kenzohost.de
 adguard.kiboko.it
+adguard.kitakitsune.xyz
 adguard.kngnet.de
 adguard.konikoni428.com
 adguard.koshonsa.fr
@@ -1092,6 +1096,7 @@ adguard.mjthemelancholy.xyz
 adguard.mokocup.dev
 adguard.mulu.at
 adguard.myddns.org
+adguard.neon0404.space
 adguard.netmasc.services
 adguard.nhatlong.work
 adguard.nielsenhost.dk
@@ -1144,6 +1149,7 @@ adguard.spaceindex.net
 adguard.sparshbajaj.me
 adguard.speeddemon.co.za
 adguard.spyrisk.fr
+adguard.sre.ovh
 adguard.sscw.win
 adguard.stealbit.com
 adguard.stevenfamy.me
@@ -2349,6 +2355,7 @@ ayasesayuki.shop
 aydank.freeddns.org
 ayellowproxy.info
 ayisigi.net
+ayman-dns.731my.com
 ayou.org
 ayoutubeproxy.com
 ayrforex.co.cc
@@ -4095,6 +4102,7 @@ chooseaproxy.com
 choosing-free-provider.co.cc
 chosenone.info
 chpi.info
+chr.kepegawaiandju.id
 chrishemple.co.uk
 chriskutschker.de
 chrisleeman.com
@@ -4843,11 +4851,13 @@ d-itc.be
 d.0w0.ooo
 d.adguard-dns.com
 d.apemlegit.my.id
+d.bod.lol
 d.cyberbomber.co.cc
 d.dh.ci
 d.duadua.com
 d.gametechnet.com
 d.hansj.cc
+d.niaox.com
 d.onlyjsmylord.org
 d.toairs.com
 d.wcguo.space
@@ -5548,6 +5558,7 @@ dns.busold.ws
 dns.bw.i81.ru
 dns.c0ntroller.de
 dns.cachitopetshop.com
+dns.cahlen.com
 dns.carson-family.com
 dns.carter.me
 dns.cases.works
@@ -5556,6 +5567,7 @@ dns.cctld.kg
 dns.ceai.com.tw
 dns.cearhome.top
 dns.cert.ee
+dns.ch295.ru
 dns.ch6se.com
 dns.chadeyron.fr
 dns.chalkychalk.com
@@ -5825,6 +5837,7 @@ dns.internal.hosmatic.com
 dns.ipoac.nl
 dns.ipv6dns.com
 dns.irumatech.com
+dns.is0mino.com
 dns.ishan.pw
 dns.islandnet.com
 dns.isp.dhoho.net
@@ -5846,6 +5859,7 @@ dns.jhamlin.tech
 dns.jhangy.us
 dns.jichi.io
 dns.jimirobaer.be
+dns.jimwelanobong.com
 dns.jinwoo.dev
 dns.jiyi.eu
 dns.jluo.app
@@ -5853,6 +5867,7 @@ dns.jnmj.cc
 dns.jnprd.com
 dns.joaofidelix.com.br
 dns.joey01245.nl
+dns.johnlez.com
 dns.jsd.web.id
 dns.jst.gob.ar
 dns.jstockley.com
@@ -5950,6 +5965,7 @@ dns.luotianyi.net
 dns.lupine.solutions
 dns.lusk.xyz
 dns.lvolland.fr
+dns.lvqing.eu.org
 dns.m78.asia
 dns.mafyuh.io
 dns.magnon-box.tk
@@ -6230,6 +6246,7 @@ dns.skrzypiec.pl
 dns.sledge.cc
 dns.slinkyman.net
 dns.smartguard.io
+dns.smikuy.cn
 dns.smvd.net
 dns.soldier.terumi.club
 dns.spil.co.id
@@ -6372,6 +6389,7 @@ dns.wwwdjl.buzz
 dns.xinwujiang.cn
 dns.xivilay.dev
 dns.xlion.tw
+dns.xmyun.org
 dns.xryen.com
 dns.xuming.studio
 dns.xusqui.com
@@ -6541,6 +6559,7 @@ dnsforge.de
 dnsjp.akali666.top
 dnslas.netrope.com
 dnslow.me
+dnsmm.mywire.org
 dnsmurray.de
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
@@ -7062,6 +7081,7 @@ dslproxy.co.cc
 dsltrojan.co.cc
 dspot.info
 dsproxy.co.cc
+dstruis.nl
 dsuforex.co.cc
 dsurf.info
 dt4f1zrb25v4h.cloudfront.net
@@ -7554,6 +7574,7 @@ eusko.org
 euuforex.co.cc
 ev-goztepe.duckdns.org
 evade123.com
+evaded.net
 evadefilters.com
 evaha.com
 evantbyrne.info
@@ -7671,6 +7692,7 @@ ezloans.co.cc
 ezpow.com
 ezproxee.info
 ezproxies.com
+ezproxify.cz.cc
 ezproxy.org
 ezproxyer.com
 ezr.info
@@ -9139,6 +9161,7 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
+freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -9283,6 +9306,7 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
+furniturelanddirect.com
 furproxie.co.cc
 furyforex.co.cc
 fusionproxy.com
@@ -9874,6 +9898,7 @@ gooogle.com
 goopenit.com
 gooproxy.co.cc
 gooproxys.tk
+goose.buckyfan.net
 goosevpn.com
 goozhan.com
 gopass.info
@@ -10767,6 +10792,7 @@ horns.world
 horpy.co.cc
 horrortunnel.co.cc
 horsestable.xyz
+horus-team.com
 host-fast.co.cc
 host.dlun.tk
 host8.248.cloudhost.in.th
@@ -11839,7 +11865,6 @@ junov.com
 jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
-jupitervpn.ninja
 jupopo.com
 juproxy.com
 jurenomio.co.cc
@@ -12383,6 +12408,7 @@ leap-proxy.co.cc
 leapfun.info
 leapin.info
 leapsforex.co.cc
+learn.mathnotes.help
 learn2surf.nz.gs
 learndistance.co.cc
 learnfacts.info
@@ -13012,6 +13038,7 @@ mape.pl
 mapmakerpro.com
 mapping-with.co.cc
 maptoy.com
+maqgie.xyz
 marasov.id
 marblesurf.co.cc
 marcrnt.ddnss.de
@@ -13091,7 +13118,6 @@ mathhome.info
 mathide.co.cc
 mathkids.info
 mathlearning.tech
-mathnotes.help
 mathnotes.icu
 mathpalace.com
 mathsonline.info
@@ -13976,6 +14002,7 @@ net.0ms.dev
 net.net
 net.site-id.nl
 net.tt6.net
+net01.youcef.io
 net30.co.cc
 neta.a-desg.cc
 netatwork.info
@@ -14436,6 +14463,7 @@ ns.hjk.kr
 ns.hjk.me
 ns.lov.host
 ns.mtsoln.com
+ns.nerdytechgeeks.co.za
 ns.nwps.fi
 ns.palvikt.us
 ns.postoverall.xyz
@@ -14468,6 +14496,7 @@ ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
+ns1.wuyouss.com
 ns1.znit.net.bd
 ns2.1899.com.mx
 ns2.4netguides.org
@@ -14478,12 +14507,14 @@ ns2.hshh.org
 ns2.opennameserver.org
 ns2.opi.pp.ua
 ns2.recursive.dnsbycomodo.com
+ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
 ns3.cx
 ns3.link
 ns3.opennameserver.org
 ns3.rowie.at
+ns3.wuyouss.com
 ns4.opennameserver.org
 ns8469rfvth42.xyz
 nsauth1.kooman.org
@@ -15202,7 +15233,6 @@ passable.info
 passadmin.co.cc
 passblock.co.cc
 passblocker.com
-passcloud.xyz
 passfilter.com
 passfilters.com
 passguide.net
@@ -18259,6 +18289,7 @@ resolve.corpa.me
 resolve.fknw.de
 resolve.srv-pro.de
 resolve02.srv-pro.de
+resolve2.r9x.cc
 resolve2.srv-pro.de
 resolve2.vvpi.one
 resolver-eu.haringstad.com
@@ -18266,6 +18297,7 @@ resolver.as203038.net
 resolver.cloudflare-eth.com
 resolver.dns.eban.eu.org
 resolver.frank-ruan.com
+resolver.haringstad.com
 resolver.noaddns.com
 resolver.r0cket.net
 resolver.rferee.dev
@@ -19536,6 +19568,7 @@ slyly.info
 slymouse.com
 slyrun.com
 slyvip.com
+slyvo.xyz
 slz.us
 sm5q237c0.g666gle.me
 small-browser.com
@@ -21402,6 +21435,7 @@ tgcg.info
 th1.dnsfinder.ir
 th3pr.com
 thab.info
+thakkali.teej.xyz
 thakurproxy.appspot.com
 than-others.co.cc
 thankvpn.com
@@ -21693,6 +21727,7 @@ tochproxy.co.cc
 todayall.com
 todayfast.com
 todayseducation.info
+todo.mathnotes.help
 toggleforexbrokersite.co.cc
 toilforex.co.cc
 toink.co.cc
@@ -23166,6 +23201,7 @@ usaproxy.com
 usaproxy.info
 usaproxy.net
 usatunnel.com
+usatwo.wuyouss.com
 usawebproxy.com
 usawebproxy.net
 usbm.de
@@ -23658,6 +23694,7 @@ vpnwelt.com
 vproxonline.co.cc
 vproxy.net
 vps-33e5a7f3.vps.ovh.us
+vps-amgr.duckdns.org
 vps-ovh.pb2004.pl
 vps-proxy.co.cc
 vps-relay.pesaventofilippo.com
@@ -26653,6 +26690,7 @@ www.drve.net
 www.drypaint.info
 www.ds-original.com
 www.dspot.info
+www.dstruis.nl
 www.dsurf.info
 www.dtunnel.com
 www.dtunnel.net
@@ -27127,6 +27165,7 @@ www.filesdownloader.com
 www.filespin.net
 www.filestore.info
 www.filtax.com
+www.filter2005.com
 www.filterbay.com
 www.filterblast.com
 www.filterblock.info
@@ -27577,7 +27616,6 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
-www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -30214,6 +30252,7 @@ www.pazzip.com
 www.pc-portal.at
 www.pcbypass.info
 www.pcgraffiti.com
+www.pcmesh.com
 www.pcquest.info
 www.pcriot.com
 www.pcwebtalk.com
@@ -34645,6 +34684,7 @@ www.wint.info
 www.winterbag.com
 www.wintermemory.com
 www.wipemeout.com
+www.wiqi.top
 www.wirelessdv.com
 www.wisebychance.com
 www.wisewebsite.com
@@ -35642,7 +35682,6 @@ zoxy.info
 zoz.6x.to
 zozy.vndv.com
 zpn.im
-zpn.me
 zproxy.de
 zqal.xyz
 zraxy.info
@@ -35676,4 +35715,3 @@ zzoop.com
 zzyzz.info
 zzz.luigi.ink
 zzzz.taidzi.com
-zzzzz.cz.cc
