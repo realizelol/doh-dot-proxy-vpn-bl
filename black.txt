@@ -255,7 +255,6 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
-1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -579,6 +578,7 @@
 88minutes.co.cc
 88proxy.co.cc
 89433332.xyz
+89dahia.com
 8au.com
 8ce.org
 8day.info
@@ -612,6 +612,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -922,6 +923,7 @@ adfree.usableprivacy.net
 adfreedns.link
 adfreedns.top
 adfreeproxy.com
+adfreeproxy.cz.cc
 adg-swe.h4nt3r.com
 adg-vie.h4nt3r.com
 adg.acrobyte.org
@@ -1049,6 +1051,7 @@ adguard.glbd.fr
 adguard.gonzcid.com
 adguard.grantbruneau.com
 adguard.green1052.com
+adguard.gx.gx.cn
 adguard.h4nt3r.com
 adguard.hack3r.de
 adguard.haneulo.com
@@ -1367,6 +1370,7 @@ agh.alematho.de
 agh.alushi.net
 agh.amber.edu.vn
 agh.broaddy.com
+agh.dchoe.com
 agh.doubleatech.site
 agh.dshubham.xyz
 agh.ero-sayhi.com
@@ -1400,6 +1404,7 @@ aguado.info
 aguforex.co.cc
 agvhelmet.co.cc
 ahadns.net
+ahaforex.cz.cc
 ahcek.com
 ahighspeeds.co.cc
 ahlanwassahlan.co.cc
@@ -1461,6 +1466,7 @@ akund.com
 akunssh.net
 akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
+alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
 alanis.igalan.com
@@ -1573,6 +1579,7 @@ allworldfinance.co.cc
 allyourfinance.co.cc
 almanyachat.com
 almondtree.info
+alon93rus.ru
 along-with.co.cc
 aloyforex.co.cc
 alpakalpha.duckdns.org
@@ -1670,6 +1677,7 @@ an-openlock.co.cc
 an.kanahanazawa.com
 an.loliconapp.top
 an0n.info
+an2kin-adblocker.duckdns.org
 an81.ddns.net
 an81dns.ru
 ana.goodluckwith.us
@@ -2126,6 +2134,7 @@ as-wondering.co.cc
 as17820865.click
 as6604t-04.myasustor.com
 asafe.info
+asaforex.cz.cc
 asaldapatproxy.co.cc
 asall.info
 asavage.com
@@ -2379,6 +2388,7 @@ aztc.info
 azuforex.co.cc
 azure.cloudflare-dns.com
 azure.razor1911.xyz
+azuretest.adgsrv.pp.ua
 azurf.com
 b-dns.se
 b-i-z.biz
@@ -3103,6 +3113,7 @@ blocksurfer.co.cc
 blockthesense.co.cc
 blog-proxy.blogspot.com
 blog.kimiblock.top
+blog2.amlegion.org
 blog2.bigciti.com
 blog2.dnbmedia.com
 blog2.dynamomedia.com
@@ -3260,6 +3271,7 @@ bouforex.co.cc
 boupro.com
 bouwplank.co.cc
 bowlingbash.co.cc
+box.wael.name
 box3.host1free.com
 boxdomain.co.cc
 boxedblog.com
@@ -4285,6 +4297,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5185,7 +5198,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -5365,6 +5377,7 @@ dkuforex.co.cc
 dl.am
 dla.ray0512.win
 dloydproxy.co.cc
+dltuykfgp.top
 dluforex.co.cc
 dm9.info
 dmax.info
@@ -5470,6 +5483,7 @@ dns.abdullahabas.online
 dns.abluehope.com
 dns.abppro.ru
 dns.adblocker.eu.org
+dns.addres.net
 dns.adguard-dns.com
 dns.adguard.beltoev.ru
 dns.adguard.com
@@ -5531,6 +5545,7 @@ dns.b612.me
 dns.b72.com
 dns.baabab.com
 dns.bahien.com
+dns.bai0012.com
 dns.baishiyuan.cn
 dns.basestation.my.id
 dns.bazipardaz.com
@@ -5626,6 +5641,7 @@ dns.csaonline.de
 dns.csswg.org
 dns.cuehosting.com
 dns.cwlys.com
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d4d.moe
 dns.d94.xyz
@@ -5653,6 +5669,7 @@ dns.dev-umbrellagov.com
 dns.dgea.fr
 dns.dhemant.observer
 dns.diarbagus.id
+dns.dierro.ru
 dns.digitale-gesellschaft.ch
 dns.digitalegesellschaft.ch
 dns.digitalsize.net
@@ -5768,6 +5785,7 @@ dns.goshawk22.uk
 dns.grqu.de
 dns.grusdas.net
 dns.guard.io
+dns.guardmydns.com
 dns.guoxueziyuan.com
 dns.gutwe.in
 dns.h0me.cc
@@ -5796,6 +5814,7 @@ dns.hopper.org.uk
 dns.hopsken.com
 dns.horcrux.vip
 dns.horus-team.com
+dns.hoservers.com
 dns.hostingim.com
 dns.hostux.net
 dns.hotta.page
@@ -5928,6 +5947,7 @@ dns.krol.cloud
 dns.krushkov.com
 dns.kugoapps.com
 dns.kukal.cz
+dns.kumoumi.net
 dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
@@ -5966,6 +5986,7 @@ dns.lostvpn.ru
 dns.lpdgx.com
 dns.ltse.cloud
 dns.luismm2311.com
+dns.luma-medien.com
 dns.luotianyi.net
 dns.lupine.solutions
 dns.lusk.xyz
@@ -6009,6 +6030,7 @@ dns.mikeliu.org
 dns.mikopono.nl
 dns.mikrotikrumahan.my.id
 dns.milangeorge.com
+dns.miyun1.com
 dns.mmzs.xyz
 dns.mnet-online.de
 dns.mni.li
@@ -6594,6 +6616,7 @@ dnsus.newage.rest
 dnsutopia.com
 dnsvps.familiamv.net
 dnsvps.porteii.com
+dnsvs.ddns.net
 dnsvs.ovh
 dnswarden.com
 dnswebvsn.com
@@ -6926,6 +6949,7 @@ dop.privatedns.org
 doq.sa-sa.eu
 doqdu.co.cc
 doriss.com
+dorkanddoodle.duckdns.org
 dorsforex.co.cc
 dosc.info
 dosurf.co.cc
@@ -7074,6 +7098,7 @@ dryfood.co.cc
 dryiiforex.co.cc
 drypaint.info
 ds-original.com
+ds1.fredic.us
 ds3617xs.jojo1204.xyz
 dsignet.co.cc
 dsl-app.s3.us-east-2.amazonaws.com
@@ -7188,6 +7213,7 @@ e-prxy.co.cc
 e-redemption.co.cc
 e.cpfrx.info
 e00.info
+e23a.uk.to
 e8p.info
 ea-dns.rubyfish.cn
 each-day-on.co.cc
@@ -7608,6 +7634,7 @@ evri.info
 evuforex.co.cc
 evur.net
 ewebn.com
+eweyo.duckdns.org
 ewon.biz
 ewuforex.co.cc
 ex-traders.co.cc
@@ -7675,6 +7702,7 @@ extrapass.nz.gs
 extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
+extratv.org
 extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
@@ -7880,6 +7908,7 @@ fast2furious.co.cc
 fast333.co.cc
 fastair.info
 fastamericanproxy.co.cc
+fastandfast.cz.cc
 fastaninonimous.co.cc
 fastanonimousweb.co.cc
 fastapp.eu
@@ -8453,6 +8482,7 @@ forex-7.co.cc
 forex-analyzer.co.cc
 forex-apprentice.co.cc
 forex-bid.co.cc
+forex-broker-review.cz.cc
 forex-brokerage-0.tk
 forex-cds.co.cc
 forex-cheap.co.cc
@@ -8784,6 +8814,7 @@ freakness.co.cc
 freaky.ws
 frec.info
 fredforex.co.cc
+fredic.us
 free-bestproxy-stuff.tk
 free-crossway.co.cc
 free-fast-secure.co.cc
@@ -9145,7 +9176,6 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
-freewebproxy.co.vu
 freewebproxy.com
 freewebproxy.net
 freewebproxy.net.cn
@@ -9160,7 +9190,6 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
-freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -10157,6 +10186,7 @@ h-talk.com
 h-vpn.org
 h.gjrick.tw
 h.ra3.in
+h0w.cc
 h0x.org
 h2oproxy.com
 h3y.info
@@ -10678,6 +10708,7 @@ hiway.1tt.net
 hj-proxys.tk
 hk-dns.cattery.work
 hk-hkg.doh.sb
+hk-nnss.ppleg.icu
 hk-w-1.nashkan.net
 hk-w-4.nashkan.net
 hk.101818.xyz
@@ -10691,6 +10722,7 @@ hk2.ooroot.com
 hk2.ss.startagegames.com
 hk5.info
 hkbnp.i-piggy.com
+hkcf-nnss.ppleg.icu
 hkd.nicefly2099.cf
 hkg.core.access.zznet.fun
 hkg.hytec.org
@@ -10698,6 +10730,7 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkg2.edge.access.zznet.fun
 hkname.freecdn.one
+hknat.ooguy.com
 hktko1.mask-t.apple-dns.net
 hlai.net
 hlkn.com
@@ -10760,6 +10793,7 @@ home.tuankhaiit.com
 home.vps.mtsdns.ru
 home.wriedts.de
 home.zonnet.nl
+home27.duckdns.org
 home3.brosena.xyz
 home47a.mooo.com
 home721.co.cc
@@ -11155,6 +11189,7 @@ il.packet.me.uk
 ilcha.ru
 iliketosurf.com
 ilikeyourhair.com
+ilinhy.com
 ilistblogs.com
 ilke.info
 illbeback.info
@@ -11846,6 +11881,7 @@ jptyo12.mask-t.apple-dns.net
 jptyo12.mask.apple-dns.net
 jpunblocktkvesttkntus.tk
 jpunblocktkvesttkntus9.tk
+js-nnss.ppleg.icu
 jsmapper.com
 jsproxy.com
 jstracker.com
@@ -12291,6 +12327,7 @@ kutakmengerti.co.cc
 kuuk.net
 kuvia.eu
 kv39.com
+kwas24izynek74.ddns.net
 kwee.info
 kwiq.net
 kword.info
@@ -12904,6 +12941,7 @@ m600i.co.cc
 m7d.info
 m82.net
 m9p.info
+ma1.guardmydns.com
 maal.info
 mablet.com
 mabokers.co.cc
@@ -14102,6 +14140,7 @@ newcombehatesovertime.info
 newcopy.co.cc
 newcorporate.co.cc
 newcracksurf.co.cc
+newd.rezyro.com
 newdimension-point.co.cc
 newdomainz.co.cc
 newestproxies.com
@@ -14295,6 +14334,7 @@ nlhfd1.mask.apple-dns.net
 nlname.freecdn.one
 nlproxy.com
 nnnnn.info
+nnss.ppleg.icu
 nntime.com
 no-ad.levcloud.cloudns.nz
 no-block-ever.co.cc
@@ -15755,6 +15795,7 @@ ppz.net
 pq7hdf.com
 pqh.ddns.net
 pqypql.com
+pr-nnss.ppleg.icu
 pr0x1.com
 pr0xy.com
 pr0xy.eu
@@ -18114,6 +18155,7 @@ razorproxy.com
 razorsblade.co.cc
 razorthought.com
 razy.org
+rb750gr3.ulfhednar.ru
 rbe7.com
 rblade.asuscomm.com
 rc2.info
@@ -19530,6 +19572,7 @@ skydriveforstudents.com
 skyfree.info
 skyice.ca
 skyline.vvvvvei.win
+skynetinternet.com.br
 skynetwork.info
 skype-on.co.cc
 skyroom.online.bugflaed2.shahram-m8.com
@@ -19935,6 +19978,7 @@ speedshare.app
 speedssh.com
 speedstravel.co.cc
 speedtechno.co.cc
+speedtest.skynetinternet.com.br
 speedtime.co.cc
 speedwayride.co.cc
 speedxproxy.co.cc
@@ -23739,6 +23783,7 @@ vps.irrelevant.cc
 vps.jmarkin.ru
 vps.mtsdns.ru
 vps.poly-tank.jp
+vps.robotboard.de
 vps.techrich.net
 vps03.brueggus.de
 vps119.brueggus.de
@@ -23929,6 +23974,7 @@ waybetter.info
 waybypass.co.cc
 waymaker.info
 waythru.com
+waytoproxy.com
 waytounblockwebsite.info
 waytowealth.co.cc
 wayunblockweb.co.cc
@@ -24732,7 +24778,6 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
-www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -24961,6 +25006,7 @@ www.addurl-free.com
 www.addwheel.com
 www.adeniji.net
 www.adfreeproxy.com
+www.adguard.gx.gx.cn
 www.adguard.marto.si
 www.adherence.info
 www.adiestrado.com
@@ -25304,7 +25350,6 @@ www.aroundtheboat.com
 www.aroxy.info
 www.arrowproxy.com
 www.arsenelesueur.fr
-www.artmam.net
 www.artmaxi.com
 www.asafe.info
 www.asall.info
@@ -32543,6 +32588,7 @@ www.skydriveforstudents.com
 www.skyforex-2.tk
 www.skyfree.info
 www.skyice.ca
+www.skynetinternet.com.br
 www.skynetwork.info
 www.skyssh.com
 www.sl6.info
@@ -33354,7 +33400,6 @@ www.themaser.com
 www.themountainwoman.com
 www.thenewproxy.com
 www.theninjaproxy.com
-www.theomni.info
 www.theoneproxy.com
 www.theonlinekiwi.com
 www.thepassion.info
@@ -34222,6 +34267,7 @@ www.utopiapal.com
 www.utor.info
 www.utunnel.com
 www.utunnel.net
+www.uu.tj
 www.uugy.com
 www.uupv.com
 www.uuui.info
@@ -34266,6 +34312,7 @@ www.vav.lt
 www.vb7.info
 www.vb8.info
 www.vb9.info
+www.vbrowse.com
 www.vd0.info
 www.vd3.info
 www.vd4.info
