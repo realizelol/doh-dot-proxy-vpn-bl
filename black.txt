@@ -2175,6 +2175,7 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
+asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -3360,6 +3361,7 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
+brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -3523,6 +3525,7 @@ bushforex.co.cc
 bushido.node.rferee.dev
 bushmancastle.duckdns.org
 busineesschool.co.cc
+business-firewalls.cz.cc
 business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
@@ -3770,6 +3773,7 @@ calltheproxy.co.cc
 calm-crown.freemyip.com
 calmproxy.co.cc
 calpico-roadster.co.cc
+calumis.gay
 calyphrox.appspot.com
 cameleo.ru
 camera.64x.org
@@ -4044,6 +4048,7 @@ chatchut.com
 chatkolik.net
 chatsepeti.com
 chayfh.com
+che.myasustor.com
 cheapbike.ml
 cheaperday.gq
 cheaply.info
@@ -4294,7 +4299,6 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4717,6 +4721,7 @@ croxyproxy.com
 croxyproxy.com.in
 croxyproxy.net
 croxyproxy.rocks
+croxyproxy.us
 crrp.net
 cruchystocks.co.cc
 cruforex.co.cc
@@ -6115,6 +6120,7 @@ dns.octoworld.fr
 dns.odinpl.com
 dns.odirf.de
 dns.ofdoom.net
+dns.officiallysp.net
 dns.oii.im
 dns.oliviertv.co.za
 dns.opendns.com
@@ -6300,12 +6306,14 @@ dns.svoi.dev
 dns.swehosting.se
 dns.swin.pro
 dns.switch.ch
+dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de
 dns.tacomafia.net
 dns.taoday.top
 dns.tapawan.ca
+dns.taxiway.uk
 dns.tb4.me
 dns.tbnk.ca
 dns.teaminfo.fr
@@ -6421,6 +6429,7 @@ dns.xusqui.com
 dns.xxxxxxxx.pp.ua
 dns.xydustc.me
 dns.xyz.ddnss.eu
+dns.yague.me
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -6884,7 +6893,6 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -7905,6 +7913,7 @@ fast2furious.co.cc
 fast333.co.cc
 fastair.info
 fastamericanproxy.co.cc
+fastandfast.cz.cc
 fastaninonimous.co.cc
 fastanonimousweb.co.cc
 fastapp.eu
@@ -8294,7 +8303,6 @@ fireprox.com
 fireprox.net
 fireproxy.com
 firewall-filter.cz.cc
-firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -9187,6 +9195,7 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
+freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -9331,6 +9340,7 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
+furniturelanddirect.com
 furproxie.co.cc
 furyforex.co.cc
 fusionproxy.com
@@ -10832,6 +10842,7 @@ hostapp.eu
 hostapp.info
 hostbabies.co.cc
 hostdare.qtxd.net
+hostdare.xinyi0668.com
 hostedadguard.greatharts.com
 hostedweb.info
 hosteg.net
@@ -11443,6 +11454,7 @@ ionproxy.com
 ios911.com
 iow-dns.bitdefender.net
 ioxy.de
+iozoi.cn
 ip-anonymous.com
 ip-db.com
 ip-hide.com
@@ -12801,6 +12813,7 @@ lon01.dnscry.pt
 londeneso.co.cc
 londonproxy.com
 londonproxy.nz.gs
+longhomelab.com
 longlysped.co.cc
 longlysurf.co.cc
 longshut.cn
@@ -13021,6 +13034,7 @@ major-tool.co.cc
 make-feel.co.cc
 make-me-invisible.com
 make-really.co.cc
+makear.online
 makeinline.com
 makeinstall.co.cc
 makeitfine.co.cc
@@ -13393,6 +13407,7 @@ mindgood.info
 minfree.com
 mingsrang.co.cc
 mini88773.703.jp
+miniapp.global
 minicoopercar.co.cc
 minilla.store
 miniprox.com
@@ -13898,6 +13913,7 @@ mytool.info
 mytrix.info
 mytunneling.com
 mytunnelspace.co.cc
+myturtle.net
 mytwitterproxy.com
 myunblock.com
 myunblock.info
@@ -16981,6 +16997,7 @@ proxyduchess.info
 proxydude.com
 proxydude.red
 proxydude.xyz
+proxyduke.lol
 proxydungeon.co.cc
 proxye.com
 proxyeater.com
@@ -18332,6 +18349,7 @@ resina.info
 resoiforex.co.cc
 resolforex.co.cc
 resolution-freetrack.co.cc
+resolv.flokinet.net
 resolv01.ffnw.de
 resolv1.trash.net
 resolv2.trash.net
@@ -21453,6 +21471,7 @@ terminalpower.top
 termitepower.info
 terorproxy.co.cc
 tersforex.co.cc
+teruteruteruko.com
 teslacoils.org.uk
 teslasurf.co.cc
 test.adg.siudzinski.net
@@ -23300,7 +23319,6 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
-usproxy.usa.cc
 usproxyserver.info
 usqas5.mask.apple-dns.net
 ussurfer.nz.gs
@@ -24499,6 +24517,7 @@ wwv.educationtop.com
 wwv.netwealthy.net
 wwv.travelfollow.com
 wwv.ushostonline.com
+www-proxy.sodemc.com
 www.0-b.org
 www.00-01.info
 www.000000.info
@@ -24886,6 +24905,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -27679,6 +27699,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -34947,6 +34968,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -35280,6 +35302,7 @@ xitenow.com
 xitesite.com
 xito.info
 xjpdns.354688.xyz
+xjumper.com
 xkariak.asuscomm.com
 xkcn.com.ru
 xkyo.com
