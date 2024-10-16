@@ -56,6 +56,7 @@
 0404.info
 045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud
 0494.org
+052419.xyz
 0646.org
 0794.info
 0800.info
@@ -2034,7 +2035,6 @@ aproxyz.com
 aptforex.co.cc
 apuestaonline.info
 apuforex.co.cc
-aqaforex.cz.cc
 aqix.co.cc
 aqtforex.co.cc
 aqua-proxy.co.cc
@@ -2315,7 +2315,6 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
-avambee.cz.cc
 avarikoteo.co.cc
 avatunnel.co.cc
 avenue2.info
@@ -3295,7 +3294,6 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
-brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -4452,6 +4450,7 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5014,7 +5013,6 @@ darya.persiannit.net
 dash.flylcc.cc
 dashproxy.com
 dassault-aviation.co.cc
-data-security.cz.cc
 datadefense.org
 datafil.cn
 datafil.com
@@ -5165,7 +5163,6 @@ deinforex.co.cc
 dejacey.com
 dekedin.me
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5199,7 +5196,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -6878,7 +6874,6 @@ dolopo.net
 dom-na-tnt.jino-net.ru
 domain-name.cz.cc
 domain-names.cz.cc
-domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -6893,6 +6888,7 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
+domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -7128,7 +7124,6 @@ dualnitro.com
 dualopteron.co.cc
 dualpass.nz.gs
 dualproxy.com
-duanyu.net
 dub01.dnscry.pt
 duba.net
 dubb.info
@@ -7708,7 +7703,6 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -8099,7 +8093,6 @@ federallawyerforex.co.cc
 federforex.co.cc
 federicoferri.ovh
 feedsgo.com
-feef.cz.cc
 feel-beat.co.cc
 feelingtheblanks.com
 feelmuchbetter.co.cc
@@ -8303,6 +8296,7 @@ fireprox.com
 fireprox.net
 fireproxy.com
 firewall-filter.cz.cc
+firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -9180,7 +9174,6 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
-freewebproxy.co.vu
 freewebproxy.com
 freewebproxy.net
 freewebproxy.net.cn
@@ -12956,7 +12949,6 @@ mablet.com
 mabokers.co.cc
 mac4arabs.com
 macarone.co.cc
-macaroni.in
 maceda.info
 machineweb.co.cc
 macontish.co.cc
@@ -17667,7 +17659,6 @@ proxytotal.com
 proxytouch.co.cc
 proxytour.com
 proxytower.com
-proxytoy.com
 proxytr.net
 proxytrack.com
 proxytrade.info
@@ -23319,6 +23310,7 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
+usproxy.usa.cc
 usproxyserver.info
 usqas5.mask.apple-dns.net
 ussurfer.nz.gs
@@ -27699,7 +27691,6 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
-www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -34933,7 +34924,6 @@ www.xsent.com
 www.xsproxy.com
 www.xsproxyhtc.tk
 www.xsproxyhtcs.tk
-www.xtbuy.com
 www.xteb.biz
 www.xtrapremium.com
 www.xtun.net
@@ -35357,7 +35347,6 @@ xsproxyhtcs.tk
 xsruf.co.cc
 xstl.objet.seia.io
 xstl.seia.io
-xtbuy.com
 xteensx.co.cc
 xtrapremium.com
 xtremeline.co.cc
