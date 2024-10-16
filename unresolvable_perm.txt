@@ -3687,6 +3687,7 @@ adguard.bitteeinbyte.de
 adguard.borgwardtech.net
 adguard.bwasson.com
 adguard.connexum.mx
+adguard.demaks.org
 adguard.derminecrafter2020.de
 adguard.dessoi.cloud
 adguard.djay.tk
@@ -99104,6 +99105,7 @@ www.bondbutton.tk
 www.bonded-proxy1.tk
 www.bondfix.tk
 www.bondhard.tk
+www.bondproxy.com
 www.bondshub.tk
 www.bondsonline.tk
 www.bondsteelproxy.tk
