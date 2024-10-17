@@ -850,6 +850,7 @@ acur.info
 ad-it.info
 ad.344556.xyz
 ad.800801.xyz
+ad.anym0re.ru
 ad.blurryface.ru
 ad.dscw.io
 ad.fai001.top
@@ -1195,6 +1196,7 @@ adguard1.bonis.de
 adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguard1.njy.jsanagustin.net
+adguard1.unima.ac.id
 adguard2.546413.xyz
 adguard2.atl.jsanagustin.net
 adguard2.bonis.de
@@ -1231,9 +1233,9 @@ adherforex.co.cc
 adhome.2011101.xyz
 adhome.chinghuat.com
 adhome.maige.fun
+adi.adguard.vik.ro
 adidaspredator.co.cc
 adiestrado.com
-adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
@@ -1348,6 +1350,7 @@ ag.hostme.co.il
 ag.linux.repair
 ag.marschi.de
 ag.ssrahul96.xyz
+ag.teqilla.tk
 ag.wntrmute.net
 ag01.de.hallmen.it
 agaforex.cz.cc
@@ -2035,6 +2038,7 @@ aproxyz.com
 aptforex.co.cc
 apuestaonline.info
 apuforex.co.cc
+aqaforex.cz.cc
 aqix.co.cc
 aqtforex.co.cc
 aqua-proxy.co.cc
@@ -2315,6 +2319,7 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
+avambee.cz.cc
 avarikoteo.co.cc
 avatunnel.co.cc
 avenue2.info
@@ -2709,7 +2714,6 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
-best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -2770,7 +2774,6 @@ bestplacestotravel.info
 bestplay.info
 bestproxies.com
 bestproxies.net
-bestproxify.cz.cc
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
@@ -3294,6 +3297,7 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
+brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -4297,6 +4301,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4320,7 +4325,6 @@ clustal-forex.co.cc
 cluster-0.gac.edu
 cluster-1.gac.edu
 cmscfd.tk
-cmsforex.cz.cc
 cmsforexaccount.co.cc
 cmsforexakias.co.cc
 cmsforexdemo.cz.cc
@@ -5163,6 +5167,7 @@ deinforex.co.cc
 dejacey.com
 dekedin.me
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5196,6 +5201,7 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
+derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -5335,7 +5341,6 @@ discoforex.co.cc
 disconnect.me
 discountshoes.tk
 discover-some.co.cc
-discover.cz.cc
 discovered.mask.wtf.la
 disfraza.com
 disguised.info
@@ -5628,6 +5633,7 @@ dns.comss.one
 dns.connect.fail
 dns.containerpi.com
 dns.controld.com
+dns.corestu.com
 dns.cretu.xyz
 dns.criena.net
 dns.crop3ox.website
@@ -5948,6 +5954,7 @@ dns.kukal.cz
 dns.kumoumi.net
 dns.kusoneko.moe
 dns.kuuhaku.moe
+dns.kuxuanyun.cn
 dns.kxy.ink
 dns.kyy.me
 dns.l2h8.cn
@@ -6282,6 +6289,7 @@ dns.srijan.site
 dns.srinivasrao.co.in
 dns.sshub.win
 dns.sstomp.nl
+dns.starlik.top
 dns.startupstack.tech
 dns.stdev.su
 dns.stevenz.net
@@ -6396,6 +6404,7 @@ dns.wahr.top
 dns.wakgood.net
 dns.walshnet.co.uk
 dns.wang.art
+dns.wantfreedom.eu.org
 dns.wargan.io
 dns.warma.me
 dns.warpnine.de
@@ -6888,7 +6897,6 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -7124,6 +7132,7 @@ dualnitro.com
 dualopteron.co.cc
 dualpass.nz.gs
 dualproxy.com
+duanyu.net
 dub01.dnscry.pt
 duba.net
 dubb.info
@@ -7166,6 +7175,7 @@ duwie.com
 duyyen.tk
 dva.in
 dvertigo.co.cc
+dvgarm.com
 dvizheniya.co.cc
 dvla.cn
 dvrpower.in
@@ -7475,7 +7485,6 @@ englandproxy.co.uk
 englandproxy.com
 englishproxysite.ga
 englishtunnel.com
-enigma.cz.cc
 enigmaproxy.com
 enjoy-access.co.cc
 enjoy-surfing.co.cc
@@ -7549,7 +7558,6 @@ especially-we.co.cc
 especiallyfree.co.cc
 espera.info
 esperanzas.info
-esproxy.com
 essenceoflove.co.cc
 essencero.net
 essential-subjected.co.cc
@@ -7703,6 +7711,7 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
+extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -8093,6 +8102,7 @@ federallawyerforex.co.cc
 federforex.co.cc
 federicoferri.ovh
 feedsgo.com
+feef.cz.cc
 feel-beat.co.cc
 feelingtheblanks.com
 feelmuchbetter.co.cc
@@ -8790,6 +8800,7 @@ fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 fr-par-w-1.nashkan.net
 fr-sbg-w-4.nashkan.net
+fr.dalockd.net
 fr.wasalive.com
 fr1.dnswarden.com
 fra-dns.bitdefender.net
@@ -9174,6 +9185,7 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
+freewebproxy.co.vu
 freewebproxy.com
 freewebproxy.net
 freewebproxy.net.cn
@@ -10115,6 +10127,7 @@ guard.lumusimc.co.uk
 guard.magic-pics.tk
 guard.pp.ua
 guard.sntrk.ru
+guard.telesterion.de
 guard.thefather.cloud
 guard.yps.tw
 guardcenter.co.cc
@@ -10367,6 +10380,8 @@ heyteacher.eu.tv
 heyyouguys.info
 hezu.info
 hfgx.shop
+hgrps.eu
+hgzwy.xyz
 hi.usm.oapg.org
 hi4.info
 hid3.net
@@ -11715,6 +11730,7 @@ jalisihora.co.cc
 jam12.co.cc
 jamak.info
 jamban.info
+jamessou.jamesferrand.fr
 jamieproxy.co.cc
 jandbcatering.com
 janeforex.co.cc
@@ -12345,6 +12361,7 @@ l3d.net
 l66.info
 l77.info
 l8rz.com
+la-doh.stuptech.com
 la-y.com
 lab-1.sellan.fr
 lab.sellan.fr
@@ -12593,7 +12610,6 @@ likeall.info
 likebehind.co.cc
 likedomain.co.cc
 likeface07.tk
-likehiden.co.vu
 likemyeyes.co.cc
 likest.cn
 likethis-hole.co.cc
@@ -12949,6 +12965,7 @@ mablet.com
 mabokers.co.cc
 mac4arabs.com
 macarone.co.cc
+macaroni.in
 maceda.info
 machineweb.co.cc
 macontish.co.cc
@@ -14356,6 +14373,7 @@ noads.cloud
 noads.ddnsgeek.com
 noads.dns.vladpro.ru
 noads.imbuffering.com
+noads.jpsrvr.com
 noads.vdl.io
 noagendapodcast.appspot.com
 noban.us
@@ -24356,6 +24374,7 @@ wir.rbs-net.ru
 wiradadi.co.cc
 wire.fibersurf.co.cc
 wireguard.com
+wireguard.osmenoga.com
 wirelessdv.com
 wirevpn.app
 wirevpn.cc
@@ -25040,7 +25059,6 @@ www.ae13.com
 www.aeri.info
 www.aeroproxy.com
 www.aestheticgaming.com
-www.aeyx.com
 www.afec.info
 www.affiliateway.com
 www.affordable-seo-services.net
@@ -26265,7 +26283,6 @@ www.cloaken.com
 www.cloaker.ca
 www.cloakie.com
 www.cloakip.net
-www.cloakme.cn
 www.cloakme.net
 www.cloakme.org
 www.cloakme.us
@@ -26297,7 +26314,6 @@ www.clsproxy.com
 www.clubsurfer.com
 www.cmssky.com
 www.cnproxy.com
-www.cnsurf.cn
 www.cnt7.com
 www.co-make.com
 www.co11.info
@@ -26413,7 +26429,6 @@ www.corsario.info
 www.costfuel.com
 www.costmaninc.com
 www.cotse.net
-www.coud.info
 www.coupon2free.com
 www.coursadom.com
 www.courtside.info
@@ -26619,7 +26634,6 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
-www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -27691,6 +27705,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -28127,6 +28142,7 @@ www.heyh.info
 www.heyproxy.com
 www.heyyouguys.info
 www.hezu.info
+www.hgrps.eu
 www.hi4.info
 www.hidden.cc
 www.hidden.me
@@ -29331,7 +29347,6 @@ www.m9p.info
 www.maal.info
 www.mablet.com
 www.mac4arabs.com
-www.macaroni.in
 www.maceda.info
 www.macr.info
 www.madeclothing.info
@@ -34924,6 +34939,7 @@ www.xsent.com
 www.xsproxy.com
 www.xsproxyhtc.tk
 www.xsproxyhtcs.tk
+www.xtbuy.com
 www.xteb.biz
 www.xtrapremium.com
 www.xtun.net
@@ -35311,6 +35327,7 @@ xnetwork123.co.cc
 xnxx-movies.net
 xo7.info
 xo8.info
+xomadns.com
 xoomno.co.cc
 xoxy.com
 xoy.in
@@ -35347,6 +35364,7 @@ xsproxyhtcs.tk
 xsruf.co.cc
 xstl.objet.seia.io
 xstl.seia.io
+xtbuy.com
 xteensx.co.cc
 xtrapremium.com
 xtremeline.co.cc
