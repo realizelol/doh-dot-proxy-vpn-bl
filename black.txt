@@ -614,7 +614,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -2156,6 +2155,7 @@ asecure.co.cc
 aseek.info
 asemkyeh.co.cc
 asesy.com
+ashidden.co.vu
 ashish.me
 asia.dased.com
 asiancities.org
@@ -4306,6 +4306,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5957,7 +5958,6 @@ dns.kriswerry.nl
 dns.kritsa0.xyz
 dns.krol.cloud
 dns.krushkov.com
-dns.kugoapps.com
 dns.kukal.cz
 dns.kumoumi.net
 dns.kusoneko.moe
@@ -7930,7 +7930,6 @@ fast2furious.co.cc
 fast333.co.cc
 fastair.info
 fastamericanproxy.co.cc
-fastandfast.cz.cc
 fastaninonimous.co.cc
 fastanonimousweb.co.cc
 fastapp.eu
@@ -8320,7 +8319,6 @@ fireprox.com
 fireprox.net
 fireproxy.com
 firewall-filter.cz.cc
-firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8471,7 +8469,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -10608,6 +10605,7 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
+hidenall.co.vu
 hidencute.co.vu
 hidengine.co.cc
 hidenproxxy.tk
@@ -11540,6 +11538,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipproxiesnet.co.cc
 ipproxy.com
 ipproxy.info
@@ -12544,7 +12543,6 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
-letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -12625,6 +12623,7 @@ likeall.info
 likebehind.co.cc
 likedomain.co.cc
 likeface07.tk
+likehiden.co.vu
 likemyeyes.co.cc
 likest.cn
 likethis-hole.co.cc
@@ -12657,6 +12656,7 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
+link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -13959,6 +13959,7 @@ mzs1.ddns.net
 mzuf.com
 mzvb.com
 mzx.herobo.com
+mzx.site40.net
 n-wan.dynv6.net
 n0.eu
 n00bmaster.com
@@ -14019,6 +14020,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -21777,7 +21779,6 @@ timewebfaster.co.cc
 timextreme.co.cc
 timiproxy.co.cc
 timmes.nl
-timperumichael.net23.net
 timt.info
 timtam.co.tv
 tinatalisa.co.cc
@@ -23177,7 +23178,6 @@ unzipped.zzl.org
 uom.in
 up-back-on.co.cc
 up-on-top.co.cc
-up.net76.net
 up50.com
 up9.info
 upaj.net
@@ -26449,6 +26449,7 @@ www.corsario.info
 www.costfuel.com
 www.costmaninc.com
 www.cotse.net
+www.coud.info
 www.coupon2free.com
 www.coursadom.com
 www.courtside.info
@@ -34692,6 +34693,7 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
+www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
