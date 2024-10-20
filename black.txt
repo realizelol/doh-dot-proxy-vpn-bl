@@ -614,6 +614,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -1474,6 +1475,7 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
 alaforex.cz.cc
 alahgaberlah.co.cc
+alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -1621,6 +1623,7 @@ amaderkotha.org
 amadeus666.org
 amaforex.cz.cc
 amando.info
+amanvpn.com
 amaz.in
 amazed.co.cc
 amazing-tool.co.cc
@@ -2713,7 +2716,6 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
-best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -4517,6 +4519,7 @@ consultingproxy.co.cc
 contactform.info
 contactproxies.co.cc
 contacts.dehb.ru
+contassh.com
 content-through.co.cc
 contentproxies.co.cc
 contentproxxy.co.cc
@@ -5022,7 +5025,6 @@ darya.persiannit.net
 dash.flylcc.cc
 dashproxy.com
 dassault-aviation.co.cc
-data-security.cz.cc
 datadefense.org
 datafil.cn
 datafil.com
@@ -5569,6 +5571,7 @@ dns.billyau.ne
 dns.bitdefender.net
 dns.bitservices.io
 dns.blaumer.dev
+dns.blaze-sk.ru
 dns.blokada.org
 dns.bluestarnc.com
 dns.bmwhocking.com
@@ -5974,7 +5977,6 @@ dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.lavir.com
 dns.learningman.top
-dns.lehonganh.id.vn
 dns.lepilleur.com
 dns.lermer.nl
 dns.levals.org
@@ -6363,6 +6365,7 @@ dns.tracker.ink
 dns.trifanov-online.ru
 dns.truong.fi
 dns.trust404.win
+dns.tryk.app
 dns.tuankhaiit.com
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -6522,7 +6525,6 @@ dns1.sarakas.net
 dns1.schooldns.nl
 dns1.server.my.id
 dns1.sg.newpangea.de
-dns1.steering.nextdns.io
 dns1.tardishost.ru
 dns1.techeasy.org
 dns1.thylacine.co.nz
@@ -6575,7 +6577,6 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sarakas.net
 dns2.srv-home.fr
-dns2.steering.nextdns.io
 dns2.thylacine.co.nz
 dns2.vinc.me
 dns2.vpcore.pro
@@ -6601,7 +6602,6 @@ dnscrypt-cert.ffmuc.net
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
-dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.akali666.top
@@ -7276,6 +7276,7 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
+easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -7930,6 +7931,7 @@ fast2furious.co.cc
 fast333.co.cc
 fastair.info
 fastamericanproxy.co.cc
+fastandfast.cz.cc
 fastaninonimous.co.cc
 fastanonimousweb.co.cc
 fastapp.eu
@@ -8319,6 +8321,7 @@ fireprox.com
 fireprox.net
 fireproxy.com
 firewall-filter.cz.cc
+firewall-filtering.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8469,6 +8472,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -11473,6 +11477,7 @@ ion.pm
 ionicmetalizer.co.cc
 ionproxy.com
 ios911.com
+iot.cdn.ovpn.bond
 iow-dns.bitdefender.net
 ioxy.de
 iozoi.cn
@@ -12482,7 +12487,6 @@ leap-proxy.co.cc
 leapfun.info
 leapin.info
 leapsforex.co.cc
-learn.mathnotes.help
 learn2surf.nz.gs
 learndistance.co.cc
 learnfacts.info
@@ -12543,6 +12547,7 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
+letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -12788,7 +12793,6 @@ loanszerodown.com
 lobby-school.co.cc
 local-agency.co.cc
 local.18.lc
-local.dns.filter.io.cdn.ovpn.bond
 local.sufly.top
 localdomain.ws
 localforex.co.cc
@@ -13195,6 +13199,7 @@ mathhome.info
 mathide.co.cc
 mathkids.info
 mathlearning.tech
+mathnotes.help
 mathnotes.icu
 mathpalace.com
 mathsonline.info
@@ -13776,6 +13781,7 @@ my.0nur.net
 my.alarmsms.com
 my.ctrw.net
 my.englishpapers.online
+my.worksheetsforteachers.org
 my5k.net
 my6.info
 myaccess.url.ph
@@ -15048,6 +15054,7 @@ openthis.info
 opentmsforexbrokers.co.cc
 opentunnel.net
 openvpn-ssh.com
+openvpn.cc
 openvpn.com
 openvpn.net
 openvpnpptp.bese.info
@@ -18161,6 +18168,7 @@ rapidproxy.com
 rapidproxy.org
 rapidproxy.us
 rapidproxylist.org
+rapidvpn.com
 rapidwire.net
 rapper.net
 raqc.net
@@ -18613,7 +18621,6 @@ royalchallengers.in
 royalproxy.co.cc
 royalproxy.info
 rpz-public-resolver1.rrdns.pch.net
-rr88.net
 rrdb.org
 rselite.com
 rsiso.com
@@ -20033,6 +20040,7 @@ spem-atjs.tk
 spem-atjsssl.tk
 spentforex.co.cc
 sperso.com
+spicevpn.com
 spider-crown.co.cc
 spider-in.info
 spidercroom.co.cc
@@ -21717,6 +21725,7 @@ thinkrapid.co.cc
 thirdteam.co.cc
 this-is-it-proxy.co.cc
 this-is-the-life.co.cc
+thiscopyofartclassisnotgenuine.rare1k.space
 thisisthestandard.com
 thisproxy.com
 thisproxy.free.fr
@@ -21779,6 +21788,7 @@ timewebfaster.co.cc
 timextreme.co.cc
 timiproxy.co.cc
 timmes.nl
+timperumichael.net23.net
 timt.info
 timtam.co.tv
 tinatalisa.co.cc
@@ -21824,7 +21834,6 @@ tochproxy.co.cc
 todayall.com
 todayfast.com
 todayseducation.info
-todo.mathnotes.help
 toggleforexbrokersite.co.cc
 toilforex.co.cc
 toink.co.cc
@@ -22343,6 +22352,7 @@ typeunblockweb.co.cc
 typographic.info
 tyrianforex.co.cc
 tyso.info
+tysonsbackagain.capnorthshore.org
 tzatziki.info
 tzkrtk.com
 u-index.com
@@ -22847,6 +22857,7 @@ unblockit.one
 unblockit.onl
 unblockit.pages.dev
 unblockit.pro
+unblockit.rsvp
 unblockit.uno
 unblockliteforexsite.co.cc
 unblockliteforexsites.co.cc
@@ -23178,6 +23189,7 @@ unzipped.zzl.org
 uom.in
 up-back-on.co.cc
 up-on-top.co.cc
+up.net76.net
 up50.com
 up9.info
 upaj.net
@@ -23825,6 +23837,7 @@ vps.poly-tank.jp
 vps.robotboard.de
 vps.techrich.net
 vps03.brueggus.de
+vps1.jnraptor.net
 vps119.brueggus.de
 vps132.brueggus.de
 vps153.brueggus.de
@@ -24520,6 +24533,7 @@ wrongdead.cn
 wrr.mask.apple-dns.net
 wtfmagic.info
 wtfsurf.com
+wtools.eu
 wtsb.net
 wtunnel.com
 wu.freecphost.com
@@ -26808,7 +26822,6 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
-www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -27917,6 +27930,7 @@ www.gmbl.info
 www.gnarb.com
 www.gnof.info
 www.go-fish.info
+www.go31.com
 www.go5.info
 www.goanony.com
 www.goanonym.com
@@ -29301,7 +29315,6 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
-www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
@@ -34996,6 +35009,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -35026,7 +35040,6 @@ www.yogdham.com
 www.yoha.info
 www.yolkd.com
 www.yomakingsshouruss.tk
-www.yomj.com
 www.yomsn.com
 www.yonjasohbet.com
 www.yope.info
