@@ -1219,7 +1219,6 @@ adguardhome.ddns.net
 adguardhome.favrep.ovh
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
-adguardhome.ponetwork.duckdns.org
 adguardhulst.duckdns.org
 adguardnic.ddns.net
 adguardsecure.cloud
@@ -2385,7 +2384,6 @@ ayuforex.co.cc
 ayzu.top
 az-proxy.co.cc
 azagrahome.duckdns.org
-azagramac.duckdns.org
 azat.info
 azaxo.com
 azbs.ddmm.eu.org
@@ -2917,7 +2915,6 @@ bigshotsite.co.cc
 bigslick.co.tv
 bigstorm.info
 bigsurfer.co.cc
-bigunblocked.co.vu
 bihr.info
 biip.info
 bikespeed.nz.gs
@@ -4446,6 +4443,7 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
+compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -5268,7 +5266,6 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6920,6 +6917,7 @@ dominatrix.brandonsli.com
 dominoan.co.cc
 dominus.cz.cc
 domor.cz.cc
+domovoy.cz.cc
 domoz.cz.cc
 domx.info
 donare.info
@@ -7429,7 +7427,6 @@ eliminatorproxy.co.cc
 elisabeth.klarsgarden.com
 elite-free.co.cc
 elite-proxy.co.cc
-elite.net84.net
 elitehide.com
 eliteproxies.com
 eliteproxy.info
@@ -7487,6 +7484,7 @@ englandproxy.co.uk
 englandproxy.com
 englishproxysite.ga
 englishtunnel.com
+enigma.cz.cc
 enigmaproxy.com
 enjoy-access.co.cc
 enjoy-surfing.co.cc
@@ -8306,7 +8304,6 @@ fireheap.com
 fireprox.com
 fireprox.net
 fireproxy.com
-firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8457,7 +8454,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9201,7 +9197,6 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
-freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -9609,7 +9604,6 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
-getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -10595,7 +10589,6 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
-hidenall.co.vu
 hidencute.co.vu
 hidengine.co.cc
 hidenproxxy.tk
@@ -10748,6 +10741,7 @@ hkg2.edge.access.zznet.fun
 hkname.freecdn.one
 hknat.ooguy.com
 hktko1.mask-t.apple-dns.net
+hkvps.hshoe.cn
 hlai.net
 hlkn.com
 hlll.fun
@@ -10810,7 +10804,6 @@ home.tuankhaiit.com
 home.vps.mtsdns.ru
 home.wriedts.de
 home.zonnet.nl
-home27.duckdns.org
 home3.brosena.xyz
 home47a.mooo.com
 home721.co.cc
@@ -11616,6 +11609,7 @@ isityet.net
 islakamcik.com
 islands-turkey.com
 ismailo.lixub.com
+ismyforumdown.com
 isnp.info
 isodos.com
 isolacje.homeip.net
@@ -11862,7 +11856,6 @@ joliesteens.com02.com
 jollysurf.co.cc
 jonasdevries.de
 jonathanaugusto.freeddns.org
-jonesboyz.duckdns.org
 joosurf.nz.gs
 joryforex.co.cc
 josephfamily.org
@@ -12652,7 +12645,6 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
-link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -15634,7 +15626,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -21528,7 +21519,6 @@ test.adg.siudzinski.net
 test.anonproxies.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
-test.net46.net
 test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
@@ -28607,7 +28597,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -28961,7 +28950,6 @@ www.jm9.info
 www.jmarshall.com
 www.jn0.info
 www.jobmejlet.com
-www.joeltheodore.com
 www.joeproxy.com
 www.jofo.info
 www.johnsoninteractive.com
@@ -35601,7 +35589,6 @@ yourproxi.com
 yourproxies.com
 yourproxy.com
 yourproxy.eu
-yourproxy.site40.net
 yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
