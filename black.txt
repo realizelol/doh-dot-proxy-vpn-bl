@@ -910,7 +910,6 @@ addnew.co.cc
 addns.clubbase.club
 addns.jpr.space
 addns1.m-it.ro
-address.9hz.com
 addtohide.co.cc
 addurl-free.com
 addwheel.com
@@ -1219,6 +1218,7 @@ adguardhome.ddns.net
 adguardhome.favrep.ovh
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
+adguardhome.ponetwork.duckdns.org
 adguardhulst.duckdns.org
 adguardnic.ddns.net
 adguardsecure.cloud
@@ -2384,6 +2384,7 @@ ayuforex.co.cc
 ayzu.top
 az-proxy.co.cc
 azagrahome.duckdns.org
+azagramac.duckdns.org
 azat.info
 azaxo.com
 azbs.ddmm.eu.org
@@ -2915,6 +2916,7 @@ bigshotsite.co.cc
 bigslick.co.tv
 bigstorm.info
 bigsurfer.co.cc
+bigunblocked.co.vu
 bihr.info
 biip.info
 bikespeed.nz.gs
@@ -5266,6 +5268,7 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6315,6 +6318,7 @@ dns.switch.ch
 dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
+dns.t-ipnet.de
 dns.t53.de
 dns.tacomafia.net
 dns.taoday.top
@@ -6591,6 +6595,7 @@ dnscrypt-cert.ffmuc.net
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
+dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.akali666.top
@@ -6902,6 +6907,7 @@ domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
+domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -7427,6 +7433,7 @@ eliminatorproxy.co.cc
 elisabeth.klarsgarden.com
 elite-free.co.cc
 elite-proxy.co.cc
+elite.net84.net
 elitehide.com
 eliteproxies.com
 eliteproxy.info
@@ -7978,7 +7985,6 @@ fastfreesurf.com
 fastglype.co.cc
 fastgo.no-block.net
 fastgreen.info
-fasthide.co.vu
 fasthide.com
 fasthome.info
 fasthttp.unblock-dot.co.cc
@@ -8304,6 +8310,7 @@ fireheap.com
 fireprox.com
 fireprox.net
 fireproxy.com
+firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8454,6 +8461,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9197,6 +9205,7 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
+freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -9604,6 +9613,7 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
+getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -10500,7 +10510,6 @@ hideglobal.com
 hidehim.com
 hideidentitynow.co.cc
 hideinfo.net
-hideip.890m.com
 hideip.be
 hideip.co
 hideip.ws
@@ -10589,7 +10598,7 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
-hidencute.co.vu
+hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -11856,6 +11865,7 @@ joliesteens.com02.com
 jollysurf.co.cc
 jonasdevries.de
 jonathanaugusto.freeddns.org
+jonesboyz.duckdns.org
 joosurf.nz.gs
 joryforex.co.cc
 josephfamily.org
@@ -12645,6 +12655,7 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
+link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -13964,6 +13975,7 @@ nadik.host
 nafftunnel.co.cc
 naganohara-yoimiya.momokko.moe
 naifen.net
+najiakeji.top
 nakatago.com
 nakedsquid.com
 name.my-station.ru
@@ -15820,7 +15832,6 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
 poxygoyo.comze.com
 poxyme.comli.com
 pozzop.com
@@ -18350,7 +18361,6 @@ remoteproxy.co.cc
 remotevpn.net
 removeban.com
 removefilters.net
-removethatwall.comuv.com
 renali.info
 renameproxy.co.cc
 rendertunnel.co.cc
@@ -20829,7 +20839,6 @@ surfexec.co.cc
 surfexplore.tk
 surfface.co.cc
 surffan.co.cc
-surffast.netau.net
 surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
@@ -21519,7 +21528,7 @@ test.adg.siudzinski.net
 test.anonproxies.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
-test101.net76.net
+test.net46.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -26023,7 +26032,6 @@ www.bypassany.info
 www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
-www.bypassed.org
 www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
@@ -27304,7 +27312,6 @@ www.filerip.com
 www.filesdownloader.com
 www.filestore.info
 www.filtax.com
-www.filter2005.com
 www.filterbay.com
 www.filterblast.com
 www.filterblock.info
@@ -28597,6 +28604,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -28950,6 +28958,7 @@ www.jm9.info
 www.jmarshall.com
 www.jn0.info
 www.jobmejlet.com
+www.joeltheodore.com
 www.joeproxy.com
 www.jofo.info
 www.johnsoninteractive.com
@@ -29327,7 +29336,6 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
-www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
@@ -34612,7 +34620,6 @@ www.webbanane.de
 www.webbest8453s.tk
 www.webblocks.com
 www.webbounce.com
-www.webbypass.com
 www.webcore.info
 www.webcurtain.info
 www.webdigi.info
