@@ -3617,6 +3617,7 @@ addproxys.tk
 addrate.tk
 addrates.tk
 addreload.tk
+address.9hz.com
 addressask.info
 addresscare.tk
 addresscloud.info
@@ -35189,6 +35190,7 @@ hidemyworld.com
 hiden0w.info
 hidenbrowser.tk
 hidencool.co.vu
+hidencute.co.vu
 hidenew.cf
 hidenew.info
 hidenfreejack.tk
@@ -111610,6 +111612,7 @@ www.filter-unblocka.tk
 www.filter-unblocker.tk
 www.filter-unblockers.info
 www.filter-unlocker.info
+www.filter2005.com
 www.filter23websites.tk
 www.filter2proxy.cn
 www.filter3-unblocker.tk
