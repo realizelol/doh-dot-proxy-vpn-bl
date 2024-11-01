@@ -15842,6 +15842,7 @@ cmsforexdemo-13f3.tk
 cmsforexdemo-8u1.tk
 cmsforexdemo-8u2.tk
 cmsforexdemo-8u3.tk
+cmsforexdemo.cz.cc
 cmsforexdemo.tk
 cmsforexmarket.tk
 cmsforexmoney.tk
@@ -23560,6 +23561,7 @@ fastaction.tk
 fastaddincome.tk
 fastallacces.tk
 fastallonline.tk
+fastandfast.cz.cc
 fastandfree.info
 fastandfree1.info
 fastandfree2.info
