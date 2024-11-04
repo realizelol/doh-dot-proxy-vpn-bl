@@ -256,6 +256,7 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
+1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -1218,7 +1219,6 @@ adguardhome.favrep.ovh
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
 adguardhome.ponetwork.duckdns.org
-adguardhulst.duckdns.org
 adguardnic.ddns.net
 adguardsecure.cloud
 adh.51st.top
@@ -1942,6 +1942,7 @@ antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
+antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
 antispyware.cz.cc
@@ -2281,7 +2282,6 @@ aurgh.com
 auroraproxy.co.cc
 aussie-proxy.com
 austro.co.cc
-ausyd2.mask-t.apple-dns.net
 ausyd2.mask.apple-dns.net
 autagonistophilia.co.cc
 auth.phclinz.de
@@ -2324,6 +2324,7 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
+avambee.cz.cc
 avarikoteo.co.cc
 avatunnel.co.cc
 avenue2.info
@@ -2349,7 +2350,6 @@ awaldaricinta.co.cc
 awan.ftp.sh
 award-proxy.co.cc
 award-vpn.com
-away.dreamday.gr
 awaybreathe.co.cc
 awaysurf.co.cc
 awebproxy.com
@@ -2499,7 +2499,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -2718,7 +2717,6 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
-best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -3567,6 +3565,7 @@ buythe.cybertruck.design
 buzy.info
 buzz-bigest.co.cc
 buzzhide.com
+buzzworld.cz.cc
 buzzysplat.com
 bvdy.com
 bvic01.atspace.com
@@ -3998,7 +3997,6 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
-centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4095,6 +4093,7 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
+chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4136,6 +4135,7 @@ chromeproxy.net
 chromium.dns.nextdns.io
 chronicle14.tplinkdns.com
 chronicorders.co.cc
+chuan.usa.cc
 chubbybunny.info
 chuforex.co.cc
 chuiyixiaproxy.tk
@@ -4264,6 +4264,7 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
+cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4303,6 +4304,7 @@ cloudbasesolutions.online
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4439,6 +4441,7 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
+compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -4454,7 +4457,6 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5093,7 +5095,6 @@ deagle.co.cc
 dealsswiss.com
 deaud.nl
 deauslaufs.tk
-deber3.mask-t.apple-dns.net
 deber3.mask.apple-dns.net
 debianproxy.co.cc
 deblokbrokerforexsite.co.cc
@@ -5122,8 +5123,6 @@ dedicated-service.co.cc
 dedicated.lvolland.fr
 dedicatedproxies.com
 dedidl.com
-dedus1.mask-t.apple-dns.net
-dedus1.mask.apple-dns.net
 dee.su
 deebee.info
 deep-henchman-excuse.cfd
@@ -6891,6 +6890,7 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
+domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -8165,6 +8165,7 @@ filipinoray.com
 fill-me.co.cc
 filtax.com
 filter.das.sch.id
+filter2005.com
 filterax.nz.gs
 filterbay.com
 filterblast.com
@@ -9500,7 +9501,6 @@ gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 gbpro.info
-gbslo5.mask-t.apple-dns.net
 gbslo5.mask.apple-dns.net
 gbuforex.co.cc
 gc.cyberbeta.cn
@@ -10074,6 +10074,7 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
+greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -10639,7 +10640,6 @@ hidework.co.cc
 hideworld.cn
 hideworld.com
 hidexi.info
-hidexy.com
 hideyour.name
 hideyourinfo.com
 hideyourpc-free.kx.cz
@@ -10739,7 +10739,6 @@ hkg02.dnscry.pt
 hkg2.edge.access.zznet.fun
 hkname.freecdn.one
 hknat.ooguy.com
-hktko1.mask-t.apple-dns.net
 hkvps.hshoe.cn
 hlai.net
 hlkn.com
@@ -10879,7 +10878,6 @@ hotelreserves.co.cc
 hotelsurf.co.cc
 hotforexgirls.co.cc
 hotfreevpn.com
-hothide.com
 hotknife.info
 hotkop.com
 hotlivescore.com
@@ -11147,8 +11145,6 @@ idramsingan.co.cc
 idvanish.com
 ie-dub-w-1.nashkan.net
 ie01.dns4me.net
-iedub2.mask-t.apple-dns.net
-iedub2.mask.apple-dns.net
 iejj.com
 ieproxy.com
 ieultimateproxy.appspot.com
@@ -11841,7 +11837,6 @@ jobscorps.co.cc
 jobsexperd.co.cc
 jobsmonster.co.cc
 jobworker.co.cc
-joeltheodore.com
 joeproxy.com
 jofo.info
 johnsoninteractive.com
@@ -11893,7 +11888,6 @@ jpgload.com
 jpok.996333.xyz
 jprox.com
 jpshare.cn
-jptyo12.mask-t.apple-dns.net
 jptyo12.mask.apple-dns.net
 jpunblocktkvesttkntus.tk
 jpunblocktkvesttkntus9.tk
@@ -13326,7 +13320,6 @@ mepro.info
 merak1.eu.org
 mercenario.info
 merd.info
-merdeka.zapto.org
 merepihalam.co.cc
 merletn.org
 merrynewyear.com
@@ -14361,7 +14354,6 @@ nl.adg.ghostzone.wtf
 nl.dns.privex.io
 nl.rslvr.eu
 nlb.gbrossi.com.br
-nlhfd1.mask-t.apple-dns.net
 nlhfd1.mask.apple-dns.net
 nlproxy.com
 nnnnn.info
@@ -15661,7 +15653,6 @@ playtimeonschool.info
 playwell.info
 pleaforex.co.cc
 pleasantbesurf.co.cc
-please.dontsteal.my.id
 pleasefreeme.com
 pleaseproxyme.com
 pleaseuseme.co.cc
@@ -18677,7 +18668,6 @@ russianproxy.com
 rusvpn.com
 rutina.info
 ruuh.com
-ruviklabsdns.duckdns.org
 rvoting.com
 rw47.com
 rwkdwpwsyv48.mikopono.nl
@@ -19263,7 +19253,6 @@ servis4u.top
 servit.biz
 servou.com
 sest.info
-sesto4.mask-t.apple-dns.net
 sesto4.mask.apple-dns.net
 setfast.co.cc
 sethpowell.info
@@ -19299,6 +19288,7 @@ sexy-eleanor.fr.st
 sexy-nice-brutal-working-proxy-web-serve.e-blog.cz
 sexybody.myqnapcloud.com
 sexyboutique.free.fr
+sexyempire.com
 sexyloser.com
 sexymembers.com
 sexyphotos.fr.fm
@@ -19334,7 +19324,6 @@ sgp.vpn.i-2.io
 sgqhz.w26.100dns.com
 sgs02.just-a-web.com
 sgs03.just-a-web.com
-sgsin8.mask-t.apple-dns.net
 sh.telex.app
 sh.totoro.pub
 shaa.line.pm
@@ -22108,6 +22097,7 @@ trevorhull.com
 trez.info
 trf01.dnscry.pt
 trgc.opt.fimserve.com
+tri-dns.net
 trialproxy.com
 trialpxy.allalla.com
 triangular.info
@@ -22180,7 +22170,6 @@ ttsurfer.co.cc
 ttunnel.com
 ttza.com
 tuanben.freetzi.com
-tuandns.duckdns.org
 tuanvpn.freeddns.org
 tube-proxy.com
 tube.khost.co.nz
@@ -22201,6 +22190,7 @@ tujenasnaszato.xyz
 tukselamanya.co.cc
 tukukupat.co.cc
 tulan.info
+tuld.net
 tulle.info
 tuman.co.cc
 tumbtack.com
@@ -22349,7 +22339,6 @@ twittedhoops.co.cc
 twittednowz.co.cc
 twitterfree.co.cc
 twitterproxy.org
-twntc1.mask-t.apple-dns.net
 twntc1.mask.apple-dns.net
 twobeep.com
 twoboys.blogfa.com
@@ -23338,21 +23327,16 @@ usaproxie.co.cc
 usaproxy.com
 usaproxy.info
 usaproxy.net
-usatl5.mask-t.apple-dns.net
 usatl5.mask.apple-dns.net
 usatunnel.com
 usatwo.wuyouss.com
 usawebproxy.com
 usawebproxy.net
 usbm.de
-usbos2.mask-t.apple-dns.net
 usbrowser.com
 usbux.net
-uschi7.mask-t.apple-dns.net
 uschi7.mask.apple-dns.net
-usdal2.mask-t.apple-dns.net
 usdedi.ecapsul.com
-usden6.mask-t.apple-dns.net
 use-application-dns.net
 use.freeddns.com
 usedrolex.co.cc
@@ -23372,10 +23356,8 @@ using-technique.co.cc
 usingfree.co.cc
 usipaddress.net
 uskt.info
-uslax2.mask-t.apple-dns.net
 uslime.info
 usloannow.co.cc
-usmia1.mask-t.apple-dns.net
 usmsc2.mask.apple-dns.net
 usname.freecdn.one
 usneak.com
@@ -23392,7 +23374,6 @@ ustrip.co.cc
 ustunnel.com
 usun.info
 usunblock.com
-usuyk1.mask-t.apple-dns.net
 usuyk1.mask.apple-dns.net
 uswebproxy.com
 uswebproxy.net
@@ -24561,7 +24542,6 @@ wrappingworld-hole.co.cc
 wreaforex.co.cc
 wrong-right.co.cc
 wrongdead.cn
-wrr.mask.apple-dns.net
 wtfmagic.info
 wtfsurf.com
 wtools.eu
@@ -24747,6 +24727,7 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
+www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -26572,7 +26553,6 @@ www.cupl.info
 www.cupofcats.com
 www.cupofnoodles.com
 www.cupr.info
-www.cupu.info
 www.cupuc.com
 www.curlproxy.com
 www.cury.info
@@ -27489,7 +27469,6 @@ www.foxyproxy.net
 www.fozz.info
 www.fpiu.com
 www.fpra.info
-www.fpx0.com
 www.fraction.ws
 www.fral.info
 www.france-alarme-nord.fr
@@ -33007,6 +32986,7 @@ www.starprivacy.com
 www.start90.com
 www.startbrowse.com
 www.starte.nl
+www.starterone.com
 www.startroot.tk
 www.startvpn.info
 www.starwarsmania.com
