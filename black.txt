@@ -633,7 +633,7 @@
 9s3.net
 9w9.org
 9y2.net
-_dns._link.ovpn.bond
+_dot._link.ovpn.bond
 _iot._cdn.ovpn.bond
 a-4.info
 a-5.info
@@ -2009,6 +2009,7 @@ aosomi.com
 aotforex.co.cc
 aouforex.co.cc
 apac-mask.wrr.mask.apple-dns.net
+apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -3207,6 +3208,7 @@ bmuforex.co.cc
 bmwspeed.co.cc
 bmwsurf.co.cc
 bmyguide.com
+bne01.dnscry.pt
 bnuforex.co.cc
 boaforex.co.cc
 boatip.com
@@ -4120,6 +4122,7 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
+chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4332,6 +4335,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4869,6 +4873,7 @@ cybershell.info
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -6949,6 +6954,7 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
+domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -6970,7 +6976,6 @@ dominatrix.brandonsli.com
 dominoan.co.cc
 dominus.cz.cc
 domor.cz.cc
-domovoy.cz.cc
 domx.info
 donare.info
 donblock.com
@@ -7666,6 +7671,7 @@ eurproxy.com
 eusko.org
 euuforex.co.cc
 evade123.com
+evaded.net
 evadefilters.com
 evaha.com
 evantbyrne.info
@@ -7767,7 +7773,6 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -10134,6 +10139,7 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
+greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -10649,6 +10655,7 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
+hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -12676,7 +12683,6 @@ likeall.info
 likebehind.co.cc
 likedomain.co.cc
 likeface07.tk
-likehiden.co.vu
 likemyeyes.co.cc
 likest.cn
 likethis-hole.co.cc
@@ -12705,6 +12711,7 @@ limpi.info
 lindenwealth.com
 lindung.pp.ua
 line-behind.co.cc
+line.pm
 linear.ws
 linetechnet.co.cc
 linfox.com
@@ -12748,6 +12755,7 @@ lionssh.com
 lipunyushka.ru
 liquidvpn.com
 liresforex.co.cc
+lis01.dnscry.pt
 lism.info
 list22.com
 listaproxy.org
@@ -15708,6 +15716,7 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
+place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -16197,7 +16206,6 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -16417,6 +16425,7 @@ proxthem.co.cc
 proxthis.com
 proxthisway.info
 proxthree.co.cc
+proxtik.co.vu
 proxtik.com
 proxto.com
 proxtox.com
@@ -18000,7 +18009,6 @@ punch-in.info
 punchrocket.com
 punchthrough.com
 punkedproxy.com
-punono.duckdns.org
 pupilacces.co.cc
 pupilpass.com
 pupilplays.co.cc
@@ -18883,7 +18891,6 @@ salmex.co.cc
 salmongrill.co.cc
 salmonstory.com
 salti.info
-salvadoserver.duckdns.org
 samair.ru
 samairproxy.co.cc
 samforex.co.cc
@@ -19678,6 +19685,7 @@ siteviewers.com
 sitewayunblock.co.cc
 sitewebs.info
 sitexplorer.info
+sitha-is.so-gorgeo.us.kg
 sits.info
 sixdayswar.co.cc
 siyra.com
@@ -21628,7 +21636,6 @@ tethforex.co.cc
 tetra.aeins.at
 tetty-is.so-gorgeo.us.kg
 teviforex.co.cc
-texantonio1.esy.es
 texasbibabe.yafro.com
 texashorse.co.cc
 texasproxy.com
@@ -23461,7 +23468,6 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
-usproxy.usa.cc
 usproxyserver.info
 usqas5.mask.apple-dns.net
 ussurfer.nz.gs
@@ -24827,6 +24833,7 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
+www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -25898,7 +25905,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -27207,6 +27213,7 @@ www.extrasneaky.com
 www.extremeproxy.com
 www.eyet.info
 www.eyou.eu
+www.eyym.com
 www.ez9.info
 www.ezcrack.info
 www.ezhide.com
@@ -29070,6 +29077,7 @@ www.jumpthewall.com
 www.junemoon.net
 www.jungleproxy.com
 www.junov.com
+www.jupopo.com
 www.just-doit.com
 www.justbypass.com
 www.justclothes.info
@@ -35507,6 +35515,8 @@ xsproxy.com
 xsproxyhtc.tk
 xsproxyhtcs.tk
 xsruf.co.cc
+xstl.objet.seia.io
+xstl.seia.io
 xtbuy.com
 xteensx.co.cc
 xtrapremium.com
