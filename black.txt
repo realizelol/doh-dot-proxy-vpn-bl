@@ -2678,6 +2678,7 @@ beel.info
 beemine.info
 beenbanned.com
 beepassvpn.com
+beeper.cz.cc
 beerbreak.co.cc
 beerforex.co.cc
 beespeed.info
@@ -3559,7 +3560,6 @@ bushido.node.rferee.dev
 bushmancastle.duckdns.org
 busineesschool.co.cc
 business-firewalls.cz.cc
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -3854,6 +3854,7 @@ cantfindme.org
 cantseeme.cn
 cantstopme.com
 canyong1984.eu.org
+capella1.eu.org
 capellaproxy.co.cc
 capeme.com
 capital.blisstechnology.com
@@ -4008,6 +4009,7 @@ ceniebguri.co.cc
 cenq.com
 censorthat.com
 censurfridns.dk
+centauri1.eu.org
 centenario.info
 centerpiecesurf.co.cc
 centersurf.co.cc
@@ -4118,6 +4120,7 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
+chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4330,6 +4333,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5997,6 +6001,7 @@ dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.lavir.com
 dns.learningman.top
+dns.lehonganh.id.vn
 dns.lepilleur.com
 dns.lermer.nl
 dns.levals.org
@@ -6278,6 +6283,7 @@ dns.safeith.com
 dns.safko.eu
 dns.sainternet.xyz
 dns.sakuraseasons.com
+dns.salonia.it
 dns.saneaki.com
 dns.sarak.as
 dns.sarakas.net
@@ -6947,6 +6953,7 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
+domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -7240,6 +7247,7 @@ dwiprayogo.appspot.com
 dwuforex.co.cc
 dxuforex.co.cc
 dxuh.com
+dxuu.com
 dxyef5b084fjk.cloudfront.net
 dy58t8rwtsd9j.cloudfront.net
 dy9.org
@@ -7784,6 +7792,7 @@ ezloans.co.cc
 ezpow.com
 ezproxee.info
 ezproxies.com
+ezproxify.cz.cc
 ezproxy.org
 ezproxyer.com
 ezr.info
@@ -8508,6 +8517,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9658,7 +9668,6 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
-getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -11232,7 +11241,6 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
-ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -13410,6 +13418,7 @@ metalvideo.cz
 metasecurity.co.cc
 metaspinner-media.de
 metemma.com
+meteor1.eu.org
 methods-inside.co.cc
 metis.sheggi.ch
 metonator-proxy.appspot.com
@@ -14410,6 +14419,7 @@ ninjaweb.xyz
 ninjaworm.com
 ninjazone.info
 ninlerface.tk
+ninny.duckdns.org
 nintendo3d.co.cc
 niru.info
 nisnas.co.cc
@@ -16078,6 +16088,7 @@ privx.org
 prmiumzone.co.cc
 pro-ab.uni.me
 pro-matic.appspot.com
+pro-tower.com
 pro-xy.ronaldmojica.com
 pro.362878.xyz
 pro.blaster.ch
@@ -16196,7 +16207,6 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -19963,6 +19973,7 @@ solar.clanteam.com
 solargodhelm.co.cc
 solariforex.co.cc
 solarspace.info
+soleilvpn-app.com
 solidproxy.com
 solidproxy.net
 solidwebproxy.com
@@ -23331,6 +23342,7 @@ uqep.com
 uqet.com
 uqqr.com
 uqwu.com
+uqwy.com
 uqxu.com
 uqzu.com
 ur-browser.com
@@ -24836,6 +24848,7 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
+www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -25066,6 +25079,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -26959,12 +26973,12 @@ www.dutchproxy.nu
 www.duwie.com
 www.dva.in
 www.dvbfc.tk
+www.dvla.cn
 www.dvrpower.in
 www.dwap.info
 www.dwape.com
 www.dwiloan.com
 www.dxuh.com
-www.dxuu.com
 www.dxym.site
 www.dy9.org
 www.dygar.com
@@ -27463,6 +27477,7 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -27782,6 +27797,7 @@ www.freewebproxy.net
 www.freewebproxy.org
 www.freewebproxy.us
 www.freewebproxy.ws
+www.freewebproxylist.com
 www.freewebproxyserver.net
 www.freewebproxyserver.pw
 www.freewebproxyunblocksites.info
@@ -28928,7 +28944,6 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
-www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -29076,6 +29091,7 @@ www.jumpthewall.com
 www.junemoon.net
 www.jungleproxy.com
 www.junov.com
+www.jupopo.com
 www.just-doit.com
 www.justbypass.com
 www.justclothes.info
@@ -29086,6 +29102,7 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
+www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
