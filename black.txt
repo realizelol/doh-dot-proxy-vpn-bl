@@ -257,7 +257,6 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
-1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -661,6 +660,7 @@ a.safe.ns.dnslify.com
 a.tgzazas.top
 a.xkong.cf
 a.zpn.me
+a1781.dscdi3.akamai.net
 a1free-optimal.prcdn.net
 a1p.org
 a1proxy.com
@@ -3560,6 +3560,7 @@ bushido.node.rferee.dev
 bushmancastle.duckdns.org
 busineesschool.co.cc
 business-firewalls.cz.cc
+business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -4333,6 +4334,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflare.com
 cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
@@ -4486,7 +4488,6 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -7646,6 +7647,7 @@ etunnel.net
 etunnel.org
 etyet.com
 eu-browse.startpage.com
+eu-it-1.salonia.it
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
 eu.tri-dns.net
@@ -9668,6 +9670,7 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
+getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -10039,7 +10042,6 @@ gotoproxy.com
 gotour.info
 gotoworldcup.co.cc
 gotproxies.com
-gotproxy.co.vu
 gotrusted.com
 gouc.fr
 gouforex.co.cc
@@ -11241,6 +11243,7 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
+ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -11322,7 +11325,6 @@ imright.net
 imsly.com
 imsneaky.com
 imspecial.me
-imunblocked.co.vu
 imyu.info
 in-blr.doh.sb
 in-disguise.com
@@ -11915,7 +11917,6 @@ jobscorps.co.cc
 jobsexperd.co.cc
 jobsmonster.co.cc
 jobworker.co.cc
-joeltheodore.com
 joeproxy.com
 jofo.info
 johnsoninteractive.com
@@ -12113,6 +12114,7 @@ katleen-voyance.com
 katonetwork.com
 katproxy.com
 katzenjammer.co.cc
+kavkaz.monster
 kavkazskiy.co.cc
 kawanen.co.cc
 kawpad.southeastasia.cloudapp.azure.com
@@ -12720,7 +12722,6 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
-link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -13045,6 +13046,19 @@ ma1.guardmydns.com
 maal.info
 mablet.com
 mabokers.co.cc
+mabuktogel.builders
+mabuktogel.business
+mabuktogel.cards
+mabuktogel.creditcard
+mabuktogel.degree
+mabuktogel.directory
+mabuktogel.enterprises
+mabuktogel.immobilien
+mabuktogel.limited
+mabuktogel.ltd
+mabuktogel.marketing
+mabuktogel.properties
+mabuktogel.solutions
 mac4arabs.com
 macarone.co.cc
 macaroni.in
@@ -15809,7 +15823,6 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
-polisitogel.properties
 polisitogel.show
 polisitogel.webcam
 polno.info
@@ -16071,7 +16084,6 @@ privateproxy.net
 privateproxyreviews.com
 privateshadow.com
 privatesurf.co.cc
-privatesurf.co.vu
 privatesurf.us
 privatesurfforme.net
 privatesurfing.co.cc
@@ -16207,6 +16219,7 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -22160,6 +22173,7 @@ trafa.com
 trafe.com
 trafficjunky.co.cc
 trafficproxies.co.cc
+trafflink.xyz
 traffmonetizer.com
 trailfire.com
 trallalaproxy.co.cc
@@ -23473,7 +23487,6 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
-usproxy.usa.cc
 usproxyserver.info
 usqas5.mask.apple-dns.net
 ussurfer.nz.gs
@@ -23814,6 +23827,7 @@ vpn-fastest.com
 vpn-for-test.ru
 vpn-free.com
 vpn-free.download
+vpn-professional.company
 vpn-proxies.co.cc
 vpn-server.xyz
 vpn-services.co.cc
@@ -26973,12 +26987,12 @@ www.dutchproxy.nu
 www.duwie.com
 www.dva.in
 www.dvbfc.tk
-www.dvla.cn
 www.dvrpower.in
 www.dwap.info
 www.dwape.com
 www.dwiloan.com
 www.dxuh.com
+www.dxuu.com
 www.dxym.site
 www.dy9.org
 www.dygar.com
@@ -28944,6 +28958,7 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
+www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -29444,7 +29459,6 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
-www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
