@@ -238,7 +238,6 @@
 1now.info
 1oxy.co.cc
 1play.org
-1promise.cn
 1prox.com
 1proxy.com
 1proxy.org
@@ -257,6 +256,7 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
+1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -325,7 +325,6 @@
 2ah.info
 2browse.info
 2dify.com
-2dns.duckdns.org
 2eb.org
 2evs.com
 2f33.com
@@ -1699,7 +1698,6 @@ an81.ddns.net
 an81dns.ru
 ana.goodluckwith.us
 anachem.online
-anaforex.cz.cc
 anagy.net
 analise.info
 analystforex.co.cc
@@ -3437,7 +3435,6 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
-browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -4488,6 +4485,7 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -6937,8 +6935,6 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
-domain-name.cz.cc
-domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -6955,7 +6951,6 @@ domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
-domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -8519,7 +8514,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -10042,6 +10036,7 @@ gotoproxy.com
 gotour.info
 gotoworldcup.co.cc
 gotproxies.com
+gotproxy.co.vu
 gotrusted.com
 gouc.fr
 gouforex.co.cc
@@ -11325,6 +11320,7 @@ imright.net
 imsly.com
 imsneaky.com
 imspecial.me
+imunblocked.co.vu
 imyu.info
 in-blr.doh.sb
 in-disguise.com
@@ -11917,6 +11913,7 @@ jobscorps.co.cc
 jobsexperd.co.cc
 jobsmonster.co.cc
 jobworker.co.cc
+joeltheodore.com
 joeproxy.com
 jofo.info
 johnsoninteractive.com
@@ -12722,6 +12719,7 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
+link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -15925,7 +15923,6 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
 poxygoyo.comze.com
 poxyme.comli.com
 pozzop.com
@@ -16084,6 +16081,7 @@ privateproxy.net
 privateproxyreviews.com
 privateshadow.com
 privatesurf.co.cc
+privatesurf.co.vu
 privatesurf.us
 privatesurfforme.net
 privatesurfing.co.cc
@@ -16219,7 +16217,6 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -18244,7 +18241,6 @@ ralfs-dns.dsh.lol
 ramces.com
 ramforex.co.cc
 ramirezhate.co.cc
-ramosearch.comlu.com
 rampokbrokerforex.co.cc
 ranco.info
 random-access.co.cc
@@ -18459,7 +18455,6 @@ remoteproxy.co.cc
 remotevpn.net
 removeban.com
 removefilters.net
-removethatwall.comuv.com
 renali.info
 renameproxy.co.cc
 rendertunnel.co.cc
@@ -23487,6 +23482,7 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
+usproxy.usa.cc
 usproxyserver.info
 usqas5.mask.apple-dns.net
 ussurfer.nz.gs
@@ -26987,6 +26983,7 @@ www.dutchproxy.nu
 www.duwie.com
 www.dva.in
 www.dvbfc.tk
+www.dvla.cn
 www.dvrpower.in
 www.dwap.info
 www.dwape.com
@@ -28724,7 +28721,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -29459,6 +29455,7 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
+www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
