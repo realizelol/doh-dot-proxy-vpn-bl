@@ -2048,7 +2048,6 @@ appninja.info
 appreciate-proxy.co.cc
 approx.co.cc
 approxymate.com
-apps.facebook.com.web.tld.cc
 appsforexian.co.cc
 appshost.us
 appspect.com
@@ -2741,6 +2740,7 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
+best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -2768,6 +2768,7 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
+bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -2819,6 +2820,7 @@ bestrealm.com
 bestrug.co.cc
 bestscience.info
 bestsecret.info
+bestsecuredloans.cz.cc
 bestserverproxy.co.cc
 bestservers.org
 bestsimple.info
@@ -3390,6 +3392,7 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
+brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -4331,6 +4334,7 @@ clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
 cloudflare.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4870,7 +4874,6 @@ cybershell.info
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5003,7 +5006,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -6002,7 +6004,6 @@ dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.lavir.com
 dns.learningman.top
-dns.lehonganh.id.vn
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
@@ -6642,6 +6643,7 @@ dnscrypt-cert.ffmuc.net
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
+dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.3300000.xyz
@@ -8092,7 +8094,6 @@ fastsrf.co.cc
 fastssh.com
 faststprxy.co.cc
 faststudent.co.cc
-fastsurf.890m.com
 fastsurfingweb.co.cc
 fastt4.blogspot.com
 fasttime.info
@@ -8227,6 +8228,7 @@ filipinoray.com
 fill-me.co.cc
 filtax.com
 filter.das.sch.id
+filter2005.com
 filterax.nz.gs
 filterbay.com
 filterblast.com
@@ -8512,6 +8514,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9534,7 +9537,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10362,7 +10364,7 @@ hd9.info
 hdnsadguardhome.me
 hdsurf.co.cc
 hdxproxy.co.cc
-he2.redvau.lt
+he4.redvau.lt
 head-college.co.cc
 headingoutoproxy.co.cc
 headproxy.com
@@ -12602,7 +12604,6 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
-letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -12720,7 +12721,6 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
-link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -14108,6 +14108,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -15924,7 +15925,6 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
 poxygoyo.comze.com
 poxyme.comli.com
 pozzop.com
@@ -15975,7 +15975,6 @@ premiumtier-network.instadart.net
 premiumzone.info
 premixsite.co.cc
 premoweb.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -19543,6 +19542,7 @@ shopcars.co.cc
 shopdiamonds.co.cc
 shopipad.co.cc
 shopluxury.net
+shopproxy.net
 shoppy.co.in
 shopsurf.co.cc
 shoptarget.co.cc
@@ -24991,6 +24991,7 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
+www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -27256,6 +27257,7 @@ www.eyou.eu
 www.eyym.com
 www.ez9.info
 www.ezcrack.info
+www.ezhide.com
 www.ezpow.com
 www.ezproxee.info
 www.ezproxies.com
@@ -30002,6 +30004,7 @@ www.nationalcreditreport.info
 www.naturalproxy.com
 www.nava-proxy.tk
 www.navigationprivee.com
+www.naviguer.ca
 www.navydog.com
 www.nawt.info
 www.nazlimcafe.com
@@ -30488,6 +30491,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
