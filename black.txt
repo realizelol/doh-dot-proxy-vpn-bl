@@ -550,7 +550,6 @@
 77980.bodis.com
 787555asurfs.tk
 790.us
-7atf.com
 7e7.info
 7eth.com
 7f6.net
@@ -700,7 +699,6 @@ aattwwss.duckdns.org
 aauforex.co.cc
 abaforex.cz.cc
 abc.kissfree.net
-abcdef.cz.cc
 abcdian.com
 abcmusic.info
 abcproxy.com
@@ -883,7 +881,6 @@ ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
 ada.openbld.net
-adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -1968,6 +1965,7 @@ antiproxy.com
 antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
+antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2526,7 +2524,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -2683,7 +2680,6 @@ beel.info
 beemine.info
 beenbanned.com
 beepassvpn.com
-beeper.cz.cc
 beerbreak.co.cc
 beerforex.co.cc
 beespeed.info
@@ -4341,7 +4337,6 @@ clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
 cloudflare.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5016,6 +5011,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5209,6 +5205,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -6953,6 +6950,7 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-name.cz.cc
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -6965,6 +6963,7 @@ domain.tyrerwebster.com
 domain.wuffster.com
 domainactive.info
 domainbypass.com
+domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
@@ -6973,6 +6972,7 @@ domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
+domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -8056,6 +8056,7 @@ fastfreesurf.com
 fastglype.co.cc
 fastgo.no-block.net
 fastgreen.info
+fasthide.co.vu
 fasthide.com
 fasthome.info
 fasthttp.unblock-dot.co.cc
@@ -10061,6 +10062,7 @@ gotoproxy.com
 gotour.info
 gotoworldcup.co.cc
 gotproxies.com
+gotproxy.co.vu
 gotrusted.com
 gouc.fr
 gouforex.co.cc
@@ -10680,6 +10682,7 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
+hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -11753,6 +11756,7 @@ itsproxytime.co.cc
 itsrecess.com
 itstuesday.co.cc
 itsturbo.info
+itsunblocked.co.vu
 ittv.info
 ituneplus.com
 itunnel.com
@@ -25111,7 +25115,6 @@ www.7755.info
 www.777proxy.com
 www.777surfer.info
 www.790.us
-www.7atf.com
 www.7e7.info
 www.7eth.com
 www.7f6.net
@@ -26879,6 +26882,7 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
+www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -29184,6 +29188,7 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
+www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
@@ -31381,7 +31386,6 @@ www.proxydrop.biz
 www.proxydrop.com
 www.proxydrop.info
 www.proxydrop.org
-www.proxyds.com
 www.proxyduchess.info
 www.proxydude.com
 www.proxydude123.tk
@@ -35526,6 +35530,7 @@ xenergy.cc
 xenology.co.cc
 xepox.co.cc
 xerohour.org
+xerosurf.com
 xetb.com
 xev.in
 xew.in
