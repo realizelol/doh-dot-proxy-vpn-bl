@@ -1490,6 +1490,7 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
 alaforex.cz.cc
 alahgaberlah.co.cc
+alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -1939,7 +1940,6 @@ anotherproxy.com
 anotherprxy.co.cc
 anotherwayin.com
 anoxx.com
-anozymous.nz.gs
 anrforex.co.cc
 anskyforex.co.cc
 answersky.com
@@ -4344,7 +4344,6 @@ clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
 cloudflare.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -6659,10 +6658,10 @@ dnscache0.ns71.net
 dnscdn.bai0012.com
 dnscity.org
 dnscrypt-cert.ffmuc.net
+dnscrypt.xyz
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
-dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.3300000.xyz
@@ -7438,7 +7437,6 @@ edgeonly.co.cc
 edgeproxy.net
 edgy-dns.com
 edilly.com
-edit.commanders.design
 edns.233py.com
 edostar.co.cc
 edpuzzle-lol.vercel.app
@@ -13053,7 +13051,6 @@ lunk.info
 lunwen.com.ru
 lunwenyi.cn
 lureproxy.co.cc
-lurk.info
 lusaka.ws
 lustlaube.de
 lux.sn0w.nl
@@ -15251,7 +15248,6 @@ orientalproxy.co.nr
 oriente.info
 orients.info
 originale.mobi
-orion1.eu.org
 oriongroupllc.com
 orjp4.lz0724.com
 orkuch.com
@@ -17027,7 +17023,6 @@ proxybaliku.co.cc
 proxybangers.co.cc
 proxybasics.com
 proxybat.com
-proxybay.cn
 proxybay2.appspot.com
 proxybazaar.co.cc
 proxybear.com
@@ -18462,6 +18457,7 @@ reflect4.me
 refreforex.co.cc
 refreshing-unlock.co.cc
 refugeurl.info
+regiopolis.cloud
 regmin.com
 regzaproxy.co.cc
 rehabdrug.co.cc
@@ -18784,7 +18780,6 @@ roxified.com
 roxxo.net
 roxy.neq3.com
 roxy.nl
-roxy2link.com
 roxyina.co.cc
 roxymy.co.cc
 roxyp.com
@@ -19700,7 +19695,6 @@ sip.amigo-mgn.ru
 sips.my.id
 siqn.com
 sirfur.info
-sirius1.eu.org
 sirty.com
 sise.info
 sisum.co.cc
@@ -20346,7 +20340,6 @@ sscard.co.cc
 sseo.info
 ssh-free.com
 ssh-storage.ru
-sshagan.net
 sshdropbear.net
 sshh.kanian.com
 sshkit.com
@@ -23601,7 +23594,6 @@ v-666.com
 v-itc.be
 v.cyberbomber.co.cc
 v.dnscrypt.uk
-v.itsa.cc
 v.qdev.cc
 v.yuwentian.com
 v04.info
@@ -23905,6 +23897,7 @@ vpn-free.com
 vpn-free.download
 vpn-professional.company
 vpn-proxies.co.cc
+vpn-sd.ff.avast.com
 vpn-server.xyz
 vpn-services.co.cc
 vpn-tw.teng.sh
@@ -27046,6 +27039,7 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
+www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -27962,6 +27956,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -31394,6 +31389,7 @@ www.proxydrop.biz
 www.proxydrop.com
 www.proxydrop.info
 www.proxydrop.org
+www.proxyds.com
 www.proxyduchess.info
 www.proxydude.com
 www.proxydude123.tk
