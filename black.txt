@@ -3419,7 +3419,6 @@ browse-free.com
 browse.1industry.com
 browse.abccompany.biz
 browse.auraria.org
-browse.colodex.com
 browse.compuinter.com
 browse.maxposter.com
 browse000.co.cc
@@ -4342,7 +4341,6 @@ clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
 cloudflare.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4497,6 +4495,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5785,6 +5784,7 @@ dns.expert
 dns.extrawdw.net
 dns.ezyss.id
 dns.f4a.fun
+dns.f97.xyz
 dns.fabianscheifele.com
 dns.fahr.in
 dns.faked.org
@@ -6995,6 +6995,7 @@ dominated.info
 dominatrix.brandonsli.com
 dominoan.co.cc
 dominus.cz.cc
+domor.cz.cc
 domovoy.cz.cc
 domx.info
 donare.info
@@ -8541,6 +8542,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9430,6 +9432,7 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
+furniturelanddirect.com
 furproxie.co.cc
 furyforex.co.cc
 fusionproxy.com
@@ -12753,7 +12756,6 @@ limpi.info
 lindenwealth.com
 lindung.pp.ua
 line-behind.co.cc
-line.pm
 linear.ws
 linetechnet.co.cc
 linfox.com
@@ -14149,6 +14151,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -16945,6 +16948,7 @@ proxy46.com
 proxy4browsing.com
 proxy4college73.co.cc
 proxy4down.com
+proxy4free.co.vu
 proxy4free.com
 proxy4free.info
 proxy4free.me
@@ -18944,7 +18948,6 @@ safewebing.com
 safewebsurfing123.co.cc
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sailsurf.co.cc
 saintrobe.co.cc
 saktiproxy.co.cc
@@ -21004,7 +21007,6 @@ surfexec.co.cc
 surfexplore.tk
 surfface.co.cc
 surffan.co.cc
-surffast.netau.net
 surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
@@ -23378,7 +23380,6 @@ unrooter.com
 uns33n.co.cc
 unseeme.com
 unseenip.tk
-unseensurfing.com
 unssh.info
 unstopsurf.co.cc
 untack.com
