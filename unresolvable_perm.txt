@@ -6420,6 +6420,7 @@ approvedweb.tk
 approvevi.tk
 approxy.info
 apps-vpn.tk
+apps.facebook.com.web.tld.cc
 appscloud.info
 appsecured.info
 appsfast.info
@@ -28422,6 +28423,7 @@ freeproxy.renthis-reporting.com
 freeproxy.rogana.org
 freeproxy.roxi.ro
 freeproxy.semestahotel.com
+freeproxy.serverocean.com
 freeproxy.sexx.sc
 freeproxy.sinimmeuble.com
 freeproxy.speedz.org
