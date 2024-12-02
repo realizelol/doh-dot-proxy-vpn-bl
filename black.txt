@@ -1485,6 +1485,7 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
 alaforex.cz.cc
 alahgaberlah.co.cc
+alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -1803,7 +1804,6 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
-anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2153,7 +2153,6 @@ arroundaway-hole.co.cc
 arrowproxy.com
 arsenelesueur.fr
 art-class-omg.vercel.app
-artclass.lol
 artclass.site
 arteshbod.co.cc
 artistremortgage.co.cc
@@ -4297,7 +4296,6 @@ cloakinferno.co.cc
 cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
-cloakme.cn
 cloakme.net
 cloakme.org
 cloakme.us
@@ -4337,7 +4335,6 @@ clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
 cloudflare.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4878,7 +4875,6 @@ cybershell.info
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5013,7 +5009,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5323,6 +5318,7 @@ digiproxy.co.cc
 digital.0lm.org
 digital.64x.org
 digital.905tech.com
+digital.abetos101.com
 digital.demak.org
 digital.hoai.org
 digital.hoard.com
@@ -6709,6 +6705,7 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7655,9 +7652,11 @@ etyet.com
 eu-browse.startpage.com
 eu-it-1.salonia.it
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
+eu-proxy.startpage.com
 eu.doh.sb
 eu.tri-dns.net
 eu1.dns.lavate.ch
+eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
 eunblockfacebook.info
 eunblocksites.info
@@ -8104,6 +8103,7 @@ fastsrf.co.cc
 fastssh.com
 faststprxy.co.cc
 faststudent.co.cc
+fastsurf.890m.com
 fastsurfingweb.co.cc
 fastt4.blogspot.com
 fasttime.info
@@ -9115,6 +9115,7 @@ freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
+freeproxy.top
 freeproxy.us
 freeproxy.venturesteps.com
 freeproxy.vietmionline.com
@@ -9727,6 +9728,7 @@ gettingnewunblok.co.cc
 gettingwet.co.cc
 getto.info
 gettowork.info
+gettwifi.com
 getu7nblocksite.tk
 getunblocked.com
 getusvpn.com
@@ -11597,6 +11599,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -14149,7 +14152,6 @@ nearer-target.co.cc
 neatproxy.com
 nebula.neo7.kim
 nebula.tru.io
-nebula1.eu.org
 ned-dns.bitdefender.net
 neebforex.co.cc
 need-to-pay.co.cc
@@ -14413,7 +14415,6 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
-nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -15751,6 +15752,7 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
+place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -15944,7 +15946,9 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
 poxygoyo.comze.com
+poxyme.comli.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -15993,6 +15997,7 @@ premiumtier-network.instadart.net
 premiumzone.info
 premixsite.co.cc
 premoweb.com
+preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -16456,6 +16461,7 @@ proxthem.co.cc
 proxthis.com
 proxthisway.info
 proxthree.co.cc
+proxtik.co.vu
 proxtik.com
 proxto.com
 proxtox.com
@@ -16816,6 +16822,7 @@ proxy.spacekids.nl
 proxy.spikey.ws
 proxy.splinteredmedia.net
 proxy.srs.su
+proxy.startpage.com
 proxy.sunsen.net
 proxy.supersloppy.com
 proxy.sx
@@ -16881,6 +16888,7 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
+proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -16893,6 +16901,7 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
+proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -17917,6 +17926,7 @@ proxywired.com
 proxywise.com
 proxywithu.co.cc
 proxywiz.com
+proxywizards.com
 proxywork.com
 proxyworks.com
 proxyworm.com
@@ -18154,7 +18164,6 @@ quantumpulse.dev
 quantumspace.info
 quantumview.info
 quasar1.co.uk
-quasar1.eu.org
 quattroformaggi.com
 quequero.org
 querida.info
@@ -18761,7 +18770,6 @@ royalproxy.info
 rpz-public-resolver1.rrdns.pch.net
 rrdb.org
 rselite.com
-rsiso.com
 rsocks.net
 rt5rw3.co.cc
 rtun.info
@@ -19102,6 +19110,7 @@ scoobidoo.net
 scoolpass.co.cc
 scoopedmoms.co.cc
 scoots.co.cc
+scooty.info
 scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
@@ -19347,6 +19356,7 @@ server.gay.cat
 server.labs.tk
 server.ne.jp
 server.pragmasec.nl
+server.spirio.fr
 server.unp.im
 server01.dr-adguard.de
 server01.karl.one
@@ -23419,6 +23429,7 @@ urpp.net
 urvideoplanet.com
 us-atl-w-1.nashkan.net
 us-atl-w-2.nashkan.net
+us-browse.startpage.com
 us-chi-w-1.nashkan.net
 us-chi-w-2.nashkan.net
 us-chi-w-3.nashkan.net
@@ -23448,6 +23459,7 @@ us-nyc-w-p-1.nashkan.net
 us-proxies.com
 us-proxy.co.cc
 us-proxy.org
+us-proxy.startpage.com
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us-sea-w-5.nashkan.net
@@ -24720,7 +24732,6 @@ wrong-right.co.cc
 wrongdead.cn
 wtfmagic.info
 wtfsurf.com
-wtools.eu
 wtsb.net
 wtunnel.com
 wu.freecphost.com
@@ -25133,7 +25144,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -27008,6 +27018,7 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
+www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -27924,7 +27935,6 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
-www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -28452,7 +28462,6 @@ www.hidelist.com
 www.hidelive.com
 www.hideme.be
 www.hideme.de
-www.hideme.eu
 www.hideme.info
 www.hideme.nl
 www.hideme.ru
@@ -29253,7 +29262,6 @@ www.kip4.com
 www.kip5.com
 www.kip6.com
 www.kiteproxy.com
-www.kitetimes.com
 www.kixmax.com
 www.kizib.com
 www.kj8.net
@@ -32063,6 +32071,7 @@ www.qeoz.com
 www.qgdw.com
 www.qgfo.com
 www.qhah.com
+www.qianmingwei.cn
 www.qiche008.com
 www.qifuban.cn
 www.qig.in
