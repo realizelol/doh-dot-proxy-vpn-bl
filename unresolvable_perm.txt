@@ -22384,6 +22384,7 @@ evade123.webcam
 evadeadmin.info
 evadeban.com
 evadeblock.info
+evaded.net
 evadefilter.com
 evadefilter.info
 evadehere.info
@@ -85372,6 +85373,7 @@ vpn-68.com
 vpn-cloud.info
 vpn-connection.info
 vpn-egisterindes.tk
+vpn-for-test.ru
 vpn-free-dom.tk
 vpn-grilledsades.tk
 vpn-host.info
