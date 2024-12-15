@@ -1076,6 +1076,7 @@ adguard.hack3r.de
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.helpdesk38.ru
+adguard.hjebbour.top
 adguard.hofi.li
 adguard.ihatemy.live
 adguard.infrapod.nl
@@ -1090,6 +1091,7 @@ adguard.johanliebert.top
 adguard.johndave.me
 adguard.jwhan99.xyz
 adguard.k-likhachev.ru
+adguard.kasbot.net
 adguard.kenzohost.de
 adguard.kiboko.it
 adguard.kitakitsune.xyz
@@ -3415,7 +3417,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -5235,7 +5236,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5273,6 +5273,7 @@ derel.cz.cc
 derowd.freeboxos.fr
 derpymail.org
 derrape.com
+desbloquearredes.online
 design.my-avatar.ru
 designation-tracking.co.cc
 designworld.info
@@ -5656,6 +5657,7 @@ dns.brionesserver.net
 dns.brono.cloud
 dns.burgas.pro
 dns.busold.ws
+dns.butterfly87.sbs
 dns.bw.i81.ru
 dns.c0ntroller.de
 dns.cabbage.zone
@@ -5772,6 +5774,7 @@ dns.doubleangels.com
 dns.downloadacar.today
 dns.dragon0697.me
 dns.dreamworker.idv.tw
+dns.dremaxx.de
 dns.drivearasaka.online
 dns.drnarrow.com
 dns.dyn1.de
@@ -6435,6 +6438,7 @@ dns.theres.one
 dns.therifleman.name
 dns.thhbdd.eu.org
 dns.thierryserver.nl
+dns.thiz.top
 dns.thore.cloud
 dns.tick.ee
 dns.tierradeayala.com
@@ -6698,7 +6702,6 @@ dnscrypt.xyz
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
-dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.3300000.xyz
@@ -7202,6 +7205,7 @@ dropbarforex.co.cc
 dropshit.co.cc
 droptop.co.cc
 drotalflow.in
+droyd.top
 drprox.com
 drproxy.net
 drpruxy.net
@@ -8017,6 +8021,7 @@ fast-proxy-server.info
 fast-proxy.co.tv
 fast-proxy.com.de
 fast-proxy.pw
+fast-receive.com
 fast-secret.co.cc
 fast-service.co.cc
 fast-techno.co.cc
@@ -8936,6 +8941,7 @@ france-alarme-nord.fr
 france99.com
 franceproxy.net
 franceproxy.pw
+francis-proxy.top
 frank-web.dedyn.io
 fraudcrew.com
 frb.in
@@ -10323,6 +10329,7 @@ gw-pk.brueggus.de
 gwad.info
 gwait.com
 gwforex.co.cc
+gwopboyded.com
 gwps.duckdns.org
 gymarab.com
 gyny.info
@@ -11323,6 +11330,7 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
+ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -11366,6 +11374,7 @@ ilron.com
 iluminiss.com
 ilumu.com
 iluvjz.info
+iluvpoxy.net78.net
 ilysk.lol
 im-free.net
 im-unstoppable.com
@@ -11661,6 +11670,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -13165,6 +13175,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -13678,6 +13689,7 @@ mmhd.net
 mmproxy.com
 mnrv.trade
 mo0on15.com
+moamao.shop
 moaz-adguard.duckdns.org
 mobile.bberry.biz
 mobile.gw.lt
@@ -14716,6 +14728,7 @@ now-only.co.cc
 now-want.co.cc
 now.telproxy.co.cc
 nowcache.com
+nowhiteflags.xyz
 nowin.info
 noworry.info
 nowsenates.co.cc
@@ -17363,7 +17376,6 @@ proxyh.com
 proxyhamer.ws
 proxyhappy.com
 proxyhash.net
-proxyhaven.com
 proxyhaze.com
 proxyhelp.org
 proxyhelper.com
@@ -21624,6 +21636,7 @@ t.jimmy.best
 t1-proxy.co.cc
 t1.onlyfan.dev
 t3r.info
+t92.online
 t9space.com
 t9z.net
 tabblad.com
@@ -23661,6 +23674,7 @@ uuuw.info
 uvpn.me
 uw-dns.rubyfish.cn
 uwaj.com
+uwqy.com
 uwwforex.co.cc
 uwxf.com
 ux.go20.cf
@@ -26816,6 +26830,7 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
+www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -27413,6 +27428,7 @@ www.extrasneaky.com
 www.extremeproxy.com
 www.eyet.info
 www.eyou.eu
+www.eyym.com
 www.ez9.info
 www.ezcrack.info
 www.ezhide.com
@@ -28242,7 +28258,6 @@ www.gmbl.info
 www.gnarb.com
 www.gnof.info
 www.go-fish.info
-www.go31.com
 www.go5.info
 www.goanony.com
 www.goanonym.com
@@ -35326,6 +35341,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
