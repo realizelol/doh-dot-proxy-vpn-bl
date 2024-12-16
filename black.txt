@@ -637,8 +637,8 @@
 9s3.net
 9w9.org
 9y2.net
-_io._cdn.ovpn.bond
-_iot._link.ovpn.bond
+_iot._cdns._link.ovpn.bond
+_iot._cdns.ovpn.bond
 a-4.info
 a-5.info
 a-8.info
@@ -1646,7 +1646,6 @@ am4.net
 amab.info
 amaderkotha.org
 amadeus666.org
-amaforex.cz.cc
 amandahugnkiss.org
 amando.info
 amanvpn.com
@@ -2027,7 +2026,6 @@ aosomi.com
 aotforex.co.cc
 aouforex.co.cc
 apac-mask.wrr.mask.apple-dns.net
-apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -2538,7 +2536,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -3417,7 +3414,7 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccounts.cz.cc
+brokersaccount.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -4363,7 +4360,6 @@ clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
 cloudflare.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5236,6 +5232,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5738,6 +5735,7 @@ dns.datenquark.de
 dns.david888.com
 dns.davidruhmann.com
 dns.daw.dev
+dns.de.futuredns.eu.org
 dns.deadsec.net
 dns.decisivedevops.com
 dns.decky.eu
@@ -6702,6 +6700,7 @@ dnscrypt.xyz
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
+dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsjp.3300000.xyz
@@ -7033,7 +7032,6 @@ dominated.info
 dominatrix.brandonsli.com
 dominoan.co.cc
 dominus.cz.cc
-domor.cz.cc
 domovoy.cz.cc
 domx.info
 donare.info
@@ -10741,7 +10739,6 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
-hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -12092,7 +12089,6 @@ jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
 jupitervpn.ninja
-jupopo.com
 juproxy.com
 jurenomio.co.cc
 jurre-home.duckdns.org
@@ -13540,7 +13536,6 @@ metalvideo.cz
 metasecurity.co.cc
 metaspinner-media.de
 metemma.com
-meteor1.eu.org
 methods-inside.co.cc
 metis.sheggi.ch
 metonator-proxy.appspot.com
@@ -14505,7 +14500,6 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
-nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -17028,7 +17022,6 @@ proxy46.com
 proxy4browsing.com
 proxy4college73.co.cc
 proxy4down.com
-proxy4free.co.vu
 proxy4free.com
 proxy4free.info
 proxy4free.me
@@ -21803,6 +21796,7 @@ tethforex.co.cc
 tetra.aeins.at
 tetty-is.so-gorgeo.us.kg
 teviforex.co.cc
+texantonio1.esy.es
 texasbibabe.yafro.com
 texashorse.co.cc
 texasproxy.com
@@ -25177,7 +25171,6 @@ www.4freeproxy.com
 www.4ine.com
 www.4jh.org
 www.4love.info
-www.4proxy.com
 www.4proxy.de
 www.4proxy.info
 www.4ra.com
@@ -28258,6 +28251,7 @@ www.gmbl.info
 www.gnarb.com
 www.gnof.info
 www.go-fish.info
+www.go31.com
 www.go5.info
 www.goanony.com
 www.goanonym.com
@@ -30280,7 +30274,6 @@ www.nhuanet.com
 www.nice.hu
 www.niceprogress.com
 www.nicetrick.info
-www.nichepal.com
 www.niddz.com
 www.nightdating.info
 www.nightproxy.com
@@ -30707,7 +30700,6 @@ www.pazzip.com
 www.pc-portal.at
 www.pcbypass.info
 www.pcgraffiti.com
-www.pcmesh.com
 www.pcquest.info
 www.pcriot.com
 www.pcwebtalk.com
