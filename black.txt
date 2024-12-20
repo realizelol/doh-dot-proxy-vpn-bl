@@ -699,7 +699,6 @@ aash.info
 aatforex.co.cc
 aattwwss.duckdns.org
 aauforex.co.cc
-abaforex.cz.cc
 abc.kissfree.net
 abcdef.cz.cc
 abcdian.com
@@ -884,7 +883,6 @@ ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
 ada.openbld.net
-adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -1375,7 +1373,6 @@ ag.ssrahul96.xyz
 ag.teqilla.tk
 ag.wntrmute.net
 ag01.de.hallmen.it
-agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -1970,7 +1967,6 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
-antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
@@ -2536,7 +2532,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -2600,6 +2595,7 @@ batshitcrazy.ddns.net
 battleoftours.co.cc
 bauforex.co.cc
 baumgart.co.uk
+baws.info
 baypassbrowser.co.cc
 bayproxy.co.cc
 bayproxy.com
@@ -2781,7 +2777,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -3348,7 +3343,6 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
-brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -4188,7 +4182,6 @@ chromeproxy.net
 chromium.dns.nextdns.io
 chronicle14.tplinkdns.com
 chronicorders.co.cc
-chuan.usa.cc
 chubbybunny.info
 chuforex.co.cc
 chuiyixiaproxy.tk
@@ -5233,7 +5226,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5332,7 +5324,6 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -8105,7 +8096,6 @@ fastfreesurf.com
 fastglype.co.cc
 fastgo.no-block.net
 fastgreen.info
-fasthide.co.vu
 fasthide.com
 fasthome.info
 fasthttp.unblock-dot.co.cc
@@ -9261,6 +9251,7 @@ freesurf-feature.co.cc
 freesurf-proxy.co.cc
 freesurf.freedomnet.co.cc
 freesurf.info
+freesurf.pl
 freesurferbypass.co.cc
 freesurfin.co.cc
 freesurfing.esy.es
@@ -11413,7 +11404,6 @@ imright.net
 imsly.com
 imsneaky.com
 imspecial.me
-imunblocked.co.vu
 imyu.info
 in-blr.doh.sb
 in-disguise.com
@@ -12712,6 +12702,7 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
+letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -13176,6 +13167,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -13276,6 +13268,7 @@ mamanee.com
 mamatuan.cc
 mammaforex.co.cc
 mamproxy.w57.100dns.com
+man01.dnscry.pt
 manage-accounts.co.cc
 managed.phoenixitjobs.com
 managedebt.co.cc
@@ -14823,6 +14816,7 @@ nsown.com
 ntreview.com
 ntu.ssooss.win
 ntunnel.com
+ntwrkh.pro
 nu.cyberbomber.co.cc
 nu3ga.com
 nubom.com
@@ -15637,6 +15631,7 @@ penta.aeins.at
 penyioproxie.co.cc
 people.freenet.de
 peoplesproxy.com
+pepetio.xyz
 pepperproxy.com
 peqno.com
 per.adfilter.net
@@ -16558,7 +16553,6 @@ proxthem.co.cc
 proxthis.com
 proxthisway.info
 proxthree.co.cc
-proxtik.co.vu
 proxtik.com
 proxto.com
 proxtox.com
@@ -35824,6 +35818,7 @@ yfinance.info
 yfyr.com
 yfzo.com
 yh.themcgoughs.org
+yhz01.dnscry.pt
 yichongwu.cn
 yihuaxi.cn
 yij.in
@@ -35980,6 +35975,7 @@ yvr01.dnscry.pt
 yxorproxy.com
 yy.hk1.vps.letit.in
 yyaan.com
+yyc01.dnscry.pt
 yyforex.co.cc
 yyqsite.top
 yyz01.dnscry.pt
@@ -36106,6 +36102,7 @@ zjtv.com.ru
 zlaze.com
 zmienip.pl
 zncx.com
+znegindeh2.top
 zneginnl.website
 zo2.info
 zobo.info
