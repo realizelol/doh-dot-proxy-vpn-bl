@@ -5238,6 +5238,7 @@ anonproxoip.tk
 anonproxy.be
 anonproxy.ga
 anonproxy.in
+anonproxy.info
 anonproxy.se
 anonproxy1.info
 anonproxyservers.net
@@ -47907,6 +47908,7 @@ myzzz.info
 mzdelopro.tk
 mzdg.net
 mznrxq.tk
+mzx.herobo.com
 n-e-t.biz
 n-go.info
 n-go.net
