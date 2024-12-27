@@ -638,7 +638,7 @@
 9s3.net
 9w9.org
 9y2.net
-_iot._cdns.ovpn.bond
+_io._cdns.ovpn.bond
 a-4.info
 a-5.info
 a-8.info
@@ -2749,6 +2749,7 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
+best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -4351,7 +4352,6 @@ clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
 cloudflare.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4506,6 +4506,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4614,6 +4615,7 @@ cork-oak.christian.moe
 cork-oak.imchristian.de
 cornercake.com
 cornproxie.co.cc
+corona1.eu.org
 corpask.com
 corporatedebt.co.cc
 corporateinsurance.info
@@ -5020,7 +5022,6 @@ dailycrown.com
 dailygreat.co.cc
 dailyproxy.com
 dailyproxylist.com
-dailyvpn.io
 dailyweb.eu
 dailywebproxies.com
 daksh.info
@@ -5322,7 +5323,6 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6980,6 +6980,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -6992,6 +6993,7 @@ domain.tyrerwebster.com
 domain.wuffster.com
 domainactive.info
 domainbypass.com
+domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
@@ -7232,6 +7234,7 @@ dualnitro.com
 dualopteron.co.cc
 dualpass.nz.gs
 dualproxy.com
+duanyu.net
 dub01.dnscry.pt
 duba.net
 dubb.info
@@ -11169,6 +11172,7 @@ hyperbyte.net
 hypergainforex.co.cc
 hyperhole.co.cc
 hypermode.info
+hyperproxy.890m.com
 hypersitesbreaker.co.cc
 hypersock.com
 hyperspace.toxopeus.it
@@ -11200,6 +11204,7 @@ i.dns-over-https.tk
 i.iplaces.org
 i.kidsquest.com
 i.letsgetfree.info
+i.o.l.i.n.k.ovpn.bond
 i.passcloud.xyz
 i.roadanywhere.tk
 i.solutics.ec
@@ -11592,7 +11597,6 @@ invisibrowse.com
 invitationenvelopes.co.cc
 involved-directly.co.cc
 inyourmind.co.cc
-io.link.ovpn.bond
 iofixdns2.duckdns.org
 ion.pm
 ionicmetalizer.co.cc
@@ -12812,6 +12816,7 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
+link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -13619,6 +13624,7 @@ mintproxy.com
 minute-moment.co.cc
 miosurf.nz.gs
 miproxy.com
+mira1.eu.org
 miracleproxy.co.cc
 miraflores.info
 miranet.info
@@ -15027,7 +15033,6 @@ onestopproxy.co.cc
 onestreaming.org
 oneteam.co.cc
 onevanalla.site
-onevpn.com
 onevps-dns.pivb.vip
 onewaybrowser.co.cc
 onewayfastbrowser.co.cc
@@ -15903,6 +15908,7 @@ polandfreeproxy.blogspot.fr
 polandgrows.com
 polaris.cx
 polaris.mrmartian.co
+polaris1.eu.org
 polarproxy.com
 polarvoid.store
 pole.ws
@@ -16320,6 +16326,7 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -20099,6 +20106,7 @@ solar.clanteam.com
 solargodhelm.co.cc
 solariforex.co.cc
 solarspace.info
+solaxy.live
 soleilvpn-app.com
 solidproxy.com
 solidproxy.net
@@ -24867,6 +24875,7 @@ www-proxy.koirdsuzu.com
 www-proxy.konstl01.xyz
 www-proxy.sodemc.com
 www-vpn.52oupa.com
+www-web.r-2.top
 www-yy.in6.to
 www.0-b.org
 www.00-01.info
@@ -29120,7 +29129,6 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
-www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -29279,6 +29287,7 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
+www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
