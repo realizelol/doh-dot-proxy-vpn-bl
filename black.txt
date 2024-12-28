@@ -546,7 +546,6 @@
 7337.info
 73x.de
 752389proxy.tk
-75747123.xyz
 7713.info
 7755.info
 776847proxy.tk
@@ -892,6 +891,7 @@ adaw.info
 adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
+adb.aiec.vn
 adb.timnichollsphotography.com
 adbl-tslagter.nl
 adblock-larssonshus.duckdns.org
@@ -900,6 +900,7 @@ adblock.borjalopez.eu
 adblock.dns.dnswarden.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
+adblock.freeddns.org
 adblock.indianets.net
 adblock.krctech.dev
 adblock.leenit.kr
@@ -937,6 +938,7 @@ adfreeproxy.com
 adfreeproxy.cz.cc
 adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
+adg-wd.de
 adg.acrobyte.org
 adg.bluenight.me
 adg.dankatapich.eu.org
@@ -1217,6 +1219,7 @@ adguard1.njy.jsanagustin.net
 adguard1.unima.ac.id
 adguard2.546413.xyz
 adguard2.atl.jsanagustin.net
+adguard2.ayrespace.cc
 adguard2.bonis.de
 adguard2.cloudmini.net
 adguard2.dnsovertor.cc
@@ -1947,7 +1950,6 @@ anrforex.co.cc
 anskyforex.co.cc
 answersky.com
 ant.dns.qwer.pw
-antares1.eu.org
 antarforex.co.cc
 antarmuka.com
 antforex.co.cc
@@ -2385,6 +2387,7 @@ award-vpn.com
 away.dreamday.gr
 awaybreathe.co.cc
 awaysurf.co.cc
+awcdn.cn
 awebproxy.com
 awesomeproxy.com
 awhoer.net
@@ -2514,6 +2517,7 @@ baittkgsafesurfsurf.tk
 bajingos.co.cc
 bajosbajos.byethost33.com
 bajuproxy.co.cc
+bakamh.news
 bakersfield.cz.cc
 baklua.co.cc
 baktabul.net
@@ -5323,6 +5327,7 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -5505,7 +5510,6 @@ dns-us.ibmcloud.top
 dns.010812.xyz
 dns.080590.xyz
 dns.0ooo.icu
-dns.0rz.ing
 dns.0x55.net
 dns.1.bsh4.com
 dns.123099.xyz
@@ -5534,6 +5538,7 @@ dns.56k.uy
 dns.58jdl.com
 dns.5ive.net
 dns.688447.xyz
+dns.73zls.com
 dns.775467.xyz
 dns.7sec.com.br
 dns.7vpn.com
@@ -5603,7 +5608,6 @@ dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
 dns.atsilva.link
-dns.auapi.fun
 dns.audet.cloud
 dns.auffray.org
 dns.axiomos.xyz
@@ -6041,7 +6045,6 @@ dns.lars-lehmann.net
 dns.lashes-brow.ru
 dns.lavir.com
 dns.learningman.top
-dns.lehonganh.id.vn
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
@@ -6249,7 +6252,6 @@ dns.pizzari.me
 dns.pldweb.net
 dns.ple91.uk
 dns.pmxu.link
-dns.pnh.my.id
 dns.pointless.chat
 dns.polatarasan.com.tr
 dns.porteii.com
@@ -6422,6 +6424,7 @@ dns.thegodfatheriam.tech
 dns.thegoodsource.net
 dns.theres.one
 dns.therifleman.name
+dns.thezudrive.xyz
 dns.thhbdd.eu.org
 dns.thierryserver.nl
 dns.thiz.top
@@ -6489,6 +6492,7 @@ dns.vlo.cc
 dns.vmath.my.id
 dns.vmisch.tech
 dns.vojtat.cz
+dns.volsap.ovh
 dns.vpn.i81.ru
 dns.vps.mtsdns.ru
 dns.vps.pw
@@ -9630,6 +9634,7 @@ gbuforex.co.cc
 gc.cyberbeta.cn
 gclouddns.com
 gcuforex.co.cc
+gdns.end.pub
 gduforex.co.cc
 gearbull.com
 gebuk.com
@@ -10205,7 +10210,6 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
-greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -11417,7 +11421,6 @@ increase-chance.co.cc
 incurforex.co.cc
 ind-unblock.xyz
 independent-result.co.cc
-india.privacy-dns.pw
 india90.3owl.com
 indiagrows.com
 indialifes.com
@@ -12642,7 +12645,6 @@ learnto-forex-trading.co.cc
 learnwise.info
 leax.info
 lebaibay.co.cc
-lecker.pizza
 led.asdfg.us
 ledfordmiddleschool.xyz
 ledgerbalance.com
@@ -12698,7 +12700,6 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
-letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -15837,7 +15838,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -16082,7 +16082,6 @@ premiumtier-network.instadart.net
 premiumzone.info
 premixsite.co.cc
 premoweb.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -19444,6 +19443,7 @@ server.labs.tk
 server.ne.jp
 server.pragmasec.nl
 server.spirio.fr
+server.thebluemeistergamer.de
 server.unp.im
 server01.karl.one
 server01.vboekel.nl
@@ -21069,7 +21069,6 @@ surfexec.co.cc
 surfexplore.tk
 surfface.co.cc
 surffan.co.cc
-surffast.netau.net
 surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
@@ -21554,7 +21553,6 @@ swanoo.com
 swapip.co.cc
 swapip.com
 swe-von-schleusen.de
-sweden.privacy-dns.pw
 sweeperx.co.cc
 sweet-girls-proxy.info.tm
 sweet-pineapple.co.cc
@@ -21583,7 +21581,6 @@ switchmyip.info
 switchproxy.com
 switchvpn.com
 switchvpn.net
-switzerland.privacy-dns.pw
 swizztime.com
 swoletux.ave.zone
 swoshsvpn.com
@@ -23361,7 +23358,6 @@ unistealth.com
 unisurf.co.cc
 unisurf.net
 unit-facade.co.cc
-united-arab-emirates.privacy-dns.pw
 unitedemailsystems.com
 unitedgreen.co.cc
 unitedkuwait.com
@@ -23918,6 +23914,7 @@ vizvia.com
 vkqf.com
 vlad.dns.vladpro.ru
 vladpro.ru
+vless-service.ufodns.com
 vlex.info
 vlil.com
 vload.net
@@ -25263,7 +25260,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -29129,6 +29125,7 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
+www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -33161,6 +33158,7 @@ www.space-in.info
 www.spaceburner.com
 www.spacechannel.info
 www.spacechat.info
+www.spacecloaker.com
 www.spacehide.com
 www.spaceinternet.info
 www.spaceports.com
@@ -34536,7 +34534,6 @@ www.unrooter.com
 www.unseeme.com
 www.unseenip.tk
 www.unseennow.com
-www.unseensurfing.com
 www.unssh.info
 www.untack.com
 www.untiloutletl.tk
@@ -35322,7 +35319,6 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
-www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
