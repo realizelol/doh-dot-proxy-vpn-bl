@@ -10390,6 +10390,7 @@ blocksoff6.info
 blocksoff7.info
 blocksoff8.info
 blocksoff9.info
+blockspot.info
 blocksremoved.info
 blockssurf.info
 blockstop.tk
