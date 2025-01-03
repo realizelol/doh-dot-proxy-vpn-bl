@@ -938,7 +938,6 @@ adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adfreeproxy.com
-adfreeproxy.cz.cc
 adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
 adg-wd.de
@@ -1487,6 +1486,7 @@ ajrforex.co.cc
 ajtforex.co.cc
 ajuforex.co.cc
 ak58.com
+akaforex.cz.cc
 akainuforex.co.cc
 akashiro.co.id
 akdis.cn
@@ -1507,7 +1507,6 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
 alaforex.cz.cc
 alahgaberlah.co.cc
-alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -2105,6 +2104,7 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
+araforex.cz.cc
 aragonez.co.cc
 arandomproxy.com
 arashi.eu.org
@@ -2551,6 +2551,7 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
+bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -3776,6 +3777,7 @@ bypasswithmyproxy.co.cc
 bypassxproxy.co.cc
 bypassy.com
 bypasszone.com
+byproxy.cz.cc
 bypssd.co.cc
 byteme.info
 bytzvpn.com
@@ -5048,7 +5050,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5245,6 +5246,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -6244,7 +6246,6 @@ dns.odirf.de
 dns.ofdoom.net
 dns.oii.im
 dns.oliviertv.co.za
-dns.olpploiopkuyhiopsfrt.info
 dns.onlyshadow.online
 dns.opendns.com
 dns.ord.chriswang.work
@@ -7694,6 +7695,7 @@ ernow.com
 erp-itc.be
 erpdatadsl.co.cc
 errita.co.cc
+error.proxy.startpage.com
 erroring.ignorelist.com
 ersiforex.co.cc
 eruptmountnow.co.cc
@@ -7741,7 +7743,6 @@ etunnel.org
 etyet.com
 eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
-eu-proxy.startpage.com
 eu.doh.sb
 eu.tri-dns.net
 eu1.dns.lavate.ch
@@ -7870,6 +7871,7 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
+extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -8192,7 +8194,6 @@ fastsrf.co.cc
 fastssh.com
 faststprxy.co.cc
 faststudent.co.cc
-fastsurf.890m.com
 fastsurfingweb.co.cc
 fastt4.blogspot.com
 fasttime.info
@@ -8615,6 +8616,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9291,7 +9293,6 @@ freesurf.freedomnet.co.cc
 freesurf.info
 freesurferbypass.co.cc
 freesurfin.co.cc
-freesurfing.esy.es
 freesurfing.my3gb.com
 freesurfproxy.org
 freesurfway.co.cc
@@ -9773,6 +9774,7 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
+getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -11369,7 +11371,6 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
-ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -12754,7 +12755,6 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
-letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -16974,7 +16974,6 @@ proxy.spacekids.nl
 proxy.spikey.ws
 proxy.splinteredmedia.net
 proxy.srs.su
-proxy.startpage.com
 proxy.sunsen.net
 proxy.supersloppy.com
 proxy.sx
@@ -17040,7 +17039,6 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
-proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -17053,7 +17051,6 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
-proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -17069,7 +17066,6 @@ proxy2u.info
 proxy2u.woano.com
 proxy2you.com
 proxy3.com
-proxy3.startpage.com
 proxy3.yoof.info
 proxy33.com
 proxy4.info
@@ -23630,7 +23626,6 @@ us-nyc-w-p-1.nashkan.net
 us-proxies.com
 us-proxy.co.cc
 us-proxy.org
-us-proxy.startpage.com
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us-sea-w-5.nashkan.net
@@ -29207,6 +29202,7 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
+www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -29365,7 +29361,6 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
-www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
