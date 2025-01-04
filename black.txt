@@ -110,6 +110,7 @@
 100thpriest.appspot.com
 100webproxy.ws
 101.net.in
+1010000.online
 1012.info
 101proxy.co.cc
 101weblinks.info
@@ -702,7 +703,6 @@ aattwwss.duckdns.org
 aauforex.co.cc
 abaforex.cz.cc
 abc.kissfree.net
-abcdef.cz.cc
 abcdian.com
 abcmusic.info
 abcproxy.com
@@ -817,7 +817,6 @@ acevpn.com
 acgroup.in
 acidrain.co.cc
 acidrain.tk
-aciforex.cz.cc
 acircuit.co.cc
 acmeblock.com
 acmesurf.com
@@ -886,7 +885,6 @@ ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
 ada.openbld.net
-adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -938,6 +936,7 @@ adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adfreeproxy.com
+adfreeproxy.cz.cc
 adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
 adg-wd.de
@@ -1507,6 +1506,7 @@ akylah.zapto.org
 al223-a73e-bj-v0.0.dxng.net
 alaforex.cz.cc
 alahgaberlah.co.cc
+alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -1657,7 +1657,6 @@ am4.net
 amab.info
 amaderkotha.org
 amadeus666.org
-amaforex.cz.cc
 amandahugnkiss.org
 amando.info
 amanvpn.com
@@ -2195,7 +2194,6 @@ as-wondering.co.cc
 as17820865.click
 as6604t-04.myasustor.com
 asafe.info
-asaforex.cz.cc
 asaldapatproxy.co.cc
 asall.info
 asavage.com
@@ -2332,7 +2330,6 @@ aurgh.com
 auroraproxy.co.cc
 aussie-proxy.com
 austro.co.cc
-ausyd2.mask.apple-dns.net
 autagonistophilia.co.cc
 auth.phclinz.de
 authentic-access.co.cc
@@ -2770,7 +2767,6 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
-best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -4276,7 +4272,6 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
-clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -5050,6 +5045,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5177,7 +5173,6 @@ dealsswiss.com
 dear.actor
 deaud.nl
 deauslaufs.tk
-deber3.mask.apple-dns.net
 debianproxy.co.cc
 deblokbrokerforexsite.co.cc
 debloke.com
@@ -6728,7 +6723,6 @@ dnscrypt-cert.ffmuc.net
 dnsdoh.art
 dnsenc.com
 dnsfilter.domotik.us
-dnsfirewall.cz.cc
 dnsforfamily.com
 dnsforge.de
 dnsguard.hte.vn
@@ -7040,11 +7034,9 @@ domain.tyrerwebster.com
 domain.wuffster.com
 domainactive.info
 domainbypass.com
-domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
-domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -8466,6 +8458,7 @@ firelab.site
 fireprox.com
 fireprox.net
 fireproxy.com
+firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8616,7 +8609,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9293,6 +9285,7 @@ freesurf.freedomnet.co.cc
 freesurf.info
 freesurferbypass.co.cc
 freesurfin.co.cc
+freesurfing.esy.es
 freesurfing.my3gb.com
 freesurfproxy.org
 freesurfway.co.cc
@@ -9643,7 +9636,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -9671,7 +9663,6 @@ gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 gbpro.info
-gbslo5.mask.apple-dns.net
 gbuforex.co.cc
 gc.cyberbeta.cn
 gclouddns.com
@@ -11371,6 +11362,7 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
+ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -12102,7 +12094,6 @@ jpgload.com
 jpok.996333.xyz
 jprox.com
 jpshare.cn
-jptyo12.mask.apple-dns.net
 jpunblocktkvesttkntus.tk
 jpunblocktkvesttkntus9.tk
 js-nnss.ppleg.icu
@@ -12755,6 +12746,7 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
+letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -13213,7 +13205,6 @@ mabuktogel.properties
 mabuktogel.solutions
 mac4arabs.com
 macarone.co.cc
-macaroni.in
 maceda.info
 machineweb.co.cc
 macontish.co.cc
@@ -13383,7 +13374,6 @@ mashable.hi5.com
 mashforex.co.cc
 mashproxy.co.cc
 masivebomb.co.cc
-mask-boot.icloud.com
 maskedbrowser.com
 maskedip.com
 maskhidemyip.co.cc
@@ -14327,6 +14317,7 @@ nerfiforex.co.cc
 nervforex.co.cc
 nesser.info
 net-filter.com
+net-ml.online
 net-proxy.com
 net-proxy.info
 net.net
@@ -14616,7 +14607,6 @@ nl.dns.privex.io
 nl.dns.shx.su
 nl.rslvr.eu
 nlb.gbrossi.com.br
-nlhfd1.mask.apple-dns.net
 nlproxy.com
 nnnnn.info
 nnss.ppleg.icu
@@ -14958,7 +14948,6 @@ obuscar.com
 oc0.info
 ocaspro.com
 oceanbrowser.co
-oceania-mask.wrr.mask.apple-dns.net
 oceantunnel.co.cc
 oci-kitty.co.cc
 oci.tacomafia.net
@@ -18416,7 +18405,6 @@ ralfs-dns.dsh.lol
 ramces.com
 ramforex.co.cc
 ramirezhate.co.cc
-ramosearch.comlu.com
 rampokbrokerforex.co.cc
 ranco.info
 random-access.co.cc
@@ -19070,7 +19058,6 @@ safewebing.com
 safewebsurfing123.co.cc
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -19547,7 +19534,6 @@ servit.biz
 servou.com
 sescloud.club
 sest.info
-sesto4.mask.apple-dns.net
 setfast.co.cc
 sethpowell.info
 setsurf.co.cc
@@ -22666,7 +22652,6 @@ twittedhoops.co.cc
 twittednowz.co.cc
 twitterfree.co.cc
 twitterproxy.org
-twntc1.mask.apple-dns.net
 twobeep.com
 twoboys.blogfa.com
 twodollarproxy.co.cc
@@ -23537,7 +23522,6 @@ unzipped.zzl.org
 uom.in
 up-back-on.co.cc
 up-on-top.co.cc
-up.net76.net
 up50.com
 up9.info
 upaj.net
@@ -23658,7 +23642,6 @@ usaproxy.com
 usaproxy.info
 usaproxy.net
 usascoot.com
-usatl5.mask.apple-dns.net
 usatunnel.com
 usatwo.wuyouss.com
 usawebproxy.com
@@ -23666,7 +23649,6 @@ usawebproxy.net
 usbm.de
 usbrowser.com
 usbux.net
-uschi7.mask.apple-dns.net
 uscmi.hiomath.org
 usdedi.ecapsul.com
 use-application-dns.net
@@ -23690,7 +23672,6 @@ usipaddress.net
 uskt.info
 uslime.info
 usloannow.co.cc
-usmsc2.mask.apple-dns.net
 usname.freecdn.one
 usneak.com
 usneak.info
@@ -23700,13 +23681,11 @@ usproxy.eu
 usproxy.info
 usproxy.usa.cc
 usproxyserver.info
-usqas5.mask.apple-dns.net
 ussurfer.nz.gs
 ustrip.co.cc
 ustunnel.com
 usun.info
 usunblock.com
-usuyk1.mask.apple-dns.net
 uswebproxy.com
 uswebproxy.net
 usztoday.com
@@ -28053,7 +28032,6 @@ www.freewebproxy.net
 www.freewebproxy.org
 www.freewebproxy.us
 www.freewebproxy.ws
-www.freewebproxylist.com
 www.freewebproxyserver.net
 www.freewebproxyserver.pw
 www.freewebproxyunblocksites.info
@@ -29350,7 +29328,6 @@ www.jumpthewall.com
 www.junemoon.net
 www.jungleproxy.com
 www.junov.com
-www.jupopo.com
 www.just-doit.com
 www.justbypass.com
 www.justclothes.info
@@ -29361,6 +29338,7 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
+www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
@@ -35969,7 +35947,6 @@ yourproxi.com
 yourproxies.com
 yourproxy.com
 yourproxy.eu
-yourproxy.site40.net
 yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
