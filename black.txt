@@ -428,7 +428,6 @@
 3jjxxl.tech
 3lm.info
 3monkeys.org
-3mtuqv6uzqv7cq9ypares2xg179w-c.ovpn.bond
 3op.info
 3po.info
 3proxy.com
@@ -641,7 +640,8 @@
 9s3.net
 9w9.org
 9y2.net
-_iotrxt522p._cdns.ovpn.bond
+_hi5._iot-cdnsx-drq-c._io._rly.ovpn.bond
+_hi5._rqexvg6--c.ovpn.bond
 a-4.info
 a-5.info
 a-8.info
@@ -1772,7 +1772,6 @@ androidtriks.co.cc
 andromeda.hu.tl
 andromedae1.eu.org
 androsten.co.cc
-androvpn.com
 anduong.xyz
 andz21.dynv6.net
 angelfreesurf.co.cc
@@ -2804,7 +2803,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -4336,7 +4334,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -5251,7 +5248,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -6160,7 +6156,6 @@ dns.mijoregner.de
 dns.mikeliu.org
 dns.mikopono.nl
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.miyun1.com
 dns.mmzs.xyz
 dns.mnet-online.de
@@ -6806,7 +6801,6 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7057,7 +7051,6 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -7429,7 +7422,6 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
-easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -8480,7 +8472,6 @@ firelab.site
 fireprox.com
 fireprox.net
 fireproxy.com
-firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -9221,6 +9212,7 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
+freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -9659,6 +9651,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -11387,6 +11380,7 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
+ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -16165,7 +16159,6 @@ premiumtier-network.instadart.net
 premiumzone.info
 premixsite.co.cc
 premoweb.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -16409,7 +16402,6 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -21855,7 +21847,6 @@ test.anonproxies.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.net46.net
-test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -23586,6 +23577,7 @@ uqqr.com
 uqwu.com
 uqwy.com
 uqxu.com
+uqzu.com
 ur-browser.com
 ur.hytec.org
 uradoori.org
@@ -23741,7 +23733,6 @@ uuuw.info
 uvpn.me
 uw-dns.rubyfish.cn
 uwaj.com
-uwqy.com
 uwwforex.co.cc
 uwxf.com
 ux.go20.cf
@@ -25248,6 +25239,7 @@ www.4freeproxy.com
 www.4ine.com
 www.4jh.org
 www.4love.info
+www.4proxy.com
 www.4proxy.de
 www.4proxy.info
 www.4ra.com
@@ -27748,7 +27740,6 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -31338,7 +31329,6 @@ www.proxy-world.de
 www.proxy-x.com
 www.proxy-youtube.net
 www.proxy-zone.net
-www.proxy.ac
 www.proxy.biz
 www.proxy.business
 www.proxy.cd
@@ -32057,6 +32047,7 @@ www.proxystreet.com
 www.proxysubmit.com
 www.proxysupply.com
 www.proxysure.com
+www.proxysurf.com
 www.proxysurf.me
 www.proxysurf.org
 www.proxysurf.pl
@@ -32275,6 +32266,7 @@ www.qbcv.com
 www.qeoz.com
 www.qgdw.com
 www.qgfo.com
+www.qhah.com
 www.qianmingwei.cn
 www.qiche008.com
 www.qifuban.cn
