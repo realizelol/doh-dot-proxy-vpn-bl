@@ -19761,6 +19761,7 @@ dnsdoh.dnsforfamily.com
 dnsdohnosafesearch.dnsforfamily.com
 dnses.alekberg.net
 dnsfamily.adguard.com
+dnsfirewall.cz.cc
 dnsfr.markovskilab.com
 dnsg.psyk.fr
 dnshide.info
@@ -83666,6 +83667,7 @@ uosdoosc.tk
 uouo-web.tk
 up-freeweb.tk
 up-to-dates.tk
+up.net76.net
 up5roxy.tk
 up6-proxy.tk
 up66-proxy.tk
