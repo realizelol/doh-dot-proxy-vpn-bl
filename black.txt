@@ -470,6 +470,7 @@
 4ine.com
 4jh.org
 4love.info
+4proxy.com
 4proxy.de
 4proxy.u0.org
 4proxyfree.co.cc
@@ -1264,7 +1265,6 @@ adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
-adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
 adless.cz.cc
@@ -1572,7 +1572,6 @@ allforexz.co.cc
 allfrom.co.cc
 allgamesfree.com
 allgreat.info
-allhide.co.vu
 allhider.com
 allhostingfree.co.cc
 allieforex.co.cc
@@ -1651,7 +1650,6 @@ am4.net
 amab.info
 amaderkotha.org
 amadeus666.org
-amaforex.cz.cc
 amandahugnkiss.org
 amando.info
 amanvpn.com
@@ -2202,7 +2200,6 @@ aseek.info
 asemkyeh.co.cc
 asesy.com
 asheranztwitch.online
-ashidden.co.vu
 ashish.me
 asia.dased.com
 asia.tri-dns.net
@@ -2830,7 +2827,6 @@ bestproxify.cz.cc
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
-bestproxy.cz.cc
 bestproxy.info
 bestproxy.tld.cc
 bestproxy4you.blogspot.com
@@ -3445,7 +3441,6 @@ browse-free.com
 browse.1industry.com
 browse.abccompany.biz
 browse.auraria.org
-browse.colodex.com
 browse.compuinter.com
 browse.maxposter.com
 browse000.co.cc
@@ -5602,7 +5597,6 @@ dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
 dns.atsilva.link
-dns.auapi.fun
 dns.audet.cloud
 dns.auffray.org
 dns.axiomos.xyz
@@ -7017,7 +7011,6 @@ domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
-domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -8433,7 +8426,6 @@ firelab.site
 fireprox.com
 fireprox.net
 fireproxy.com
-firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -11663,6 +11655,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -17157,7 +17150,6 @@ proxycastle.com
 proxycat.com
 proxycatalog.com
 proxycb.co.cc
-proxycdn.college
 proxycenter.co.cc
 proxycentre.co.cc
 proxycentre.com
@@ -20718,7 +20710,6 @@ sundaybumpr.co.cc
 sundayliveproxy.co.cc
 sunglassoakley.co.cc
 sunife.com
-sunnetdata.com
 sunny.nz.gs
 sunnygyl.com
 sunnyhavana.co.cc
@@ -21673,7 +21664,6 @@ taxme.info
 taxrefundcard.co.cc
 tays.info
 tbjr6.net
-tbjr6.org
 tbs01.dnscry.pt
 tbunet.com
 tcp6.com
@@ -22609,6 +22599,7 @@ twunkproxy.co.cc
 tx.teradns.org
 txproxy.co.cc
 txtafriend.com
+tylda.duckdns.org
 tylerschnaidt.com
 tyo01.dnscry.pt
 tyo02.dnscry.pt
@@ -23371,6 +23362,7 @@ universityproxy.com
 universityproxy.net
 universityprxy.co.cc
 unix-ip-address.co.cc
+unixfox.duckdns.org
 unkn0wngb.lol
 unknown-bb.com
 unknownhost.info
@@ -26633,6 +26625,7 @@ www.connectionend.com
 www.connectionvpn.com
 www.connectnow.info
 www.connecton.info
+www.connectonline.info
 www.connectpro.info
 www.connectproxy.com
 www.connectserver.info
@@ -27034,6 +27027,7 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
+www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -27313,6 +27307,7 @@ www.eyou.eu
 www.eyym.com
 www.ez9.info
 www.ezcrack.info
+www.ezhide.com
 www.ezpow.com
 www.ezproxee.info
 www.ezproxies.com
@@ -31147,7 +31142,6 @@ www.proxy-world.de
 www.proxy-x.com
 www.proxy-youtube.net
 www.proxy-zone.net
-www.proxy.ac
 www.proxy.biz
 www.proxy.business
 www.proxy.cd
@@ -34918,6 +34912,7 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
+www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
