@@ -8173,6 +8173,7 @@ bcurl.org
 bdan.info
 bdcd.info
 bdirection.info
+bdomainnames.cz.cc
 be-anonymous.info
 be-free.gq
 be-xtra.info
@@ -8626,6 +8627,7 @@ best-paid-proxy.tk
 best-pavstas.tk
 best-porxy.info
 best-private-proxies.xyz
+best-proxify.cz.cc
 best-proxmox2s.tk
 best-proxxy.gq
 best-proxxy.ml
