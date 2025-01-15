@@ -2459,7 +2459,6 @@ b3st.info
 b3u.net
 b3w.info
 b4m.info
-b4tu.com
 b4x.co.cc
 b4y.info
 b65.org
@@ -5634,7 +5633,6 @@ dns.bitdefender.net
 dns.bitservices.io
 dns.blackmarketcp.ir
 dns.blaumer.dev
-dns.blaze-sk.ru
 dns.blokada.org
 dns.bluestarnc.com
 dns.bmc-media.com
@@ -6847,7 +6845,6 @@ doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
-doh.dnsfilter.com
 doh.dnslify.com
 doh.dnsovertor.cc
 doh.dnswarden.com
@@ -7065,7 +7062,9 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7379,7 +7378,6 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
-easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -9172,7 +9170,6 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
-freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -10168,7 +10165,6 @@ gratisvpn.com
 gravelcity.com
 graveofhope.ru
 gravestock.tk
-gravity.sciencevictory.org
 grazitti.com
 grea.info
 greasemonkey.co.cc
@@ -16321,7 +16317,6 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -17947,7 +17942,6 @@ proxyunite.co.cc
 proxyunited.com
 proxyunlimited.co.cc
 proxyunlimited.com
-proxyunlock.com
 proxyupdate.co.cc
 proxyupdated.co.cc
 proxyurls.com
@@ -29074,7 +29068,6 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
-www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -31385,7 +31378,6 @@ www.proxydoor.cn
 www.proxydoor.com
 www.proxydot.com
 www.proxydragon.com
-www.proxydream.com
 www.proxydrom.com
 www.proxydrop.biz
 www.proxydrop.com
