@@ -279,6 +279,7 @@
 2.dnscrypt-cert.browser.yandex.net
 2.dnscrypt-cert.dns.seby.io
 2.dnscrypt-cert.ffmuc.net
+2.dnscrypt-cert.pumplex.com
 2008.4twenty.us
 2011cars.co.cc
 2011webproxy.co.cc
@@ -683,6 +684,7 @@ a8e.net
 a91.info
 a94.info
 aaa801.my5gb.com
+aaaaa.cz.cc
 aaabbbcccsurfs.tk
 aaaproxy.com
 aabo.info
@@ -877,6 +879,7 @@ ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
 ada.openbld.net
+adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -1432,6 +1435,7 @@ aguado.info
 aguforex.co.cc
 agvhelmet.co.cc
 ahadns.net
+ahaforex.cz.cc
 ahcek.com
 ahighspeeds.co.cc
 ahlanwassahlan.co.cc
@@ -1492,6 +1496,7 @@ akuforex.co.cc
 akund.com
 akunssh.net
 akylah.zapto.org
+alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
 alanis.igalan.com
@@ -1751,7 +1756,6 @@ androidstyler.co.cc
 androidtrend.co.cc
 androidtriks.co.cc
 andromeda.hu.tl
-andromedae1.eu.org
 androsten.co.cc
 androvpn.com
 anduong.xyz
@@ -1974,6 +1978,7 @@ antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
+antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
 antispyware.cz.cc
@@ -2361,7 +2366,6 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
-avambee.cz.cc
 avarikoteo.co.cc
 avatunnel.co.cc
 avenue2.info
@@ -2819,6 +2823,7 @@ bestplacestotravel.info
 bestplay.info
 bestproxies.com
 bestproxies.net
+bestproxify.cz.cc
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
@@ -4357,6 +4362,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4777,7 +4783,6 @@ croxy.org
 croxy.red
 croxy.rocks
 croxyproxy.best
-croxyproxy.co.in
 croxyproxy.com
 croxyproxy.com.in
 croxyproxy.net
@@ -5225,7 +5230,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -7062,6 +7066,7 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7375,6 +7380,7 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
+easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -8577,7 +8583,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -10163,6 +10168,7 @@ gratisvpn.com
 gravelcity.com
 graveofhope.ru
 gravestock.tk
+gravity.sciencevictory.org
 grazitti.com
 grea.info
 greasemonkey.co.cc
@@ -11799,6 +11805,7 @@ itopvpn.com
 itpays2.com
 itproxy.co.cc
 itsaplan.info
+itsayx.online
 itsblocked.com
 itshidden.com
 itshidden.eu
@@ -13624,7 +13631,6 @@ mintproxy.com
 minute-moment.co.cc
 miosurf.nz.gs
 miproxy.com
-mira1.eu.org
 miracleproxy.co.cc
 miraflores.info
 miranet.info
@@ -15897,7 +15903,6 @@ polandfreeproxy.blogspot.fr
 polandgrows.com
 polaris.cx
 polaris.mrmartian.co
-polaris1.eu.org
 polarproxy.com
 polarvoid.store
 pole.ws
@@ -32537,6 +32542,7 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
+www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
@@ -33777,7 +33783,6 @@ www.tkheathsurf.tk
 www.tksproxychancec.tk
 www.tkternationas.tk
 www.tku.in
-www.tl-l.com
 www.tmpfree.com
 www.tntproxy.com
 www.toastedpenguin.com
@@ -34432,6 +34437,7 @@ www.unrooter.com
 www.unseeme.com
 www.unseenip.tk
 www.unseennow.com
+www.unseensurfing.com
 www.unssh.info
 www.untack.com
 www.untiloutletl.tk
