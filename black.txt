@@ -2542,7 +2542,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -4054,7 +4053,6 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
-centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4266,6 +4264,7 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
+clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4321,7 +4320,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -6985,6 +6983,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -7006,6 +7005,7 @@ domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
+domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -7056,6 +7056,7 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7121,7 +7122,6 @@ douglas.mebrak.fr
 douglaster.com
 doun.info
 dounblockyo.co.cc
-dove.soapagent.com
 dove.soapclient.com
 dove485.dns-dynamic.net
 dovepocket.3owl.com
@@ -8422,6 +8422,7 @@ firelab.site
 fireprox.com
 fireprox.net
 fireproxy.com
+firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -10104,6 +10105,7 @@ gotoproxy.com
 gotour.info
 gotoworldcup.co.cc
 gotproxies.com
+gotproxy.co.vu
 gotrusted.com
 gouc.fr
 gouforex.co.cc
@@ -10636,7 +10638,6 @@ hideglobal.com
 hidehim.com
 hideidentitynow.co.cc
 hideinfo.net
-hideip.890m.com
 hideip.be
 hideip.co
 hideip.ws
@@ -11989,6 +11990,7 @@ jobscorps.co.cc
 jobsexperd.co.cc
 jobsmonster.co.cc
 jobworker.co.cc
+joeltheodore.com
 joeproxy.com
 jofo.info
 johnsoninteractive.com
@@ -16529,7 +16531,6 @@ proxthem.co.cc
 proxthis.com
 proxthisway.info
 proxthree.co.cc
-proxtik.co.vu
 proxtik.com
 proxto.com
 proxtox.com
@@ -18833,7 +18834,6 @@ royalproxy.info
 rpz-public-resolver1.rrdns.pch.net
 rrdb.org
 rselite.com
-rsiso.com
 rsocks.net
 rt5rw3.co.cc
 rtun.info
@@ -21568,7 +21568,6 @@ switchvpn.com
 switchvpn.net
 swizztime.com
 swoletux.ave.zone
-swordvpn.com
 swoshsvpn.com
 swvw.net
 sx.bnds.link
@@ -23798,7 +23797,6 @@ videonew.online
 videoproxy.site
 videoshare.nz.gs
 videounblock.com
-videounblocked.com
 videounblocker.net
 vidio.info
 vidproxy.com
@@ -25048,7 +25046,6 @@ www.4freeproxy.com
 www.4ine.com
 www.4jh.org
 www.4love.info
-www.4proxy.com
 www.4proxy.de
 www.4proxy.info
 www.4ra.com
@@ -30384,7 +30381,6 @@ www.onefake.com
 www.onehide.com
 www.oneinoneout.com
 www.onejk.com
-www.oneletter.info
 www.oneonly.info
 www.oneproxy.info
 www.oneteam.tk
@@ -35210,7 +35206,6 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
-www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
