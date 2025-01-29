@@ -617,7 +617,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -1260,6 +1259,7 @@ adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
+adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -2846,7 +2846,6 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
-bestspeed.cz.cc
 bestspin.info
 bestssh.net
 bestsslproxy.info
@@ -4899,7 +4898,6 @@ cybershell.info
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5031,7 +5029,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -6746,7 +6743,6 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7052,8 +7048,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -8419,6 +8415,7 @@ firelab.site
 fireprox.com
 fireprox.net
 fireproxy.com
+firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8570,6 +8567,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9595,7 +9593,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10633,6 +10630,7 @@ hideglobal.com
 hidehim.com
 hideidentitynow.co.cc
 hideinfo.net
+hideip.890m.com
 hideip.be
 hideip.co
 hideip.ws
@@ -10909,7 +10907,6 @@ holland.alertsms.nl
 hollo.info
 hollowforex.co.cc
 hollywood.filmfactory.nl
-hollywood.practicalalchemy.org
 holyrex.co.cc
 holyubvpn.com
 home-by.co.cc
@@ -11309,7 +11306,6 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
-ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -11745,6 +11741,7 @@ isityet.net
 islakamcik.com
 islands-turkey.com
 ismailo.lixub.com
+ismyforumdown.com
 isnp.info
 isodos.com
 isolacje.homeip.net
@@ -11797,6 +11794,7 @@ itsproxytime.co.cc
 itsrecess.com
 itstuesday.co.cc
 itsturbo.info
+itsunblocked.co.vu
 ittv.info
 ituneplus.com
 itunnel.com
@@ -15817,7 +15815,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -16060,7 +16057,6 @@ premiumtier-network.instadart.net
 premiumzone.info
 premixsite.co.cc
 premoweb.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -17988,7 +17984,6 @@ proxywiz.com
 proxywizards.com
 proxywork.com
 proxyworks.com
-proxyworm.com
 proxywsay.info
 proxywsproxys.tk
 proxywsurf.tk
@@ -18549,7 +18544,6 @@ remoteproxy.co.cc
 remotevpn.net
 removeban.com
 removefilters.net
-removethatwall.comuv.com
 renali.info
 renameproxy.co.cc
 renardbleu.dev
@@ -24160,7 +24154,6 @@ wantingsurf.co.cc
 wardu.com
 warezblogger.com
 warezsplit.co.cc
-warninglog.com
 warpproxy.com
 warrior-freedom.co.cc
 waselpro.com
@@ -25984,6 +25977,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -30144,6 +30138,7 @@ www.nhuanet.com
 www.nice.hu
 www.niceprogress.com
 www.nicetrick.info
+www.nichepal.com
 www.niddz.com
 www.nightdating.info
 www.nightproxy.com
@@ -30289,7 +30284,6 @@ www.nwal.net
 www.nwow.info
 www.nxlinks.com
 www.nz7.info
-www.nzzm.com
 www.o-itc.be
 www.o0b.net
 www.o2tech.net
@@ -30527,7 +30521,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
