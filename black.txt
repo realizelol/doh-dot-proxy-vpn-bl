@@ -1827,7 +1827,6 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
-anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2093,6 +2092,7 @@ aproxyz.com
 aptforex.co.cc
 apuestaonline.info
 apuforex.co.cc
+aqaforex.cz.cc
 aqix.co.cc
 aqtforex.co.cc
 aqua-proxy.co.cc
@@ -4370,7 +4370,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -6795,6 +6794,7 @@ doh-lb-tr.dnsflex.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
+doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-rs.whalebone.io
 doh-sg.blahdns.com
@@ -7010,6 +7010,7 @@ domain.tyrerwebster.com
 domain.wuffster.com
 domainactive.info
 domainbypass.com
+domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
@@ -7032,6 +7033,7 @@ dominantproxy.tk
 dominated.info
 dominatrix.brandonsli.com
 dominoan.co.cc
+dominus.cz.cc
 domx.info
 donare.info
 donblock.com
@@ -7066,6 +7068,7 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -9609,7 +9612,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10738,7 +10740,6 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
-hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -12711,7 +12712,6 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
-letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -13173,7 +13173,6 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
-madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14220,7 +14219,6 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -16331,7 +16329,6 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -35871,7 +35868,6 @@ ytcroxyproxy.com
 ytunnel.com
 yuanmingming.com
 yufe.info
-yui.cat
 yujunwanwu.cn
 yul01.dnscry.pt
 yulgangforex.co.cc
