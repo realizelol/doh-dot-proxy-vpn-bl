@@ -553,6 +553,7 @@
 7755.info
 776847proxy.tk
 777proxy.com
+777schoolutilities.website
 777surfer.info
 77980.bodis.com
 787555asurfs.tk
@@ -1827,6 +1828,7 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
+anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -4370,6 +4372,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -7014,7 +7017,6 @@ domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
-domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -7068,7 +7070,6 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -9612,6 +9613,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10740,6 +10742,7 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
+hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -12712,6 +12715,7 @@ letin.info
 letitgo.info
 letme-know.co.cc
 letmeaccess.com
+letmebrowse.net46.net
 letmeby.com
 letmeconnect.info
 letmego.in
@@ -13173,6 +13177,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14219,6 +14224,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -16329,6 +16335,7 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -22080,6 +22087,7 @@ tk2-404-43267.vs.sakura.ne.jp
 tkedge.com
 tku.in
 tky-dns.bitdefender.net
+tl-l.com
 tlembuk.co.cc
 tlembukpasar.co.cc
 tll01.dnscry.pt
@@ -26902,7 +26910,6 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
-www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -32449,7 +32456,6 @@ www.safeproxysite.com
 www.safeproxysuring.ml
 www.saferat.com
 www.safersurfing.net
-www.saferweb.info
 www.safesearch.info
 www.safest.info
 www.safesurf.com
@@ -33200,7 +33206,6 @@ www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
-www.standstrong.xyz
 www.star-ma.com
 www.starbrowser.eu
 www.starcrumb.com
@@ -35868,6 +35873,7 @@ ytcroxyproxy.com
 ytunnel.com
 yuanmingming.com
 yufe.info
+yui.cat
 yujunwanwu.cn
 yul01.dnscry.pt
 yulgangforex.co.cc
@@ -36020,7 +36026,6 @@ zoke.pl
 zoltar.info
 zombieinvasion.info
 zomble.com
-zone.actsministries.org
 zone.ne.jp
 zonepct.free.fr
 zonesrecord.co.cc
