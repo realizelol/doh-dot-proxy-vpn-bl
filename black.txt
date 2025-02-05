@@ -392,6 +392,7 @@
 3.local-dns.noridev.moe
 3035.info
 30i.info
+30t.online
 310.in
 3114.info
 31344.com
@@ -1505,7 +1506,6 @@ akunssh.net
 akylah.zapto.org
 alaforex.cz.cc
 alahgaberlah.co.cc
-alamania.wc.lt
 alanis.igalan.com
 alarm.nz.gs
 alast4proxys1.tk
@@ -1986,8 +1986,10 @@ antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
+antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
+antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2234,6 +2236,7 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
+asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -2362,6 +2365,7 @@ autoregistration.ru
 autorobot-hidden.co.cc
 autospeedproxy.co.cc
 autosurfer.co.cc
+autosurfing.cz.cc
 autotksuranceip.tk
 autotksurances.tk
 autumnproxy.co.cc
@@ -2828,6 +2832,7 @@ bestplacestotravel.info
 bestplay.info
 bestproxies.com
 bestproxies.net
+bestproxify.cz.cc
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
@@ -2852,6 +2857,7 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
+bestspeed.cz.cc
 bestspin.info
 bestssh.net
 bestsslproxy.info
@@ -4610,6 +4616,7 @@ coolproxy.com
 coolstartpages.com
 coolsurf4.co.cc
 cooltunnel.com
+coolunblocked.co.vu
 coolway.info
 coolyoutubeproxy.com
 copetbrokerforex.co.cc
@@ -5553,6 +5560,7 @@ dns.adguard-dns.com
 dns.adguard.beltoev.ru
 dns.adguard.com
 dns.adguard0808.cloudns.ph
+dns.adguarddns.com
 dns.adrianlam.com
 dns.adups.com
 dns.aeiou.pp.ua
@@ -7947,6 +7955,7 @@ familiar-legendary.co.cc
 family-filter-dns.cleanbrowsing.org
 family.5ososea.com
 family.adguard-dns.com
+family.adguarddns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
@@ -8420,6 +8429,7 @@ firelab.site
 fireprox.com
 fireprox.net
 fireproxy.com
+firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -9301,6 +9311,7 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
+freewebproxy.co.vu
 freewebproxy.com
 freewebproxy.eu
 freewebproxy.net
@@ -9372,6 +9383,7 @@ fritz-er.circumitor.de
 fritz-hbh.circumitor.de
 frivsurf.co.cc
 frizzlestock.co.cc
+frlolyt.site
 frog.dns.qwer.pw
 frogstone.co.cc
 frometoyou.co.cc
@@ -9715,6 +9727,7 @@ getby.atspace.com
 getbynow.com
 getbypassforexsite.co.cc
 getcloak.com
+getcloser-websocket.com
 getcrushes-point.co.cc
 getdnsapi.net
 getdomain.tk
@@ -10466,7 +10479,6 @@ helloyo.com
 hells.pl
 hellyeah.co.cc
 help-me-out.appspot.com
-help.newhopes.info
 helped.mask.wtf.la
 helphideme.com
 helpmehide.com
@@ -10730,6 +10742,7 @@ hidenproxxy.tk
 hidenseek.me
 hidenseek.org
 hidenspace.nz.gs
+hidenthis.co.vu
 hideofall.co.cc
 hideonline.net
 hideoxy.com
@@ -11146,7 +11159,6 @@ hustejweb.cz.linux17.ignum.cz
 hustleproxy.com
 hustlersforum.com
 hustlersgame.com
-hustlersuniversity.pro
 hut4.info
 hutbanyumas.co.cc
 huv01.dnscry.pt
@@ -11356,6 +11368,7 @@ ilron.com
 iluminiss.com
 ilumu.com
 iluvjz.info
+iluvpoxy.net78.net
 ilysk.lol
 im-free.net
 im-unstoppable.com
@@ -11393,6 +11406,7 @@ imright.net
 imsly.com
 imsneaky.com
 imspecial.me
+imunblocked.co.vu
 imyu.info
 in-blr.doh.sb
 in-disguise.com
@@ -14205,14 +14219,12 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
 nayemador.com
 nazlimcafe.com
 nb4.info
-nb66.me
 nbajersey.net
 nblock.net
 ncba.info
@@ -14672,7 +14684,6 @@ nosnitch.com
 nospamhere.co.cc
 nostol.com
 not-limited.co.cc
-notartclass.design
 notbite.co.cc
 note.dehb.ru
 notebait.ddnsfree.com
@@ -15039,7 +15050,6 @@ ongoal.co.cc
 onhide.com
 onion.am
 onion.cab
-onion.casa
 onion.city
 onion.dog
 onion.gq
@@ -15652,7 +15662,6 @@ perx.info
 pessoa.info
 petcargo.co.cc
 petciforex.co.cc
-petergriffin.design
 peterporn.co.cc
 petforever.co.cc
 petinom.online
@@ -16021,7 +16030,6 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
 poxygoyo.comze.com
 poxyme.comli.com
 pozzop.com
@@ -16181,6 +16189,7 @@ privateproxy.net
 privateproxyreviews.com
 privateshadow.com
 privatesurf.co.cc
+privatesurf.co.vu
 privatesurf.us
 privatesurfforme.net
 privatesurfing.co.cc
@@ -16535,6 +16544,7 @@ proxthem.co.cc
 proxthis.com
 proxthisway.info
 proxthree.co.cc
+proxtik.co.vu
 proxtik.com
 proxto.com
 proxtox.com
@@ -19184,7 +19194,6 @@ scoobidoo.net
 scoolpass.co.cc
 scoopedmoms.co.cc
 scoots.co.cc
-scooty.info
 scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
@@ -23317,6 +23326,7 @@ unfilter.net
 unfilter.sux.ms
 unfilter.us
 unfiltered.adguard-dns.com
+unfiltered.adguarddns.com
 unfiltered.dns.sainternet.xyz
 unfilteredaccess.com
 unfilteredweb.com
@@ -24939,6 +24949,7 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
+www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -25168,6 +25179,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -26433,6 +26445,7 @@ www.charleen.info
 www.chat-sohbet.com
 www.chatal.net
 www.chatchut.com
+www.chatkolik.net
 www.chatsepeti.com
 www.chayfh.com
 www.cheaply.info
@@ -29192,6 +29205,7 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
+www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
@@ -32544,7 +32558,6 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
-www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
