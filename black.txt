@@ -3476,6 +3476,7 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
+browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -3775,7 +3776,6 @@ bypasswithmyproxy.co.cc
 bypassxproxy.co.cc
 bypassy.com
 bypasszone.com
-byproxy.cz.cc
 bypssd.co.cc
 byteme.info
 bytzvpn.com
@@ -4370,6 +4370,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4523,7 +4524,6 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5331,6 +5331,7 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -7379,7 +7380,6 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
-easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -7709,6 +7709,7 @@ eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
 eu.tri-dns.net
+eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -8581,7 +8582,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -12827,7 +12827,6 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
-link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -14141,7 +14140,6 @@ myunblock.info
 myunblocked.net
 myunblockwebsites.com
 myunblockwebsites.info
-myunlocker.com
 myusproxy.info
 myv2ray.cn
 myvirgo.info
@@ -14499,6 +14497,7 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
+nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -16030,8 +16029,6 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
-poxygoyo.comze.com
-poxyme.comli.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -16970,6 +16967,7 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
+proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -16982,6 +16980,7 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
+proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -24899,7 +24898,6 @@ www.1block.info
 www.1browse.cn
 www.1browse.info
 www.1club.info
-www.1costaricalink.com
 www.1ee.top
 www.1foru.org
 www.1foxy.com
@@ -24948,6 +24946,7 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
+www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -26897,7 +26896,6 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
-www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -28810,7 +28808,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -29081,7 +29078,6 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
-www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
