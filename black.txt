@@ -700,7 +700,6 @@ aattwwss.duckdns.org
 aauforex.co.cc
 abaforex.cz.cc
 abc.kissfree.net
-abcdef.cz.cc
 abcdian.com
 abcmusic.info
 abcproxy.com
@@ -814,7 +813,6 @@ acevpn.com
 acgroup.in
 acidrain.co.cc
 acidrain.tk
-aciforex.cz.cc
 acircuit.co.cc
 acmeblock.com
 acmesurf.com
@@ -1358,7 +1356,6 @@ affsoft.cc
 afganorixy.co.cc
 afhaal.com
 aficoscorebrowstkgode.tk
-afiforex.cz.cc
 aflu.info
 afrforex.co.cc
 africa-mask.wrr.mask.apple-dns.net
@@ -1442,7 +1439,6 @@ aguado.info
 aguforex.co.cc
 agvhelmet.co.cc
 ahadns.net
-ahaforex.cz.cc
 ahcek.com
 ahighspeeds.co.cc
 ahlanwassahlan.co.cc
@@ -1987,7 +1983,6 @@ antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
-antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
 antispyware.cz.cc
@@ -3365,7 +3360,6 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
-brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -3776,6 +3770,7 @@ bypasswithmyproxy.co.cc
 bypassxproxy.co.cc
 bypassy.com
 bypasszone.com
+byproxy.cz.cc
 bypssd.co.cc
 byteme.info
 bytzvpn.com
@@ -4159,7 +4154,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4331,7 +4325,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4370,7 +4363,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4507,7 +4499,6 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
-compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -4524,6 +4515,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4615,7 +4607,6 @@ coolproxy.com
 coolstartpages.com
 coolsurf4.co.cc
 cooltunnel.com
-coolunblocked.co.vu
 coolway.info
 coolyoutubeproxy.com
 copetbrokerforex.co.cc
@@ -6758,7 +6749,6 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -6995,7 +6985,6 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
-domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -7011,7 +7000,6 @@ domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
-domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -7065,7 +7053,6 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -7380,6 +7367,7 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
+easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -11096,6 +11084,7 @@ htcaria.co.cc
 htcphone.co.cc
 htmate.com
 html.cafe
+http-dns.imoim.net
 http-tunnel.com
 http.ws
 httpass.com
@@ -12827,6 +12816,7 @@ linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
 lingonberry.co.cc
+link-05.host22.com
 link.altapo.ru
 link2caro.net
 linkadded.com
@@ -13792,7 +13782,6 @@ moreproxies.com
 moreproxylist.co.cc
 morethanfast.co.cc
 morevpn.com
-moritaa.vv.si
 morning-glory.co.cc
 morningfolks.co.cc
 morninghunger.co.cc
@@ -14140,6 +14129,7 @@ myunblock.info
 myunblocked.net
 myunblockwebsites.com
 myunblockwebsites.info
+myunlocker.com
 myusproxy.info
 myv2ray.cn
 myvirgo.info
@@ -16029,6 +16019,7 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -17266,7 +17257,6 @@ proxyeye.com
 proxyez.com
 proxyfacebook.com
 proxyfactory.io
-proxyfans.com
 proxyfarm.com
 proxyfast.net
 proxyfastpro.appspot.com
@@ -18610,6 +18600,7 @@ resolve.corpa.me
 resolve.fknw.de
 resolve.srv-pro.de
 resolve02.srv-pro.de
+resolve2.r9x.cc
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
 resolver.as203038.net
@@ -24898,6 +24889,7 @@ www.1block.info
 www.1browse.cn
 www.1browse.info
 www.1club.info
+www.1costaricalink.com
 www.1ee.top
 www.1foru.org
 www.1foxy.com
@@ -26896,6 +26888,7 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
+www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -28808,6 +28801,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -29078,6 +29072,7 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
+www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -31998,6 +31993,7 @@ www.proxywiz.com
 www.proxywizards.com
 www.proxywork.com
 www.proxyworks.com
+www.proxyworm.com
 www.proxywsay.info
 www.proxywsproxys.tk
 www.proxywsurf.tk
