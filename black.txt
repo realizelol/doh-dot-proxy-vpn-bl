@@ -1236,7 +1236,6 @@ adguard2.unima.ac.id
 adguard3.eoghan-net.com
 adguard3.ota.moe
 adguard4.ota.moe
-adguardcalpena.duckdns.org
 adguardcloud.bwasson.com
 adguardcloud.iasm.com.ar
 adguardhome.atakorah.com
@@ -4370,7 +4369,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4386,6 +4384,7 @@ clownforex.co.cc
 clsc.info
 clsproxy.com
 clubsurfer.com
+clubsv.duckdns.org
 cluenowmania.co.cc
 cluforex.co.cc
 clumforex.co.cc
@@ -5042,6 +5041,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -7008,7 +7008,6 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -10113,6 +10112,7 @@ gotoproxy.com
 gotour.info
 gotoworldcup.co.cc
 gotproxies.com
+gotproxy.co.vu
 gotrusted.com
 gouc.fr
 gouforex.co.cc
@@ -10922,6 +10922,7 @@ holland.alertsms.nl
 hollo.info
 hollowforex.co.cc
 hollywood.filmfactory.nl
+hollywood.practicalalchemy.org
 holyrex.co.cc
 holyubvpn.com
 home-by.co.cc
@@ -16030,6 +16031,7 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -23971,7 +23973,6 @@ vpernet.com
 vpn-account.com
 vpn-api.proton.me
 vpn-byen.dk
-vpn-dns-adsblocker.duckdns.org
 vpn-fastest.com
 vpn-free.com
 vpn-free.download
@@ -25180,6 +25181,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -30327,7 +30329,6 @@ www.nwal.net
 www.nwow.info
 www.nxlinks.com
 www.nz7.info
-www.nzzm.com
 www.o-itc.be
 www.o0b.net
 www.o2tech.net
@@ -30413,6 +30414,7 @@ www.onefake.com
 www.onehide.com
 www.oneinoneout.com
 www.onejk.com
+www.oneletter.info
 www.oneonly.info
 www.oneproxy.info
 www.oneteam.tk
