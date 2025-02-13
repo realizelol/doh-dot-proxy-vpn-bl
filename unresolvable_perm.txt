@@ -6455,6 +6455,7 @@ appxyz.info
 appyle.info
 apquoteprox.info
 apr0xy.info
+aprendizaje.info
 apretty.tk
 aprevious.tk
 apricotproxy.gq
@@ -19887,6 +19888,7 @@ doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
 doh.lee1024.xyz
+doh.libredns.org
 doh.linuxsec.org
 doh.lujiacai.top
 doh.nala.ru
