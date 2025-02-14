@@ -698,6 +698,7 @@ aash.info
 aatforex.co.cc
 aattwwss.duckdns.org
 aauforex.co.cc
+abaforex.cz.cc
 abc.kissfree.net
 abcdef.cz.cc
 abcdian.com
@@ -1265,8 +1266,10 @@ adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
+adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
+adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -1987,7 +1990,6 @@ antiproxy.com
 antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
-antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2767,6 +2769,7 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
+best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -3762,7 +3765,6 @@ bypassthe.net
 bypassthefilters.info
 bypassthefirewall.co.cc
 bypasstmsforexbrokers.co.cc
-bypasstunnel.com
 bypassunblockinfo.tk
 bypassunblocktkgl.tk
 bypassurl.com
@@ -3915,6 +3917,7 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
+carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4120,7 +4123,6 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
-cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -4326,7 +4328,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4365,7 +4366,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4519,6 +4519,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4906,6 +4907,7 @@ cybershell.info
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5229,6 +5231,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5260,6 +5263,7 @@ dephyr.com
 depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
+derekcastle.duckdns.org
 derel.cz.cc
 derowd.freeboxos.fr
 derpymail.org
@@ -7001,7 +7005,6 @@ domainbypass.com
 domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -7056,7 +7059,6 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -7701,7 +7703,6 @@ eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
 eu.tri-dns.net
-eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -11808,6 +11809,7 @@ itsproxytime.co.cc
 itsrecess.com
 itstuesday.co.cc
 itsturbo.info
+itsunblocked.co.vu
 ittv.info
 ituneplus.com
 itunnel.com
@@ -16813,7 +16815,6 @@ proxy.matrotech.com
 proxy.meetoo.pl
 proxy.memao.com
 proxy.metal.info
-proxy.mianshibao.cn
 proxy.mibearings.com
 proxy.millspace.com
 proxy.mochloshotel.com
@@ -16963,7 +16964,6 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
-proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -16976,7 +16976,6 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
-proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -19190,6 +19189,7 @@ scoobidoo.net
 scoolpass.co.cc
 scoopedmoms.co.cc
 scoots.co.cc
+scooty.info
 scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
@@ -22070,7 +22070,6 @@ tk2-404-43267.vs.sakura.ne.jp
 tkedge.com
 tku.in
 tky-dns.bitdefender.net
-tl-l.com
 tlembuk.co.cc
 tlembukpasar.co.cc
 tll01.dnscry.pt
@@ -24115,6 +24114,7 @@ vps1.jnraptor.net
 vps2.jnraptor.net
 vps4.scho.io
 vpscheap.co.cc
+vpschito.duckdns.org
 vpssale.com
 vpssell.com
 vpsurf.co.cc
@@ -30073,7 +30073,6 @@ www.nationalcreditreport.info
 www.naturalproxy.com
 www.nava-proxy.tk
 www.navigationprivee.com
-www.naviguer.ca
 www.navydog.com
 www.nawt.info
 www.nazlimcafe.com
@@ -32552,7 +32551,6 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
-www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
