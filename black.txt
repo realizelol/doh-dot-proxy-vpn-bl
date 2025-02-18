@@ -620,7 +620,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -1499,6 +1498,7 @@ akuforex.co.cc
 akund.com
 akunssh.net
 akylah.zapto.org
+alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
 alanis.igalan.com
@@ -2827,7 +2827,6 @@ bestplacestotravel.info
 bestplay.info
 bestproxies.com
 bestproxies.net
-bestproxify.cz.cc
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
@@ -2975,6 +2974,7 @@ bimboe.info
 bimhost.com
 binary.fibersurf.co.cc
 binary.futureisonline.co.cc
+binary1.eu.org
 binaryillusion.com
 binaryproxyoptions.tk
 bind2.com
@@ -3469,7 +3469,6 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
-browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -3911,7 +3910,6 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
-carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4362,6 +4360,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5322,6 +5321,7 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6983,6 +6983,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -7821,7 +7822,6 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -8417,7 +8417,6 @@ firelab.site
 fireprox.com
 fireprox.net
 fireproxy.com
-firewall-filter.cz.cc
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -12079,7 +12078,6 @@ jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
 jupitervpn.ninja
-jupopo.com
 juproxy.com
 jurenomio.co.cc
 jurre-home.duckdns.org
@@ -14495,7 +14493,6 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
-nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -15044,6 +15041,7 @@ ongoal.co.cc
 onhide.com
 onion.am
 onion.cab
+onion.casa
 onion.city
 onion.dog
 onion.gq
@@ -16024,6 +16022,7 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
 poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
@@ -16537,6 +16536,7 @@ proxthem.co.cc
 proxthis.com
 proxthisway.info
 proxthree.co.cc
+proxtik.co.vu
 proxtik.com
 proxto.com
 proxtox.com
@@ -19426,6 +19426,7 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
+server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -24424,7 +24425,6 @@ webtypeunblok.co.cc
 webunblock.com
 webunblocker.com
 webunblocksites.info
-webunlocker.com
 webuzz.net
 webvq.com
 webwarper.net
@@ -24939,7 +24939,6 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
-www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -25058,7 +25057,6 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
-www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -27043,7 +27041,6 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
-www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -29652,6 +29649,8 @@ www.marko1.net
 www.marnine.net
 www.mars99.com
 www.marsproxy.com
+www.mask-api.icloud.com
+www.mask.icloud.com
 www.maskedbrowser.com
 www.maskedip.com
 www.maskip.info
@@ -31413,7 +31412,6 @@ www.proxyeye.com
 www.proxyez.com
 www.proxyfacebook.com
 www.proxyfactory.cf
-www.proxyfans.com
 www.proxyfarm.com
 www.proxyfast.net
 www.proxyfb.com
@@ -34922,7 +34920,6 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
-www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
