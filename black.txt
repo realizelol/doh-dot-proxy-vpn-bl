@@ -875,7 +875,6 @@ ad.tzockt.beer
 ad.visbran.fr
 ad.wiqi.app
 ad1.heronet.nl
-ad1guard.duckdns.org
 ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
@@ -2034,7 +2033,6 @@ aotforex.co.cc
 aouforex.co.cc
 ap-adguard.bougeard.pro
 apac-mask.wrr.mask.apple-dns.net
-apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -3149,7 +3147,6 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
-blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -4018,7 +4015,6 @@ cdrpix.info
 cds-forex.co.cc
 cds-proxy.co.cc
 cds-swaps.co.cc
-cdzopi.duckdns.org
 cebb.info
 cecak.co.cc
 cecid.com
@@ -4364,6 +4360,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4906,6 +4903,7 @@ cybershell.info
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5035,6 +5033,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -6984,7 +6983,6 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
-domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -7000,7 +6998,6 @@ domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
-domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -7019,6 +7016,7 @@ dominantproxy.tk
 dominated.info
 dominatrix.brandonsli.com
 dominoan.co.cc
+dominus.cz.cc
 domx.info
 donare.info
 donblock.com
@@ -7053,8 +7051,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7234,6 +7232,7 @@ dualnitro.com
 dualopteron.co.cc
 dualpass.nz.gs
 dualproxy.com
+duanyu.net
 dub01.dnscry.pt
 duba.net
 dubb.info
@@ -7820,7 +7819,6 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -8568,6 +8566,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9312,7 +9311,6 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
-freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -12131,6 +12129,7 @@ juvo.info
 juvos.com
 jvip.net
 jvn.in
+jyje.com
 jylppy69.riemurasia.net
 jyrm.com
 jzmz.com
@@ -12556,7 +12555,6 @@ landpacnow.co.cc
 landtunnel.co.cc
 lanfactor.tk
 langforex.co.cc
-lanre.duckdns.org
 lantern.io
 lanyard.drahonn.pro
 laonsimpact.co.cc
@@ -12662,7 +12660,6 @@ legend-area.co.cc
 legendpath.info
 legoagh.duckdns.org
 lekdijk.online
-lekro.com
 lelia.info
 lelux.fi
 lembus.co.cc
@@ -14509,7 +14506,6 @@ ninja-cloak.info
 ninja.anarchistan.com
 ninja.thestanalands.com
 ninja4.info
-ninja9.info
 ninjababe.com
 ninjabrowse.com
 ninjabunny.com
@@ -22042,6 +22038,7 @@ timewebfaster.co.cc
 timextreme.co.cc
 timiproxy.co.cc
 timmes.nl
+timperumichael.net23.net
 timt.info
 timtam.co.tv
 timurpoyraz.com
@@ -22069,7 +22066,6 @@ tk2-404-43267.vs.sakura.ne.jp
 tkedge.com
 tku.in
 tky-dns.bitdefender.net
-tl-l.com
 tlembuk.co.cc
 tlembukpasar.co.cc
 tll01.dnscry.pt
@@ -24946,6 +24942,7 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
+www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -28805,6 +28802,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -31392,7 +31390,6 @@ www.proxydrop.biz
 www.proxydrop.com
 www.proxydrop.info
 www.proxydrop.org
-www.proxyds.com
 www.proxyduchess.info
 www.proxydude.com
 www.proxydude123.tk
