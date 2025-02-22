@@ -875,6 +875,7 @@ ad.tzockt.beer
 ad.visbran.fr
 ad.wiqi.app
 ad1.heronet.nl
+ad1guard.duckdns.org
 ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
@@ -2033,6 +2034,7 @@ aotforex.co.cc
 aouforex.co.cc
 ap-adguard.bougeard.pro
 apac-mask.wrr.mask.apple-dns.net
+apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -3147,6 +3149,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -4015,6 +4018,7 @@ cdrpix.info
 cds-forex.co.cc
 cds-proxy.co.cc
 cds-swaps.co.cc
+cdzopi.duckdns.org
 cebb.info
 cecak.co.cc
 cecid.com
@@ -4062,7 +4066,6 @@ certitrain.com
 certsecure.info
 cesium.info
 cestu.com
-cesuba.cn
 cetil.co.cc
 cetsohbet.com
 cexi.info
@@ -5904,7 +5907,6 @@ dns.hotta.page
 dns.housedenolf.be
 dns.hr.i81.ru
 dns.hshoe.cn
-dns.huas.me
 dns.hub.com.de
 dns.hubservices.vn
 dns.huizegunsing.nl
@@ -6892,7 +6894,6 @@ doh.micronets.in
 doh.mmmalia.com
 doh.mochou.site
 doh.moeyk.com
-doh.morizt.id
 doh.mullvad.net
 doh.neowutran.ovh
 doh.nexen.cloud
@@ -6983,6 +6984,7 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
+domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -6998,6 +7000,7 @@ domainer.cz.cc
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
+domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -7819,6 +7822,7 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
+extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -7938,7 +7942,6 @@ familiar-legendary.co.cc
 family-filter-dns.cleanbrowsing.org
 family.5ososea.com
 family.adguard-dns.com
-family.adguarddns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
@@ -8014,7 +8017,6 @@ fast-unlock.co.cc
 fast-web.info
 fast-youtube.co.cc
 fast.17p.de
-fast.890m.com
 fast.agila.com.br
 fast.free-school.co.cc
 fast.proxy.com.de
@@ -10907,7 +10909,6 @@ holland.alertsms.nl
 hollo.info
 hollowforex.co.cc
 hollywood.filmfactory.nl
-hollywood.practicalalchemy.org
 holyrex.co.cc
 holyubvpn.com
 home-by.co.cc
@@ -12555,6 +12556,7 @@ landpacnow.co.cc
 landtunnel.co.cc
 lanfactor.tk
 langforex.co.cc
+lanre.duckdns.org
 lantern.io
 lanyard.drahonn.pro
 laonsimpact.co.cc
@@ -22066,6 +22068,7 @@ tk2-404-43267.vs.sakura.ne.jp
 tkedge.com
 tku.in
 tky-dns.bitdefender.net
+tl-l.com
 tlembuk.co.cc
 tlembukpasar.co.cc
 tll01.dnscry.pt
@@ -23119,7 +23122,6 @@ unblockit.one
 unblockit.onl
 unblockit.pages.dev
 unblockit.pro
-unblockit.rsvp
 unblockit.uno
 unblockliteforexsite.co.cc
 unblockliteforexsites.co.cc
@@ -23645,7 +23647,6 @@ uuuw.info
 uvpn.me
 uw-dns.rubyfish.cn
 uwaj.com
-uwqy.com
 uwwforex.co.cc
 uwxf.com
 ux.go20.cf
@@ -26725,6 +26726,7 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
+www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -27071,6 +27073,7 @@ www.dwap.info
 www.dwape.com
 www.dwiloan.com
 www.dxuh.com
+www.dxuu.com
 www.dxym.site
 www.dy9.org
 www.dygar.com
@@ -27569,7 +27572,6 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -33068,7 +33070,6 @@ www.space-in.info
 www.spaceburner.com
 www.spacechannel.info
 www.spacechat.info
-www.spacecloaker.com
 www.spacehide.com
 www.spaceinternet.info
 www.spaceports.com
@@ -34543,7 +34544,6 @@ www.utopiapal.com
 www.utor.info
 www.utunnel.com
 www.utunnel.net
-www.uu.tj
 www.uugy.com
 www.uupv.com
 www.uuui.info
