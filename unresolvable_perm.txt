@@ -49404,6 +49404,7 @@ ninja1.info
 ninja2.info
 ninja2011.tk
 ninja3.info
+ninja9.info
 ninjaa.info
 ninjaaccess.info
 ninjaacting.info
@@ -143828,6 +143829,7 @@ www.proxydriver.com
 www.proxydroid.tk
 www.proxydroids.tk
 www.proxydrop.net
+www.proxyds.com
 www.proxydts.tk
 www.proxydualstack.tk
 www.proxydude.net
