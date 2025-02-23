@@ -4066,6 +4066,7 @@ certitrain.com
 certsecure.info
 cesium.info
 cestu.com
+cesuba.cn
 cetil.co.cc
 cetsohbet.com
 cexi.info
@@ -6894,6 +6895,7 @@ doh.micronets.in
 doh.mmmalia.com
 doh.mochou.site
 doh.moeyk.com
+doh.morizt.id
 doh.mullvad.net
 doh.neowutran.ovh
 doh.nexen.cloud
@@ -7942,6 +7944,7 @@ familiar-legendary.co.cc
 family-filter-dns.cleanbrowsing.org
 family.5ososea.com
 family.adguard-dns.com
+family.adguarddns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
@@ -8017,6 +8020,7 @@ fast-unlock.co.cc
 fast-web.info
 fast-youtube.co.cc
 fast.17p.de
+fast.890m.com
 fast.agila.com.br
 fast.free-school.co.cc
 fast.proxy.com.de
@@ -9313,6 +9317,7 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
+freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -10909,6 +10914,7 @@ holland.alertsms.nl
 hollo.info
 hollowforex.co.cc
 hollywood.filmfactory.nl
+hollywood.practicalalchemy.org
 holyrex.co.cc
 holyubvpn.com
 home-by.co.cc
@@ -12662,6 +12668,7 @@ legend-area.co.cc
 legendpath.info
 legoagh.duckdns.org
 lekdijk.online
+lekro.com
 lelia.info
 lelux.fi
 lembus.co.cc
@@ -12782,7 +12789,6 @@ likeall.info
 likebehind.co.cc
 likedomain.co.cc
 likeface07.tk
-likehiden.co.vu
 likemyeyes.co.cc
 likest.cn
 likethis-hole.co.cc
@@ -23319,7 +23325,6 @@ unfilter.net
 unfilter.sux.ms
 unfilter.us
 unfiltered.adguard-dns.com
-unfiltered.adguarddns.com
 unfiltered.dns.sainternet.xyz
 unfilteredaccess.com
 unfilteredweb.com
@@ -23647,6 +23652,7 @@ uuuw.info
 uvpn.me
 uw-dns.rubyfish.cn
 uwaj.com
+uwqy.com
 uwwforex.co.cc
 uwxf.com
 ux.go20.cf
@@ -27572,6 +27578,7 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -29655,8 +29662,6 @@ www.marko1.net
 www.marnine.net
 www.mars99.com
 www.marsproxy.com
-www.mask-api.icloud.com
-www.mask.icloud.com
 www.maskedbrowser.com
 www.maskedip.com
 www.maskip.info
@@ -31417,7 +31422,6 @@ www.proxyeye.com
 www.proxyez.com
 www.proxyfacebook.com
 www.proxyfactory.cf
-www.proxyfans.com
 www.proxyfarm.com
 www.proxyfast.net
 www.proxyfb.com
@@ -34544,6 +34548,7 @@ www.utopiapal.com
 www.utor.info
 www.utunnel.com
 www.utunnel.net
+www.uu.tj
 www.uugy.com
 www.uupv.com
 www.uuui.info
