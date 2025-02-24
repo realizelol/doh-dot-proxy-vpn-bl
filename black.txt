@@ -131,7 +131,6 @@
 1155.info
 117.us
 1181180.com
-11vz.com
 12-21-2012.org
 1215.info
 121pr.gq
@@ -4364,7 +4363,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -7058,6 +7056,7 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -14082,7 +14081,6 @@ myqz.cn
 myrates.tk
 myrm.info
 myroomnow.co.cc
-myrra-is.so-gorgeo.us.kg
 myrs.info
 myrusvpn.de
 mysafeplace.info
@@ -14663,7 +14661,6 @@ nopath.com
 nopath.net
 noproxy.com
 noproxyads.com
-nora-is.so-gorgeo.us.kg
 nordaccount.com
 nordvpn.com
 nordvpnteams.com
@@ -22074,7 +22071,6 @@ tk2-404-43267.vs.sakura.ne.jp
 tkedge.com
 tku.in
 tky-dns.bitdefender.net
-tl-l.com
 tlembuk.co.cc
 tlembukpasar.co.cc
 tll01.dnscry.pt
@@ -23128,6 +23124,7 @@ unblockit.one
 unblockit.onl
 unblockit.pages.dev
 unblockit.pro
+unblockit.rsvp
 unblockit.uno
 unblockliteforexsite.co.cc
 unblockliteforexsites.co.cc
@@ -23325,6 +23322,7 @@ unfilter.net
 unfilter.sux.ms
 unfilter.us
 unfiltered.adguard-dns.com
+unfiltered.adguarddns.com
 unfiltered.dns.sainternet.xyz
 unfilteredaccess.com
 unfilteredweb.com
@@ -31422,6 +31420,7 @@ www.proxyeye.com
 www.proxyez.com
 www.proxyfacebook.com
 www.proxyfactory.cf
+www.proxyfans.com
 www.proxyfarm.com
 www.proxyfast.net
 www.proxyfb.com
@@ -32566,7 +32565,6 @@ www.sdtc.info
 www.seacore.info
 www.sealygoing.tk
 www.searched.ws
-www.searchsecret.info
 www.searchtoday.info
 www.seatles.com
 www.seatrue.tk
@@ -33192,7 +33190,6 @@ www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
-www.standstrong.xyz
 www.star-ma.com
 www.starbrowser.eu
 www.starcrumb.com
