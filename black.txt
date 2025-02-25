@@ -131,6 +131,7 @@
 1155.info
 117.us
 1181180.com
+11vz.com
 12-21-2012.org
 1215.info
 121pr.gq
@@ -696,9 +697,7 @@ aash.info
 aatforex.co.cc
 aattwwss.duckdns.org
 aauforex.co.cc
-abaforex.cz.cc
 abc.kissfree.net
-abcdef.cz.cc
 abcdian.com
 abcmusic.info
 abcproxy.com
@@ -795,7 +794,6 @@ accessusa.info
 accesswire.info
 account-find.co.cc
 accountrep.co.cc
-accountsforex.cz.cc
 accreditedonline.co.cc
 acdsee.co.cc
 acdtop.com
@@ -879,7 +877,6 @@ ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
 ada.openbld.net
-adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -1261,7 +1258,6 @@ adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
-adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
 adless.cz.cc
@@ -3425,7 +3421,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -3590,7 +3585,6 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
-business-firewalls.cz.cc
 business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
@@ -3912,7 +3906,6 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
-carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4152,7 +4145,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4268,7 +4260,6 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
-clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4363,6 +4354,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -7056,7 +7048,6 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7369,7 +7360,6 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
-easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -9729,7 +9719,6 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
-getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -10966,7 +10955,6 @@ honeckle.info
 honeygain.me
 honeyponkan.co.cc
 honkhonk.info
-hooliganska.duckdns.org
 hoopsmeats.co.cc
 hopad.co.cc
 hopeincollege.co.cc
@@ -14051,7 +14039,6 @@ myprofilproxies.co.cc
 myprompt.info
 myprotection.info
 myprox.com
-myprox.persianblog.ir
 myproxie.com
 myproxies.org
 myproxified.info
@@ -14081,6 +14068,7 @@ myqz.cn
 myrates.tk
 myrm.info
 myroomnow.co.cc
+myrra-is.so-gorgeo.us.kg
 myrs.info
 myrusvpn.de
 mysafeplace.info
@@ -14661,6 +14649,7 @@ nopath.com
 nopath.net
 noproxy.com
 noproxyads.com
+nora-is.so-gorgeo.us.kg
 nordaccount.com
 nordvpn.com
 nordvpnteams.com
@@ -19191,7 +19180,6 @@ scoobidoo.net
 scoolpass.co.cc
 scoopedmoms.co.cc
 scoots.co.cc
-scooty.info
 scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
@@ -22071,6 +22059,7 @@ tk2-404-43267.vs.sakura.ne.jp
 tkedge.com
 tku.in
 tky-dns.bitdefender.net
+tl-l.com
 tlembuk.co.cc
 tlembukpasar.co.cc
 tll01.dnscry.pt
@@ -32565,6 +32554,7 @@ www.sdtc.info
 www.seacore.info
 www.sealygoing.tk
 www.searched.ws
+www.searchsecret.info
 www.searchtoday.info
 www.seatles.com
 www.seatrue.tk
@@ -33190,6 +33180,7 @@ www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
+www.standstrong.xyz
 www.star-ma.com
 www.starbrowser.eu
 www.starcrumb.com
