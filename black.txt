@@ -279,7 +279,6 @@
 2.dnscrypt-cert.browser.yandex.net
 2.dnscrypt-cert.dns.seby.io
 2.dnscrypt-cert.ffmuc.net
-2.dnscrypt-cert.pumplex.com
 2008.4twenty.us
 2011cars.co.cc
 2011webproxy.co.cc
@@ -930,7 +929,6 @@ adfight.ru
 adfree.usableprivacy.net
 adfreedns.top
 adfreeproxy.com
-adfreeproxy.cz.cc
 adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
 adg-wd.de
@@ -1341,6 +1339,7 @@ aestheticgaming.com
 aetforex.co.cc
 aeuforex.co.cc
 aeyx.com
+afaforex.cz.cc
 afec.info
 affcdn.net
 affiliateway.com
@@ -1569,6 +1568,7 @@ allforexz.co.cc
 allfrom.co.cc
 allgamesfree.com
 allgreat.info
+allhide.co.vu
 allhider.com
 allhostingfree.co.cc
 allieforex.co.cc
@@ -1817,6 +1817,7 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
+anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2755,6 +2756,7 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
+best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -2786,6 +2788,7 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
+bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -2843,6 +2846,7 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
+bestspeed.cz.cc
 bestspin.info
 bestssh.net
 bestsslproxy.info
@@ -3902,6 +3906,7 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
+carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4352,7 +4357,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -6985,6 +6989,7 @@ domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
+domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -7035,7 +7040,6 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -13768,7 +13772,6 @@ moreproxies.com
 moreproxylist.co.cc
 morethanfast.co.cc
 morevpn.com
-moritaa.vv.si
 morning-glory.co.cc
 morningfolks.co.cc
 morninghunger.co.cc
@@ -16002,7 +16005,6 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
-poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -21741,6 +21743,7 @@ test.anonproxies.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
+test.net46.net
 test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
@@ -24107,7 +24110,6 @@ vroxi.com
 vroxy.com
 vsalty.com
 vsrv15195.customer.xenway.de
-vtcuong.site
 vtunnel.biz
 vtunnel.com
 vtunnel.hiddennow.co.cc
@@ -25152,7 +25154,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -26872,6 +26873,7 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
+www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -27051,6 +27053,7 @@ www.dwap.info
 www.dwape.com
 www.dwiloan.com
 www.dxuh.com
+www.dxuu.com
 www.dxym.site
 www.dy9.org
 www.dygar.com
@@ -27548,7 +27551,6 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -29516,6 +29518,7 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
+www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
@@ -34899,7 +34902,6 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
-www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
@@ -35457,6 +35459,7 @@ x-busy.ru
 x-fast.co.cc
 x-it.us
 x-kicker.co.cc
+x-o-x.duckdns.org
 x-panel.drahonn.pro
 x-pass.info
 x-proxy.com
@@ -35776,6 +35779,7 @@ yourproxi.com
 yourproxies.com
 yourproxy.com
 yourproxy.eu
+yourproxy.site40.net
 yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
