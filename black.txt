@@ -929,6 +929,7 @@ adfight.ru
 adfree.usableprivacy.net
 adfreedns.top
 adfreeproxy.com
+adfreeproxy.cz.cc
 adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
 adg-wd.de
@@ -1375,7 +1376,6 @@ ag.stepnew.ru
 ag.teqilla.tk
 ag.wntrmute.net
 ag01.de.hallmen.it
-agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -3906,7 +3906,6 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
-carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4051,7 +4050,6 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
-centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -7038,8 +7036,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -13772,6 +13770,7 @@ moreproxies.com
 moreproxylist.co.cc
 morethanfast.co.cc
 morevpn.com
+moritaa.vv.si
 morning-glory.co.cc
 morningfolks.co.cc
 morninghunger.co.cc
@@ -16005,6 +16004,7 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -25154,6 +25154,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -26873,7 +26874,6 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
-www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -27551,6 +27551,7 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -30050,7 +30051,6 @@ www.nationalcreditreport.info
 www.naturalproxy.com
 www.nava-proxy.tk
 www.navigationprivee.com
-www.naviguer.ca
 www.navydog.com
 www.nawt.info
 www.nazlimcafe.com
@@ -34902,6 +34902,7 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
+www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
@@ -35552,6 +35553,7 @@ xlogz.com
 xm.ln7371.top
 xmaily.com
 xmast-blast.co.cc
+xmr.land
 xmrw.com
 xmsurf.co.cc
 xn--80aecoigf4aatn.xn--p1ai
