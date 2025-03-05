@@ -1327,6 +1327,7 @@ adverteren1.eigenstart.nl
 advice-proxy.co.cc
 advicebox.com
 adwaredata.co.cc
+ae-agh1.dns.cryptroute.net
 ae-fuj-w-1.nashkan.net
 ae-fuj-w-2.nashkan.net
 ae-fuj-w-3.nashkan.net
@@ -1395,6 +1396,7 @@ agenteinmobiliario.info
 agentssl.info
 aggressive-shape.co.cc
 agh-hetzner.yasirafique.com
+agh-jkt.santainetwork.my.id
 agh-yz.russel053.com
 agh.710523.xyz
 agh.alematho.de
@@ -3107,7 +3109,6 @@ blinks.nz.gs
 blinkyou.com
 blitz-setup.ahadns.com
 blitz.ahadns.com
-blitzd.gotdns.ch
 blitzer.nz.gs
 blitzline.co.cc
 blitzproxy.co.cc
@@ -4285,6 +4286,7 @@ clearvpn.co.uk
 clearvpn.com
 clearweb.woodbridge.club
 cleaso.com
+clementine-home.link
 clenny.co.cc
 clevermonkey.info
 cleverproxy.com
@@ -5120,6 +5122,7 @@ dcbot.drahonn.pro
 dchky.info
 dcoffee.info
 dcuforex.co.cc
+dd.phamanh.io.vn
 dd24h.com
 dd34.ru
 ddas.in
@@ -5513,6 +5516,7 @@ dns.240527.xyz
 dns.240601.xyz
 dns.2poi.com
 dns.2t9.de
+dns.320888.xyz
 dns.354688.xyz
 dns.3dcapitaltrust.net
 dns.3iq.quest
@@ -5900,7 +5904,6 @@ dns.hopper.org.uk
 dns.hopsken.com
 dns.horcrux.vip
 dns.horus-team.com
-dns.hoservers.com
 dns.hostingim.com
 dns.hostux.net
 dns.hotta.page
@@ -5910,6 +5913,7 @@ dns.hshoe.cn
 dns.hub.com.de
 dns.hubservices.vn
 dns.huizegunsing.nl
+dns.huizhechi.com
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huyhoangit.net
@@ -5939,6 +5943,7 @@ dns.interhub.cc
 dns.internal.espresso-tasse.de
 dns.internal.hosmatic.com
 dns.invent.hr
+dns.ios.so
 dns.ipoac.nl
 dns.ipv6dns.com
 dns.irumatech.com
@@ -6204,7 +6209,6 @@ dns.oii.im
 dns.oliverweinhold.de
 dns.oliviertv.co.za
 dns.omada.cafe
-dns.onlyshadow.online
 dns.opendns.com
 dns.ord.chriswang.work
 dns.oryxlabs.com
@@ -6230,6 +6234,7 @@ dns.pastorov.ru
 dns.paulo.nom.za
 dns.paxavemedia.com
 dns.pccoach.nl
+dns.pddzz.cfd
 dns.peb-schmidt.de
 dns.periactes.com
 dns.pernika.net
@@ -6348,6 +6353,7 @@ dns.shaw.ca
 dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
+dns.shinpamc.site
 dns.sidot.xyz
 dns.silen.org
 dns.silentlybren.com
@@ -7831,6 +7837,7 @@ extremeproxy.com
 exuforex.co.cc
 eyet.info
 eyg01.dnscry.pt
+eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 eyou.eu
 eyuforex.co.cc
 eyym.com
@@ -10893,6 +10900,7 @@ hkg.core.access.zznet.fun
 hkg.hytec.org
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkg03.dnscry.pt
 hkg2.edge.access.zznet.fun
 hkname.freecdn.one
 hknat.ooguy.com
@@ -13031,6 +13039,7 @@ longtitudez.co.cc
 lontax.com
 lonte.net
 look-beyond.co.cc
+look.cubecloud.win
 lookatit.info
 lookfirst.info
 lookfriends.com
@@ -14223,7 +14232,6 @@ nas.stefanoperna.it
 nas1403.duckdns.org
 nasg.net
 nashforex.co.cc
-nasiron.dynv6.net
 nastya.dns.vladpro.ru
 natasja.info
 natfrp.cloud
@@ -14377,7 +14385,6 @@ new-work.co.cc
 new.pragmasec.nl
 new3.info
 newaccess.co.cc
-newads-cdn.com
 newairbag.co.cc
 newanonymous.com
 newbiegroup.biz
@@ -14489,7 +14496,6 @@ ngrok.io
 ngrok.pizza
 ngrok.pro
 ngsproxy.co.cc
-ngsw1234.com
 ngux.com
 nguyenmailinh.com
 nhoban.com
@@ -14919,7 +14925,6 @@ obje.info
 object-shoots.co.cc
 oblimanias.co.cc
 obscura.net
-obscuro.top
 observer.funpic.de
 obsq.org
 obuscar.com
@@ -15096,6 +15101,7 @@ online-proxies.science
 online-proxy.net
 online-surf.com
 online-telephone.com
+online.zotio.ru
 onlineanonymizer.com
 onlinecentral.info
 onlineculinary.co.cc
@@ -16019,6 +16025,7 @@ potro.info
 poundgames.com
 poutrerdansguardian.blogspot.com
 power-forex.co.cc
+powerankerfrankfurthy.mbahmaee.ir
 powerblock.info
 poweredbyforex.co.cc
 poweredforex.co.cc
@@ -20408,7 +20415,9 @@ spyderproxee.info
 spyfreepc.com
 spymailer.com
 spynot.com
+spyro-the-bat.fleuryk.ovh
 spyrodragon76.fleuryk.ovh
+spyrothebat.fleuryk.ovh
 spys.one
 spys.ru
 spysurfing.com
@@ -21815,6 +21824,7 @@ teslacoils.org.uk
 teslasurf.co.cc
 test.adg.siudzinski.net
 test.anonproxies.com
+test.businessconnect.com.tr
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
@@ -22059,6 +22069,7 @@ thro.info
 throughherhair.co.cc
 throughpass.co.cc
 thrufare.com
+thuis.familiethomassen.nl
 thunderproxy.com
 thunderproxy.ws
 thundersvcs.com
@@ -22161,6 +22172,7 @@ toilforex.co.cc
 toink.co.cc
 toja.info
 tokyo.559299366.xyz
+tokyo.92-m.com
 tokyodns.songnguyen.name.vn
 tokyodns2.songnguyen.name.vn
 tokyonune.co.cc
@@ -24052,6 +24064,7 @@ vpn.erhvict.ru
 vpn.express
 vpn.g-s-a.me
 vpn.geshido.ru
+vpn.gmalov.ru
 vpn.gosami.xyz
 vpn.ht
 vpn.i81.ru
@@ -24165,7 +24178,6 @@ vps-ovh.pb2004.pl
 vps-proxy.co.cc
 vps.19790307.xyz
 vps.559299366.xyz
-vps.ak42.io
 vps.alloxr.info
 vps.avc.cx
 vps.filatov.link
@@ -35751,7 +35763,6 @@ yazhouzhijia.free.fr
 ybasic.com
 ybef.com
 ybrr.com
-ybs-vps.online
 ycg01.dnscry.pt
 ychen.cf
 ychen.gq
@@ -36085,7 +36096,6 @@ zoogvpn.com
 zoomo.us
 zoomproxy.com
 zoomsurf.co.cc
-zoopark-vpn.ddns.net
 zoophilia-sexpics.szanalmas.hu
 zoout.com
 zoozle.org
