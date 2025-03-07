@@ -1701,6 +1701,7 @@ amirabbasmousavi.news
 amlt.net
 ammmae150.news
 ammy.info
+amnezia.org
 amogy.com
 amount-good.co.cc
 amoysurvey.co.cc
@@ -3594,7 +3595,6 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
-business-firewalls.cz.cc
 business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
@@ -5270,6 +5270,7 @@ derowd.freeboxos.fr
 derpymail.org
 derrape.com
 desbloquearredes.online
+desec.io
 design.my-avatar.ru
 designation-tracking.co.cc
 designworld.info
@@ -6040,6 +6041,7 @@ dns.l2h8.cn
 dns.l337.site
 dns.l6.ee
 dns.labar.re
+dns.labnekotest.site
 dns.laison.ltd
 dns.lars-lehmann.net
 dns.lashes-brow.ru
@@ -8098,7 +8100,6 @@ fastfreesurf.com
 fastglype.co.cc
 fastgo.no-block.net
 fastgreen.info
-fasthide.co.vu
 fasthide.com
 fasthome.info
 fasthttp.unblock-dot.co.cc
@@ -10749,7 +10750,6 @@ hidenproxxy.tk
 hidenseek.me
 hidenseek.org
 hidenspace.nz.gs
-hidenthis.co.vu
 hideofall.co.cc
 hideonline.net
 hideoxy.com
@@ -14274,6 +14274,7 @@ needs-chick.co.cc
 needsurf.co.cc
 needsurfspeed.co.cc
 neej.org
+nekoray.org
 nelsonleung.org
 nenam.eu
 nenc.gov.ua
@@ -15532,7 +15533,6 @@ parisfun.co.cc
 parisproxy.nz.gs
 pariuri-sportive-online.ro
 parkviewenglish.buzz
-parrotballs.worksheetsforteachers.xyz
 parrotsec.org
 parsazr.ir
 part-all-proxy.co.cc
@@ -19054,6 +19054,7 @@ safeways.info
 safeweb.com
 safewebing.com
 safewebsurfing123.co.cc
+safing.io
 saharanet.co.cc
 sahclub.lx.ro
 saidah10.comze.com
@@ -25018,7 +25019,6 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
-www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -29272,7 +29272,6 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
-www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
@@ -34616,7 +34615,6 @@ www.utopiapal.com
 www.utor.info
 www.utunnel.com
 www.utunnel.net
-www.uu.tj
 www.uugy.com
 www.uupv.com
 www.uuui.info
@@ -35781,6 +35779,7 @@ yeralin.net
 yeri.info
 yerta.com
 yes8.info
+yesbutno.wtf
 yesproxy.com
 yesterdaystats.co.cc
 yeta.info
