@@ -20,6 +20,7 @@ token.safebrowsing.apple                            # Don't block @ all => Other
 # Domains
 ##
 anton.app                                           # Anton - learning platform for school
+flyingtiger.com                                     # Flying Tiger Shop - Copenhagen
 forcesafesearch.google.com                          # Google SafeSearch
 vulkane.net                                         # Vulkane - Site about volcanos
 wo-in-f132.1e100.net                                # Google - Reason: Unknown
