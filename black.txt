@@ -7060,8 +7060,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -26291,6 +26291,7 @@ www.buzy.info
 www.buzzhide.com
 www.buzzysplat.com
 www.bvdy.com
+www.bwsf.net
 www.by-proxy.net
 www.byaq.com
 www.bycstudios.com
@@ -30481,7 +30482,6 @@ www.onefake.com
 www.onehide.com
 www.oneinoneout.com
 www.onejk.com
-www.oneletter.info
 www.oneonly.info
 www.oneproxy.info
 www.oneteam.tk
