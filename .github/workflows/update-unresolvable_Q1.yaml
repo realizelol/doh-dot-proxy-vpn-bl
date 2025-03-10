@@ -1,4 +1,4 @@
-name: Update Unresolvable Domains Queue1
+name: "Update Unresolvable Domains Queue1"
 run-name: updating [ DoH + DoT + Proxy + VPN + Tor ] unresolvable domains
 on:
   schedule:
@@ -8,19 +8,19 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repo
+      - name: "Checkout the repo"
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: Delayed re-pull (5sec) to get new domains
+      - name: "Delayed re-pull (5sec) to get new domains"
         run: sleep 5; git pull
-      - name: Update Lists
+      - name: "Update Lists"
         run:  |
           bash scripts/update-unresolvable.sh 1
-      - name: Get current date
+      - name: "Get current date"
         id: get-date
         run: echo "date=$(date +'%Y-%m-%d - %H:%M:%S')" >> $GITHUB_OUTPUT
-      - name: Upload Stuff to GitHub via https://github.com/stefanzweifel/git-auto-commit-action
+      - name: "Upload Stuff to GitHub via https://github.com/stefanzweifel/git-auto-commit-action"
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: './unresolvable.txt ./unresolvable_perm.txt'
