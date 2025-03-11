@@ -621,6 +621,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -685,7 +686,6 @@ a8e.net
 a91.info
 a94.info
 aaa801.my5gb.com
-aaaaa.cz.cc
 aaabbbcccsurfs.tk
 aaaproxy.com
 aabo.info
@@ -699,7 +699,6 @@ aattwwss.duckdns.org
 aauforex.co.cc
 abaforex.cz.cc
 abc.kissfree.net
-abcdef.cz.cc
 abcdian.com
 abcmusic.info
 abcproxy.com
@@ -813,7 +812,6 @@ acevpn.com
 acgroup.in
 acidrain.co.cc
 acidrain.tk
-aciforex.cz.cc
 acircuit.co.cc
 acmeblock.com
 acmesurf.com
@@ -880,7 +878,6 @@ ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
 ada.openbld.net
-adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -1380,7 +1377,6 @@ ag.stepnew.ru
 ag.teqilla.tk
 ag.wntrmute.net
 ag01.de.hallmen.it
-agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -1484,7 +1480,6 @@ ajrforex.co.cc
 ajtforex.co.cc
 ajuforex.co.cc
 ak58.com
-akaforex.cz.cc
 akainuforex.co.cc
 akashiro.co.id
 akdis.cn
@@ -1729,7 +1724,6 @@ an81.ddns.net
 an81dns.ru
 ana.goodluckwith.us
 anachem.online
-anaforex.cz.cc
 anagy.net
 analise.info
 analystforex.co.cc
@@ -2373,7 +2367,6 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
-avambee.cz.cc
 avarikoteo.co.cc
 avatunnel.co.cc
 avenue2.info
@@ -2641,7 +2634,6 @@ bc10ef2.online-server.cloud
 bc3.net
 bcsmts.com
 bcuforex.co.cc
-bdns.io
 bdns.link
 bdns.nu
 bdns.pro
@@ -3430,7 +3422,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -4332,7 +4323,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4525,7 +4515,6 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4616,7 +4605,6 @@ coolproxy.com
 coolstartpages.com
 coolsurf4.co.cc
 cooltunnel.com
-coolunblocked.co.vu
 coolway.info
 coolyoutubeproxy.com
 copetbrokerforex.co.cc
@@ -7830,6 +7818,7 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
+extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -8517,7 +8506,6 @@ flirtteen.yafro.com
 flogo.info
 floon.com
 floralforex.co.cc
-florencio.info
 floridaproxy.com
 floro.info
 flowcontrol.co.cc
@@ -13818,7 +13806,6 @@ moreproxies.com
 moreproxylist.co.cc
 morethanfast.co.cc
 morevpn.com
-moritaa.vv.si
 morning-glory.co.cc
 morningfolks.co.cc
 morninghunger.co.cc
@@ -19198,6 +19185,7 @@ schoolnewsletter.us
 schooloff.hu.tl
 schoology.college
 schoology.help
+schoology123.org
 schoolooks.com
 schoolpalm.com
 schoolpath.co.cc
