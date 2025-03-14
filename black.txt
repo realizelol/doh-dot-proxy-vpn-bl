@@ -1730,6 +1730,7 @@ an81.ddns.net
 an81dns.ru
 ana.goodluckwith.us
 anachem.online
+anaforex.cz.cc
 anagy.net
 analise.info
 analystforex.co.cc
@@ -2641,6 +2642,7 @@ bc10ef2.online-server.cloud
 bc3.net
 bcsmts.com
 bcuforex.co.cc
+bdns.io
 bdns.link
 bdns.nu
 bdns.pro
@@ -4370,6 +4372,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -7657,6 +7660,7 @@ erp-itc.be
 erpdatadsl.co.cc
 erproxy.tk
 errita.co.cc
+error.proxy.startpage.com
 erroring.ignorelist.com
 ersiforex.co.cc
 eruptmountnow.co.cc
@@ -9319,6 +9323,7 @@ freewebproxy.net.cn
 freewebproxy.org
 freewebproxy.us
 freewebproxy.ws
+freewebproxylist.com
 freewebproxyserver.net
 freewebproxyserver.pw
 freewebproxyunblocksites.info
@@ -17020,6 +17025,7 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
+proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -17701,6 +17707,7 @@ proxyrack.co.cc
 proxyraid.info
 proxyrain.com
 proxyrangers.info
+proxyrank.com
 proxyranker.com
 proxyranks.com
 proxyraptor.com
@@ -23595,6 +23602,7 @@ urpp.net
 urvideoplanet.com
 us-atl-w-1.nashkan.net
 us-atl-w-2.nashkan.net
+us-browse.startpage.com
 us-chi-w-1.nashkan.net
 us-chi-w-2.nashkan.net
 us-chi-w-3.nashkan.net
@@ -26244,7 +26252,6 @@ www.brummm.com
 www.bruv.org
 www.brygida.info
 www.bryo.info
-www.btj.in
 www.btunnel.com
 www.btwproxy.com
 www.bubbleset.com
@@ -26361,7 +26368,6 @@ www.bypassr.info
 www.bypassschoolfirewalls.info
 www.bypasssurfing.gq
 www.bypassthat.com
-www.bypassthe.net
 www.bypassunblockinfo.tk
 www.bypassunblocktkgl.tk
 www.bypassurl.com
@@ -35935,7 +35941,6 @@ yunyun.is.my.waifu.cz
 yureforex.co.cc
 yuripe.ccnt.fr
 yurj.com
-yussy-is.so-gorgeo.us.kg
 yuvelirtut.website
 yuyuproxy.com
 yuyuproxy.online
