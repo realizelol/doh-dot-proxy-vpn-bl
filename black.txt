@@ -2375,6 +2375,7 @@ auxo.info
 av-proxy.co.cc
 availableweb.co.cc
 avambee.cz.cc
+avanquestusa.com
 avarikoteo.co.cc
 avatunnel.co.cc
 avenue2.info
@@ -9198,6 +9199,7 @@ freeproxy2u.co.tv
 freeproxy4web.co.tv
 freeproxy4you.co.cc
 freeproxy4you.net
+freeproxyaccess.com
 freeproxybrowser.com
 freeproxyinc.com
 freeproxyinfo.wordpress.com
@@ -9574,6 +9576,7 @@ gamehack.info
 gamelan-x.com
 gameph.com
 gamercard.info
+gameroz1.ir
 gamers-nor.com
 gamerzgalore.com
 games.flyordie.com
@@ -10696,6 +10699,7 @@ hidemenow.net
 hidemenow.ws
 hidemeproxy.cn
 hidemeproxy.xyz
+hidemesoftware.com
 hidemium.io
 hidemy-pc.appspot.com
 hidemy.biz
@@ -11175,6 +11179,7 @@ hustejweb.cz.linux17.ignum.cz
 hustleproxy.com
 hustlersforum.com
 hustlersgame.com
+hustlersuniversity.pro
 hut4.info
 hutbanyumas.co.cc
 huv01.dnscry.pt
@@ -11407,6 +11412,7 @@ imlovingyou.com
 immabeeyed.co.cc
 immadness.co.cc
 immortalproxy.com
+imnotaproxy.com
 imonmywayy.co.cc
 imperio.top
 imploda.com
@@ -15657,6 +15663,7 @@ penaar.co.cc
 penforex.co.cc
 pengawasproxy.co.cc
 penguinproxy.com
+penkun0286.xyz
 pennandteller.org
 penyioproxie.co.cc
 people.freenet.de
@@ -19498,6 +19505,7 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
+server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -26501,7 +26509,6 @@ www.certitrain.com
 www.certsecure.info
 www.cesium.info
 www.cestu.com
-www.cesuba.cn
 www.cetsohbet.com
 www.cexi.info
 www.cfda.info
@@ -32088,6 +32095,7 @@ www.proxyy.net
 www.proxyyoga.cn
 www.proxyyoutube.info
 www.proxyz.be
+www.proxyzen.info
 www.proxyzilla.com
 www.proxz.com
 www.proxzee.com
