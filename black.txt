@@ -1293,6 +1293,7 @@ ads.tbservers.ca
 ads.therman.eu
 ads.tieuanhquoc.info
 ads.x88.in
+adsadkjsadjksakldjxx.math-solver.online
 adsensesolutions.com
 adsfree.ddns.net
 adsfysdfgiuy.ydns.eu
@@ -2967,7 +2968,6 @@ bigshotsite.co.cc
 bigslick.co.tv
 bigstorm.info
 bigsurfer.co.cc
-bigunblocked.co.vu
 bihr.info
 bikespeed.nz.gs
 bikesuae.com
@@ -4530,7 +4530,6 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5337,7 +5336,6 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -9178,7 +9176,6 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
-freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -15097,6 +15094,7 @@ onion.dog
 onion.gq
 onion.link
 onion.lt
+onion.lu
 onion.ly
 onion.nu
 onion.pet
@@ -17783,6 +17781,7 @@ proxyserver-hkat7-schooljs4.tk
 proxyserver.asia
 proxyserver.buzz
 proxyserver.com
+proxyserver.rocks
 proxyserver.sk
 proxyserver.top
 proxyserver.ws
@@ -24065,6 +24064,7 @@ vpn-free.com
 vpn-free.download
 vpn-professional.company
 vpn-proxies.co.cc
+vpn-ru-msk.pakharenko.ru
 vpn-sd.ff.avast.com
 vpn-server.xyz
 vpn-services.co.cc
@@ -29630,7 +29630,6 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
-www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
