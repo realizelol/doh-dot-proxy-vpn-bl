@@ -2968,6 +2968,7 @@ bigshotsite.co.cc
 bigslick.co.tv
 bigstorm.info
 bigsurfer.co.cc
+bigunblocked.co.vu
 bihr.info
 bikespeed.nz.gs
 bikesuae.com
@@ -4375,7 +4376,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4530,6 +4530,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5336,6 +5337,7 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -7063,7 +7065,6 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -7130,6 +7131,7 @@ douglas.mebrak.fr
 douglaster.com
 doun.info
 dounblockyo.co.cc
+dove.soapagent.com
 dove.soapclient.com
 dove485.dns-dynamic.net
 dovepocket.3owl.com
@@ -9176,6 +9178,7 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
+freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -18328,6 +18331,7 @@ quicknfree.info
 quickoffice.co.cc
 quickprox.com
 quickproxie1.co.cc
+quickproxies.com
 quickproxy.co.uk
 quickproxy.com
 quickproxy.net
@@ -20197,6 +20201,7 @@ some.ws
 somebody.net
 somefast.co.cc
 somegeek.org
+somelikeitproxy.com
 somemedical.co.cc
 someproxy.com
 somethingright.co.cc
@@ -21577,6 +21582,7 @@ surfvonage.co.cc
 surfvpn.co.cc
 surfwater.co.cc
 surfwaves.co.cc
+surfwebsite.org
 surfwecan.net
 surfwedding.co.cc
 surfweed.co.cc
@@ -25267,7 +25273,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -29630,6 +29635,7 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
+www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
@@ -33275,7 +33281,6 @@ www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
-www.standstrong.xyz
 www.star-ma.com
 www.starbrowser.eu
 www.starcrumb.com
@@ -35011,7 +35016,6 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
-www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
