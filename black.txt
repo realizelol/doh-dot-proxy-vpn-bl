@@ -18313,6 +18313,7 @@ query.hdns.io
 query.mobyds.com
 queryology.com
 quesosdeasturias.info
+quic.lol
 quick-access.net
 quick-proxy.appspot.com
 quick-proxy.com
@@ -21784,6 +21785,7 @@ techiphone.com
 techistan.com
 techlock.info
 technistan.com
+technofix.ir
 technologyreports.info
 technomarines.co.cc
 technoplast.co.cc
@@ -22294,6 +22296,7 @@ topvpnguides.com
 topwebproxy.com
 tor-ca.prcdn.net
 tor-exit2-readme.bbln.org
+tor-gateways.de
 tor-proxy.net
 tor.bravesoftware.com
 tor.calyxinstitute.org
@@ -23218,6 +23221,7 @@ unblockit.one
 unblockit.onl
 unblockit.pages.dev
 unblockit.pro
+unblockit.rsvp
 unblockit.uno
 unblockliteforexsite.co.cc
 unblockliteforexsites.co.cc
@@ -24188,6 +24192,7 @@ vpntunnel.net
 vpntunnel.se
 vpnudp.com
 vpnuk.net
+vpnumbrella.com
 vpnunlimited.com
 vpnunlimitedapp.com
 vpnv6.com
@@ -25273,6 +25278,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -33281,6 +33287,7 @@ www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
+www.standstrong.xyz
 www.star-ma.com
 www.starbrowser.eu
 www.starcrumb.com
@@ -35016,6 +35023,7 @@ www.webunblock.com
 www.webunblocker.com
 www.webunblockschool.tk
 www.webunblocksites.info
+www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
