@@ -6124,6 +6124,7 @@ dns.mijoregner.de
 dns.mikeliu.org
 dns.mikopono.nl
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.miyun1.com
 dns.mmzs.xyz
 dns.mnet-online.de
@@ -7065,8 +7066,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7839,7 +7840,6 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -10754,7 +10754,6 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
-hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -12992,7 +12991,6 @@ loansurf.co.cc
 loanszerodown.com
 lobby-school.co.cc
 local-agency.co.cc
-local.18.lc
 localdomain.ws
 localforex.co.cc
 locallysurf.co.cc
@@ -13573,7 +13571,6 @@ metalvideo.cz
 metasecurity.co.cc
 metaspinner-media.de
 metemma.com
-meteor1.eu.org
 methods-inside.co.cc
 metonator-proxy.appspot.com
 metop.info
@@ -25048,7 +25045,6 @@ www.2016webproxy.cf
 www.20d.org
 www.21stcenturybusiness.info
 www.2290.info
-www.232u.com
 www.23a.org
 www.247entry.com
 www.247proxy.com
@@ -25176,7 +25172,6 @@ www.4freeproxy.com
 www.4ine.com
 www.4jh.org
 www.4love.info
-www.4proxy.com
 www.4proxy.de
 www.4proxy.info
 www.4ra.com
@@ -32949,7 +32944,6 @@ www.sjostudio.com
 www.sk4.info
 www.skdfrez.gq
 www.skebby.net
-www.skenk.com
 www.skillnext.info
 www.skimer.com
 www.skinhealthy.info
