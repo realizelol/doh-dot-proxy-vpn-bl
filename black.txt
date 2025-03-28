@@ -1081,6 +1081,7 @@ adguard.jnkl.de
 adguard.johanliebert.top
 adguard.jwhan99.xyz
 adguard.k-likhachev.ru
+adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kenzohost.de
 adguard.kiboko.it
@@ -1584,6 +1585,7 @@ allforexz.co.cc
 allfrom.co.cc
 allgamesfree.com
 allgreat.info
+allhide.co.vu
 allhider.com
 allhostingfree.co.cc
 allieforex.co.cc
@@ -1756,7 +1758,6 @@ andajans.com
 andappproxy.co.cc
 andiroo.com
 andrebacard.com
-andresmanuel.duckdns.org
 andrewbot.com
 andrewnw.xyz
 android-phones.co.cc
@@ -2215,6 +2216,7 @@ aseek.info
 asemkyeh.co.cc
 asesy.com
 asheranztwitch.online
+ashidden.co.vu
 ashish.me
 asia.dased.com
 asia.tri-dns.net
@@ -3782,6 +3784,7 @@ bypasswithmyproxy.co.cc
 bypassxproxy.co.cc
 bypassy.com
 bypasszone.com
+byproxy.cz.cc
 bypssd.co.cc
 byteme.info
 bytzvpn.com
@@ -3927,6 +3930,7 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
+carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4151,6 +4155,7 @@ checkrighttime.co.cc
 checksbox.co.cc
 checkthe.info
 checktlistsed.co.cc
+checkup-proxies.cz.cc
 checkwiki.info
 cheekychipmunk.com
 cheekyproxy.com
@@ -4532,7 +4537,6 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4923,7 +4927,6 @@ cybershell.info
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5538,7 +5541,6 @@ dns-nosec.quad9.net
 dns-over-https.com
 dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
-dns-proxy.duckdns.org
 dns-public.ibakerserver.pt
 dns-resolver-01.swedencentral.cloudapp.azure.com
 dns-savage.com
@@ -7035,6 +7037,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -7055,7 +7058,6 @@ domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
-domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -7106,7 +7108,6 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -10804,6 +10805,7 @@ hidenproxxy.tk
 hidenseek.me
 hidenseek.org
 hidenspace.nz.gs
+hidenthis.co.vu
 hideofall.co.cc
 hideonline.net
 hideoxy.com
@@ -11822,6 +11824,8 @@ isbatproxy.co.cc
 isecsolutions.ddns.net
 isekai.anime.com.my
 isgle.com
+ishark.com
+isharkvpn.com
 ishort.net
 ishortit.com
 isityet.net
@@ -16286,6 +16290,7 @@ privateproxy.net
 privateproxyreviews.com
 privateshadow.com
 privatesurf.co.cc
+privatesurf.co.vu
 privatesurf.us
 privatesurfforme.net
 privatesurfing.co.cc
@@ -24154,6 +24159,7 @@ vpn.satadru.dev
 vpn.sh
 vpn.ssytnik.de
 vpn.stroialliance.com
+vpn.technicule.info
 vpn.vosjes.cloud
 vpn0109.voodonline.fr
 vpn12856.drahonn.pro
@@ -28330,7 +28336,6 @@ www.goldproxy.net
 www.goldproxy.ws
 www.goldsoy.com
 www.goldtunnel.com
-www.goldworld.info
 www.golegana.de
 www.gomah.fr
 www.gomaps.net
@@ -29188,6 +29193,7 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
+www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -35679,7 +35685,6 @@ xenergy.cc
 xenology.co.cc
 xepox.co.cc
 xerohour.org
-xerosurf.com
 xetb.com
 xev.in
 xew.in
