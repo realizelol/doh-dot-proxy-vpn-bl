@@ -1758,6 +1758,7 @@ andajans.com
 andappproxy.co.cc
 andiroo.com
 andrebacard.com
+andresmanuel.duckdns.org
 andrewbot.com
 andrewnw.xyz
 android-phones.co.cc
@@ -2383,7 +2384,6 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
-avambee.cz.cc
 avanquestusa.com
 avarikoteo.co.cc
 avatunnel.co.cc
@@ -2559,7 +2559,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -3439,7 +3438,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -4074,7 +4072,6 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
-centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4382,7 +4379,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4628,7 +4624,6 @@ coolproxy.com
 coolstartpages.com
 coolsurf4.co.cc
 cooltunnel.com
-coolunblocked.co.vu
 coolway.info
 coolyoutubeproxy.com
 copetbrokerforex.co.cc
@@ -4927,6 +4922,7 @@ cybershell.info
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5086,7 +5082,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5281,7 +5276,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5541,6 +5535,7 @@ dns-nosec.quad9.net
 dns-over-https.com
 dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
+dns-proxy.duckdns.org
 dns-public.ibakerserver.pt
 dns-resolver-01.swedencentral.cloudapp.azure.com
 dns-savage.com
@@ -7058,6 +7053,7 @@ domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
+domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -7108,6 +7104,7 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -11137,6 +11134,7 @@ howtounblock.org
 howtounblocksites.info
 howtounblockwebsites.info
 hoxx.com
+hoxx.net
 hoyofun.xyz
 hpcell.co.cc
 hpip.iranblog.com
@@ -16644,7 +16642,6 @@ proxthem.co.cc
 proxthis.com
 proxthisway.info
 proxthree.co.cc
-proxtik.co.vu
 proxtik.com
 proxto.com
 proxtox.com
@@ -17074,6 +17071,7 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
+proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -17264,6 +17262,7 @@ proxycenter.co.cc
 proxycentre.co.cc
 proxycentre.com
 proxychaiya.co.cc
+proxychamp.com
 proxychanger.com
 proxychat.info
 proxycheap.co.cc
@@ -21899,8 +21898,6 @@ test.businessconnect.com.tr
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
-test.net46.net
-test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -35685,6 +35682,7 @@ xenergy.cc
 xenology.co.cc
 xepox.co.cc
 xerohour.org
+xerosurf.com
 xetb.com
 xev.in
 xew.in
