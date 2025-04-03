@@ -400,6 +400,7 @@
 33333.biz
 334789proxy.tk
 3368.info
+33bitbank.com
 345.biz
 351242444.xyz
 35w.info
@@ -682,6 +683,7 @@ a8e.net
 a91.info
 a94.info
 aaa801.my5gb.com
+aaaaa.cz.cc
 aaabbbcccsurfs.tk
 aaaproxy.com
 aabo.info
@@ -693,6 +695,7 @@ aash.info
 aatforex.co.cc
 aattwwss.duckdns.org
 aauforex.co.cc
+abaforex.cz.cc
 abc.kissfree.net
 abcdef.cz.cc
 abcdian.com
@@ -765,7 +768,6 @@ access-onfire.co.cc
 access-surf.co.cc
 access-theinternet.tk
 access2.servermatrix.org
-accessanywebsite.com
 accessblock.info
 accessboom.co.cc
 accessbox.tk
@@ -1262,6 +1264,7 @@ adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
+adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
 adless.cz.cc
@@ -1382,6 +1385,7 @@ ag.stepnew.ru
 ag.teqilla.tk
 ag.wntrmute.net
 ag01.de.hallmen.it
+agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -1577,6 +1581,7 @@ allforexz.co.cc
 allfrom.co.cc
 allgamesfree.com
 allgreat.info
+allhide.co.vu
 allhider.com
 allhostingfree.co.cc
 allieforex.co.cc
@@ -1982,6 +1987,7 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
+antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
@@ -2037,6 +2043,7 @@ aosomi.com
 aotforex.co.cc
 aouforex.co.cc
 apac-mask.wrr.mask.apple-dns.net
+apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -2054,12 +2061,6 @@ apparelnews.co.cc
 appart.yoannchappaz.best
 appearancesurf.co.cc
 appfast.tk
-apple-relay.akamaized.net
-apple-relay.apple.com
-apple-relay.cloudfare.com
-apple-relay.cloudflare.com
-apple-relay.fastly-edge.com
-apple-relay.mask.apple-dns.net
 apple.arbeitszeitonline.at
 apple.ftpaccess.cc
 applefroth.com
@@ -2101,7 +2102,6 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
-araforex.cz.cc
 aragonez.co.cc
 arandomproxy.com
 arashi.eu.org
@@ -2206,6 +2206,7 @@ aseek.info
 asemkyeh.co.cc
 asesy.com
 asheranztwitch.online
+ashidden.co.vu
 ashish.me
 asia.dased.com
 asia.tri-dns.net
@@ -2639,7 +2640,6 @@ bc3.net
 bcsmts.com
 bcuforex.co.cc
 bdns.io
-bdns.link
 bdns.nu
 bdns.pro
 bduforex.co.cc
@@ -2706,7 +2706,6 @@ beel.info
 beemine.info
 beenbanned.com
 beepassvpn.com
-beeper.cz.cc
 beerbreak.co.cc
 beerforex.co.cc
 beespeed.info
@@ -2765,7 +2764,6 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
-best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -2797,7 +2795,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -3362,6 +3359,7 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
+brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -3592,7 +3590,9 @@ buryzone.info
 bushel.us
 bushenba.cn
 bushforex.co.cc
+bushmancastle.duckdns.org
 busineesschool.co.cc
+business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -3915,7 +3915,6 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
-carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4130,7 +4129,6 @@ checkday.gq
 checkedmates.co.cc
 checkedproxylists.com
 checkitright.co.cc
-checkmate.my
 checkmates.info
 checkmyip.com
 checkmyscore.info
@@ -4364,6 +4362,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4501,7 +4500,6 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
-compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -5265,7 +5263,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5640,6 +5637,7 @@ dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
 dns.atsilva.link
+dns.auapi.fun
 dns.audet.cloud
 dns.auffray.org
 dns.axiomos.xyz
@@ -7044,6 +7042,7 @@ domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
+domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -7091,7 +7090,6 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -7741,7 +7739,6 @@ eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
 eu.tri-dns.net
-eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -7867,6 +7864,7 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
+extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -9349,6 +9347,7 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
+freewebproxy.co.vu
 freewebproxy.com
 freewebproxy.eu
 freewebproxy.net
@@ -10142,6 +10141,7 @@ gosao.com
 goschool.info
 gosecure.info
 gosneak.com
+gostarlight.xyz
 gostealthy.com
 gosuntrip.com
 gosurf.in
@@ -10155,6 +10155,7 @@ gotoproxy.com
 gotour.info
 gotoworldcup.co.cc
 gotproxies.com
+gotproxy.co.vu
 gotrusted.com
 gouc.fr
 gouforex.co.cc
@@ -10783,6 +10784,7 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
+hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -11419,6 +11421,7 @@ ilron.com
 iluminiss.com
 ilumu.com
 iluvjz.info
+iluvpoxy.net78.net
 ilysk.lol
 im-free.net
 im-unstoppable.com
@@ -11883,6 +11886,7 @@ iunblockwebsites.com
 iunblockwebsites.info
 iunknown.net
 iunlimit.com
+iuuy.com
 iuytrewq.com
 ivacy.com
 ivacyvpn.com
@@ -13174,6 +13178,7 @@ lunaproxy.co.cc
 lunarlab.co.cc
 lunarpoker.co.cc
 lunarproxy.com
+lunarsync.smartfoloo.space
 lunartech.co.cc
 lunartunnel.co.cc
 lunchexpert.com
@@ -14568,6 +14573,7 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
+nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -14757,7 +14763,6 @@ notlong.com
 notmyplace.com
 noto11.com
 notoneway.com
-notorius.nz.gs
 notraceleft.com
 notraceweb.com
 notrack.info
@@ -16109,6 +16114,7 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
 poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
@@ -16402,6 +16408,7 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -19299,6 +19306,7 @@ scoobidoo.net
 scoolpass.co.cc
 scoopedmoms.co.cc
 scoots.co.cc
+scooty.info
 scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
@@ -19536,7 +19544,6 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
-server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -25738,7 +25745,6 @@ www.applefroth.com
 www.appninja.info
 www.approxymate.com
 www.appspect.com
-www.aproxies.com
 www.aproxies.info
 www.aproxy.com
 www.aproxy.info
@@ -26252,6 +26258,7 @@ www.britishproxy.com
 www.broderproxy.tk
 www.brokenbus.com
 www.brokengates.com
+www.brokenpage.com
 www.brooker.info
 www.bropass.com
 www.broque.info
@@ -26819,7 +26826,6 @@ www.corporateinsurance.info
 www.corro.info
 www.corrupters.com
 www.corsario.info
-www.costfuel.com
 www.costmaninc.com
 www.cotse.net
 www.coud.info
@@ -26860,6 +26866,7 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
+www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -29170,7 +29177,6 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
-www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -29247,6 +29253,7 @@ www.jazoink.com
 www.jazzerlock.tk
 www.jcink.com
 www.jcz.net
+www.je9.net
 www.jeal.info
 www.jebbies.com
 www.ject.info
@@ -29317,6 +29324,7 @@ www.jumpthewall.com
 www.junemoon.net
 www.jungleproxy.com
 www.junov.com
+www.jupopo.com
 www.just-doit.com
 www.justbypass.com
 www.justclothes.info
@@ -30534,7 +30542,6 @@ www.onefake.com
 www.onehide.com
 www.oneinoneout.com
 www.onejk.com
-www.oneletter.info
 www.oneonly.info
 www.oneproxy.info
 www.oneteam.tk
