@@ -768,6 +768,7 @@ access-onfire.co.cc
 access-surf.co.cc
 access-theinternet.tk
 access2.servermatrix.org
+accessanywebsite.com
 accessblock.info
 accessboom.co.cc
 accessbox.tk
@@ -810,7 +811,6 @@ acevpn.com
 acgroup.in
 acidrain.co.cc
 acidrain.tk
-aciforex.cz.cc
 acircuit.co.cc
 acmeblock.com
 acmesurf.com
@@ -1832,7 +1832,6 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
-anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -1987,7 +1986,6 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
-antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
@@ -2102,6 +2100,7 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
+araforex.cz.cc
 aragonez.co.cc
 arandomproxy.com
 arashi.eu.org
@@ -2233,7 +2232,6 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
-asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -2706,6 +2704,7 @@ beel.info
 beemine.info
 beenbanned.com
 beepassvpn.com
+beeper.cz.cc
 beerbreak.co.cc
 beerforex.co.cc
 beespeed.info
@@ -2764,6 +2763,7 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
+best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -3359,7 +3359,6 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
-brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -3426,7 +3425,6 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
-brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -3915,6 +3913,7 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
+carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4138,6 +4137,7 @@ checkrighttime.co.cc
 checksbox.co.cc
 checkthe.info
 checktlistsed.co.cc
+checkup-proxies.cz.cc
 checkwiki.info
 cheekychipmunk.com
 cheekyproxy.com
@@ -4152,7 +4152,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4268,6 +4267,7 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
+clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4324,6 +4324,7 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
+cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4500,6 +4501,7 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
+compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -5263,6 +5265,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -7450,7 +7453,6 @@ eatmoreblueberries.com
 eatproxy.com
 eauforex.co.cc
 eavo.info
-eazy.wtf
 eazyp.com
 ebby.info
 ebegnet.co.cc
@@ -7502,7 +7504,6 @@ edilly.com
 edns.233py.com
 edostar.co.cc
 edpuzzle-lol.vercel.app
-edpuzzle.space
 eduacation.lol
 educationdays.co.cc
 educationlaw.co.cc
@@ -7739,6 +7740,7 @@ eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
 eu.tri-dns.net
+eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -8050,7 +8052,6 @@ fast-proxy-server.info
 fast-proxy.co.tv
 fast-proxy.com.de
 fast-proxy.pw
-fast-receive.com
 fast-secret.co.cc
 fast-service.co.cc
 fast-techno.co.cc
@@ -8616,7 +8617,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -8974,7 +8974,6 @@ france-alarme-nord.fr
 france99.com
 franceproxy.net
 franceproxy.pw
-francis-proxy.top
 frank-web.dedyn.io
 fraudcrew.com
 frb.in
@@ -10379,7 +10378,6 @@ h-talk.com
 h-vpn.org
 h.gjrick.tw
 h.ra3.in
-h0w.cc
 h0x.org
 h2oproxy.com
 h3y.info
@@ -10508,7 +10506,6 @@ heedlessness.com
 heeky.com
 heightsslproxy.info
 heimdall.ff0x.ca
-heiwanotameno.com
 hel01.dnscry.pt
 helicoptercharters.info
 helikopterputih.co.cc
@@ -10976,7 +10973,6 @@ hollowforex.co.cc
 hollywood.filmfactory.nl
 hollywood.practicalalchemy.org
 holyrex.co.cc
-holyubvpn.com
 home-by.co.cc
 home-server.store
 home.azagra.dev
@@ -11872,7 +11868,6 @@ itsproxytime.co.cc
 itsrecess.com
 itstuesday.co.cc
 itsturbo.info
-itsunblocked.co.vu
 ittv.info
 ituneplus.com
 itunnel.com
@@ -12458,6 +12453,7 @@ knockingup.co.cc
 knon.info
 knor.info
 knownproxy.com
+knowurcson.store
 knowwhy.cf
 knuffel.info
 knvpn.net
@@ -14280,7 +14276,6 @@ nas.embraced.co
 nas.guyifei.cn
 nas.patrick-antoine.fr
 nas.stefanoperna.it
-nas1403.duckdns.org
 nasg.net
 nashforex.co.cc
 nastya.dns.vladpro.ru
@@ -14937,7 +14932,6 @@ nyx.webteufel-it.solutions
 nz01.dns4me.net
 nz7.info
 nzdns.highenergymagic.net
-o--o.duckdns.org
 o-0proxy.coolpage.biz
 o-itc.be
 o.rsaikat.com
@@ -16628,7 +16622,6 @@ proxthem.co.cc
 proxthis.com
 proxthisway.info
 proxthree.co.cc
-proxtik.co.vu
 proxtik.com
 proxto.com
 proxtox.com
@@ -19544,6 +19537,7 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
+server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -25745,6 +25739,7 @@ www.applefroth.com
 www.appninja.info
 www.approxymate.com
 www.appspect.com
+www.aproxies.com
 www.aproxies.info
 www.aproxy.com
 www.aproxy.info
@@ -26159,6 +26154,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -26826,6 +26822,7 @@ www.corporateinsurance.info
 www.corro.info
 www.corrupters.com
 www.corsario.info
+www.costfuel.com
 www.costmaninc.com
 www.cotse.net
 www.coud.info
@@ -29177,6 +29174,7 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
+www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
