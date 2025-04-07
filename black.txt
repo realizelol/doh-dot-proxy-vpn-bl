@@ -2331,6 +2331,7 @@ augne.dns.walshnet.co.uk
 aunit.info
 aurforex.co.cc
 aurgh.com
+aurora-softworks.xyz
 auroraproxy.co.cc
 aussie-proxy.com
 austro.co.cc
@@ -2869,6 +2870,7 @@ bestunblocksites.info
 bestunblockwebsites.info
 bestuse.ga
 bestuse.info
+bestvideoproxy.com
 bestvpn.org
 bestvpnprovider.info
 bestvpnrating.com
@@ -4160,6 +4162,7 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
+chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4275,6 +4278,7 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
+clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -5076,6 +5080,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -6294,6 +6299,7 @@ dns.pine-home.de
 dns.pizzari.me
 dns.pldweb.net
 dns.pmxu.link
+dns.pnh.my.id
 dns.pointless.chat
 dns.polatarasan.com.tr
 dns.porteii.com
@@ -9652,7 +9658,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10794,6 +10799,7 @@ hidenproxxy.tk
 hidenseek.me
 hidenseek.org
 hidenspace.nz.gs
+hidenthis.co.vu
 hideofall.co.cc
 hideonline.net
 hideoxy.com
@@ -14327,7 +14333,6 @@ needsurfspeed.co.cc
 neej.org
 nekoray.org
 nelsonleung.org
-nenam.eu
 nenc.gov.ua
 neomailbox.com
 neomovies.net
@@ -20565,6 +20570,7 @@ staminahealth.co.cc
 standartproxies.co.cc
 standbox.co.cc
 standforex.co.cc
+standstrong.xyz
 standup-faster.co.cc
 stapsiun.co.cc
 star-ma.com
@@ -22207,7 +22213,6 @@ tmhhd.tk
 tmpfree.com
 tngch.mydns.jp
 tntproxy.com
-tnvpn.com
 to-continue.co.cc
 toaccess.co.cc
 toastedpenguin.com
@@ -22334,7 +22339,6 @@ tor.eff.org
 tor.softonic.fr
 tor.vasi.li
 tor2web.fi
-tor2web.in
 tor2web.io
 tor2web.it
 tor2web.ru
@@ -23311,7 +23315,6 @@ unblockschool.com
 unblocksit.es
 unblocksite-maneuver.co.cc
 unblocksite.biz
-unblocksite.ch
 unblocksite.eu
 unblocksite.fun
 unblocksite.id
@@ -25314,7 +25317,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -26864,7 +26866,6 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
-www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -27461,9 +27462,9 @@ www.extrasneaky.com
 www.extremeproxy.com
 www.eyet.info
 www.eyou.eu
-www.eyym.com
 www.ez9.info
 www.ezcrack.info
+www.ezhide.com
 www.ezpow.com
 www.ezproxee.info
 www.ezproxies.com
@@ -29211,7 +29212,6 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
-www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -29322,7 +29322,6 @@ www.jumpthewall.com
 www.junemoon.net
 www.jungleproxy.com
 www.junov.com
-www.jupopo.com
 www.just-doit.com
 www.justbypass.com
 www.justclothes.info
@@ -29333,7 +29332,6 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
-www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
@@ -35749,7 +35747,6 @@ xrea.cpshow.com
 xredx.co.cc
 xroxy.com
 xsent.com
-xsfwow.com
 xsproxy.com
 xsproxyhtc.tk
 xsproxyhtcs.tk
@@ -35894,7 +35891,6 @@ youcanhide.net
 youcantseeme.info
 youchoose.info
 youcloak.com
-youfreeproxytube.com
 youhide.com
 youkette28.free.fr
 youliaoren.com
