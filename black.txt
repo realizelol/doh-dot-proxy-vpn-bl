@@ -874,6 +874,7 @@ ad.tzockt.beer
 ad.visbran.fr
 ad.wiqi.app
 ad1.heronet.nl
+ad1guard.duckdns.org
 ad2.heronet.nl
 ad4msan.win
 ada.ns.cloudflare.com
@@ -2044,6 +2045,7 @@ aosomi.com
 aotforex.co.cc
 aouforex.co.cc
 apac-mask.wrr.mask.apple-dns.net
+apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -2771,7 +2773,6 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
-best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -2799,7 +2800,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -3432,7 +3432,6 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
-brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -3598,6 +3597,7 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
+business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -4064,7 +4064,6 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
-centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4371,7 +4370,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5079,7 +5077,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5371,7 +5368,6 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6945,7 +6941,6 @@ doh.micronets.in
 doh.mmmalia.com
 doh.mochou.site
 doh.moeyk.com
-doh.morizt.id
 doh.mullvad.net
 doh.neowutran.ovh
 doh.nexen.cloud
@@ -7051,11 +7046,11 @@ domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
+domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
 domainsbyproxy.com
-domainsite.cz.cc
 domainsplaza.com
 domainssuite.com
 domainuniverzum.com
@@ -7103,8 +7098,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7347,6 +7342,7 @@ dwiprayogo.appspot.com
 dwuforex.co.cc
 dxuforex.co.cc
 dxuh.com
+dxuu.com
 dxyef5b084fjk.cloudfront.net
 dy58t8rwtsd9j.cloudfront.net
 dy9.org
@@ -8471,6 +8467,7 @@ fireheap.com
 firelab.site
 fireprox.com
 fireprox.net
+fireproxy.com
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -11828,6 +11825,7 @@ isodos.com
 isolacje.homeip.net
 isolatevt.tk
 isoproxy.com
+ispban.com
 ispbaseresource.co.cc
 ispblocked.com
 ispbrand.co.cc
@@ -12071,7 +12069,6 @@ jobworker.co.cc
 joeltheodore.com
 joeproxy.com
 jofo.info
-johneldenring.lol
 johnkellyprivate.com
 johnsoninteractive.com
 johnsson.ovh
@@ -13309,6 +13306,7 @@ main-competition.co.cc
 mainanchor.co.cc
 maincollages.co.cc
 mainframe.dewed.de
+mainprox.com
 mainssh.com
 mainstream-point.co.cc
 mainsurf.co.cc
@@ -25158,6 +25156,7 @@ www.3035.info
 www.30i.info
 www.310.in
 www.3114.info
+www.31344.com
 www.3158.info
 www.33333.biz
 www.3368.info
@@ -26150,7 +26149,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -27180,6 +27178,7 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
+www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -27455,6 +27454,7 @@ www.extrasneaky.com
 www.extremeproxy.com
 www.eyet.info
 www.eyou.eu
+www.eyym.com
 www.ez9.info
 www.ezcrack.info
 www.ezhide.com
@@ -27702,6 +27702,7 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -29290,6 +29291,7 @@ www.jm9.info
 www.jmarshall.com
 www.jn0.info
 www.jobmejlet.com
+www.joeltheodore.com
 www.joeproxy.com
 www.jofo.info
 www.johnsoninteractive.com
@@ -30184,7 +30186,6 @@ www.myyoutubeproxy.com
 www.mzuf.com
 www.mzvb.com
 www.n777.info
-www.naifen.net
 www.nakatago.com
 www.nakedinternet.info
 www.nakedsquid.com
@@ -30685,6 +30686,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -31974,6 +31976,7 @@ www.proxyspider.com
 www.proxyspin.com
 www.proxyspot.com
 www.proxyspring.com
+www.proxyspy.cn
 www.proxyspy.com
 www.proxyspy.net
 www.proxysquad.com
@@ -34674,6 +34677,7 @@ www.uvforex.tk
 www.uwaj.com
 www.uwxf.com
 www.uxfr.com
+www.uxwh.com
 www.uxxy.com
 www.uyur.net
 www.uyyd.com
@@ -35606,6 +35610,7 @@ x-kicker.co.cc
 x-o-x.duckdns.org
 x-panel.drahonn.pro
 x-pass.info
+x-proxy.com
 x-proxy.info
 x-trekpay.co.cc
 x.laoban.fun
