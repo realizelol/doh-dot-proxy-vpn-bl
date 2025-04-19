@@ -394,7 +394,6 @@
 30t.online
 310.in
 3114.info
-31344.com
 3158.info
 317252.xyz
 3326proxxs.tk
@@ -472,6 +471,7 @@
 4ine.com
 4jh.org
 4love.info
+4proxy.com
 4proxy.de
 4proxy.u0.org
 4proxyfree.co.cc
@@ -1362,7 +1362,6 @@ aeroproxy.com
 aestheticgaming.com
 aetforex.co.cc
 aeuforex.co.cc
-aeyx.com
 afaforex.cz.cc
 afec.info
 affcdn.net
@@ -2421,7 +2420,6 @@ awaldaricinta.co.cc
 awan.ftp.sh
 award-proxy.co.cc
 award-vpn.com
-away.dreamday.gr
 awaybreathe.co.cc
 awaysurf.co.cc
 awebproxy.com
@@ -2490,7 +2488,6 @@ b3w.info
 b4m.info
 b4tu.com
 b4x.co.cc
-b4y.info
 b65.org
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 b9g.net
@@ -7141,7 +7138,6 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -7794,6 +7790,7 @@ eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
 eu.tri-dns.net
+eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -7930,6 +7927,7 @@ eyg01.dnscry.pt
 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 eyou.eu
 eyuforex.co.cc
+eyym.com
 ez-proxy.co.cc
 ez9.info
 ezcrack.info
@@ -9267,6 +9265,7 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
+freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -9424,6 +9423,7 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
+freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -11451,7 +11451,6 @@ ihatefilters.info
 ihateforex.co.cc
 ihatemyboss.co.cc
 ihavegems.com
-ihavenoshame.com
 ihctw.synology.me
 ihe.in
 ihfast.co.cc
@@ -11794,7 +11793,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -11965,6 +11963,7 @@ iunblockwebsites.com
 iunblockwebsites.info
 iunknown.net
 iunlimit.com
+iuuy.com
 iuytrewq.com
 ivacy.com
 ivacyvpn.com
@@ -12232,6 +12231,7 @@ jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
 jupitervpn.ninja
+jupopo.com
 juproxy.com
 jurbedout.com
 jurenomio.co.cc
@@ -12286,6 +12286,7 @@ juvo.info
 juvos.com
 jvip.net
 jvn.in
+jyje.com
 jylppy69.riemurasia.net
 jyrm.com
 jzmz.com
@@ -12483,7 +12484,6 @@ kinganonymous.com
 kingdomproxy.gq
 kingofproxies.com
 kingofthemountains.co.cc
-kingsproxy.com
 kingsurf.co.cc
 kingsurfproxy.com
 kingtech.info
@@ -12829,7 +12829,6 @@ legend-area.co.cc
 legendpath.info
 legoagh.duckdns.org
 lekdijk.online
-lekro.com
 lelia.info
 lelux.fi
 lembus.co.cc
@@ -13433,6 +13432,7 @@ mammaforex.co.cc
 mamproxy.w57.100dns.com
 man01.dnscry.pt
 manage-accounts.co.cc
+managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -14323,6 +14323,7 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
+mzx.site40.net
 n-wan.dynv6.net
 n.nop.mobi
 n0.eu
@@ -16517,7 +16518,6 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -17169,6 +17169,7 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
+proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -17181,6 +17182,7 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
+proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -19231,7 +19233,6 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -21478,7 +21479,6 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
-surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22022,7 +22022,6 @@ test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
 test.net46.net
-test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -22310,7 +22309,6 @@ timewebfaster.co.cc
 timextreme.co.cc
 timiproxy.co.cc
 timmes.nl
-timperumichael.net23.net
 timt.info
 timtam.co.tv
 timurpoyraz.com
@@ -23767,6 +23765,7 @@ uqep.com
 uqet.com
 uqqr.com
 uqwu.com
+uqwy.com
 uqxu.com
 uqzu.com
 ur-browser.com
@@ -24563,7 +24562,6 @@ webbench.co.uk
 webblocks.com
 webbounce.com
 webbrowser.live
-webbypass.com
 webcore.info
 webcurtain.info
 webdigi.info
@@ -25363,6 +25361,7 @@ www.4freeproxy.com
 www.4ine.com
 www.4jh.org
 www.4love.info
+www.4proxy.com
 www.4proxy.de
 www.4proxy.info
 www.4ra.net
@@ -25887,6 +25886,7 @@ www.applefroth.com
 www.appninja.info
 www.approxymate.com
 www.appspect.com
+www.aproxies.com
 www.aproxies.info
 www.aproxy.com
 www.aproxy.info
@@ -26300,7 +26300,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -26520,7 +26519,6 @@ www.bypassany.info
 www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
-www.bypassed.org
 www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
@@ -27176,6 +27174,7 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
+www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -27329,6 +27328,7 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
+www.duanyu.net
 www.dubb.info
 www.dubeier.cn
 www.dubnut.com
@@ -27354,7 +27354,6 @@ www.dwap.info
 www.dwape.com
 www.dwiloan.com
 www.dxuh.com
-www.dxuu.com
 www.dxym.site
 www.dy9.org
 www.dygar.com
@@ -27604,7 +27603,6 @@ www.extrasneaky.com
 www.extremeproxy.com
 www.eyet.info
 www.eyou.eu
-www.eyym.com
 www.ez9.info
 www.ezcrack.info
 www.ezhide.com
@@ -27852,6 +27850,7 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -28432,6 +28431,7 @@ www.gmbl.info
 www.gnarb.com
 www.gnof.info
 www.go-fish.info
+www.go31.com
 www.go5.info
 www.goanony.com
 www.goanonym.com
@@ -28817,7 +28817,6 @@ www.hidenseek.org
 www.hideonline.net
 www.hidepath.com
 www.hidepoint.com
-www.hidepost.com
 www.hideproxy.info
 www.hiderefer.com
 www.hideright.com
@@ -29354,6 +29353,7 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
+www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -29491,6 +29491,7 @@ www.juvo.info
 www.juvos.com
 www.jvip.net
 www.jvn.in
+www.jyje.com
 www.jyrm.com
 www.jzmz.com
 www.k-tunnel.com
@@ -30834,6 +30835,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -32567,7 +32569,6 @@ www.riderless.com
 www.ridiculess.com
 www.riesgo.info
 www.rightkey.info
-www.rightly.org
 www.rightpaths.com
 www.rightref.com
 www.righttorock.org
@@ -33716,7 +33717,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -35496,7 +35496,6 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
-www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -35882,6 +35881,7 @@ xpsslearth.co.cc
 xray.krnl.eu
 xrea.cpshow.com
 xredx.co.cc
+xroxy.com
 xsent.com
 xsproxy.com
 xsproxyhtc.tk
@@ -36069,7 +36069,6 @@ yourproxi.com
 yourproxies.com
 yourproxy.com
 yourproxy.eu
-yourproxy.site40.net
 yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
