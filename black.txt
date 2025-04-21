@@ -1816,6 +1816,7 @@ annie.ne.jp
 ano-web.hostarea.org
 ano-web.hostinplace.com
 anon.de
+anon.dns.digitale-gesellschaft.ch
 anon.la
 anon.me
 anon.n3o.lv
@@ -2013,7 +2014,6 @@ antiproxy.com
 antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
-antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2254,6 +2254,7 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
+asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -2421,6 +2422,7 @@ awaldaricinta.co.cc
 awan.ftp.sh
 award-proxy.co.cc
 award-vpn.com
+away.dreamday.gr
 awaybreathe.co.cc
 awaysurf.co.cc
 awebproxy.com
@@ -2660,7 +2662,6 @@ bc3.net
 bcsmts.com
 bcuforex.co.cc
 bdns.io
-bdns.nu
 bdns.pro
 bduforex.co.cc
 be-a-great.co.cc
@@ -2869,7 +2870,6 @@ bestrealm.com
 bestrug.co.cc
 bestscience.info
 bestsecret.info
-bestsecuredloans.cz.cc
 bestserverproxy.co.cc
 bestservers.org
 bestsimple.info
@@ -3454,7 +3454,6 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
-brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -4875,6 +4874,7 @@ cuarforex.co.cc
 cubanprox.co.cc
 cube.neubsi.at
 cubedns.com
+cubixpvp.net
 cucaracha.nz.gs
 cuckooland.xyz
 cultlegend.com
@@ -5110,7 +5110,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5649,6 +5648,7 @@ dns.ajmariduena.com
 dns.alanpearce.eu
 dns.albony.xyz
 dns.alidns.com
+dns.aliyun.com
 dns.alloxr.info
 dns.almir1904.eu
 dns.alpo.me
@@ -6895,6 +6895,7 @@ doh.apad.pro.cdn.cloudflare.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
+doh.arubadns.it
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.azoris.ovh
@@ -6912,6 +6913,7 @@ doh.centraleu.pi-dns.com
 doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cloud-sekeng.com
+doh.controld.com
 doh.cornes.me
 doh.corpa.me
 doh.cox.net
@@ -6921,8 +6923,8 @@ doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
-doh.dns-ga.de
 doh.dns.apple.com.v.aaplimg.com
+doh.dns.mozilla.com
 doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
@@ -6995,6 +6997,7 @@ doh.ntu.ssooss.win
 doh.nukys.ca
 doh.onedns.net
 doh.opendns.com
+doh.opennic.glue
 doh.palapa.net.id
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -7011,6 +7014,7 @@ doh.pyry.me
 doh.qis.io
 doh.quickline.ch
 doh.rasmusminde.dk
+doh.rethinkdns.com
 doh.rezhajul.io
 doh.runsel.id
 doh.sa-sa.eu
@@ -7028,11 +7032,15 @@ doh.sww.net.id
 doh.syshero.org
 doh.technochat.in
 doh.temanbsd.com
+doh.tenta.io
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
 doh.tsmu.co.id
+doh.ultradns.com
 doh.umbrella.com
+doh.un-censoreddns.com
+doh.un-censoreddns.org
 doh.us.dnswarden.com
 doh.us.moe.tips
 doh.valscosmos.com
@@ -7045,6 +7053,7 @@ doh.xcom.pro
 doh.xfinity.com
 doh.xorlet.ru
 doh.xyz
+doh.yandex.net
 doh.zephyrsec.cfd
 doh.zhongbr.uk
 doh.zknt.org
@@ -7142,7 +7151,6 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -9711,6 +9719,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10850,7 +10859,6 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
-hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -11797,6 +11805,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -11953,7 +11962,6 @@ itsproxytime.co.cc
 itsrecess.com
 itstuesday.co.cc
 itsturbo.info
-itsunblocked.co.vu
 ittv.info
 ituneplus.com
 itunnel.com
@@ -14392,7 +14400,6 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -15879,6 +15886,7 @@ phbbbt.co.cc
 phbi.co.cc
 phdproxy.co.cc
 pheriperal.co.cc
+phhu.com
 philpower.com
 philqoo.com
 phl01.dnscry.pt
@@ -24574,6 +24582,7 @@ webbench.co.uk
 webblocks.com
 webbounce.com
 webbrowser.live
+webbypass.com
 webcore.info
 webcurtain.info
 webdigi.info
@@ -25785,7 +25794,6 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
-www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -25899,7 +25907,6 @@ www.applefroth.com
 www.appninja.info
 www.approxymate.com
 www.appspect.com
-www.aproxies.com
 www.aproxies.info
 www.aproxy.com
 www.aproxy.info
@@ -27022,6 +27029,7 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
+www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -27188,6 +27196,7 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
+www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -27865,6 +27874,7 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -28113,7 +28123,6 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
-www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -30849,6 +30858,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -30935,6 +30945,7 @@ www.phantomproxy.com
 www.pharst.com
 www.phas.info
 www.phaseyou.com
+www.phhu.com
 www.philpower.com
 www.phoenixproxy.com
 www.phoenixshare.com
@@ -31705,6 +31716,7 @@ www.proxyeye.com
 www.proxyez.com
 www.proxyfacebook.com
 www.proxyfactory.cf
+www.proxyfans.com
 www.proxyfarm.com
 www.proxyfast.net
 www.proxyfb.com
@@ -35512,6 +35524,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
