@@ -1256,7 +1256,6 @@ adguardhome.ddns.net
 adguardhome.favrep.ovh
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
-adguardhome.ponetwork.duckdns.org
 adguardhome.preden.net
 adguardhulst.duckdns.org
 adguardnic.ddns.net
@@ -1598,7 +1597,6 @@ allforexz.co.cc
 allfrom.co.cc
 allgamesfree.com
 allgreat.info
-allhide.co.vu
 allhider.com
 allhostingfree.co.cc
 allieforex.co.cc
@@ -2014,6 +2012,7 @@ antiproxy.com
 antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
+antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2491,7 +2490,6 @@ b3w.info
 b4m.info
 b4tu.com
 b4x.co.cc
-b4y.info
 b65.org
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 b9g.net
@@ -2870,6 +2868,7 @@ bestrealm.com
 bestrug.co.cc
 bestscience.info
 bestsecret.info
+bestsecuredloans.cz.cc
 bestserverproxy.co.cc
 bestservers.org
 bestsimple.info
@@ -3454,6 +3453,7 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
+brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -4396,7 +4396,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4535,7 +4534,6 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
-compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -5110,6 +5108,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -6923,6 +6922,7 @@ doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
+doh.dns-ga.de
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.mozilla.com
 doh.dns.sb
@@ -7449,6 +7449,7 @@ earnapp.com
 earntoday.info
 earnusd.tk
 earproxy.co.cc
+earth-vpn.net
 earthquakez.co.cc
 earthsurf.co.cc
 earthvpn.com
@@ -7501,6 +7502,7 @@ easysurf.info
 easyunlock.info
 easyvisit.info
 easyvpn.com
+easyvpn.zone
 easywall.info
 easyweightgain.com
 easywithdrawal.com
@@ -9088,7 +9090,9 @@ free-touch.co.cc
 free-unblock.com
 free-vpn.cn
 free-vpn.en.softonic.com
+free-vpn.pro
 free-vpn.xyz
+free-vpnapp.com
 free-web-proxy.de
 free-web-proxy.info
 free-webproxy.com
@@ -11962,6 +11966,7 @@ itsproxytime.co.cc
 itsrecess.com
 itstuesday.co.cc
 itsturbo.info
+itsunblocked.co.vu
 ittv.info
 ituneplus.com
 itunnel.com
@@ -13144,7 +13149,6 @@ lockproxy.co.cc
 lockproxy.com
 locosurf.co.cc
 lodovica.com
-lofl.net
 log.qrsoft.ru
 logbuster.com
 logbuster.net
@@ -14400,6 +14404,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -14990,6 +14995,7 @@ ntwrkh.pro
 nu.cyberbomber.co.cc
 nu3ga.com
 nubom.com
+nucleusvpn.com
 nudnud.com
 nue01.dnscry.pt
 nufast.co.cc
@@ -16321,6 +16327,7 @@ primeproxies.com
 primeproxy.com
 primeproxy23.info
 primeproxy29.info
+primevpn.pro
 princeofproxy.co.cc
 princez.uk
 principal-partner.co.cc
@@ -17482,7 +17489,6 @@ proxyeye.com
 proxyez.com
 proxyfacebook.com
 proxyfactory.io
-proxyfans.com
 proxyfarm.com
 proxyfast.net
 proxyfastpro.appspot.com
@@ -21017,6 +21023,7 @@ superbe.info
 superbowlparty.co.cc
 superbowltoday.co.cc
 superbproxy.com
+supercoolcomputersandstuff.win
 supercross-freesurf.co.cc
 superdirectory.org
 superfastproxy.com
@@ -23677,6 +23684,7 @@ unlimiteddomain.co.cc
 unlimitedproxies.co.cc
 unlimitedschool.com
 unlimitedsurf.co.cc
+unlimitedvpn.net
 unlimitedvpnapp.com
 unlimitedway.com
 unlimitedwebaccess.com
@@ -25794,6 +25802,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -25907,6 +25916,7 @@ www.applefroth.com
 www.appninja.info
 www.approxymate.com
 www.appspect.com
+www.aproxies.com
 www.aproxies.info
 www.aproxy.com
 www.aproxy.info
@@ -27352,7 +27362,6 @@ www.dualnitro.com
 www.dualproxy.com
 www.duanyu.net
 www.dubb.info
-www.dubeier.cn
 www.dubnut.com
 www.duchs.com
 www.duckducksoup.com
@@ -28123,6 +28132,7 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
+www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
