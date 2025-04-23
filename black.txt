@@ -258,7 +258,6 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
-1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -1256,6 +1255,7 @@ adguardhome.ddns.net
 adguardhome.favrep.ovh
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
+adguardhome.ponetwork.duckdns.org
 adguardhome.preden.net
 adguardhulst.duckdns.org
 adguardnic.ddns.net
@@ -1597,6 +1597,7 @@ allforexz.co.cc
 allfrom.co.cc
 allgamesfree.com
 allgreat.info
+allhide.co.vu
 allhider.com
 allhostingfree.co.cc
 allieforex.co.cc
@@ -3386,7 +3387,6 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
-brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -3473,7 +3473,6 @@ browse-free.com
 browse.1industry.com
 browse.abccompany.biz
 browse.auraria.org
-browse.colodex.com
 browse.compuinter.com
 browse.maxposter.com
 browse.startpage.com
@@ -3498,7 +3497,6 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
-browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -4357,7 +4355,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4396,6 +4393,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4534,6 +4532,7 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
+compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -7097,7 +7096,6 @@ domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
 domainname.cz.cc
-domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -7151,6 +7149,7 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7170,7 +7169,6 @@ dot.360.cn
 dot.anir0y.in
 dot.centraleu.pi-dns.com
 dot.cox.net
-dot.dns-ga.de
 dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
@@ -8686,7 +8684,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9422,7 +9419,6 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
-freewebproxy.co.vu
 freewebproxy.com
 freewebproxy.eu
 freewebproxy.net
@@ -10863,6 +10859,7 @@ hidemyurls.tk
 hidemyvisit.com
 hidemywebsite.info
 hidemyweed.com
+hidenall.co.vu
 hidengine.co.cc
 hidenproxxy.tk
 hidenseek.me
@@ -11809,7 +11806,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -13858,6 +13854,7 @@ mjui.com
 mk.skynetinternet.com.br
 mkot.info
 mkrepair.ddns.net
+mkslcl.xyz
 ml596.com
 mlente.nationvoice.com
 mlproxy.science
@@ -17489,6 +17486,7 @@ proxyeye.com
 proxyez.com
 proxyfacebook.com
 proxyfactory.io
+proxyfans.com
 proxyfarm.com
 proxyfast.net
 proxyfastpro.appspot.com
@@ -26998,7 +26996,6 @@ www.corporateinsurance.info
 www.corro.info
 www.corrupters.com
 www.corsario.info
-www.costfuel.com
 www.costmaninc.com
 www.cotse.net
 www.coud.info
@@ -31318,7 +31315,6 @@ www.proxiesontap.com
 www.proxiesrus.com
 www.proxiess.com
 www.proxiessites.pw
-www.proxiesunited.com
 www.proxiesusa.com
 www.proxific.com
 www.proxified.com
@@ -32318,7 +32314,6 @@ www.proxyyoutube.info
 www.proxyz.be
 www.proxyzen.info
 www.proxyzilla.com
-www.proxz.com
 www.proxzee.com
 www.proxzero.com
 www.proxzi.com
@@ -35826,6 +35821,7 @@ xcaptor.com
 xcollege.cn
 xcomplus.com
 xcomvpn-7000b-default-rtdb.firebaseio.com
+xcxx.pointed.cc
 xdfg.net
 xdude.net
 xe1.net
