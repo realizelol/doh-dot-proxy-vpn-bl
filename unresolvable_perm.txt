@@ -29161,6 +29161,7 @@ freewebproxy-webme.tk
 freewebproxy.123free.eu
 freewebproxy.club
 freewebproxy.co.uk
+freewebproxy.co.vu
 freewebproxy.in
 freewebproxy.info
 freewebproxy.online
