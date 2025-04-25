@@ -837,6 +837,7 @@ acthere.info
 action-access.co.cc
 action-freesurf.co.cc
 actiongamerss.co.cc
+activatevpn.com
 activating.info
 active-surf.co.cc
 active-work.co.cc
@@ -1331,6 +1332,7 @@ adultatwork.com
 adultfilter.dns.dnswarden.com
 adulthoodz.co.cc
 adultproxy.co.cc
+adultproxy.men
 adultproxy.net
 aduma15.duckdns.org
 advancedreports.co.cc
@@ -1525,6 +1527,7 @@ akuforex.co.cc
 akund.com
 akunssh.net
 akylah.zapto.org
+alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
 alanis.igalan.com
@@ -2974,6 +2977,7 @@ bighide.co.cc
 bighomesite.com
 bigjumbo.co.cc
 bigkingfun.com
+bigma.org
 bigmoon.info
 bignet.info
 bigprox.co.cc
@@ -3498,7 +3502,6 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
-browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -3944,7 +3947,6 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
-carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4074,6 +4076,7 @@ ceniebguri.co.cc
 cenq.com
 censorthat.com
 censurfridns.dk
+centauri1.eu.org
 centenario.info
 center-crm.store
 centerpiecesurf.co.cc
@@ -4944,6 +4947,7 @@ cyberlive.info
 cyberpod.tk
 cyberprxy.co.cc
 cybershell.info
+cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
@@ -7098,6 +7102,7 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
+domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -7152,7 +7157,6 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7938,6 +7942,7 @@ extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
+extremevpn.com
 exuforex.co.cc
 eyet.info
 eyg01.dnscry.pt
@@ -8689,6 +8694,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9226,6 +9232,7 @@ freemyspacelayouts.50webs.com
 freemyurl.info
 freenetgate.co.cc
 freenetonline.co.cc
+freenetproject.org
 freenetproxy.co.cc
 freenewslinks.com
 freenfun.com
@@ -9404,6 +9411,7 @@ freevpn.me
 freevpn.org
 freevpn.pw
 freevpn.us
+freevpn.win
 freevpn.zone
 freevpn4you.net
 freevpnapp.org
@@ -10720,6 +10728,7 @@ hide.im
 hide.info.tm
 hide.lv
 hide.me
+hide.mn
 hide.not.info
 hide.pl
 hide.run4.us
@@ -11101,6 +11110,7 @@ homer.kill-9.com
 homestation.info
 homevpn.eu
 homevpn.info
+homevpn.org
 homeworkhelp.click
 homita.id.vn
 homtextile.click79.com
@@ -11750,6 +11760,7 @@ invisv.com
 invitationenvelopes.co.cc
 involved-directly.co.cc
 inyourmind.co.cc
+iofixdns2.duckdns.org
 ion.pm
 ionicmetalizer.co.cc
 ionproxy.com
@@ -11809,6 +11820,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -11844,6 +11856,7 @@ iproxy.info.tm
 iproxy.l6.org
 iproxybrowser.com
 iproxyme.com
+iproyal.com
 iproyal.sjv.io
 ipsafe.info
 ipsecret.co.cc
@@ -12846,7 +12859,6 @@ legend-area.co.cc
 legendpath.info
 legoagh.duckdns.org
 lekdijk.online
-lekro.com
 lelia.info
 lelux.fi
 lembus.co.cc
@@ -12903,6 +12915,7 @@ letslog.in
 letsproxy.com
 letstry.net
 letsview.info
+letsvpn.world
 letus.in
 letusgo.in
 letushide.com
@@ -13094,6 +13107,7 @@ livi.info
 livreproxy.com
 livtkgschoola.tk
 lixi.info
+liyu321.cn
 lizeforex.co.cc
 lizforex.co.cc
 lku.in
@@ -13450,7 +13464,6 @@ mammaforex.co.cc
 mamproxy.w57.100dns.com
 man01.dnscry.pt
 manage-accounts.co.cc
-managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -14202,6 +14215,7 @@ myforexmoney.co.cc
 myforextrading.co.cc
 myfreenet.info
 myfreestuff.cn
+myhalo.online
 myhealthyheart.co.cc
 myindustry.xyz
 myinternetproxy.com
@@ -14310,6 +14324,7 @@ myspaceunblockit.com
 myspaceunlock.com
 myssl.org
 mysterium.arashi.solutions
+mysteriumvpn.com
 mysteward.info
 mysticrivers.co.cc
 mysurfo.nz.gs
@@ -14682,6 +14697,7 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
+nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -14815,6 +14831,7 @@ noisylab.com
 noitallproxy.co.cc
 nokiamaster.co.cc
 nokiamusic.co.cc
+nolagvpn.com
 nolame.co.cc
 nolimit1.com
 nolimitadvocate.info
@@ -14847,6 +14864,7 @@ noproxy.com
 noproxyads.com
 nordaccount.com
 nordvpn.com
+nordvpn.net
 nordvpnteams.com
 noregulation.com
 normalforex.com
@@ -15110,6 +15128,7 @@ oduy.com
 odvr.nic.cz
 ody.be
 oe7.info
+oeck.com
 oegz.com
 oekaki.us
 of6.info
@@ -16044,6 +16063,7 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
+place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -16244,6 +16264,8 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -16882,6 +16904,7 @@ proxy.acetelcomm.com
 proxy.agoodplace4all.com
 proxy.aktive-schweiz.ch
 proxy.alberkman.com.ve
+proxy.am
 proxy.americaneaglegoods.com
 proxy.amproliability.com
 proxy.andrewhaley.net
@@ -16972,6 +16995,7 @@ proxy.futureisonline.co.cc
 proxy.galaia.info
 proxy.gamecove.net
 proxy.gaokaiqu.cn
+proxy.gd
 proxy.geekos.cn
 proxy.gesmat.com
 proxy.getmyip.cn
@@ -17273,6 +17297,7 @@ proxyacross.co.cc
 proxyactive.co.cc
 proxyactive.com
 proxyacts.co.cc
+proxyadult.org
 proxyagent.net
 proxyalgorithm.co.cc
 proxyalpha.co.cc
@@ -17380,7 +17405,6 @@ proxycenter.co.cc
 proxycentre.co.cc
 proxycentre.com
 proxychaiya.co.cc
-proxychamp.com
 proxychanger.com
 proxychat.info
 proxycheap.co.cc
@@ -17641,6 +17665,7 @@ proxyium.org
 proxyj.com
 proxyjam.co.cc
 proxyjet.com
+proxyjet.io
 proxyjipang.co.cc
 proxyjoe.com
 proxyjospokoke.co.cc
@@ -18733,6 +18758,7 @@ redproxy.net
 redprxy.co.cc
 redr.info
 redsea.meetz.pw
+redshieldvpn.com
 redsniper.co.cc
 redspicy.com
 redsurfer.com
@@ -19290,6 +19316,7 @@ sandparticles.us
 sandra-model.info
 sandsoftime.co.cc
 sandsurf.co.cc
+sandvpn.com
 sanis.info
 sanko-taxi.com
 sanleandro-proxy.co.cc
@@ -20643,6 +20670,7 @@ squidmall.vip
 squidproxy.net
 squidproxyserver.com
 squidsurf.com
+squirrelvpn.com
 squyforex.co.cc
 sr4.info
 srabi.co.cc
@@ -21648,6 +21676,7 @@ surfshark.com
 surfshark.com.au
 surfshark.io
 surfshark.jp
+surfshark.net
 surfshark.ph
 surfshark.ru
 surfshark.sg
@@ -21878,6 +21907,7 @@ syd01.dnscry.pt
 syd02.dnscry.pt
 syd1.norgannetworks.net.au
 symantech.co.cc
+symlexvpn.com
 syncfast.info
 syre.pp.ua
 system.datacure.com
@@ -22546,6 +22576,7 @@ totalspeed.co.cc
 totalsurf.co.cc
 totalsurfing.co.cc
 totalupload.com
+totalvpn.com
 touched-deeply.co.cc
 touchforex.co.cc
 touchfresh.com
@@ -24394,6 +24425,7 @@ vpnsecure.me
 vpnshazam.com
 vpnshieldapp.com
 vpnsuper.app
+vpnsuper.com
 vpnto.bhadrikais.my.id
 vpntraffic.com
 vpntunnel.com
@@ -24741,10 +24773,12 @@ webteufel-it.solutions
 webtiner.co.cc
 webtoolsking.com
 webtunnel.org
+webtunnelproxy.com
 webtunnelx.com
 webtv.ws
 webtypeunblok.co.cc
 webunblock.com
+webunblock.net
 webunblocker.com
 webunblocksites.info
 webunlocker.com
@@ -25385,7 +25419,6 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
-www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -27042,7 +27075,6 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
-www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -27209,6 +27241,7 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
+www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -27387,7 +27420,6 @@ www.dwap.info
 www.dwape.com
 www.dwiloan.com
 www.dxuh.com
-www.dxuu.com
 www.dxym.site
 www.dy9.org
 www.dygar.com
@@ -27885,7 +27917,6 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -29388,7 +29419,6 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
-www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -30869,7 +30899,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -30956,6 +30985,7 @@ www.phantomproxy.com
 www.pharst.com
 www.phas.info
 www.phaseyou.com
+www.phhu.com
 www.philpower.com
 www.phoenixproxy.com
 www.phoenixshare.com
