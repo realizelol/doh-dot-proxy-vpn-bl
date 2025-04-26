@@ -697,7 +697,6 @@ aarg.info
 aaronzweb.xyz
 aash.info
 aatforex.co.cc
-aattwwss.duckdns.org
 aauforex.co.cc
 abaforex.cz.cc
 abc.kissfree.net
@@ -3502,6 +3501,7 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
+browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -3947,6 +3947,7 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
+carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4398,6 +4399,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4951,7 +4953,6 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -7155,8 +7156,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7176,7 +7177,6 @@ dot.360.cn
 dot.anir0y.in
 dot.centraleu.pi-dns.com
 dot.cox.net
-dot.dns-ga.de
 dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
@@ -7811,7 +7811,6 @@ eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
 eu.tri-dns.net
-eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -11049,6 +11048,7 @@ hobb.info
 hockaday.synology.me
 hofnarr.yexx.at
 hogar.in
+hola-client-cdn4.b-cdn.net
 hola-vpn.com
 hola.org
 holafreevpn.com
@@ -13464,6 +13464,7 @@ mammaforex.co.cc
 mamproxy.w57.100dns.com
 man01.dnscry.pt
 manage-accounts.co.cc
+managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -13810,6 +13811,7 @@ mimile.despagne.net
 mimile.despagne.ovh
 minami.website
 mindgood.info
+minfort.surfnet.ca.surfnet.ca
 minfree.com
 mingsrang.co.cc
 mini88773.703.jp
@@ -14167,7 +14169,6 @@ my-proxy.com
 my-proxy.org
 my-tunnel.com
 my-web-proxy.info
-my.0nur.net
 my.alarmsms.com
 my.ctrw.net
 my.englishpapers.online
@@ -17213,7 +17214,6 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
-proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -21841,6 +21841,7 @@ surgeryloans.co.cc
 surgn.com
 surogate.co.cc
 surpassall.com
+surprise.pics
 surt.ovh
 surtshark.com
 surve.dehb.ru
@@ -25419,6 +25420,7 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
+www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -25528,6 +25530,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -27075,6 +27078,7 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
+www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -27420,6 +27424,7 @@ www.dwap.info
 www.dwape.com
 www.dwiloan.com
 www.dxuh.com
+www.dxuu.com
 www.dxym.site
 www.dy9.org
 www.dygar.com
@@ -27917,6 +27922,7 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -29419,6 +29425,7 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
+www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -30899,6 +30906,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
