@@ -1787,7 +1787,6 @@ androidstyler.co.cc
 androidtrend.co.cc
 androidtriks.co.cc
 andromeda.hu.tl
-andromedae1.eu.org
 androsten.co.cc
 androvpn.com
 anduong.xyz
@@ -1989,7 +1988,6 @@ anrforex.co.cc
 anskyforex.co.cc
 answersky.com
 ant.dns.qwer.pw
-antares1.eu.org
 antarforex.co.cc
 antarmuka.com
 antforex.co.cc
@@ -2007,7 +2005,6 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
-antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
@@ -2256,7 +2253,6 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
-asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -2472,7 +2468,6 @@ azuforex.co.cc
 azure.cloudflare-dns.com
 azure.razor1911.xyz
 azurf.com
-b-dns.se
 b-i-z.biz
 b-ipv4.bhadrikais.my.id
 b-itc.be
@@ -2877,7 +2872,6 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
-bestspeed.cz.cc
 bestspin.info
 bestssh.net
 bestsslproxy.info
@@ -4171,7 +4165,6 @@ checkrighttime.co.cc
 checksbox.co.cc
 checkthe.info
 checktlistsed.co.cc
-checkup-proxies.cz.cc
 checkwiki.info
 cheekychipmunk.com
 cheekyproxy.com
@@ -4399,7 +4392,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4953,6 +4945,7 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5688,7 +5681,6 @@ dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
 dns.atsilva.link
-dns.auapi.fun
 dns.audet.cloud
 dns.auffray.org
 dns.axiomos.xyz
@@ -7156,8 +7148,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7177,6 +7169,7 @@ dot.360.cn
 dot.anir0y.in
 dot.centraleu.pi-dns.com
 dot.cox.net
+dot.dns-ga.de
 dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
@@ -10705,6 +10698,7 @@ hide-in-quick.co.cc
 hide-me.be
 hide-me.org
 hide-my-ip.com
+hide-my-ip.org
 hide-my.com
 hide-myip.com
 hide-own-pc.borec.cz
@@ -13811,7 +13805,6 @@ mimile.despagne.net
 mimile.despagne.ovh
 minami.website
 mindgood.info
-minfort.surfnet.ca.surfnet.ca
 minfree.com
 mingsrang.co.cc
 mini88773.703.jp
@@ -14167,6 +14160,7 @@ my-go.xyz
 my-private-network.co.uk
 my-proxy.com
 my-proxy.org
+my-safe-net.com
 my-tunnel.com
 my-web-proxy.info
 my.alarmsms.com
@@ -15235,7 +15229,6 @@ onefastnonimous.co.cc
 onehide.com
 oneinoneout.com
 onejk.com
-oneletter.info
 oneonly.info
 oneproxies1.co.cc
 oneproxy.biz
@@ -15423,6 +15416,7 @@ openiforexsites.co.cc
 opening-desolate.co.cc
 openinvesforexsite.co.cc
 openinvest2forexsites.co.cc
+openips.cc
 openliteforexbroker.co.cc
 openliteforexsite.co.cc
 openliteforexsites.co.cc
@@ -15831,7 +15825,6 @@ ped01.dnscry.pt
 peeking.in
 peekproxy.com
 pegasus.nz.gs
-pegasus1.eu.org
 pegasusdirectory.com
 pehw.com
 pekpekao.co.cc
@@ -17405,6 +17398,7 @@ proxycenter.co.cc
 proxycentre.co.cc
 proxycentre.com
 proxychaiya.co.cc
+proxychamp.com
 proxychanger.com
 proxychat.info
 proxycheap.co.cc
@@ -19097,6 +19091,7 @@ route-more.co.cc
 route.netshi.cn
 router.ahzol.com
 router.bittorrent.com
+router.comss.one
 router.sapib.ca
 routetheworld.co.cc
 routing-through.co.cc
