@@ -1276,6 +1276,7 @@ adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
+adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -2054,6 +2055,7 @@ aosomi.com
 aotforex.co.cc
 aouforex.co.cc
 apac-mask.wrr.mask.apple-dns.net
+apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -3373,7 +3375,6 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
-brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -4155,7 +4156,6 @@ checkrighttime.co.cc
 checksbox.co.cc
 checkthe.info
 checktlistsed.co.cc
-checkup-proxies.cz.cc
 checkwiki.info
 cheekychipmunk.com
 cheekyproxy.com
@@ -4539,7 +4539,6 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4939,7 +4938,6 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -7140,6 +7138,7 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -8676,7 +8675,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -11038,6 +11036,7 @@ holafreevpn.com
 holavpn.net
 holavpnextension.com
 holavpnrussia.com
+holavpnworld.com
 holax.io
 holdingparty.co.cc
 hole.elbschloss.xyz
@@ -14409,6 +14408,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -15522,6 +15522,7 @@ ortudns.com
 orzin.com
 os4work.com
 oscarproxy.co.cc
+osefcorp.duckdns.org
 osiris-isis.co.cc
 oson.info
 osoproxy.co.cc
@@ -15892,6 +15893,7 @@ phantom3c.net
 phantomatika.nz.gs
 phantombrowser.com
 phantomforex.co.cc
+phantompeer.com
 phantomproxy.com
 pharmasurf.co.cc
 pharst.com
@@ -16252,6 +16254,7 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -22364,6 +22367,7 @@ tirtaproxy.co.cc
 titaniumnetwork.org
 titanprox.com
 titansnow.co.cc
+titantunnelvpn.com
 tittyreviews.com
 tixi.info
 tizz.info
@@ -23766,6 +23770,7 @@ untraceable.info
 untraceable.us
 untraced.net
 untracer.com
+unvpn.org
 unwantedtraffic.com
 unwarned.com
 unwatching-surfer.co.cc
@@ -24151,7 +24156,6 @@ vil.mobi
 viliza.com
 villagesuper.co.cc
 villaputzu.com
-villasurf.nz.gs
 vilydom.nz.gs
 vimgi.com
 vinagre.info
@@ -25505,6 +25509,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -31735,7 +31740,6 @@ www.proxyeye.com
 www.proxyez.com
 www.proxyfacebook.com
 www.proxyfactory.cf
-www.proxyfans.com
 www.proxyfarm.com
 www.proxyfast.net
 www.proxyfb.com
@@ -32327,7 +32331,6 @@ www.proxyyoutube.info
 www.proxyz.be
 www.proxyzen.info
 www.proxyzilla.com
-www.proxz.com
 www.proxzee.com
 www.proxzero.com
 www.proxzi.com
@@ -32866,6 +32869,7 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
+www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
@@ -33502,7 +33506,6 @@ www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
-www.standstrong.xyz
 www.star-ma.com
 www.starbrowser.eu
 www.starcrumb.com
