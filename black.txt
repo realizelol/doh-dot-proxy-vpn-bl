@@ -68,7 +68,6 @@
 0fm.info
 0hide.com
 0hv.info
-0i6.net
 0jp.com
 0ke.nl
 0ms.dev
@@ -1371,7 +1370,6 @@ aficoscorebrowstkgode.tk
 afiforex.cz.cc
 aflu.info
 afrforex.co.cc
-africa-mask.wrr.mask.apple-dns.net
 africa.avastdns.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
@@ -2006,7 +2004,6 @@ antiproxy.com
 antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
-antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2054,7 +2051,6 @@ aors.net
 aosomi.com
 aotforex.co.cc
 aouforex.co.cc
-apac-mask.wrr.mask.apple-dns.net
 apaforex.cz.cc
 apexshield.com
 aphproxy.com
@@ -2206,7 +2202,6 @@ as-wondering.co.cc
 as17820865.click
 as6604t-04.myasustor.com
 asafe.info
-asaforex.cz.cc
 asaldapatproxy.co.cc
 asall.info
 asavage.com
@@ -2387,7 +2382,6 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
-avambee.cz.cc
 avanquestusa.com
 avarikoteo.co.cc
 avatunnel.co.cc
@@ -2967,6 +2961,7 @@ bigkingfun.com
 bigma.org
 bigmoon.info
 bignet.info
+bigpoppa.epicgamer.org
 bigprox.co.cc
 bigprox.com
 bigproxbypass.tk
@@ -3279,6 +3274,7 @@ boi9osyg1uwtyafn.com
 boink.zxq.net
 boir.net
 boisterous-fire.co.cc
+bokkki.oops.wtf
 boldproxy.com
 bolehvpn.net
 boln.info
@@ -3375,6 +3371,7 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
+brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -4156,6 +4153,7 @@ checkrighttime.co.cc
 checksbox.co.cc
 checkthe.info
 checktlistsed.co.cc
+checkup-proxies.cz.cc
 checkwiki.info
 cheekychipmunk.com
 cheekyproxy.com
@@ -4268,6 +4266,7 @@ classic.ben.ru
 classicpen.us
 classmeet.co.cc
 classref.com
+classroom.haoqiw.com
 claustrophobia.co.cc
 clav.info
 clavierarabeenligne.com
@@ -4287,7 +4286,6 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
-clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4383,7 +4381,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4539,6 +4536,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -4938,6 +4936,7 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5771,6 +5770,7 @@ dns.comss.one
 dns.connect.fail
 dns.containerpi.com
 dns.controld.com
+dns.cooluc.com
 dns.cretu.xyz
 dns.crop3ox.website
 dns.crownor.com
@@ -7555,6 +7555,7 @@ edns.233py.com
 edostar.co.cc
 edpuzzle-lol.vercel.app
 eduacation.lol
+educational-site.24x7.hk
 educationdays.co.cc
 educationdean.us
 educationlaw.co.cc
@@ -7648,7 +7649,6 @@ emban-networks.com
 embedproxies.com
 embr.info
 emby.rasp.tv
-emea-mask.wrr.mask.apple-dns.net
 emeraldeyex.dev
 emigrantas.com
 emigrar.info
@@ -8675,6 +8675,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -11074,7 +11075,6 @@ home.tuankhaiit.com
 home.vps.mtsdns.ru
 home.wriedts.de
 home.zonnet.nl
-home27.duckdns.org
 home3.brosena.xyz
 home47a.mooo.com
 home721.co.cc
@@ -12688,6 +12688,7 @@ kwork.info
 kx-97795-tr.xyz
 kyjiep.com
 kyoheitensai.com
+kyrgyzstan-travel.home.kg
 kytx.co.cc
 kz-alm-w-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
@@ -12733,6 +12734,7 @@ landtunnel.co.cc
 lanfactor.tk
 langforex.co.cc
 lanre.duckdns.org
+lanschool.leno.vopros.kz
 lantern.io
 lanyard.drahonn.pro
 laonsimpact.co.cc
@@ -13506,7 +13508,6 @@ mashable.hi5.com
 mashforex.co.cc
 mashproxy.co.cc
 masivebomb.co.cc
-mask-boot.icloud.com
 maskedbrowser.com
 maskedip.com
 maskhidemyip.co.cc
@@ -13549,6 +13550,7 @@ mathcampus.co.cc
 mathcookbook.com
 mathcourses.co.cc
 mathease.cn
+mathew-hill.net4ria.com
 mathhelpnow.site
 mathhome.info
 mathide.co.cc
@@ -14366,6 +14368,7 @@ nakedsquid.com
 name.my-station.ru
 name.nop.mobi
 namebrowser.co.cc
+namenims.fr.to.2fine.de
 nameswave.com
 nano.64x.org
 nanobyte.info
@@ -14379,6 +14382,7 @@ napps-2.com
 narforex.co.cc
 narikbang.co.cc
 narina.co.cc
+narp.fr.to.joe.dj
 narrfgames.tk
 narrow-seam.co.cc
 narrow-space.co.cc
@@ -14858,7 +14862,6 @@ noregulation.com
 normalforex.com
 normalworks.co.cc
 noroi.co.cc
-north-america-mask.wrr.mask.apple-dns.net
 north-jungle.co.cc
 northcollege.info
 northendproxie.co.cc
@@ -19269,6 +19272,7 @@ sailsurf.co.cc
 saintrobe.co.cc
 sakirdakproxy.tk
 saktiproxy.co.cc
+sakura-site-rammerhead.ax1951.com
 sakuraschool.co.cc
 sakuratunnel.co.cc
 saky.info
@@ -19467,6 +19471,7 @@ scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
 screw-school-blockers.co.cc
+screwedupclick.ufodns.com
 screwpushed.co.cc
 scriptdigitalproxy.co.cc
 scriptdownloads.com
@@ -20004,7 +20009,6 @@ simplygr8.com
 simprox.co.cc
 simran49.info
 simta.cn
-simwit.cn
 sin.core.access.zznet.fun
 sin01.dnscry.pt
 sin02.dnscry.pt
@@ -20447,7 +20451,6 @@ sources-using.co.cc
 sourcheese.com
 souronion.com
 soursforex.co.cc
-south-america-mask.wrr.mask.apple-dns.net
 southway.co.cc
 sowo.org
 soxy.info
@@ -22034,6 +22037,7 @@ templates24h.com
 templateweaver.com
 tender-age.co.cc
 tendous.com
+tenhh.farted.net
 tenme.info
 tenpass.com
 tenprox.co.cc
@@ -22094,6 +22098,7 @@ thab.info
 thakkali.teej.xyz
 thakurproxy.appspot.com
 than-others.co.cc
+thankchristianifthisworks.guojinloong.cn
 thankvpn.com
 tharaproxy.co.cc
 thatgura.co.cc
@@ -24156,6 +24161,7 @@ vil.mobi
 viliza.com
 villagesuper.co.cc
 villaputzu.com
+villasurf.nz.gs
 vilydom.nz.gs
 vimgi.com
 vinagre.info
@@ -24484,6 +24490,7 @@ wackosurf.co.cc
 wacks.co.cc
 wackysurf.co.cc
 wadima.com
+waermoster.sistemasplenario.ar
 wagesbrowser.co.cc
 waguns.net
 waitfree.us
@@ -24899,6 +24906,7 @@ wildsurf.info
 wildtunnel.com
 wileysurf.co.cc
 will-findway.co.cc
+willitwork.utrealestatedreamteam.com
 willy-nilly.co.cc
 wilsonproxy.co.cc
 wimax-fxproxy.co.cc
@@ -29441,7 +29449,6 @@ www.jazoink.com
 www.jazzerlock.tk
 www.jcink.com
 www.jcz.net
-www.je9.net
 www.jeal.info
 www.jebbies.com
 www.ject.info
@@ -29865,7 +29872,6 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
-www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
@@ -31740,6 +31746,7 @@ www.proxyeye.com
 www.proxyez.com
 www.proxyfacebook.com
 www.proxyfactory.cf
+www.proxyfans.com
 www.proxyfarm.com
 www.proxyfast.net
 www.proxyfb.com
@@ -32331,6 +32338,7 @@ www.proxyyoutube.info
 www.proxyz.be
 www.proxyzen.info
 www.proxyzilla.com
+www.proxz.com
 www.proxzee.com
 www.proxzero.com
 www.proxzi.com
@@ -33111,7 +33119,6 @@ www.simplycool.eu
 www.simplygr8.com
 www.simran49.info
 www.simta.cn
-www.simwit.cn
 www.sincethen.tk
 www.singal.info
 www.singleclick.info
@@ -33506,6 +33513,7 @@ www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
+www.standstrong.xyz
 www.star-ma.com
 www.starbrowser.eu
 www.starcrumb.com
@@ -35987,6 +35995,7 @@ yamoo.info
 yamp.info
 yanggan.eu.org
 yaoi.info
+yapidor.pro
 yario.ru
 yarp.lefolgoc.net
 yarvalionline.blogfa.com
