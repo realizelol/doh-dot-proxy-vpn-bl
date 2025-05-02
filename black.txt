@@ -68,6 +68,7 @@
 0fm.info
 0hide.com
 0hv.info
+0i6.net
 0jp.com
 0ke.nl
 0ms.dev
@@ -1776,7 +1777,6 @@ androidstyler.co.cc
 androidtrend.co.cc
 androidtriks.co.cc
 andromeda.hu.tl
-andromedae1.eu.org
 androsten.co.cc
 androvpn.com
 anduong.xyz
@@ -2004,6 +2004,7 @@ antiproxy.com
 antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
+antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2202,6 +2203,7 @@ as-wondering.co.cc
 as17820865.click
 as6604t-04.myasustor.com
 asafe.info
+asaforex.cz.cc
 asaldapatproxy.co.cc
 asall.info
 asavage.com
@@ -2382,6 +2384,7 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
+avambee.cz.cc
 avanquestusa.com
 avarikoteo.co.cc
 avatunnel.co.cc
@@ -2645,6 +2648,7 @@ bc3.net
 bcsmts.com
 bcuforex.co.cc
 bdns.io
+bdns.link
 bdns.pro
 bduforex.co.cc
 be-a-great.co.cc
@@ -2961,7 +2965,6 @@ bigkingfun.com
 bigma.org
 bigmoon.info
 bignet.info
-bigpoppa.epicgamer.org
 bigprox.co.cc
 bigprox.com
 bigproxbypass.tk
@@ -3274,7 +3277,6 @@ boi9osyg1uwtyafn.com
 boink.zxq.net
 boir.net
 boisterous-fire.co.cc
-bokkki.oops.wtf
 boldproxy.com
 bolehvpn.net
 boln.info
@@ -4153,7 +4155,6 @@ checkrighttime.co.cc
 checksbox.co.cc
 checkthe.info
 checktlistsed.co.cc
-checkup-proxies.cz.cc
 checkwiki.info
 cheekychipmunk.com
 cheekyproxy.com
@@ -4266,7 +4267,6 @@ classic.ben.ru
 classicpen.us
 classmeet.co.cc
 classref.com
-classroom.haoqiw.com
 claustrophobia.co.cc
 clav.info
 clavierarabeenligne.com
@@ -4286,6 +4286,7 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
+clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4381,6 +4382,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -11075,6 +11077,7 @@ home.tuankhaiit.com
 home.vps.mtsdns.ru
 home.wriedts.de
 home.zonnet.nl
+home27.duckdns.org
 home3.brosena.xyz
 home47a.mooo.com
 home721.co.cc
@@ -13550,7 +13553,6 @@ mathcampus.co.cc
 mathcookbook.com
 mathcourses.co.cc
 mathease.cn
-mathew-hill.net4ria.com
 mathhelpnow.site
 mathhome.info
 mathide.co.cc
@@ -19471,7 +19473,6 @@ scotcforex.co.cc
 scottdylewski.com
 scrapebomb.co.cc
 screw-school-blockers.co.cc
-screwedupclick.ufodns.com
 screwpushed.co.cc
 scriptdigitalproxy.co.cc
 scriptdownloads.com
@@ -22098,7 +22099,6 @@ thab.info
 thakkali.teej.xyz
 thakurproxy.appspot.com
 than-others.co.cc
-thankchristianifthisworks.guojinloong.cn
 thankvpn.com
 tharaproxy.co.cc
 thatgura.co.cc
@@ -27230,7 +27230,6 @@ www.demonproxy.com
 www.denguetreatment.com
 www.denied.in
 www.dentage.com
-www.deorex.com
 www.dependability.info
 www.dephyr.com
 www.deproxy.com
@@ -27660,7 +27659,6 @@ www.eyou.eu
 www.eyym.com
 www.ez9.info
 www.ezcrack.info
-www.ezhide.com
 www.ezpow.com
 www.ezproxee.info
 www.ezproxies.com
@@ -29872,6 +29870,7 @@ www.loginall.com
 www.loginfreedom.com
 www.loginproxy.com
 www.logonhelp.com
+www.logpi.net
 www.logproxy.com
 www.lolipantsu.net
 www.lolwut.info
