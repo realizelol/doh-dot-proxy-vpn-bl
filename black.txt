@@ -637,7 +637,6 @@
 9r4.net
 9rk.info
 9s3.net
-9w9.org
 9y2.net
 a-4.info
 a-5.info
@@ -3138,7 +3137,6 @@ blockage.pro.vg
 blockage.qc.to
 blockaway.com
 blockaway.net
-blockawayproxy.net
 blockbeat.info
 blockbeater.com
 blockbegone.com
@@ -3607,7 +3605,6 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -4211,6 +4208,7 @@ chromeproxy.net
 chromium.dns.nextdns.io
 chronicle14.tplinkdns.com
 chronicorders.co.cc
+chuan.usa.cc
 chubbybunny.info
 chuforex.co.cc
 chuiyixiaproxy.tk
@@ -4518,7 +4516,6 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
-compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -4534,7 +4531,6 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5093,6 +5089,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -6460,6 +6457,7 @@ dns.suhaila.dev
 dns.sung-il.kim
 dns.supercluster.io
 dns.superstefan.win
+dns.surfsharkdns.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
@@ -7129,7 +7127,6 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
-doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -7911,7 +7908,6 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -10311,6 +10307,7 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
+greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -10848,7 +10845,6 @@ hideonline.net
 hideoxy.com
 hidepath.com
 hidepoint.com
-hidepost.com
 hideproxies.cf
 hideproxy.nu
 hideproxyfree.co.cc
@@ -11793,6 +11789,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -18220,7 +18217,6 @@ proxywiz.com
 proxywizards.com
 proxywork.com
 proxyworks.com
-proxyworm.com
 proxywsay.info
 proxywsproxys.tk
 proxywsurf.tk
@@ -23909,6 +23905,7 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
+usproxy.usa.cc
 usproxyserver.info
 ussurfer.nz.gs
 ustrip.co.cc
@@ -23950,6 +23947,7 @@ v-itc.be
 v.cyberbomber.co.cc
 v.dnscrypt.uk
 v.itsa.cc
+v.recipes
 v.yuwentian.com
 v04.info
 v1.ufamax.eu
@@ -28115,6 +28113,7 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
+www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -29479,7 +29478,6 @@ www.jumpthewall.com
 www.junemoon.net
 www.jungleproxy.com
 www.junov.com
-www.jupopo.com
 www.just-doit.com
 www.justbypass.com
 www.justclothes.info
@@ -33474,6 +33472,7 @@ www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
+www.standstrong.xyz
 www.star-ma.com
 www.starbrowser.eu
 www.starcrumb.com
