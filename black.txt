@@ -394,7 +394,6 @@
 30t.online
 310.in
 3114.info
-31344.com
 3158.info
 317252.xyz
 3326proxxs.tk
@@ -472,7 +471,6 @@
 4ine.com
 4jh.org
 4love.info
-4proxy.com
 4proxy.de
 4proxy.u0.org
 4proxyfree.co.cc
@@ -2714,7 +2712,6 @@ beemine.info
 beenbanned.com
 beepassvpn.com
 beepboopbop.iamadeveloper.dev
-beeper.cz.cc
 beerbreak.co.cc
 beerforex.co.cc
 beespeed.info
@@ -3605,6 +3602,7 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
+business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -4379,6 +4377,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4516,6 +4515,7 @@ companysecurty.co.cc
 companystock.co.cc
 comparative-overview.co.cc
 compared.asdfg.us
+compatible.cz.cc
 compatibleware.co.cc
 comperativelaw.co.cc
 competition-freedom.co.cc
@@ -4531,6 +4531,7 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -6759,6 +6760,7 @@ dnsfilter.domotik.us
 dnsforfamily.com
 dnsforge.de
 dnsguard.hte.vn
+dnsguard.pub
 dnsjp.3300000.xyz
 dnsjp.akali666.top
 dnsk.schimtar.com
@@ -7127,6 +7129,7 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -7732,6 +7735,7 @@ erp-itc.be
 erpdatadsl.co.cc
 erproxy.tk
 errita.co.cc
+error.proxy.startpage.com
 ersiforex.co.cc
 eruptmountnow.co.cc
 es-mad-w-2.nashkan.net
@@ -7778,10 +7782,8 @@ etunnel.org
 etyet.com
 eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
-eu-proxy.startpage.com
 eu.doh.sb
 eu.tri-dns.net
-eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -7908,6 +7910,7 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
+extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -14354,6 +14357,7 @@ narforex.co.cc
 narikbang.co.cc
 narina.co.cc
 narp.fr.to.joe.dj
+narrfgames.tk
 narrow-seam.co.cc
 narrow-space.co.cc
 narvu.com
@@ -14698,7 +14702,6 @@ ninjaweb.xyz
 ninjaworm.com
 ninjazone.info
 ninlerface.tk
-ninny.duckdns.org
 nintendo3d.co.cc
 nirbytes.com
 niru.info
@@ -17104,7 +17107,6 @@ proxy.spacekids.nl
 proxy.spikey.ws
 proxy.splinteredmedia.net
 proxy.srs.su
-proxy.startpage.com
 proxy.sunsen.net
 proxy.supersloppy.com
 proxy.sx
@@ -17171,7 +17173,6 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
-proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -17184,7 +17185,6 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
-proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -17470,7 +17470,6 @@ proxyeye.com
 proxyez.com
 proxyfacebook.com
 proxyfactory.io
-proxyfans.com
 proxyfarm.com
 proxyfast.net
 proxyfastpro.appspot.com
@@ -23622,7 +23621,6 @@ unifi.be2aja.my.id
 unifi.carioka.com
 unifiedvpn.com
 unifox.info
-union.narrowad.com
 unionforex.co.cc
 unionproxy.c8.biz
 unionsurf.co.cc
@@ -23833,7 +23831,6 @@ us-nyc-w-p-1.nashkan.net
 us-proxies.com
 us-proxy.co.cc
 us-proxy.org
-us-proxy.startpage.com
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us-sea-w-5.nashkan.net
@@ -24407,7 +24404,6 @@ vps01.bbhc.xyz
 vps1.jnraptor.net
 vps2.jnraptor.net
 vpscheap.co.cc
-vpschito.duckdns.org
 vpssale.com
 vpssell.com
 vpsurf.co.cc
@@ -24732,7 +24728,6 @@ webunlocker.com
 webuzz.net
 webvq.com
 webwarper.net
-webwj.com
 webwq.com
 webxify.com
 webyah.com
@@ -29095,6 +29090,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -29367,7 +29363,6 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
-www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -31705,7 +31700,6 @@ www.proxyeye.com
 www.proxyez.com
 www.proxyfacebook.com
 www.proxyfactory.cf
-www.proxyfans.com
 www.proxyfarm.com
 www.proxyfast.net
 www.proxyfb.com
@@ -35211,7 +35205,6 @@ www.webunlocker.com
 www.webuzz.net
 www.webvq.com
 www.webwarper.net
-www.webwj.com
 www.webwondro.tk
 www.webwq.com
 www.webxify.com
