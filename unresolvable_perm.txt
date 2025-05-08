@@ -16918,6 +16918,7 @@ cornertables.info
 cornproxy.com
 cornway.info
 corona1.co.uk
+corona1.eu.org
 coronamonkey.com
 coronaproxy.tk
 coroxies-speedukas.tk
@@ -71785,6 +71786,7 @@ spurred.clawed.info
 sput.info
 spy.black
 spy.co.nl
+spyaccess.nz.gs
 spyads.com
 spyblock.hu.tl
 spybootbypass.tk
