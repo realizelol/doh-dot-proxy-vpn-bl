@@ -619,6 +619,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -1358,7 +1359,6 @@ aeroproxy.com
 aestheticgaming.com
 aetforex.co.cc
 aeuforex.co.cc
-aeyx.com
 afaforex.cz.cc
 afec.info
 affiliateway.com
@@ -2112,6 +2112,7 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
+araforex.cz.cc
 aragonez.co.cc
 arandomproxy.com
 arashi.eu.org
@@ -2842,7 +2843,6 @@ bestproxies.net
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
-bestproxy.cz.cc
 bestproxy.info
 bestproxy.tld.cc
 bestproxy4you.blogspot.com
@@ -2863,6 +2863,7 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
+bestspeed.cz.cc
 bestspin.info
 bestssh.net
 bestsslproxy.info
@@ -4074,7 +4075,6 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
-centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4383,6 +4383,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -11963,7 +11964,6 @@ iunblockwebsites.com
 iunblockwebsites.info
 iunknown.net
 iunlimit.com
-iuuy.com
 iuytrewq.com
 ivacy.com
 ivacyvpn.com
@@ -12293,6 +12293,7 @@ jyje.com
 jylppy69.riemurasia.net
 jyrm.com
 jzmz.com
+k-s-edition.ru
 k-tunnel.com
 k03.dedyn.io
 k0p.net
@@ -17183,7 +17184,6 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
-proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -17196,7 +17196,6 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
-proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -27628,7 +27627,6 @@ www.extrasneaky.com
 www.extremeproxy.com
 www.eyet.info
 www.eyou.eu
-www.eyym.com
 www.ez9.info
 www.ezcrack.info
 www.ezhide.com
@@ -27876,7 +27874,6 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
