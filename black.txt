@@ -1359,6 +1359,7 @@ aeroproxy.com
 aestheticgaming.com
 aetforex.co.cc
 aeuforex.co.cc
+aeyx.com
 afaforex.cz.cc
 afec.info
 affiliateway.com
@@ -2649,7 +2650,6 @@ bc3.net
 bcsmts.com
 bcuforex.co.cc
 bdns.io
-bdns.link
 bdns.pro
 bduforex.co.cc
 be-a-great.co.cc
@@ -2843,6 +2843,7 @@ bestproxies.net
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
+bestproxy.cz.cc
 bestproxy.info
 bestproxy.tld.cc
 bestproxy4you.blogspot.com
@@ -4075,6 +4076,7 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
+centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4383,7 +4385,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -7139,7 +7140,6 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -11964,6 +11964,7 @@ iunblockwebsites.com
 iunblockwebsites.info
 iunknown.net
 iunlimit.com
+iuuy.com
 iuytrewq.com
 ivacy.com
 ivacyvpn.com
@@ -17184,6 +17185,7 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
+proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -17518,7 +17520,6 @@ proxyfree.de
 proxyfree.me
 proxyfree.org
 proxyfree.us
-proxyfreedom.cn
 proxyfreeyoutube.free.fr
 proxyfrenzy.co.nr
 proxyfriend.com
@@ -25630,7 +25631,6 @@ www.ae13.com
 www.aeri.info
 www.aeroproxy.com
 www.aestheticgaming.com
-www.aeyx.com
 www.afec.info
 www.affiliateway.com
 www.affordable-seo-services.net
@@ -27627,6 +27627,7 @@ www.extrasneaky.com
 www.extremeproxy.com
 www.eyet.info
 www.eyou.eu
+www.eyym.com
 www.ez9.info
 www.ezcrack.info
 www.ezhide.com
@@ -27874,6 +27875,7 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -30899,7 +30901,6 @@ www.pazzip.com
 www.pc-portal.at
 www.pcbypass.info
 www.pcgraffiti.com
-www.pcmesh.com
 www.pcquest.info
 www.pcriot.com
 www.pcwebtalk.com
@@ -31742,7 +31743,6 @@ www.proxyfree.me
 www.proxyfree.org
 www.proxyfree.pl
 www.proxyfree.us
-www.proxyfreedom.cn
 www.proxyfriend.com
 www.proxyftp.com
 www.proxyfu.com
@@ -35708,7 +35708,6 @@ www.zippyfile.com
 www.zippyproxy.com
 www.zirfy.com
 www.zlaze.com
-www.zm8.org
 www.zmienip.pl
 www.zncx.com
 www.zo2.info
