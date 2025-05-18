@@ -4213,7 +4213,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4430,6 +4429,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -6688,7 +6688,6 @@ dns.zion.dev
 dns.zky666.fun
 dns.zkz.cloud
 dns.zoogle.cn
-dns.zui.lol
 dns.zxi7.cn
 dns.zyzh20021020.cn
 dns.zzuhacker.cn
@@ -7147,7 +7146,6 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domaino.cz.cc
 domainownership.us
 domainproxie.co.cc
@@ -9121,6 +9119,7 @@ franceproxy.pw
 frank-web.dedyn.io
 fraudcrew.com
 frb.in
+frd4wvnobp.cloudflare-gateway.com
 freaforex.co.cc
 freakness.co.cc
 freaky.ws
@@ -10690,6 +10689,7 @@ hellomyfriend.co.cc
 helloproxy.com
 helloschool.info
 hellotaka.iiiii.info
+hellotaka.wiki.gd
 helloteacher.info
 helloworld.cx
 helloyo.com
@@ -11618,6 +11618,7 @@ ilron.com
 iluminiss.com
 ilumu.com
 iluvjz.info
+iluvpoxy.net78.net
 ilysk.lol
 im-free.net
 im-in-the-thick-of-it-everybody-knows.dynorex.com
@@ -11920,6 +11921,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -11929,6 +11931,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -14567,7 +14570,6 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -15384,7 +15386,6 @@ onefastnonimous.co.cc
 onehide.com
 oneinoneout.com
 onejk.com
-oneletter.info
 oneonly.info
 oneproxies1.co.cc
 oneproxy.biz
@@ -16305,7 +16306,6 @@ polandfreeproxy.blogspot.fr
 polandgrows.com
 polaris.cx
 polaris.mrmartian.co
-polaris1.eu.org
 polarproxy.com
 pole.ws
 poleside.co.cc
@@ -18712,6 +18712,7 @@ quloan.fibersurf.co.cc
 quods.co.cc
 quotefreebies.co.cc
 quoters.info
+quotivatehub.com
 quppy.com
 quq.flymlc.com
 qwerty.web-pros.co.uk
@@ -18784,6 +18785,7 @@ rammerhead.d-n-s.name
 rammerhead.eu.org
 rammerhead.geometry-games.online
 rammerhead.oops.wtf
+ramosearch.comlu.com
 rampokbrokerforex.co.cc
 ranamaddadaaaadjka.ve3.info
 ranco.info
@@ -19205,6 +19207,7 @@ rockbreaker.co.cc
 rocket-launch.info
 rocketbay.info
 rocketcloud.info
+rocketprox.com
 rocketproxy.net
 rocketsurf.net
 rocketube.online
@@ -19268,6 +19271,7 @@ roskomnadzorgorivadu.ru
 rotar.info
 roucious.dyndns-remote.com
 roundforex.co.cc
+roundrockisd.online
 route-more.co.cc
 route.netshi.cn
 router.ahzol.com
@@ -19901,7 +19905,6 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
-server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -21250,7 +21253,6 @@ superglow.co.cc
 supergreenstuff.com
 superhiders.co.cc
 supernova1.co.uk
-supernova1.eu.org
 superplane.co.cc
 superprivacyguard.com
 superproxies.com
@@ -22086,6 +22088,7 @@ switchvpn.com
 switchvpn.net
 swizztime.com
 swoletux.ave.zone
+swordvpn.com
 swoshsvpn.com
 swvw.net
 sx.bnds.link
@@ -22270,6 +22273,7 @@ test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
 test.net46.net
+test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -22605,6 +22609,7 @@ tmhhd.tk
 tmpfree.com
 tngch.mydns.jp
 tntproxy.com
+tnvpn.com
 to-continue.co.cc
 toaccess.co.cc
 toastedpenguin.com
@@ -24367,6 +24372,7 @@ videonew.online
 videoproxy.site
 videoshare.nz.gs
 videounblock.com
+videounblocked.com
 videounblocker.net
 vidio.info
 vidproxy.com
@@ -24524,6 +24530,7 @@ vpn-free.com
 vpn-free.download
 vpn-professional.company
 vpn-proxies.co.cc
+vpn-quick.com
 vpn-ru-msk.pakharenko.ru
 vpn-sd.ff.avast.com
 vpn-server.xyz
@@ -25122,6 +25129,7 @@ widesurf.appspot.com
 widevpn.com
 widf.info
 widnows.net
+wiefy.com
 wifixl.com
 wifrousl.spdns.de
 wigl.org
@@ -29371,6 +29379,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -29729,7 +29738,6 @@ www.jm9.info
 www.jmarshall.com
 www.jn0.info
 www.jobmejlet.com
-www.joeltheodore.com
 www.joeproxy.com
 www.jofo.info
 www.johnsoninteractive.com
@@ -36167,6 +36175,7 @@ xray.krnl.eu
 xrea.cpshow.com
 xredx.co.cc
 xsent.com
+xsfwow.com
 xsproxy.com
 xsproxyhtc.tk
 xsproxyhtcs.tk
@@ -36411,6 +36420,7 @@ ytcroxyproxy.com
 ytunnel.com
 yuanmingming.com
 yufe.info
+yui.cat
 yujunwanwu.cn
 yukito.duanzx.top
 yul01.dnscry.pt
@@ -36528,6 +36538,7 @@ zerovpn-app.com
 zetland.rm-ni.uk
 zeusvps.cloudns.nz
 zeuz.org
+zexusdigital.online
 zfilez.org
 zfreez.com
 zgta.com
