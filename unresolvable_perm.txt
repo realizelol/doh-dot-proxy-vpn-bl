@@ -47319,6 +47319,7 @@ myprox-safety.tk
 myprox.cu.cc
 myprox.in
 myprox.net
+myprox.persianblog.ir
 myprox.tk
 myprox7.info
 myproxer.info
