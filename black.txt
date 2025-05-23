@@ -1,7 +1,6 @@
 .16clouds.com
 .vultrusercontent.com
 0--0.0--0.blue-jade.net
-0--0.moneyextravaganza.com
 0-0-0-0-0-0-0-0-0.20megsfree.com
 0-0-0-0-0-0proxy.tserv.se
 0-0-0-0go.sxn.us
@@ -1857,7 +1856,6 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
-anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2012,15 +2010,12 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
-antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
-antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
-antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2083,7 +2078,6 @@ apollon.nz.gs
 apoo.info
 apoyar.info
 app.kepegawaiandju.id
-app.tollgatevillagetn.com
 apparelnews.co.cc
 appart.yoannchappaz.best
 appearancesurf.co.cc
@@ -2129,6 +2123,7 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
+araforex.cz.cc
 aragonez.co.cc
 arandomproxy.com
 arashi.eu.org
@@ -2554,7 +2549,6 @@ baedns.duckdns.org
 bafana-bafana.co.cc
 bagelwood.com
 bagolen.co.cc
-bahisci.net
 baiduproxy.ws
 bailige.com
 bailouthere.co.cc
@@ -2829,7 +2823,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -3401,6 +3394,7 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
+brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -3469,7 +3463,6 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
-brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -3639,7 +3632,6 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -3967,7 +3959,6 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
-carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -6107,7 +6098,6 @@ dns.jundev.org
 dns.jungle-im.ir
 dns.junhengyun.com
 dns.jupitrdns.com
-dns.jupitrdns.net
 dns.just-hosting.net
 dns.justinnetworkingsolutions.com
 dns.juyic.cn
@@ -6849,6 +6839,7 @@ dnssilo.top
 dnssp.koretech.com.br
 dnstls.mobik.com
 dnstr.3300000.xyz
+dnstunnel.run
 dnstw.3300000.xyz
 dnstx.axhy.cc
 dnsupstream02.familieberfelo.nl
@@ -7127,6 +7118,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -7996,6 +7988,7 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
+extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -9790,6 +9783,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -9925,6 +9919,7 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
+getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -10541,6 +10536,8 @@ h0w.cc
 h0x.org
 h2oproxy.com
 h3y.info
+h4g3z1-doh-vpn-proxy-bypass.web.app
+h4g3z1-doh.web.app
 h6j.info
 h7j.org
 h8m.net
@@ -16416,7 +16413,7 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -17364,7 +17361,6 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
-proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -18776,6 +18772,7 @@ rammerhead.d-n-s.name
 rammerhead.eu.org
 rammerhead.geometry-games.online
 rammerhead.oops.wtf
+ramosearch.comlu.com
 rampokbrokerforex.co.cc
 ranamaddadaaaadjka.ve3.info
 ranco.info
@@ -19448,7 +19445,6 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -19938,7 +19934,6 @@ servicevista.co.cc
 servicework.info
 servis4u.top
 servit.biz
-servou.com
 sescloud.club
 sest.info
 setfast.co.cc
@@ -22268,6 +22263,7 @@ test.businessconnect.com.tr
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
+test.net46.net
 test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
@@ -29370,6 +29366,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -33967,7 +33964,6 @@ www.surfercamps.com
 www.surferhotty.tk
 www.surfert.nl
 www.surfeverything.info
-www.surfeverywhere.com
 www.surfexplore.tk
 www.surffast.us
 www.surffreedom.com
