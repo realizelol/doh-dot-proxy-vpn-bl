@@ -7264,6 +7264,7 @@ autosmsnwebs.tk
 autosse.tk
 autosturning.tk
 autosurf.space
+autosurfing.cz.cc
 autosurfing.tk
 autotienda.info
 autotitleloans.tk
@@ -14832,6 +14833,7 @@ checkshop.tk
 checksurf.tk
 checkunblockweb.co.tv
 checkunblockweb.tk
+checkup-proxies.cz.cc
 checkuphealth-ip.info
 checkwebpage.info
 checkyourspace.info
@@ -19908,6 +19910,7 @@ doh.lee1024.xyz
 doh.libredns.org
 doh.linuxsec.org
 doh.lujiacai.top
+doh.morizt.id
 doh.nala.ru
 doh.netweaver.uk
 doh.niyaru.xyz
