@@ -1,6 +1,7 @@
 .16clouds.com
 .vultrusercontent.com
 0--0.0--0.blue-jade.net
+0--0.moneyextravaganza.com
 0-0-0-0-0-0-0-0-0.20megsfree.com
 0-0-0-0-0-0proxy.tserv.se
 0-0-0-0go.sxn.us
@@ -1856,6 +1857,7 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
+anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2010,12 +2012,15 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
+antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
+antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
+antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -2731,6 +2736,7 @@ beemine.info
 beenbanned.com
 beepassvpn.com
 beepboopbop.iamadeveloper.dev
+beeper.cz.cc
 beerbreak.co.cc
 beerforex.co.cc
 beespeed.info
@@ -2823,6 +2829,7 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
+bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -2858,7 +2865,6 @@ bestproxies.net
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
-bestproxy.cz.cc
 bestproxy.info
 bestproxy.tld.cc
 bestproxy4you.blogspot.com
@@ -2873,7 +2879,6 @@ bestrealm.com
 bestrug.co.cc
 bestscience.info
 bestsecret.info
-bestsecuredloans.cz.cc
 bestserverproxy.co.cc
 bestservers.org
 bestsimple.info
@@ -3394,7 +3399,6 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
-brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -3462,7 +3466,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -3632,6 +3635,7 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
+business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -4202,7 +4206,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -5434,6 +5437,7 @@ diapetproxy.co.cc
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6839,7 +6843,6 @@ dnssilo.top
 dnssp.koretech.com.br
 dnstls.mobik.com
 dnstr.3300000.xyz
-dnstunnel.run
 dnstw.3300000.xyz
 dnstx.axhy.cc
 dnsupstream02.familieberfelo.nl
@@ -7119,7 +7122,6 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
-domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -7134,7 +7136,6 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -7988,7 +7989,6 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -16413,6 +16413,7 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
 poxygoyo.comze.com
 pozzop.com
 pp317.a-auc.net
@@ -19445,6 +19446,7 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
+saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -20654,7 +20656,6 @@ spaceburner.com
 spacebypass.co.cc
 spacechannel.info
 spacechat.info
-spacecloaker.com
 spacedns.org
 spacehide.com
 spaceinternet.info
@@ -22080,7 +22081,6 @@ switchvpn.com
 switchvpn.net
 swizztime.com
 swoletux.ave.zone
-swordvpn.com
 swoshsvpn.com
 swvw.net
 sx.bnds.link
@@ -24514,7 +24514,6 @@ vpn-free.com
 vpn-free.download
 vpn-professional.company
 vpn-proxies.co.cc
-vpn-quick.com
 vpn-ru-msk.pakharenko.ru
 vpn-sd.ff.avast.com
 vpn-server.xyz
@@ -33964,6 +33963,7 @@ www.surfercamps.com
 www.surferhotty.tk
 www.surfert.nl
 www.surfeverything.info
+www.surfeverywhere.com
 www.surfexplore.tk
 www.surffast.us
 www.surffreedom.com
@@ -33997,7 +33997,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -36379,7 +36378,6 @@ youtubeproxy.win
 youtubeproxy.ws
 youtubeunblocked.com
 youtubeunblocked.live
-youtubeunblocked.org
 youtubeunblocker.co.uk
 youtubeunblocker.org
 youtubeunlocked.com
