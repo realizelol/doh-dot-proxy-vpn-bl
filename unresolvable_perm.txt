@@ -19647,6 +19647,7 @@ dns.itcz.xyz
 dns.itdept.pro
 dns.ivyeori.live
 dns.jucker.engineering
+dns.jupitrdns.net
 dns.karmanet.ch
 dns.kashall.dev
 dns.kawpad.tk
@@ -68621,6 +68622,7 @@ servicespeedextra.tk
 servicetkrrychristmas.tk
 servingcool.info
 servostock.tk
+servou.com
 servr.biz
 servtc.tk
 servworld.org
