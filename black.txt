@@ -1288,7 +1288,6 @@ adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
-adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -2068,6 +2067,7 @@ aors.net
 aosomi.com
 aotforex.co.cc
 aouforex.co.cc
+apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -2577,7 +2577,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -2799,7 +2798,6 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
-best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -2867,7 +2865,6 @@ bestproxies.net
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
-bestproxy.cz.cc
 bestproxy.info
 bestproxy.tld.cc
 bestproxy4you.blogspot.com
@@ -3188,6 +3185,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -4390,7 +4388,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4430,7 +4427,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4586,7 +4582,6 @@ comproxy.com
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -7146,7 +7141,6 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -8754,7 +8748,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9351,6 +9344,7 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
+freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -12426,6 +12420,7 @@ jyje.com
 jylppy69.riemurasia.net
 jyrm.com
 jzmz.com
+k-s-edition.ru
 k-tunnel.com
 k03.dedyn.io
 k0p.net
@@ -17381,6 +17376,7 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
+proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -25896,7 +25892,6 @@ www.ae13.com
 www.aeri.info
 www.aeroproxy.com
 www.aestheticgaming.com
-www.aeyx.com
 www.afec.info
 www.affiliateway.com
 www.affordable-seo-services.net
@@ -26592,7 +26587,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -29645,7 +29639,6 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
-www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -29782,7 +29775,6 @@ www.juvo.info
 www.juvos.com
 www.jvip.net
 www.jvn.in
-www.jyje.com
 www.jyrm.com
 www.jzmz.com
 www.k-tunnel.com
@@ -32657,6 +32649,7 @@ www.qbcv.com
 www.qeoz.com
 www.qgdw.com
 www.qgfo.com
+www.qhah.com
 www.qianmingwei.cn
 www.qiche008.com
 www.qifuban.cn
@@ -33110,6 +33103,7 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
+www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
@@ -36357,6 +36351,7 @@ yourproxi.com
 yourproxies.com
 yourproxy.com
 yourproxy.eu
+yourproxy.site40.net
 yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
@@ -36388,6 +36383,7 @@ youtubeunlocked.com
 youtubewebproxy.com
 youtubproxyusa.gq
 youtubska.nz.gs
+youtubz.nz.gs
 youunblocker.co.cc
 youwillpass.co.cc
 yovbak.com
