@@ -1777,7 +1777,6 @@ an0n.info
 an81.ddns.net
 an81dns.ru
 ana.goodluckwith.us
-anachem.online
 anaforex.cz.cc
 anagy.net
 analise.info
@@ -1887,6 +1886,7 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
+anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -4505,7 +4505,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -6822,6 +6821,7 @@ dns1.biryuk.name
 dns1.blackrandcrf.ru
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
+dns1.dns-ga.de
 dns1.dnscrypt.ca
 dns1.gdie.top
 dns1.gms.net.id
@@ -6875,6 +6875,7 @@ dns2.cbio.top
 dns2.cybrespace.net
 dns2.digitalcourage.de
 dns2.digitale-gesellschaft.ch
+dns2.dns-ga.de
 dns2.gms.net.id
 dns2.gregoret.com.ar
 dns2.guidocioni.it
@@ -6910,6 +6911,7 @@ dns2.vinc.me
 dns2.ytpom.ru
 dns2007lists.co.cc
 dns2vps.porteii.com
+dns3.dns-ga.de
 dns3.hu10us22.win
 dns3.srv.augh.ru
 dns3.wistarip.com
@@ -6995,6 +6997,7 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7094,6 +7097,7 @@ doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
+doh.dns-ga.de
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.mozilla.com
 doh.dns.sb
@@ -7236,7 +7240,6 @@ doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh2.seby.io
 doh3.almir1904.eu
-dohde.blahdns.com
 dohdns.com
 dohdot.coxlab.net
 dohsg.blahdns.com
@@ -7320,6 +7323,7 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -7956,7 +7960,6 @@ erp-itc.be
 erpdatadsl.co.cc
 erproxy.tk
 errita.co.cc
-error.proxy.startpage.com
 error404becausepar1scantlose.run.place
 ersiforex.co.cc
 eruptmountnow.co.cc
@@ -10093,6 +10096,7 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
+getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -10742,6 +10746,7 @@ haeundae.co.cc
 haf01.dnscry.pt
 hahasurf.co.cc
 hahnjo.de
+haihu-by-scrsa.3cm.us
 hailey-complex.xst.cl
 hailtolucifer.co.cc
 hairlazer.co.cc
@@ -11420,6 +11425,7 @@ hostbabies.co.cc
 hostdare.qtxd.net
 hostdare.xinyi0668.com
 hostedadguard.greatharts.com
+hostedweb.info
 hosteg.net
 hosteria.org
 hosterzall.co.cc
@@ -12718,6 +12724,7 @@ kavkazskiy.co.cc
 kawanen.co.cc
 kawpad.southeastasia.cloudapp.azure.com
 kaxy.com
+kazuma-fumo.24-7.ro
 kcicode.co.cc
 kclan.co.cc
 kcolspacrm.ir
@@ -13853,7 +13860,6 @@ mammaforex.co.cc
 mamproxy.w57.100dns.com
 man01.dnscry.pt
 manage-accounts.co.cc
-managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -14368,6 +14374,7 @@ monicas.co.cc
 monitorpc.co.cc
 monkcombo.co.cc
 monkeyaround.net
+monkeydoo.hardsoft.nu
 monkeyfunky.co.uk
 monkeyriver.co.cc
 monkeysigns.com
@@ -15080,6 +15087,7 @@ nexsos.syac.ca
 next-fact.co.cc
 next.atomix.in
 next.miao.ninja
+next.rinet.ai
 nextdns.io
 nextgen.nex.sh
 nextgenproxy.com
@@ -15246,6 +15254,7 @@ nocensor.work
 nocfmc.cc
 nocookie.co.cc
 nocrap.co.cc
+nodamirai.hec.to
 nodap.com
 node3.b4el.ru
 node9.servernode.store
@@ -15656,6 +15665,7 @@ olympicproxy.net
 omar.linxy.eu
 omarcreatedthis.linxy.eu
 ombligo.info
+omega.xetaz.net
 omegafrans.co.cc
 omegaproxy.com
 omgland.com
@@ -16000,6 +16010,7 @@ oto-bypass.co.cc
 ott01.dnscry.pt
 ottilee.net
 otunnel.com
+ougonokaze.cheftayebeh.ir
 ound.info
 our-services.brittainlawfirm.net
 ourcraft.ddnss.de
@@ -16411,7 +16422,6 @@ phproxy.co.uk
 phproxy.co.za
 phproxy.com
 phproxy.info
-phproxy.mo.cx
 phproxy.net.ru
 phproxy.org
 phproxy.us
@@ -16533,7 +16543,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -17041,6 +17050,7 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -20115,6 +20125,7 @@ secretway.info
 secsurf.helptool.net
 secsurfing.com
 sections-way.co.cc
+secure-dns.dns-ga.de
 secure-dns.gridlax.com
 secure-dns.pleumkungz.com
 secure-hide.co.cc
@@ -20267,6 +20278,7 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
+server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -20486,7 +20498,6 @@ shockterrible.co.cc
 shoe-money.co.cc
 shoedmakers.co.cc
 shop-books-school.vercel.app
-shop.beautydiskount.ru
 shop.lang.hm
 shop.petfood.ro
 shop.woodworker.cl
@@ -21350,6 +21361,7 @@ starsurfer.co.cc
 start-allright.co.cc
 start-established.co.cc
 start-open.co.cc
+start.puto.me
 start.succeed.cl
 start90.com
 startbrowse.com
@@ -21606,6 +21618,7 @@ suff.info
 suh.casucha.cl
 suhdihlightspeed.xiayu7.cn
 suitableplan.co.cc
+suken.cfmr.ro
 sukidayo.eu.org
 summerbeach.co.cc
 summerclass.info
@@ -22131,6 +22144,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22543,6 +22557,7 @@ taihenomatasesimasita.laviewddns.com
 tailiz.com
 tailnet.ru
 tails.boum.org
+tails.ospa.fi
 tailscale.com
 tailtunnel.co.cc
 taiwanexportss.co.cc
@@ -22747,6 +22762,7 @@ the-outstanding.co.cc
 the-past-few.co.cc
 the-revolutionary.co.cc
 the-rockway.co.cc
+the.infocommthailand.com
 the.norushcharge.com
 the.simplecharity.com
 the3unkn0wn.co.cc
@@ -24500,7 +24516,6 @@ urvideoplanet.com
 us-ash-w-f-1.nashkan.net
 us-atl-w-1.nashkan.net
 us-atl-w-2.nashkan.net
-us-browse.startpage.com
 us-chi-w-1.nashkan.net
 us-chi-w-2.nashkan.net
 us-chi-w-3.nashkan.net
@@ -28623,7 +28638,6 @@ www.firehack.net
 www.fireheap.com
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -30126,7 +30140,6 @@ www.iunblocksites.info
 www.iunblockwebsites.com
 www.iunblockwebsites.info
 www.iunlimit.com
-www.iuuy.com
 www.iuytrewq.com
 www.ivci.org
 www.iverve.com
@@ -31692,7 +31705,6 @@ www.phantomproxy.com
 www.pharst.com
 www.phas.info
 www.phaseyou.com
-www.phhu.com
 www.philpower.com
 www.phoenixproxy.com
 www.phoenixshare.com
@@ -32920,6 +32932,7 @@ www.proxystreet.com
 www.proxysubmit.com
 www.proxysupply.com
 www.proxysure.com
+www.proxysurf.com
 www.proxysurf.me
 www.proxysurf.org
 www.proxysurf.pl
@@ -34483,6 +34496,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -36262,6 +36276,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
