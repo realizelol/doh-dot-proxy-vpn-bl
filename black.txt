@@ -1300,7 +1300,6 @@ adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
-adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -1527,7 +1526,6 @@ ajrforex.co.cc
 ajtforex.co.cc
 ajuforex.co.cc
 ak58.com
-akaforex.cz.cc
 akainuforex.co.cc
 akashiro.co.id
 akdis.cn
@@ -1544,7 +1542,6 @@ akuforex.co.cc
 akund.com
 akunssh.net
 akylah.zapto.org
-alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
 alanis.igalan.com
@@ -1886,6 +1883,7 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
+anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -2031,7 +2029,6 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
-antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
@@ -2835,7 +2832,6 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
-best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -2867,7 +2863,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -2903,7 +2898,6 @@ bestproxies.net
 bestproxy-health.co.cc
 bestproxy.biz
 bestproxy.com
-bestproxy.cz.cc
 bestproxy.info
 bestproxy.tld.cc
 bestproxy4you.blogspot.com
@@ -3527,7 +3521,6 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
-brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -3702,7 +3695,6 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -3882,7 +3874,6 @@ bypasswithmyproxy.co.cc
 bypassxproxy.co.cc
 bypassy.com
 bypasszone.com
-byproxy.cz.cc
 bypssd.co.cc
 byteme.info
 bytzvpn.com
@@ -4034,7 +4025,6 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
-carcenter.cz.cc
 card.thegalleryofart.org
 cardir.tk
 cardproxy.co.cc
@@ -4185,7 +4175,6 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
-centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4249,6 +4238,7 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
+cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -4290,7 +4280,10 @@ chicsurf.co.cc
 chiefbomber.co.cc
 chiefentol.co.cc
 chiefrecycling.com
+child-noads.joindns4.eu
+child.joindns4.eu
 chillglobal.com
+chimpanzinibananini.hec.to
 china-proxy.org
 chinaproxy.club
 chinaproxy.me
@@ -4409,7 +4402,6 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
-clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -4466,7 +4458,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -5449,7 +5440,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5484,7 +5474,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derowd.freeboxos.fr
 derpymail.org
 derrape.com
@@ -5878,7 +5867,6 @@ dns.bobstrecansky.com
 dns.bofh.in
 dns.bortus.io
 dns.bourassa.cc
-dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.briac-mlb.fr
@@ -7256,7 +7244,6 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
-domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -9514,6 +9501,7 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
+freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -10097,6 +10085,7 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
+getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -12140,6 +12129,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -15231,6 +15221,7 @@ noads.cloud
 noads.ddnsgeek.com
 noads.dns.vladpro.ru
 noads.imbuffering.com
+noads.joindns4.eu
 noads.jpsrvr.com
 noads.vdl.io
 noagendapodcast.appspot.com
@@ -16669,8 +16660,6 @@ poppieforex.co.cc
 popqueens.co.cc
 popsi.info
 popskings.co.cc
-popteeee-oawhnefoua-foaebaouef.swanndvr.net
-popteeeeee-sajoiwejfo-huhu.swanndvr.net
 popular-around.co.cc
 popularly.co.cc
 porkabes.co.cc
@@ -16751,6 +16740,8 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp.hamburger.ip-ddns.com
 pp317.a-auc.net
@@ -17021,6 +17012,7 @@ protectedzone.co.cc
 protectgroup.xyz
 protectic.infotechlibrary.com
 protectionauto.com
+protective.joindns4.eu
 protectking.com
 protectmyip.info
 protectproxy.com
@@ -17051,6 +17043,7 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -19354,6 +19347,7 @@ remoteproxy.co.cc
 remotevpn.net
 removeban.com
 removefilters.net
+removethatwall.comuv.com
 renali.info
 renameproxy.co.cc
 renardbleu.dev
@@ -22697,6 +22691,7 @@ test.fatucloud.gosprout.org
 test.marss.pro
 test.net46.net
 test.zecro.de
+test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -22933,7 +22928,6 @@ thisforcinco.larrondoinstalaciones.cl
 thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
 thisismathteach.myclarevision.com
 thisismyproxy.site
-thisisnotagamewebsite.thebrittainlawfirm.com
 thisisthestandard.com
 thisproxy.com
 thisproxy.free.fr
@@ -23665,7 +23659,6 @@ ukproxy.com
 ukproxyservere.blogspot.fi
 ukryjsie.pl
 uksecure.co.cc
-uktvproxy.com
 ukunblock-schoolblockssss.tk
 ukvpns.blogspot.ru
 ukwebproxy.com
@@ -24300,6 +24293,7 @@ unfilter.us
 unfiltered.adguard-dns.com
 unfiltered.adguarddns.com
 unfiltered.dns.sainternet.xyz
+unfiltered.joindns4.eu
 unfilteredaccess.com
 unfilteredweb.com
 unfilterme.com
@@ -25592,7 +25586,6 @@ whyblocks.com
 whydidiask.chickenkiller.com
 whyinsurance.info
 whyismysitedown.com
-whyproxy.com
 whysogreen.com
 wi3ue6xg7yqi.connect.remote.it
 wickedproxy.com
@@ -25802,7 +25795,6 @@ wproxy.tk
 wrapingworld-hole.co.cc
 wrappingworld-hole.co.cc
 wreaforex.co.cc
-writingessaypros.com
 wrong-right.co.cc
 wrongdead.cn
 wtfmagic.info
@@ -26552,6 +26544,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -29856,6 +29849,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -31606,6 +31600,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -34484,6 +34479,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -36262,6 +36258,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
