@@ -4237,6 +4237,7 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
+cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -4281,7 +4282,6 @@ chiefrecycling.com
 child-noads.joindns4.eu
 child.joindns4.eu
 chillglobal.com
-chimpanzinibananini.hec.to
 china-proxy.org
 chinaproxy.club
 chinaproxy.me
@@ -4498,6 +4498,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5231,6 +5232,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -7315,6 +7317,7 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
@@ -10650,6 +10653,7 @@ gudhost.com
 gudstrength.co.cc
 gueb.de
 gueforex.info
+guesses.info
 guest.nop.mobi
 guestappearance.us
 guh.uniall.tk
@@ -12118,6 +12122,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -12480,7 +12485,6 @@ jobsexperd.co.cc
 jobsmonster.co.cc
 jobworker.co.cc
 joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru
-joeltheodore.com
 joeproxy.com
 jofo.info
 johneldenring.lol
@@ -15218,7 +15222,6 @@ nocensor.work
 nocfmc.cc
 nocookie.co.cc
 nocrap.co.cc
-nodamirai.hec.to
 nodap.com
 node3.b4el.ru
 node9.servernode.store
@@ -22635,6 +22638,7 @@ test.businessconnect.com.tr
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
+test.net46.net
 test.zecro.de
 test101.net76.net
 test2.adg.siudzinski.net
@@ -28302,6 +28306,7 @@ www.eyou.eu
 www.eyym.com
 www.ez9.info
 www.ezcrack.info
+www.ezhide.com
 www.ezpow.com
 www.ezproxee.info
 www.ezproxies.com
@@ -29776,6 +29781,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -32674,6 +32680,7 @@ www.proxypromo.com
 www.proxypromote.com
 www.proxypronto.com
 www.proxyproperty.info
+www.proxyproxy.info
 www.proxypunk.com
 www.proxypure.com
 www.proxyq.com
@@ -33512,6 +33519,7 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
+www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
