@@ -3275,7 +3275,6 @@ bloxaway13.info
 bloxgone1.info
 blproxy.com
 blr01.dnscry.pt
-blud.nex.sh
 blue-insting.co.cc
 bluealert.co.cc
 blueberrynight.co.cc
@@ -4285,6 +4284,7 @@ chiefrecycling.com
 child-noads.joindns4.eu
 child.joindns4.eu
 chillglobal.com
+chimpanzinibananini.hec.to
 china-proxy.org
 chinaproxy.club
 chinaproxy.me
@@ -5474,7 +5474,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derowd.freeboxos.fr
 derpymail.org
 derrape.com
@@ -5544,7 +5543,6 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 dididoitright.wiki.gd
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -15238,6 +15236,7 @@ nocensor.work
 nocfmc.cc
 nocookie.co.cc
 nocrap.co.cc
+nodamirai.hec.to
 nodap.com
 node3.b4el.ru
 node9.servernode.store
@@ -17395,6 +17394,7 @@ proxy.benvo.eu
 proxy.bestadp.com
 proxy.bestwicker.com
 proxy.betboopartners.com
+proxy.betest.cn
 proxy.bine.ca
 proxy.biz
 proxy.boson.ws
@@ -17691,7 +17691,6 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
-proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -20242,6 +20241,7 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
+server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -22737,6 +22737,7 @@ theblast.info
 thebomber.co.cc
 thebreakthrough.info
 thebypass.net
+thecgiproxy.com
 theclickcheck.com
 thecodeil.com
 theconcern.org
@@ -24671,7 +24672,6 @@ valuabletrack.co.cc
 valuepremium.us
 valueproxy.com
 vamaveche.info
-vamo.de.teste.chickenkiller.com
 vandame.co.cc
 vandamissjoaquim.com
 vandutch.zoomshare.com
