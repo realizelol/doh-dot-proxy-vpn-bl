@@ -4503,7 +4503,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5474,6 +5473,7 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
+derel.cz.cc
 derowd.freeboxos.fr
 derpymail.org
 derrape.com
@@ -5543,6 +5543,7 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 dididoitright.wiki.gd
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -7325,8 +7326,8 @@ doorstep-surf.co.cc
 doorworld.info
 dooz.info
 dop.privatedns.org
+doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -9712,6 +9713,7 @@ freshwebproxy.com
 frickensurf.co.cc
 friction-off.co.cc
 friday30.co.cc
+friedeggs.dagmaar.com
 friend.bedro.cloud
 friendconnect.co.cc
 friends-are.awesome.yukon.ar
@@ -12328,6 +12330,7 @@ ix0.net
 ixl-tw6f.thebrittainlawfirm.com
 ixl.plus
 ixl.potomacriversafetycommittee.org
+ixl.recruitment7.com
 ixlclever.raspberryip.com
 ixmv.com
 ixune.com
@@ -13944,6 +13947,7 @@ math.isreally.pro
 math.minetest.land
 math.netlab.my.id
 math.sachhot.com
+math.spotifyfans.art
 math.tests.comprotusjuguetes.com
 math.tests.szk-obihiro.com
 mathburger.com
@@ -13971,6 +13975,7 @@ mathsonline.info
 mathspot.vercel.app
 mathtips.info
 mathtunnel.com
+mathvideos.sharmaraju.com.np
 matterhero.org
 matthias-prost.com
 matura.co.cc
@@ -15608,6 +15613,7 @@ ohio-proxytunnel.co.cc
 ohmyproxy.com
 ohmyspace.com
 ohmyvps.com
+ohnothatsbad.h0rst.us
 ohopizza.com
 ohvps.com
 oilleakeage.co.cc
@@ -15615,6 +15621,7 @@ oilproxy.com
 oj9.net
 ojisama.dietpc.org
 ojjo.net
+ok.keybusinessconnection.com
 ok11.info
 ok88.info
 okado.online
@@ -16050,7 +16057,6 @@ ownsurf.co.cc
 ownthe.net
 oxforex.co.cc
 oxogen.co.uk
-oxv.duckdns.org
 oxyhi.com
 oxylabs.io
 oxylist.com
@@ -22719,6 +22725,7 @@ the-past-few.co.cc
 the-revolutionary.co.cc
 the-rockway.co.cc
 the.infocommthailand.com
+the.luxflow.net
 the.norushcharge.com
 the.simplecharity.com
 the3unkn0wn.co.cc
@@ -25232,6 +25239,7 @@ wccw.cc
 wd168.info
 wdns.233py.com
 we-need-more.foxgateway.com
+we.make-it.ro
 wealthypot.com
 weaning.co.cc
 wearoff.co.cc
@@ -25485,6 +25493,7 @@ wg.pastorov.ru
 wg.req1.fr
 wh01s.com
 wh5.info
+wha.agmlabs.com
 what-ip.info
 what-is-interstellar-all-i-know-is-linewize.easterndns.com
 whataproxy.com
@@ -36471,7 +36480,6 @@ x-panel.drahonn.pro
 x-pass.info
 x-proxy.com
 x-proxy.info
-x-trekpay.co.cc
 x.laoban.fun
 x.ns1net.com
 x.res.wang
