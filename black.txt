@@ -1949,6 +1949,7 @@ anonymouse.ru
 anonymouse.us
 anonymouse.ws
 anonymouseeproxy.blogspot.com
+anonymousengine.com
 anonymousesurf.com
 anonymousfree.com
 anonymousgoal.co.cc
@@ -4161,7 +4162,6 @@ ceniebguri.co.cc
 cenq.com
 censorthat.com
 censurfridns.dk
-centauri1.eu.org
 centenario.info
 center-crm.store
 centerpiecesurf.co.cc
@@ -7328,6 +7328,7 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -8013,7 +8014,6 @@ eu-browse.startpage.com
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eu.doh.sb
 eu.tri-dns.net
-eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
@@ -11398,7 +11398,6 @@ honeygain.me
 honeyponkan.co.cc
 hongkong.dnsovertor.cc
 honkhonk.info
-hooda.math.hec.to
 hooliganska.duckdns.org
 hoopsmeats.co.cc
 hopad.co.cc
@@ -14139,7 +14138,6 @@ metalvideo.cz
 metasecurity.co.cc
 metaspinner-media.de
 metemma.com
-meteor1.eu.org
 methods-inside.co.cc
 metonator-proxy.appspot.com
 metop.info
@@ -14780,7 +14778,6 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
-mzx.site40.net
 n-wan.dynv6.net
 n.nop.mobi
 n0.eu
@@ -16057,6 +16054,7 @@ ownsurf.co.cc
 ownthe.net
 oxforex.co.cc
 oxogen.co.uk
+oxv.duckdns.org
 oxyhi.com
 oxylabs.io
 oxylist.com
@@ -17684,7 +17682,6 @@ proxy1.com
 proxy1.fi5.us
 proxy1.glwb.info
 proxy1.ru
-proxy1.startpage.com
 proxy1.yipo.org
 proxy1.yoof.info
 proxy101.com
@@ -19096,7 +19093,6 @@ rammerhead.geometry-games.online
 rammerhead.oops.wtf
 rammerhead2121.webs.vc
 rammerstellar.recca.cl
-ramosearch.comlu.com
 rampokbrokerforex.co.cc
 ranabytese.vercel.app
 ranamaddadaaaadjka.ve3.info
@@ -27255,7 +27251,6 @@ www.bypassany.info
 www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
-www.bypassed.org
 www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
@@ -30049,7 +30044,6 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
-www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -36480,6 +36474,7 @@ x-panel.drahonn.pro
 x-pass.info
 x-proxy.com
 x-proxy.info
+x-trekpay.co.cc
 x.laoban.fun
 x.ns1net.com
 x.res.wang
