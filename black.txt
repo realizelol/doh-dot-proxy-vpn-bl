@@ -561,6 +561,8 @@
 77980.bodis.com
 787555asurfs.tk
 790.us
+7afootball.rainbowcup.com
+7aisfulloftalent.hondascooterparts.com
 7e7.info
 7eth.com
 7f6.net
@@ -712,6 +714,7 @@ abcproxy.info
 abcproxy.org
 abcschool.info
 abcya.jumpingcrab.com
+abdulv2.flazzard.com
 abe01.dnscry.pt
 abei.info
 abeja.info
@@ -3379,6 +3382,7 @@ bookmark-it.co.cc
 bookmarkportal.com
 bookofely.co.cc
 bookopener.com
+bookpog.bad.mn
 bookprox.com
 books.allisons.org
 bookshelfnow.co.cc
@@ -3999,6 +4003,7 @@ cantfindme.org
 cantseeme.cn
 cantstopme.com
 canva.login.1337.cx
+canvaixlwork.dasboard.net
 canyong1984.eu.org
 capellaproxy.co.cc
 capeme.com
@@ -4386,6 +4391,7 @@ classmeet.co.cc
 classref.com
 classroom.broomleigh.org
 classroom.google.com.l5.ca
+classroom.haoqiw.com
 claustrophobia.co.cc
 clav.info
 clavierarabeenligne.com
@@ -4503,6 +4509,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -4631,6 +4638,7 @@ commcell.co.uk
 commence.info
 commodus.info
 common.dot.dns.yandex.net
+commonapp.college
 commongroup.xyz
 commonly-used-with.co.cc
 commonplace.co.cc
@@ -4658,6 +4666,7 @@ compliance-system.co.cc
 compongtime.co.cc
 compramos.info
 comproxy.com
+compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
@@ -4953,6 +4962,7 @@ croxyproxy.com
 croxyproxy.com.in
 croxyproxy.net
 croxyproxy.rocks
+croxyproxy.us
 croxyproxys.com
 croxyproxyvpn.com
 croze.port82.net
@@ -5043,6 +5053,7 @@ cutt.info
 cuty.org
 cuuforex.co.cc
 cv-2173.dnsserver.eu
+cv-unfiltered.xyz
 cvt01.dnscry.pt
 cvuforex.co.cc
 cvvv.org
@@ -5252,6 +5263,7 @@ dandelionsprout.asuscomm.com
 dandysurf.co.cc
 dangercat.info
 danhcan.top
+danielrcrawfordfanpage.danielrcrawford.com
 dankeman.co.cc
 danzarella.com
 dappy.info
@@ -5543,7 +5555,6 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 dididoitright.wiki.gd
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -7328,7 +7339,6 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
-doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -8246,6 +8256,7 @@ fagj.com
 failover.co.cc
 fair-hawk-609.shuttlemath.com
 fair-lake-387.shuttlemath.com
+fair.hashable.org
 fairday.info
 fairyhider.co.cc
 fakbook.co.cc
@@ -8482,6 +8493,7 @@ fastunlock.info
 fastusaproxy.com
 fastview.info
 fastvpn.im
+fastvpn.me
 fastwall.co.cc
 fastwaybrowser.co.cc
 fastwayline.co.cc
@@ -10251,6 +10263,7 @@ globalproxies.com
 globalrespect.co.cc
 globalssh.net
 globalstudents.tuumin.net
+globaltrx.com
 globalvpn.info
 globe.dragonbyte.me
 globeproxy.co.cc
@@ -10443,6 +10456,7 @@ google-mania-point.co.cc
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 googlerank.org
+googolclasroom.dob.jp
 gooogle.com
 goopenit.com
 gooproxy.co.cc
@@ -11398,6 +11412,7 @@ honeygain.me
 honeyponkan.co.cc
 hongkong.dnsovertor.cc
 honkhonk.info
+hooda.math.hec.to
 hooliganska.duckdns.org
 hoopsmeats.co.cc
 hopad.co.cc
@@ -11728,8 +11743,10 @@ iddaamac.com
 iddaatahminleri.org
 idea.graph.statboss.com
 idea.lab.fabriquilla25.com
+idea.read.capella-technologies.com
 ideallysurf.co.cc
 idealproxy.com
+idealvpn.com
 identified-movement.co.cc
 identified.asdfg.us
 identity-guard.co.cc
@@ -12153,6 +12170,7 @@ ipproxy.info
 ipproxy.net
 ipredator.se
 iprivacy.info
+iprivatevpn.com
 iprive.com
 iprobot.info
 iprolink.ch
@@ -13059,6 +13077,7 @@ la-doh.stuptech.com
 la-nnss.ppleg.icu
 la-y.com
 lab-1.sellan.fr
+lab.clever.icp-seigyo.com
 lab.graph.central64.com
 lab.proof.multi.hk
 lab.sellan.fr
@@ -14637,6 +14656,7 @@ myfreenet.info
 myfreestuff.cn
 myhalo.online
 myhealthyheart.co.cc
+myincredibleweightlossjounrney.gblandscape.com
 myindustry.xyz
 myinternetproxy.com
 myip-proxy.info
@@ -14778,6 +14798,7 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
+mzx.site40.net
 n-wan.dynv6.net
 n.nop.mobi
 n0.eu
@@ -15640,6 +15661,7 @@ olga.vd.i81.ru
 olga.vpn.i81.ru
 oline.info
 olivares.info
+oliverdiepiogreedycheckers.sponsorafuture.org.uk
 oliveway.info
 olivier-raspberrypi.changeip.org
 olmedo.info
@@ -16563,6 +16585,7 @@ pleasekeep.strokin.it
 pleaseproxyme.com
 pleaseuseme.co.cc
 pleaseworkiwantutopia.faizinternational.com.np
+pleaseworkughhfd.dob.jp
 pleasuremyip.info
 pleforex.co.cc
 plentyofcat.co.cc
@@ -16660,6 +16683,7 @@ pornodrom.atw.hu
 pornoproxy.com
 poro6.com
 portable-proxy.co.cc
+portal.devicars.com
 portal.sso.toythieves.com
 portal.webgis.ro
 portal.werder.li
@@ -19092,7 +19116,9 @@ rammerhead.eu.org
 rammerhead.geometry-games.online
 rammerhead.oops.wtf
 rammerhead2121.webs.vc
+rammerheadisok.tx2600.net
 rammerstellar.recca.cl
+ramosearch.comlu.com
 rampokbrokerforex.co.cc
 ranabytese.vercel.app
 ranamaddadaaaadjka.ve3.info
@@ -20495,6 +20521,7 @@ shytocry.co.cc
 siapadirinya.co.cc
 siatec.net
 siaxei3.vercel.app
+sical.s.ical.sic.al
 sickprox.info
 siddeus.synology.me
 side-cool.co.cc
@@ -22103,7 +22130,6 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
-surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22890,6 +22916,7 @@ think-that-situation.co.cc
 think-way.co.cc
 thinkrapid.co.cc
 thirdteam.co.cc
+thirteen13.windsormetalbattery.com
 this-is-for-wave-bru.music-menges.si
 this-is-it-proxy.co.cc
 this-is-the-life.co.cc
@@ -23130,6 +23157,7 @@ tor-exit2-readme.bbln.org
 tor-gateways.de
 tor-proxy.net
 tor.bravesoftware.com
+tor.calyxinstitute.org
 tor.cloudflare-dns.com
 tor.eff.org
 tor.softonic.fr
@@ -23548,6 +23576,7 @@ tx.teradns.org
 txproxy.co.cc
 txtafriend.com
 tylda.duckdns.org
+tylerknowskungfu.isageek.net
 tylerschnaidt.com
 tyo.883933770.xyz
 tyo01.dnscry.pt
@@ -27251,6 +27280,7 @@ www.bypassany.info
 www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
+www.bypassed.org
 www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
@@ -30044,6 +30074,7 @@ www.ishortit.com
 www.isityet.net
 www.islakamcik.com
 www.islands-turkey.com
+www.ismyforumdown.com
 www.isneak.info
 www.isnp.info
 www.isodos.com
@@ -36834,6 +36865,8 @@ yoyoip.info
 yoyoproxy.com
 yoyovpn.org
 yoza.info
+yozora.iiiii.info
+yozora.lindhesidan.se
 yrc.synology.me
 yrid.com
 ys.cloud-sekeng.com
