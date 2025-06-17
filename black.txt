@@ -4167,6 +4167,7 @@ ceniebguri.co.cc
 cenq.com
 censorthat.com
 censurfridns.dk
+centauri1.eu.org
 centenario.info
 center-crm.store
 centerpiecesurf.co.cc
@@ -4509,7 +4510,6 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
-cloudflaredns.com
 cloudfun.info
 cloudhide.sxx.in
 cloudnow.info
@@ -5555,6 +5555,7 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 dididoitright.wiki.gd
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -7268,7 +7269,6 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
-domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -7284,7 +7284,6 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -7339,6 +7338,7 @@ dooz.info
 dop.privatedns.org
 doq.dns4all.eu
 doq.sa-sa.eu
+doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
 dorkanddoodle.duckdns.org
@@ -8155,7 +8155,6 @@ extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
 extratv.org
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -15149,7 +15148,6 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
-nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -17718,6 +17716,7 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
+proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -19108,6 +19107,7 @@ ramirezhate.co.cc
 ramjam.pythontheproto.com
 ramm-ume-pro.swanndvr.net
 rammer.ints.f5.si
+rammerdaze.miguelarevalo.es
 rammerhead-10.swanndvr.net
 rammerhead.command.enterprises
 rammerhead.crackerstreams.org
@@ -19401,7 +19401,6 @@ resolve.corpa.me
 resolve.fknw.de
 resolve.srv-pro.de
 resolve02.srv-pro.de
-resolve2.r9x.cc
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
 resolver.as203038.net
@@ -19837,6 +19836,7 @@ salyte.cassidycamp.work
 samair.ru
 samairproxy.co.cc
 samforex.co.cc
+samj.codes
 samplesdata.co.cc
 sams.adg.siudzinski.net
 samsdns1943.net
@@ -21066,6 +21066,7 @@ spainforex.co.cc
 spamassassin.co.cc
 spammerknight.co.cc
 spancerone.co.cc
+spanish101.college
 spankbot.net
 spanproxy.com
 spanrevenue.co.cc
@@ -22130,6 +22131,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22501,6 +22503,7 @@ switchvpn.com
 switchvpn.net
 swizztime.com
 swoletux.ave.zone
+swordvpn.com
 swoshsvpn.com
 swvw.net
 sx.bnds.link
@@ -25832,6 +25835,7 @@ www-proxy.facil.wtf
 www-proxy.formen.cc
 www-proxy.koirdsuzu.com
 www-proxy.kokecoco.me
+www-proxy.konstl01.xyz
 www-proxy.ladifsoftware.com
 www-proxy.migastep.com
 www-proxy.retportal.com
