@@ -610,7 +610,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -1312,7 +1311,6 @@ ajrforex.co.cc
 ajtforex.co.cc
 ajuforex.co.cc
 ak58.com
-akaforex.cz.cc
 akainuforex.co.cc
 akashiro.co.id
 akdis.cn
@@ -1475,7 +1473,6 @@ am4.net
 amab.info
 amaderkotha.org
 amadeus666.org
-amaforex.cz.cc
 amandahugnkiss.org
 amando.info
 amanvpn.com
@@ -2386,6 +2383,7 @@ barcodeforex.co.cc
 barracudaproxy.co.cc
 barrenrealm.com
 base.dns.mullvad.net
+base.train.kdits.ca
 base99.com
 based-actually.co.cc
 basefresh.co.cc
@@ -2398,6 +2396,7 @@ baset.persianblog.com
 bashes.net
 bashproxy.co.cc
 basic.bravedns.com
+basic.idea.gracesiefer.com
 basic.rethinkdns.com
 basically-freeway.co.cc
 basicallyguard.co.cc
@@ -4367,7 +4366,6 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5163,6 +5161,7 @@ detiforex.co.cc
 detonate.info
 deuforex.co.cc
 deus-server.duckdns.org
+dev-ngrok.com
 dev.dietpc.org
 dev.reallemc.com
 devcoder-proxy.appspot.com
@@ -5207,7 +5206,6 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 dididoitright.wiki.gd
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6913,6 +6911,7 @@ ebida.info
 ebii.net
 eblock.info
 ebookdz.com
+ebooks-edu.agmlabs.com
 eboxy.com
 ebuddyproxy.com
 ebuforex.co.cc
@@ -8683,7 +8682,6 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
-freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -9125,6 +9123,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -11213,7 +11212,6 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
-ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -12709,7 +12707,6 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
-madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -15553,6 +15550,8 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp.hamburger.ip-ddns.com
 pp317.a-auc.net
@@ -15603,6 +15602,7 @@ premiumzone.info
 premixsite.co.cc
 premoweb.com
 prep.clever.cloudworkonline.com
+preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -16462,7 +16462,6 @@ proxy.vela-design.com
 proxy.vg
 proxy.villagegreen-apts.net
 proxy.vpner.com
-proxy.vpsbase.com
 proxy.vrije.com
 proxy.wallybal.com
 proxy.watchnow.org
@@ -19989,6 +19988,7 @@ stableproxy.info
 stackfront.xyz
 staden-forex.co.cc
 staffingsoftware-7.co.cc
+stage-ngrok.com
 staging.dnsteam.globuscs.info
 stakon.co.cc
 staminahealth.co.cc
@@ -20039,6 +20039,7 @@ starwarsportal.com
 starwarsproxy.co.cc
 stasforex.co.cc
 state.gov.jaycloudlab.com
+state.lab.covi.com.ar
 statforex.co.cc
 static.captnemo.in
 static.co.nu
@@ -20794,7 +20795,6 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
-surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -21355,6 +21355,7 @@ testlinkimadernyoufatbitc.letz.dev
 testpilot.firefox.com
 tests.data.stardustcommercialservices.com
 tests.debate.homebrewology.org
+tests.excel.wild1.net
 tesutorender.jake.eu
 tetapi.info
 tethforex.co.cc
@@ -21637,7 +21638,6 @@ timewebfaster.co.cc
 timextreme.co.cc
 timiproxy.co.cc
 timmes.nl
-timperumichael.net23.net
 timt.info
 timtam.co.tv
 timurpoyraz.com
@@ -24272,6 +24272,7 @@ workunblocker.cn
 workworld.info
 world-kicker.co.cc
 world-shrink.co.cc
+world.guide.ticinostudio.com
 worldbookonline.ignorelist.com
 worldcache.co.cc
 worldcupnow.co.cc
@@ -25578,7 +25579,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -28694,7 +28694,6 @@ www.jm9.info
 www.jmarshall.com
 www.jn0.info
 www.jobmejlet.com
-www.joeltheodore.com
 www.joeproxy.com
 www.jofo.info
 www.johnsoninteractive.com
