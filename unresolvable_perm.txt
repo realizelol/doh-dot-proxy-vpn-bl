@@ -58720,6 +58720,7 @@ proxy.viamisoftware.com
 proxy.vintagemags.net
 proxy.vonkafe.com
 proxy.vpnmag.fr
+proxy.vpsbase.com
 proxy.vqx.net
 proxy.vsoftserver.com
 proxy.w1z44rdy.com
