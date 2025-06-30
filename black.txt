@@ -54,11 +54,14 @@
 0404.info
 0494.org
 0646.org
+0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com
+071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com
 0794.info
 0800.info
 0aw.net
 0bit.info
 0bypass.homemanaging.com
+0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com
 0filter.xbangla.com
 0fish.info
 0fm.info
@@ -110,6 +113,7 @@
 101proxy.co.cc
 101weblinks.info
 103bees.com
+1072af3707c6acd58e5b31b7095c59e68e2cab2d-m.proxy2.startpage.com
 108023.xyz
 109047proxy.tk
 10bestvpn.co.uk
@@ -486,6 +490,7 @@
 505x.com
 50dollarforex.co.cc
 5115.info
+51adaa24950b5ae734d2e0c57de066a594b4f26c-m.proxy2.startpage.com
 51proxy.info
 554.us
 5758proxy.co.cc
@@ -494,6 +499,7 @@
 5b5.org
 5cr.info
 5ct.info
+5e09fc93ce99c78b65a1f1f59dfd4ef1642c43e0-m.proxy2.startpage.com
 5fish.info
 5g.o0o.re
 5hg.net
@@ -545,6 +551,7 @@
 777surfer.info
 77980.bodis.com
 787555asurfs.tk
+787c4a5adcddca0674ecfe0dddd514d2d46139d4-m.proxy2.startpage.com
 790.us
 7afootball.rainbowcup.com
 7aisfulloftalent.hondascooterparts.com
@@ -597,7 +604,10 @@
 911proxy.com
 911surf.info
 91557.cn
+919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com
 922proxy.com
+9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com
+954caece8378ac5993d56437e3c9eabf5593ee43-m.proxy2.startpage.com
 95av.com
 95f.net
 960.us
@@ -669,6 +679,7 @@ a87.info
 a8e.net
 a91.info
 a94.info
+aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com
 aaa801.my5gb.com
 aaaaa.cz.cc
 aaabbbcccsurfs.tk
@@ -1195,6 +1206,7 @@ aetforex.co.cc
 aeuforex.co.cc
 aeyx.com
 afaforex.cz.cc
+afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com
 afec.info
 affiliateway.com
 affmarketech.com
@@ -2650,6 +2662,7 @@ bestrealm.com
 bestrug.co.cc
 bestscience.info
 bestsecret.info
+bestsecuredloans.cz.cc
 bestserverproxy.co.cc
 bestservers.org
 bestsimple.info
@@ -3240,6 +3253,7 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
+brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -3600,6 +3614,9 @@ c.cpfrx.info
 c.is-very.fun
 c0q.net
 c2go.info
+c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com
+c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com
+c88cdace3108b445cacaa7c96d5f3507d9ba59dd-m.proxy2.startpage.com
 ca-6.com
 ca-7.com
 ca-8.com
@@ -3814,6 +3831,7 @@ cawt.info
 cazed.com
 cazzo.com
 cbay.info
+cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com
 cbentertainment.online
 cbge.net
 cblox.info
@@ -3866,7 +3884,6 @@ ceniebguri.co.cc
 cenq.com
 censorthat.com
 censurfridns.dk
-centauri1.eu.org
 centenario.info
 center-crm.store
 centerpiecesurf.co.cc
@@ -4991,6 +5008,7 @@ dawnings.cn
 dawon.info
 dayunblocked.co.cc
 dbbs.dns.databyte-network.com
+dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com
 dbneime5ub7kb.cloudfront.net
 dc-comics.co.cc
 dcasper.co.cc
@@ -5150,7 +5168,6 @@ desiproxy.com
 desireproxy.com
 desksurf.co.cc
 desmart.info
-desmos.saf-eng.com
 destu.cn
 detasemen-ngepet.co.cc
 detiforex.co.cc
@@ -5604,7 +5621,6 @@ dns.exitstat.us
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
-dns.f97.xyz
 dns.fahr.in
 dns.faked.org
 dns.falkenthal.org
@@ -6812,6 +6828,7 @@ e-prxy.co.cc
 e-redemption.co.cc
 e.cpfrx.info
 e00.info
+e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com
 e8p.info
 ea-dns.rubyfish.cn
 each-day-on.co.cc
@@ -6918,6 +6935,7 @@ ec-ss.com
 ec2-23-20-103-122.compute-1.amazonaws.com
 ec2-34-194-122-51.compute-1.amazonaws.com
 ec2-52-12-183-214.us-west-2.compute.amazonaws.com
+ec6d7472a3e10dd9568350e6be2d78e2af6419f1-m.proxy2.startpage.com
 ecardforex.co.cc
 ecasa.info
 echan.faizinternational.com.np
@@ -7370,8 +7388,11 @@ f4sthost.com
 f7e.net
 f8c.info
 f8d.info
+f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com
+f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com
 f9e.info
 f9t.net
+fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com
 faan.co.uk
 fabricforex.co.cc
 fabulous.nz.gs
@@ -8003,7 +8024,6 @@ flexible-working.co.cc
 fleyo.com
 flic.info
 flights.org.es
-flipgrid.opior.com
 flipit.info
 flipmyip.com
 flipout.info
@@ -10618,7 +10638,6 @@ hubbed.com
 hubconnect.info
 hubproxy.com
 hudis.cn
-hudzonlzzzzzhj.zavoj.ch
 huerto.info
 hugeindeepsea.co.cc
 hugeinupsky.co.cc
@@ -13315,7 +13334,6 @@ moreproxies.com
 moreproxylist.co.cc
 morethanfast.co.cc
 morevpn.com
-moritaa.vv.si
 morning-glory.co.cc
 morningfolks.co.cc
 morninghunger.co.cc
@@ -13949,7 +13967,6 @@ nexiforex.co.cc
 nexsos.syac.ca
 next-fact.co.cc
 next.miao.ninja
-next.rinet.ai
 nextdns.io
 nextgenproxy.com
 nextproxiess.co.cc
@@ -15123,7 +15140,6 @@ perfecthide.com
 perfectproxy.com
 perfectshelter.com
 perfectsurf.co.cc
-perfectvpn.net
 perfilo.nz.gs
 perforation.info
 perforex.co.cc
@@ -15446,7 +15462,6 @@ poppieforex.co.cc
 popqueens.co.cc
 popsi.info
 popskings.co.cc
-poptee-liawheufhwae-awef.swanndvr.net
 popteeeee-lkshfeakwueh-ew.swanndvr.net
 popular-around.co.cc
 popularly.co.cc
@@ -16479,7 +16494,6 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
-proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -16787,6 +16801,7 @@ proxyfly.info
 proxyflyer.co.cc
 proxyfor.eu
 proxyforall.com
+proxyforest.com
 proxyforfree.eu
 proxyforge.com
 proxyforhealth.co.cc
@@ -18250,7 +18265,6 @@ risingmoon.co.cc
 riskxpdisk.co.cc
 riverflood.co.cc
 riversided.co.cc
-rizzohiosigmajasin111.com.soon.it
 rjmva.com
 rjmy.com
 rjnox.com
@@ -18996,6 +19010,7 @@ servicevista.co.cc
 servicework.info
 servit.biz
 sescloud.club
+session.proxy2.startpage.com
 sest.info
 setfast.co.cc
 sethpowell.info
@@ -19213,7 +19228,6 @@ signalup.co.cc
 signatario.com
 significant-value.co.cc
 signlaproxy.co.cc
-signup.soapclient.com
 silent-surf.com
 silentproxy.com
 silentread.com
@@ -19995,7 +20009,6 @@ starsurfer.co.cc
 start-allright.co.cc
 start-established.co.cc
 start-open.co.cc
-start.puto.me
 start.succeed.cl
 start90.com
 startbrowse.com
@@ -21216,7 +21229,6 @@ tartono.co.cc
 tashproxy.co.cc
 task.edu.hueteinterpreting.com
 task.major.assholetenants.com
-task.words.starlordbob.com
 taufner.net
 tavanza.com
 taxiporxy.us
@@ -21782,8 +21794,6 @@ tor2web.fi
 tor2web.io
 tor2web.it
 tor2web.ru
-tor2web.su
-tor4pay.com
 torettohome.com
 torguard.net
 torify.com
@@ -23167,7 +23177,6 @@ use.madefalva.ro
 use.mypics.ca
 use.paper.is
 use.purplefolder.com.np
-use.razorlan.info
 use.star.is
 use.visitame.cl
 use.winterhouse.info
@@ -24317,7 +24326,6 @@ wwv.ushostonline.com
 www-admin.mehtionthebeat.com
 www-bruh.xenon.lol
 www-croxy.ghgi.site
-www-funny.pinkertonmc.com
 www-p.reaper.mx
 www-pa.linkall.uk
 www-plo.declan-reid.me
@@ -35178,7 +35186,6 @@ yorto.com
 yory2cave.hopto.me
 yottabit.info
 you-proxy.com
-you.know.that.im.strokin.it
 you4mirror.appspot.com
 youareanonymous.com
 youarefree.info
@@ -35207,7 +35214,6 @@ youproxytube.com
 your-anonym-ip.czechian.net
 your-dns.run
 your-freedom.de
-your-freedom.net
 your-proxy.com
 your-proxysurfla1.tk
 your-trip.co.cc
@@ -35238,7 +35244,6 @@ yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
 yoursneaky.com
-yoursuper.rude.li
 yoursuperhighway.com
 yourway.in
 youschool.info
@@ -35248,7 +35253,6 @@ youthproxy.co.cc
 youtube-proxy.com
 youtube-proxy.info
 youtube-unblocker.com
-youtube.nz.gs
 youtubemusic.info
 youtubepornsites.com
 youtubeproxy.co.uk
@@ -35415,7 +35419,6 @@ zippyfile.com
 zippyproxy.com
 zipsurf.co.cc
 zirfy.com
-zixypy.reticence.lol
 zjsky.com.ru
 zjtv.com.ru
 zlaze.com
