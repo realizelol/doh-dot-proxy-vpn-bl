@@ -658,6 +658,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -1175,6 +1176,7 @@ adiraproxy.co.cc
 adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
+adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin1.sotna.org
@@ -1690,6 +1692,7 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
+anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2095,6 +2098,7 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
+asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -2154,7 +2158,6 @@ atp9.com
 atproxy.ibiz.cc
 atproxy.net
 atrforex.co.cc
-atris.cyou
 atschool.be
 atsilva.link
 attention-now.co.cc
@@ -2713,6 +2716,7 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
+bestspeed.cz.cc
 bestspin.info
 bestssh.net
 bestsslproxy.info
@@ -3012,6 +3016,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -4015,6 +4020,7 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
+cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -5462,19 +5468,16 @@ dns.3dcapitaltrust.net
 dns.3jh.org
 dns.3wv.de
 dns.4-the.win
-dns.444723.xyz
 dns.4ab.nl
 dns.52306.org
 dns.532641.xyz
 dns.5ive.net
 dns.688447.xyz
-dns.775467.xyz
 dns.7sec.com.br
 dns.7vpn.com
 dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
-dns.8887744.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -6339,6 +6342,7 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -6394,7 +6398,6 @@ doh.360.cn
 doh.42l.fr
 doh.4l2.cn
 doh.5000g.org
-doh.774445.xyz
 doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.afna.link
@@ -6410,7 +6413,6 @@ doh.archuser.org
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.azoris.ovh
-doh.battle.christmas
 doh.beauty
 doh.best
 doh.bhadrikais.my.id
@@ -6536,20 +6538,16 @@ doh.xcom.pro
 doh.xfinity.com
 doh.xyz
 doh.zknt.org
-doh0.jusprogdns.com
 doh003.280blocker.net
 doh1.alidns.com
 doh1.b-cdn.net
 doh1.blahdns.com
-doh12.jusprogdns.com
-doh16.jusprogdns.com
 doh2.almir1904.eu
 doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
 doh2.seby.io
 doh3.almir1904.eu
-doh6.jusprogdns.com
 dohdns.com
 dohdot.coxlab.net
 dohtrial.att.net
@@ -6577,6 +6575,7 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
+domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -9204,7 +9203,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10561,7 +10559,6 @@ homtextile.click79.com
 honeckle.info
 honeygain.me
 honeyponkan.co.cc
-hongkong.dnsovertor.cc
 honkhonk.info
 hooliganska.duckdns.org
 hoopsmeats.co.cc
@@ -10583,7 +10580,6 @@ hostapp.info
 hostbabies.co.cc
 hostdare.qtxd.net
 hostedadguard.greatharts.com
-hostedweb.info
 hosteg.net
 hosteria.org
 hosterzall.co.cc
@@ -14089,7 +14085,6 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
-nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -19036,6 +19031,7 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
+server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -19340,7 +19336,6 @@ sinas85.synology.me
 sinesprox.cloud
 singal.info
 singalongz.co.cc
-singapore.dnsovertor.cc
 singapore.fuckll.com
 singkur.co.cc
 singleclick.info
@@ -21685,6 +21680,7 @@ timewebfaster.co.cc
 timextreme.co.cc
 timiproxy.co.cc
 timmes.nl
+timperumichael.net23.net
 timt.info
 timtam.co.tv
 timurpoyraz.com
@@ -25090,6 +25086,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -26631,6 +26628,7 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
+www.duanyu.net
 www.dubb.info
 www.dubnut.com
 www.duchs.com
