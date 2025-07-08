@@ -257,6 +257,7 @@
 1dc81c8f207454e8c788111ac09bc625cd86c845-m.proxy1.startpage.com
 1dns.dev
 1dot1dot1dot1.cloudflare-dns.com
+1ead68e18d12346760c6fc16ef90795ae01e28c8-m.proxy2.startpage.com
 1forex.co.cc
 1foru.org
 1foxy.com
@@ -353,6 +354,7 @@
 2509474d8871e70589306f5337f0618d1e6b8510-m.proxy2.startpage.com
 255.biz
 2599db004fa6016dbf39d533555e8c0a80709f1d-m.proxy2.startpage.com
+25a05206a4aaf952d7c52077f208a080476cb853-m.proxy2.startpage.com
 25b9229d12fa07fb5eeecb6a70657ad5dde46059-m.proxy1.startpage.com
 25bc6f43b2adff95898948a6ecfe9a746588acc7-m.proxy1.startpage.com
 25t.net
@@ -477,6 +479,7 @@
 37er19htfd.execute-api.us-east-1.amazonaws.com
 37r.org
 3833.info
+388a8d50e0c59316c5a43dbb4a2b959b6d1887d9-m.proxy2.startpage.com
 389ccc.tk
 38fdd5c3813768da603565bbfba0b70a975f1b2a-m.proxy1.startpage.com
 38t.net
@@ -1316,7 +1319,6 @@ adiraproxy.co.cc
 adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
-adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin1.sotna.org
@@ -1422,7 +1424,6 @@ ag.marschi.de
 ag.ssrahul96.xyz
 ag.wntrmute.net
 ag01.de.hallmen.it
-agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -6745,6 +6746,7 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
+domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -8760,7 +8762,6 @@ free-network-totally-speed.tk
 free-office.com
 free-partnership.co.cc
 free-phrases.co.cc
-free-proxies.com
 free-proxy-block.co.cc
 free-proxy-list.net
 free-proxy-n-forex-reload.co.tv
@@ -9545,6 +9546,7 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
+getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -12988,6 +12990,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14344,6 +14347,7 @@ nintendo3d.co.cc
 nirbproxt.vercel.app
 nirbytes.com
 nirbytes2025shuttle.vercel.app
+nirbytesx.baselinux.net
 nirbytesxretpro.vercel.app
 nirbytexershutle.vercel.app
 niru.info
@@ -15823,6 +15827,8 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp.hamburger.ip-ddns.com
 pp317.a-auc.net
@@ -19949,7 +19955,6 @@ someproxy.com
 somethingright.co.cc
 somewhat-well.co.cc
 somewhere-output.co.cc
-son2.com
 soncms.id.vn
 songfortheheartz.co.cc
 songtoday.com
@@ -25003,7 +25008,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -35620,6 +35624,7 @@ zalo.info
 zalp.net
 zampeer.com
 zanonymous.com
+zapbam.com
 zapdom.com
 zapfast.info
 zapico.info
