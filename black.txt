@@ -1126,6 +1126,7 @@ addwheel.com
 adekbayi.co.cc
 ademnjejes.co.cc
 adeniji.net
+adfiltro.fun
 adfree-games-at.geometry-games.online
 adfree.usableprivacy.net
 adfreedns.top
@@ -1138,6 +1139,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.pssv.top
 adg.rokh.biz
+adg.rueiliu.space
 adg.siudzinski.net
 adg.swh123.xyz
 adg.yuzi.one
@@ -1606,6 +1608,7 @@ alldebrid.com
 alldebrid.fr
 alldevils.com
 alldouble.com
+alleesph.online
 allenjones.info
 allforexsites.co.cc
 allforexz.co.cc
@@ -1863,6 +1866,7 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
+anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -2396,6 +2400,7 @@ auugh.com
 auxo.info
 av-proxy.co.cc
 availableweb.co.cc
+avambee.cz.cc
 avanquestusa.com
 avarikoteo.co.cc
 avatunnel.co.cc
@@ -3189,6 +3194,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -3992,6 +3998,7 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
+carcenter.cz.cc
 card.thegalleryofart.org
 cardir.tk
 cardproxy.co.cc
@@ -4569,6 +4576,7 @@ collisioncloud.co.cc
 collomatte.co.cc
 colman.top
 colombianprox.co.cc
+coloney3.com
 coloredwool.us
 colorweb.eu
 coltontreatsmelikecrap.tomasolexa.com
@@ -4901,15 +4909,18 @@ crownproxy.com
 crowny.info
 crowstunnel.co.cc
 croxy-proxy.com
+croxy-proxy.id
 croxy.network
 croxy.org
 croxy.red
+croxyproxy.app
 croxyproxy.best
 croxyproxy.com
 croxyproxy.com.in
 croxyproxy.net
 croxyproxy.rocks
 croxyproxy.us
+croxyproxy.vip
 croxyproxys.com
 croxyproxyvpn.com
 croze.port82.net
@@ -5728,7 +5739,6 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
-dns.auapi.fun
 dns.audet.cloud
 dns.axiomos.xyz
 dns.aykanbacaksoy.de
@@ -5957,6 +5967,7 @@ dns.horcrux.vip
 dns.hostingim.com
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hubservices.vn
 dns.hujiayucc.cn
 dns.huseynov.work
@@ -6043,6 +6054,7 @@ dns.kxy.ink
 dns.l2h8.cn
 dns.l337.site
 dns.labar.re
+dns.labnekotest.site
 dns.laison.ltd
 dns.lars-lehmann.net
 dns.lashes-brow.ru
@@ -6404,6 +6416,7 @@ dns.zemows.industries
 dns.zfsystem.tech
 dns.zion.dev
 dns.zkz.cloud
+dns.zui.lol
 dns.zxi7.cn
 dns.zzuhacker.cn
 dns0.eu
@@ -6499,6 +6512,7 @@ dnsdoh.art
 dnsenc.com
 dnsforfamily.com
 dnsforge.de
+dnsguard
 dnsguard.pub
 dnslas.netrope.com
 dnslow.me
@@ -6544,6 +6558,7 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -6628,6 +6643,7 @@ doh.centraleu.pi-dns.com
 doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cloud-sekeng.com
+doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
@@ -6763,7 +6779,6 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
-domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -8998,7 +9013,6 @@ freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
-freeproxy.phoenixitjobs.com
 freeproxy.pt.vu
 freeproxy.rocks
 freeproxy.ru
@@ -9303,6 +9317,7 @@ furball.info
 furiousness.com
 furiousproxy.co.cc
 furnandoistrans.hackquest.com
+furniturelanddirect.com
 furproxie.co.cc
 furriesarecute.furryplace.eu
 furyforex.co.cc
@@ -13011,6 +13026,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14054,6 +14070,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -14072,6 +14089,7 @@ nearer-target.co.cc
 neatproxy.com
 nebula.neo7.kim
 nebula.tru.io
+nebulaproxy.io
 neebforex.co.cc
 need-to-pay.co.cc
 need-you-have.co.cc
@@ -14810,6 +14828,7 @@ olympicproxy.net
 omar.linxy.eu
 omarcreatedthis.linxy.eu
 ombligo.info
+omega.xetaz.net
 omegafrans.co.cc
 omegaproxy.com
 omgland.com
@@ -15469,6 +15488,7 @@ personalvpn.biz
 personalvpn.com
 personaly.click
 perx.info
+pesemes.ir
 pessoa.info
 petcargo.co.cc
 petciforex.co.cc
@@ -15846,6 +15866,7 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
+poxygoyo.comze.com
 pozzop.com
 pp.hamburger.ip-ddns.com
 pp317.a-auc.net
@@ -16139,6 +16160,7 @@ prox.rocks
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -16534,6 +16556,7 @@ proxy.de.ki
 proxy.decodes.biz
 proxy.digdiary.com
 proxy.discount
+proxy.dk-reloaded.com
 proxy.dnspass.com
 proxy.docputer.com
 proxy.docsdown.com
@@ -17012,6 +17035,7 @@ proxycredit.ml
 proxycrew.com
 proxycrime.com
 proxycrowd.com
+proxycroxy.site
 proxycube.net
 proxycure.co.cc
 proxycute.co.cc
@@ -17152,6 +17176,7 @@ proxygogo.com
 proxygogo.info
 proxygold.co.cc
 proxygovernance.com
+proxygratis.id
 proxygratuit.eu
 proxygratuit.fr
 proxygratuit.top
@@ -17228,6 +17253,7 @@ proxyit.co.cc
 proxyityou.co.cc
 proxyium.com
 proxyium.org
+proxyiumi.com
 proxyj.com
 proxyjam.co.cc
 proxyjet.com
@@ -17396,6 +17422,7 @@ proxyone.com
 proxyone.net
 proxyone.org
 proxyonline.ro
+proxyorb.com
 proxyou.com
 proxyous.co.cc
 proxyoutlaw.com
@@ -17799,6 +17826,7 @@ proxywebproxy.info
 proxywebsite.co.uk
 proxywebsite.com
 proxywebsite.info
+proxywebsite.io
 proxywebsite.org
 proxywebsites.biz
 proxywebsites.com
@@ -21605,6 +21633,7 @@ tempest.info
 tempforyou.co.cc
 templates24h.com
 templateweaver.com
+temproxy.com
 tender-age.co.cc
 tendous.com
 tenhh.farted.net
@@ -21631,6 +21660,7 @@ teslasurf.co.cc
 test.anonproxies.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
+test.net46.net
 test101.net76.net
 test52139.ignorelist.com
 testaghome.meshkov.info
@@ -25329,6 +25359,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -28445,6 +28476,7 @@ www.hopin.info
 www.horsestable.xyz
 www.hostapp.eu
 www.hostapp.info
+www.hostedweb.info
 www.hosteg.net
 www.hosteria.org
 www.hostinganime.com
@@ -28613,6 +28645,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -35534,6 +35567,7 @@ yourproxi.com
 yourproxies.com
 yourproxy.com
 yourproxy.eu
+yourproxy.site40.net
 yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
