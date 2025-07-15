@@ -15751,6 +15751,7 @@ cloudfree.tk
 cloudfreesurf.tk
 cloudfusion.tk
 cloudhidden.info
+cloudhide.sxx.in
 cloudhost.cz.cc
 cloudhostingusa.info
 cloudipadproxy.tk
