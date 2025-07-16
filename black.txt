@@ -779,6 +779,7 @@
 92040211643af234e11f6a9f9cd57b2bde266150-m.proxy1.startpage.com
 922proxy.com
 93939528bfaef1d4f5cbdbb3bb52f8f873b4b305-m.proxy1.startpage.com
+9487723323ac070068cc9dd9e9988dc122920c1a-m.proxy1.startpage.com
 951051916e501f032cb90c57a50e73643945a098-m.proxy1.startpage.com
 9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com
 9534cacfb08026210cbc9fb470b195057ef5526c-m.proxy1.startpage.com
@@ -798,8 +799,8 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
+9afa15bec9e37443c7b9fc6b5af59c30262ed1c5-m.proxy1.startpage.com
 9b271c5b35544d0cc456592c11127c9dbd3be3d1-m.proxy1.startpage.com
 9bb.net
 9bd22204c23549f40e2e63d0adb3d84d1b80f382-m.proxy1.startpage.com
@@ -1238,7 +1239,6 @@ adguard.mjthemelancholy.xyz
 adguard.mokocup.dev
 adguard.mulu.at
 adguard.myddns.org
-adguard.neon0404.space
 adguard.netmasc.services
 adguard.nhatlong.work
 adguard.nielsenhost.dk
@@ -1995,7 +1995,6 @@ anrforex.co.cc
 anskyforex.co.cc
 answersky.com
 ant.dns.qwer.pw
-antares1.eu.org
 antarforex.co.cc
 antarmuka.com
 antforex.co.cc
@@ -2489,6 +2488,7 @@ b3st.info
 b3u.net
 b3w.info
 b43e1ae55bedacaa1cb9eec3ede85bedd2a66557-m.proxy1.startpage.com
+b4a99bd629599bd2cf8e0979f8a153f5e3078cc8-m.proxy1.startpage.com
 b4b7e998fa693796608666ee39fecc8ad395ec61-m.proxy1.startpage.com
 b4e5991998d196cd3a58dbbdae8a431c52c2a562-m.proxy1.startpage.com
 b4m.info
@@ -3464,6 +3464,7 @@ brilliantwind.com
 bring-your-own.sinewave.cc
 bringingpass-hole.co.cc
 briskproxy.com
+bristol-is-the-king.dorsrv.ru
 bristol-stone.co.cc
 britestudio.com
 britishproxy.com
@@ -4159,6 +4160,7 @@ cetil.co.cc
 cetsohbet.com
 cexi.info
 cf54513f7603262153f0e5e9d0a6b5b1896639aa-m.proxy2.startpage.com
+cf9203e079db9d4b0482b2d6e37926df88ab946d-m.proxy1.startpage.com
 cfd-forex-markets.co.cc
 cfd-forex.co.cc
 cfda.info
@@ -4914,6 +4916,7 @@ croxy-proxy.id
 croxy.network
 croxy.org
 croxy.red
+croxy.rocks
 croxyproxy.app
 croxyproxy.best
 croxyproxy.com
@@ -5163,6 +5166,7 @@ d3v.info
 d3vbve16e4mwju.cloudfront.net
 d3vo8ia181ei2.cloudfront.net
 d3world.com
+d4.re
 d4q7uy1bdj3do.cloudfront.net
 d4w.us
 d4x.org
@@ -5172,6 +5176,7 @@ d57a71a45f0b03b170c72b122889f59f8381d065-m.proxy1.startpage.com
 d57f3a5cf2a2b38050b03ae038da4d9b29fc807f-m.proxy1.startpage.com
 d66a49ddaff10e8c0b23e45d71388bb84bf221c0-m.proxy1.startpage.com
 d75a562b4ee9439fea06a571ed256f0a2bd224ad-m.proxy1.startpage.com
+d7951d9c1da9ff5eec9abb55241f276de4908c26-m.proxy1.startpage.com
 d82.net
 d867242d16cb10acc073242a12f0b1720914016e-m.proxy1.startpage.com
 d8ba58564bef3a021fe82753175ffd430308d292-m.proxy1.startpage.com
@@ -5235,6 +5240,7 @@ darkbookfree.co.cc
 darkbrowsing.com
 darkdesign.co.cc
 darkereye.co.cc
+darkfat.com
 darkgate.pl
 darkheroez.co.cc
 darkhide.com
@@ -5658,8 +5664,10 @@ dns-over-https.com
 dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
 dns-public.ibakerserver.pt
+dns-savage.com
 dns-secondary.cloudnx.cloud
 dns-tls.bitwiseshift.net
+dns-tunnel-check.googlezip.net
 dns-uk.su4ka.icu
 dns-unfiltered.adguard.com
 dns.010812.xyz
@@ -5910,6 +5918,7 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -7108,6 +7117,7 @@ e00.info
 e204d1e2072257a4340447ca1646f269c046043c-m.proxy2.startpage.com
 e351751253e3cf79d032ddd4d61f2be323200064-m.proxy1.startpage.com
 e3feb68f69f618b30dbceec9f19c4af59c158c56-m.proxy1.startpage.com
+e56e66fb755a6fcc70482edbb4ac18f12defbaf6-m.proxy1.startpage.com
 e57d1e6d8b3ae43e529a1ddef627b19f9bc492f3-m.proxy2.startpage.com
 e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com
 e7f1189f256f2eb8d6b68b87b7b9d92dc70d45bb-m.proxy1.startpage.com
@@ -7705,6 +7715,7 @@ f93e553908c2ea75f42a4340e15fa322d1629938-m.proxy1.startpage.com
 f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com
 f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com
 f9e.info
+f9faa4fed008d4fc4aa78a36b57398874640a91a-m.proxy1.startpage.com
 f9t.net
 fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com
 fa7817c4c224fc833caa30460cf2b2fb658d7176-m.proxy1.startpage.com
@@ -7928,6 +7939,7 @@ fastfind.org
 fastflash.co.cc
 fastforschool.co.cc
 fastfoundations.com
+fastfoxvpn.com
 fastfreenet.co.cc
 fastfreeproxy.com
 fastfreeproxy.info
@@ -9646,6 +9658,7 @@ getvpn.info
 getwall.com
 getwayonfree.co.cc
 getwinlinux.co.cc
+getxvpn.xyz
 getyour.sweet-kisses.org
 getyourchaton.com
 getyourself.info
@@ -11203,6 +11216,7 @@ ilikeyourhair.com
 ilistblogs.com
 ilke.info
 illbeback.info
+illegals-in-my-yard.trustmi.cl
 illescas.info
 iloaneu.tk
 iloveislam7.tk
@@ -13247,6 +13261,7 @@ mathiscool.cryodome.com
 mathiseasy.chickenkiller.com
 mathissofun.jumpingcrab.com
 mathkids.info
+mathlearning.tech
 mathnotes.help
 mathnotes.icu
 mathpalace.com
@@ -15671,7 +15686,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -16868,6 +16882,7 @@ proxy4you.us
 proxy4you.ws
 proxy4youtube.com
 proxy5-gateway2webs.tk
+proxy5.startpage.com
 proxy51.com
 proxy52proxy.co.cc
 proxy56.com
@@ -18761,6 +18776,7 @@ rx.blackxfiied.xyz
 rx.techomespace.com
 rxhz.com
 rxproxy.com
+ryanchennotgay.trustmi.cl
 rylandmadethisjustkidding.twilightparadox.com
 ryly.info
 ryujinaerospace.shogun.ca
@@ -20006,6 +20022,7 @@ someproxy.com
 somethingright.co.cc
 somewhat-well.co.cc
 somewhere-output.co.cc
+son2.com
 soncms.id.vn
 songfortheheartz.co.cc
 songtoday.com
@@ -24547,6 +24564,7 @@ wootfun.com
 woots.info
 work-pro.net
 work-started.co.cc
+work.excel.albacetediario.com
 worka.work
 workandplay.info
 workassprxy.co.cc
@@ -30167,6 +30185,7 @@ www.obamaone.info
 www.obar.info
 www.obeo.info
 www.obey.cc
+www.obid.info
 www.obion.info
 www.obje.info
 www.obsq.org
@@ -30406,7 +30425,6 @@ www.pass2me.com
 www.pass3.com
 www.pass8.net
 www.passable.info
-www.passblocker.com
 www.passfilter.com
 www.passfilters.com
 www.passguide.net
@@ -30684,7 +30702,6 @@ www.privada.info
 www.privama.com
 www.privata.info
 www.private-internet.info
-www.private-proxy.com
 www.privatebrowser.info
 www.privatebrowsing.com
 www.privatefb.info
