@@ -848,6 +848,7 @@ a.lilinth.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
+a.zpn.me
 a12497f49aa1918e7567da6cf7d4291c2014a4d8-m.proxy1.startpage.com
 a168955d7e5d625dee8a09d0cb6f4a4fefd9109d-m.proxy1.startpage.com
 a1free-optimal.prcdn.net
@@ -1321,7 +1322,6 @@ adguardhome.atakorah.com
 adguardhome.ddns.net
 adguardhome.fr.couli.fr
 adguardhome.kirmanak.gq
-adguardhome.ponetwork.duckdns.org
 adguardhulst.duckdns.org
 adh.51st.top
 adh.blogcuahieu.com
@@ -2130,7 +2130,6 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
-araforex.cz.cc
 aragonez.co.cc
 arain.neighborhoodcloud.com
 arandomproxy.com
@@ -2208,6 +2207,7 @@ art-class-omg.vercel.app
 artclass.lol
 artclass.site
 arteshbod.co.cc
+artiom.made.this.h0stname.net
 artistremortgage.co.cc
 artmaxi.com
 arts.field.8tb.net
@@ -3195,6 +3195,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -3834,7 +3835,6 @@ bypasswithmyproxy.co.cc
 bypassxproxy.co.cc
 bypassy.com
 bypasszone.com
-byproxy.cz.cc
 bypssd.co.cc
 byteme.info
 bytzvpn.com
@@ -4380,7 +4380,6 @@ cleanway.info
 cleanwork.info
 cleany.biz
 clearall.info
-clearbrowser.cz.cc
 cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
@@ -5255,7 +5254,6 @@ darktunnel.ws
 darkwolf.hu.tl
 darmoweproxy.pl
 dart.kpsn.org
-darthodroid.duckdns.org
 darya.persiannit.net
 dashproxy.com
 dassault-aviation.co.cc
@@ -5284,7 +5282,6 @@ davegoorox.c-f-h.com
 daveproxy.com
 david-bowie.co.cc
 davidblaynes.co.cc
-davidcampos.duckdns.org
 davidev.free.fr
 dawnings.cn
 dawon.info
@@ -5918,7 +5915,6 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -9171,6 +9167,7 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
+freewebproxy.com
 freewebproxy.eu
 freewebproxy.net
 freewebproxy.net.cn
@@ -9185,6 +9182,7 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
+freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -9331,6 +9329,7 @@ furball.info
 furiousness.com
 furiousproxy.co.cc
 furnandoistrans.hackquest.com
+furniturelanddirect.com
 furproxie.co.cc
 furriesarecute.furryplace.eu
 furyforex.co.cc
@@ -9467,6 +9466,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -9594,6 +9594,7 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
+getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -10846,6 +10847,7 @@ hostapp.info
 hostbabies.co.cc
 hostdare.qtxd.net
 hostedadguard.greatharts.com
+hostedweb.info
 hosteg.net
 hosteria.org
 hosterzall.co.cc
@@ -11537,6 +11539,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -11890,7 +11893,6 @@ joliepics.co.cc
 joliesteens.com02.com
 jollysurf.co.cc
 jonasdevries.de
-jonesboyz.duckdns.org
 jongserver.xyz
 joosurf.nz.gs
 jordanmadethis.chickenkiller.com
@@ -13039,6 +13041,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -20985,6 +20988,7 @@ surfexec.co.cc
 surfexplore.tk
 surfface.co.cc
 surffan.co.cc
+surffast.netau.net
 surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
@@ -21976,6 +21980,7 @@ timewebfaster.co.cc
 timextreme.co.cc
 timiproxy.co.cc
 timmes.nl
+timperumichael.net23.net
 timt.info
 timtam.co.tv
 timurpoyraz.com
@@ -25084,6 +25089,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -25388,6 +25394,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -27447,6 +27454,7 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -28503,6 +28511,7 @@ www.hopin.info
 www.horsestable.xyz
 www.hostapp.eu
 www.hostapp.info
+www.hostedweb.info
 www.hosteg.net
 www.hosteria.org
 www.hostinganime.com
@@ -30405,6 +30414,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -32382,6 +32392,7 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
+www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
@@ -32444,7 +32455,6 @@ www.securehole.com
 www.secureinternet.info
 www.secureitall.info
 www.securemask.info
-www.securemax.info
 www.secureme.mobi
 www.securemyline.com
 www.securenetworkpass.com
@@ -33268,6 +33278,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -35588,7 +35599,6 @@ yourproxi.com
 yourproxies.com
 yourproxy.com
 yourproxy.eu
-yourproxy.site40.net
 yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
