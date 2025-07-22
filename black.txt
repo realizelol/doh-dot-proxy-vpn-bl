@@ -74,6 +74,7 @@
 0800.info
 08129912a23c461f9bcf7e31e7e15129a5407f21-m.proxy1.startpage.com
 08bb0a086d6dfe296717ad8156a1b87aedf491e8-m.proxy2.startpage.com
+095b9b1f30020e7e5ace4201bccaae85ee7057a3-m.proxy2.startpage.com
 09634149cb702859bf9f180d4f64d4b592c6bce7-m.proxy1.startpage.com
 0991b01945243b7d3cd06ba8fc2c9ac1d2b5038a-m.proxy1.startpage.com
 09b9dcb079a279ada20ebc6680f176e44936610c-m.proxy1.startpage.com
@@ -86,6 +87,7 @@
 0bit.info
 0bypass.homemanaging.com
 0c7797c34249ebf9364c14bff6f2592bc0afc661-m.proxy2.startpage.com
+0c9ec852674b8cf83c428230f24b346007d730e0-m.proxy2.startpage.com
 0dbc83ec9083f5a2305ee63728c3d15b15e6383f-m.proxy1.startpage.com
 0dc3bd2d783bac3bdfba11f538e178ae536daaba-m.proxy1.startpage.com
 0e95fb0989c49ba744c93f28e68d91c8470ef718-m.proxy1.startpage.com
@@ -249,6 +251,7 @@
 1a.ns.ozer.im
 1and-online24h.tk
 1b.ns.ozer.im
+1b39e3ffd493e7bfc274f3e9915d93419dc556cb-m.proxy2.startpage.com
 1banproxy.com
 1bestofproxy.appspot.com
 1block.info
@@ -465,6 +468,7 @@
 317252.xyz
 3214a0a90c508be101c0bfb39b971b94cbe13f70-m.proxy1.startpage.com
 32809e8246122a7884bc0826e79a5049c4f25d73-m.proxy2.startpage.com
+32a535b73a440d6f79db0ac047482de281793314-m.proxy2.startpage.com
 32a7bbd9a4bf6e6d354b47751fda9188e5cdb9fa-m.proxy1.startpage.com
 3326proxxs.tk
 33333.biz
@@ -479,6 +483,7 @@
 36345990c135b11b8b8c8268170f15ee159d0cd2-m.proxy1.startpage.com
 365e0ac2e398ac0a3bc6888d57365573a24f7cfa-m.proxy1.startpage.com
 365x24x7.in
+36e1d3a43149fbc99a6a0c20b0de42e27c8a7634-m.proxy1.startpage.com
 3738.info
 378proxy.co.cc
 37a92e8bb23faaede21233f3d69a9b20615d6e98-m.proxy1.startpage.com
@@ -533,6 +538,7 @@
 4287613382.uncork.biz
 428908proxy.tk
 4401.info
+447f5e8f4011cc5bba19a11db04ac4d849c85353-m.proxy1.startpage.com
 452.us
 455918proxy.tk
 45percent.com
@@ -540,6 +546,7 @@
 46sdzf3zdg1dxg2.us
 46tube.cky.cl
 474.cc
+47767082d97690a365d831e44cff20bfddf9651c-m.proxy2.startpage.com
 47v.info
 489.cc
 489ecfb2769c6242a08e5c90f87312c826311756-m.proxy1.startpage.com
@@ -604,6 +611,7 @@
 580d7cac1af9e6f9160245a95f4a2c5f42240f8e-m.proxy1.startpage.com
 5888.info
 58f22db48d99ccba87071fdf4d1646ae143baebc-m.proxy1.startpage.com
+597ec5e0cfd4792e06779ffc0516e0ac4d06a11d-m.proxy2.startpage.com
 5ad2578c56e343b8073331c88144c5ef36790367-m.proxy1.startpage.com
 5b5.org
 5c7eff270c76567809491453d8446dbcae8c3e5a-m.proxy2.startpage.com
@@ -614,6 +622,7 @@
 5e4a6ecbc7a823ce6da92727030fbe8fde2fe738-m.proxy2.startpage.com
 5e70d37d67bde99247ec339aafe264fe3f66d87e-m.proxy1.startpage.com
 5f2b56f004166fda26d909c237843bb2798ec677-m.proxy1.startpage.com
+5f646ad9745a42ae39fbffbb2c476d6dac18a65c-m.proxy2.startpage.com
 5fc517d6ce2fd72153074196b34bd383278a231c-m.proxy1.startpage.com
 5fish.info
 5g.o0o.re
@@ -693,6 +702,7 @@
 777schoolutilities.website
 777surfer.info
 77980.bodis.com
+77dde0c83872116061be7b70a72bb7e1272e9891-m.proxy1.startpage.com
 77e117e3adae46141cbd81c664ea33592385df2b-m.proxy1.startpage.com
 7818603b9ccb515c229be70b056eabbe9de9f6e6-m.proxy1.startpage.com
 787555asurfs.tk
@@ -760,7 +770,9 @@
 8day.info
 8e82dcb1175dbee969d7a834baad5a7554de5663-m.proxy2.startpage.com
 8e865a89851e351cb5d19287a7b5e342b9141192-m.proxy1.startpage.com
+8ef3f0df9a4dfd4c48d0266e3077be7afe4a3e94-m.proxy2.startpage.com
 8f28e8e8ae7305fe0191832022ebc54b1e74c53b-m.proxy1.startpage.com
+8f9d33cce9b36f8260ec57f2372a3193f9d9ac81-m.proxy1.startpage.com
 8fe602ab8393e5e2dc4fa004f93a4b6a59483614-m.proxy1.startpage.com
 8hj.org
 8me.info
@@ -784,6 +796,7 @@
 919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com
 92040211643af234e11f6a9f9cd57b2bde266150-m.proxy1.startpage.com
 922proxy.com
+92653cd48e79c15e724f93ccc295bbf07d95d79f-m.proxy1.startpage.com
 93939528bfaef1d4f5cbdbb3bb52f8f873b4b305-m.proxy1.startpage.com
 9487723323ac070068cc9dd9e9988dc122920c1a-m.proxy1.startpage.com
 951051916e501f032cb90c57a50e73643945a098-m.proxy1.startpage.com
@@ -811,6 +824,7 @@
 9b271c5b35544d0cc456592c11127c9dbd3be3d1-m.proxy1.startpage.com
 9bb.net
 9bd22204c23549f40e2e63d0adb3d84d1b80f382-m.proxy1.startpage.com
+9d2f936e8e6a82c9420ee2ab2ec660acd40802f0-m.proxy1.startpage.com
 9d51f1d228ed89203c9efbe0aa8b12dcd5f8cd7f-m.proxy2.startpage.com
 9dfc4b7e7826376624fc4be594e0ffeca0e1a2b9-m.proxy2.startpage.com
 9e87bef4f8fc0c149908bd0ec47446a43ac09ef1-m.proxy1.startpage.com
@@ -854,7 +868,7 @@ a.lilinth.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
-a.zpn.me
+a1.asistdoc.ar
 a12497f49aa1918e7567da6cf7d4291c2014a4d8-m.proxy1.startpage.com
 a168955d7e5d625dee8a09d0cb6f4a4fefd9109d-m.proxy1.startpage.com
 a1free-optimal.prcdn.net
@@ -905,6 +919,7 @@ aauforex.co.cc
 ab.ctx.cl
 abaforex.cz.cc
 abc.kissfree.net
+abcdef.cz.cc
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 abcdian.com
 abcmusic.info
@@ -1029,6 +1044,7 @@ acgroup.in
 achievementnetwork.tk
 acidrain.co.cc
 acidrain.tk
+aciforex.cz.cc
 acircuit.co.cc
 acmeblock.com
 acmesurf.com
@@ -1344,7 +1360,6 @@ adiraproxy.co.cc
 adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
-adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin1.sotna.org
@@ -1494,6 +1509,7 @@ aguado.info
 aguforex.co.cc
 agvhelmet.co.cc
 ahadns.net
+ahaforex.cz.cc
 ahcek.com
 ahighspeeds.co.cc
 ahlanwassahlan.co.cc
@@ -2484,6 +2500,7 @@ b.safe.ns.dnslify.com
 b0d04361d2f85e830403e391dd65663aa37ea127-m.proxy1.startpage.com
 b0e2550ede308a40d4e04325a9976f617035d465-m.proxy1.startpage.com
 b0f.info
+b0f1f820045083f21e54db48328306a19e897ad8-m.proxy1.startpage.com
 b0l.info
 b0o.co.cc
 b18be9c84db7e410ca95167e8e506eda58e84d3d-m.proxy1.startpage.com
@@ -2505,6 +2522,7 @@ b544d675338132f756edb2ad371561335aeb55b5-m.proxy1.startpage.com
 b61c1434facf5a6cc0cb31103d1e25cab1319d5d-m.proxy2.startpage.com
 b65.org
 b6a96b3953641507cf81bb00ca57552d668701ba-m.proxy2.startpage.com
+b6c2e2a259221307ff4edc738dcc2bf610b7013e-m.proxy2.startpage.com
 b84cbc13c4c55e112ef369b85703818fbf0cf6d0-m.proxy1.startpage.com
 b9b494ad5d8c1769f568173e9147144a3725b7c3-m.proxy1.startpage.com
 b9g.net
@@ -3372,6 +3390,7 @@ boracay2010.co.cc
 boratproxy.com
 border5.com
 borderlessvpn.io
+bore.pub
 boredatschool.com
 boredatschool.info
 boredatschool.net
@@ -4009,6 +4028,7 @@ caramelo.info
 carboni.info
 carbonproxy.com
 carcardonations.co.cc
+carcenter.cz.cc
 card.thegalleryofart.org
 cardir.tk
 cardproxy.co.cc
@@ -4090,6 +4110,7 @@ cazed.com
 cazzo.com
 cbay.info
 cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com
+cbd8c1cef67d7cef71df51429eb845bc7699a7e5-m.proxy1.startpage.com
 cbentertainment.online
 cbge.net
 cblox.info
@@ -4099,6 +4120,7 @@ cbuforex.co.cc
 cc.somimobile.com
 cc2.v8er.net
 ccant.com
+cccce7b57ed6828f84c87eb88fb40c046d864db4-m.proxy1.startpage.com
 ccinternet.co.tv
 ccno.info
 ccproxy.pw
@@ -4257,7 +4279,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chickenzestyhawktuahbigblacknigfattass.69.mu
 chicknstew.co.cc
@@ -4640,6 +4661,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5086,6 +5108,7 @@ d.is-very.fun
 d.niaox.com
 d.toairs.com
 d.wcguo.space
+d0b7ad737996e2ae75cc353b0efaf6ea8980e63e-m.proxy1.startpage.com
 d0bb494fb27f93e02cd34c01de0f37dd042fbf71-m.proxy1.startpage.com
 d101vabyweqq2v.cloudfront.net
 d1058937.mydomainwebhost.com
@@ -5304,6 +5327,7 @@ dcasper.co.cc
 dchky.info
 dcoffee.info
 dcuforex.co.cc
+dd12f0c5b1d582f87c315fd91ab5a17795ee4820-m.proxy2.startpage.com
 dd24h.com
 dd34.ru
 dd57be2f4c7501735b7f8ad2c0e96f989d3c8afd-m.proxy1.startpage.com
@@ -5411,6 +5435,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5891,7 +5916,6 @@ dns.eddi.net
 dns.edgeworkssystems.ca
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ele.xyz
 dns.electrotm.org
 dns.elemental.software
@@ -5923,6 +5947,7 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -6792,7 +6817,6 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
-domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -7118,6 +7142,7 @@ e-prxy.co.cc
 e-redemption.co.cc
 e.cpfrx.info
 e00.info
+e0e5ee720f5df52768680dc246b9768ae8034b6e-m.proxy1.startpage.com
 e204d1e2072257a4340447ca1646f269c046043c-m.proxy2.startpage.com
 e351751253e3cf79d032ddd4d61f2be323200064-m.proxy1.startpage.com
 e3feb68f69f618b30dbceec9f19c4af59c158c56-m.proxy1.startpage.com
@@ -7127,6 +7152,7 @@ e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com
 e5dea7ef22fa2e4440ce89b166afea3f8baf36bd-m.proxy1.startpage.com
 e7f1189f256f2eb8d6b68b87b7b9d92dc70d45bb-m.proxy1.startpage.com
 e81bbb9ddebc9e571cd1d4694269e01c1f10f4c6-m.proxy1.startpage.com
+e883fd0d1da78d44addaf50967facf6e1c073179-m.proxy1.startpage.com
 e8c1db884f20be6c237cf8162a278d04720816c0-m.proxy1.startpage.com
 e8p.info
 e97bd913010bb004d923785d106809c16495c7f8-m.proxy1.startpage.com
@@ -7170,6 +7196,7 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
+easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -7658,7 +7685,6 @@ extrapass.nz.gs
 extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -7690,6 +7716,7 @@ f0147c67adc2b3570ba3ced4611d1bec2c7e9ad9-m.proxy2.startpage.com
 f077d25c9f1ecdb08fba59fa69cad2122c50882e-m.proxy2.startpage.com
 f095617994734c94ba3ba551b937c1c4c1fb6592-m.proxy1.startpage.com
 f09628552ad1b44ac2bca3149e8b9bc06b77c279-m.proxy1.startpage.com
+f0f74f604d6fd720ac1511c4ada5c11167cc85f3-m.proxy2.startpage.com
 f0lga.tech
 f1.dns.s3cure.me
 f1.psgl.cl
@@ -7712,6 +7739,7 @@ f7bde7af549380b56556f4ca5c8ed6fc32a079b6-m.proxy2.startpage.com
 f7e.net
 f8082661fe71153ab7dbd43887f13cee95cb6efb-m.proxy2.startpage.com
 f8344d4f97898a146c36b17bc710e8ac7c065949-m.proxy2.startpage.com
+f8794ae3d2ed58e93d0309238bf7ecc16ccb02c6-m.proxy2.startpage.com
 f8a5c54672435c661c7c2e52ebf1d8101d1a7347-m.proxy1.startpage.com
 f8c.info
 f8d.info
@@ -8073,6 +8101,7 @@ fdiz.com
 fdns1.dismail.de
 fdns2.dismail.de
 fduforex.co.cc
+fe6fe09ab1ab5e18aeaf4e949a8f05f9506f71b2-m.proxy1.startpage.com
 feapy.com
 fearhouse.co.cc
 featuresurfer.co.cc
@@ -8900,6 +8929,7 @@ freedaysurf.co.cc
 freedevpn.com
 freedns.controld.com
 freedns.kiuo-utopias.chickenkiller.com
+freednsafraidorg.mooo.com
 freedom-angel.co.cc
 freedom-booster.co.cc
 freedom-ip.com
@@ -11559,6 +11589,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -13051,6 +13082,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -13871,6 +13903,7 @@ myadvocate.info
 myapforums.rwbcode.com
 myaproxy.info
 myatris.sbs
+mybad.soon.it
 mybestvpn.info
 myblanket.info
 mycake.info
@@ -14040,6 +14073,7 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
+mzx.site40.net
 n-wan.dynv6.net
 n0.eu
 n00bmaster.com
@@ -15176,7 +15210,6 @@ ortudns.com
 orzin.com
 os4work.com
 oscarproxy.co.cc
-osefcorp.duckdns.org
 osiris-isis.co.cc
 osobiacademy.osobi.ro
 oson.info
@@ -15614,7 +15647,6 @@ pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
-piholeddns.duckdns.org
 piie.advanced-orchestra.site
 pijama.info
 pikko.xyz
@@ -15703,6 +15735,7 @@ plannext.info
 planning-perfect.co.cc
 plans.datacommunicationsinc.com
 plant-selection.baumgardner.us
+plant.smart.energysemi.com
 plants-vs-proxy.gq
 plasmaforex.co.cc
 plastad.com
@@ -15894,7 +15927,6 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
-poxygoyo.comze.com
 pozzop.com
 pp.hamburger.ip-ddns.com
 pp317.a-auc.net
@@ -16584,7 +16616,6 @@ proxy.de.ki
 proxy.decodes.biz
 proxy.digdiary.com
 proxy.discount
-proxy.dk-reloaded.com
 proxy.dnspass.com
 proxy.docputer.com
 proxy.docsdown.com
@@ -18003,6 +18034,7 @@ punchthrough.com
 punkedproxy.com
 punono.duckdns.org
 pupil.gov.xxxtream.net
+pupil.learn.stevedewald.com
 pupilacces.co.cc
 pupilpass.com
 pupilplays.co.cc
@@ -19734,6 +19766,7 @@ skidsurf.co.cc
 skill.vocab.lekovic.ca
 skillnext.info
 skills.field.cftc-devoteam.one.pl
+skills.notes.pakla.pl
 skimer.com
 skinhealthy.info
 skipme.info
@@ -22517,6 +22550,7 @@ turtleterror.com
 turumaninglah.co.cc
 tusix.co.cc
 tuskythehusky.tech
+tutor.skills.bretonmeadowfarm.org
 tutor.words.xzolx.org
 tutorialbook.com
 tuvpn.com
@@ -22612,7 +22646,6 @@ ugproxy.com
 uhairstyle.com
 uhk.in
 uhm.sorry.oops.wtf
-uhuf.com
 ujnp.com
 uk-lon.doh.sb
 uk-proxy.co.uk
@@ -23576,7 +23609,6 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
-usproxy.usa.cc
 usproxyserver.info
 ussurfer.nz.gs
 ustrip.co.cc
@@ -24060,6 +24092,7 @@ vwqy.com
 vwsurf.co.cc
 vynox.ctx.cl
 vyprvpn.com
+vyujcfwinj.thetrist.com
 vyyf.com
 w-a.info
 w.digdiary.com
@@ -24579,6 +24612,7 @@ woots.info
 work-pro.net
 work-started.co.cc
 work.excel.albacetediario.com
+work.quiz.gamersuk.org
 worka.work
 workandplay.info
 workassprxy.co.cc
@@ -35114,6 +35148,7 @@ www.youproxy.com
 www.youproxy.info
 www.youproxytube.com
 www.your-freedom.de
+www.your-freedom.net
 www.your-proxy.com
 www.your-proxybrowseris.tk
 www.yourcheat.com
@@ -35607,7 +35642,6 @@ yourproxi.com
 yourproxies.com
 yourproxy.com
 yourproxy.eu
-yourproxy.site40.net
 yourproxy.ueuo.com
 yoursafe.info
 yoursdomain.com
