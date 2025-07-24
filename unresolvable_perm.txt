@@ -57732,6 +57732,7 @@ proxy.dirgle.net
 proxy.diyplans.org
 proxy.djiblog.com
 proxy.dk-condos.com
+proxy.dk-reloaded.com
 proxy.dkcondos.com
 proxy.dl.nu
 proxy.dlbbrasil.com
@@ -173048,6 +173049,7 @@ yourproxy.org
 yourproxy.party
 yourproxy.pl
 yourproxy.science
+yourproxy.site40.net
 yourproxy.top
 yourproxy.us
 yourproxy2013.tk
