@@ -866,7 +866,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9afa15bec9e37443c7b9fc6b5af59c30262ed1c5-m.proxy1.startpage.com
 9b271c5b35544d0cc456592c11127c9dbd3be3d1-m.proxy1.startpage.com
@@ -972,8 +971,8 @@ aash.info
 aatforex.co.cc
 aauforex.co.cc
 ab.ctx.cl
+abaforex.cz.cc
 abc.kissfree.net
-abcdef.cz.cc
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 abcdian.com
 abcmusic.info
@@ -1160,7 +1159,6 @@ ad2.heronet.nl
 ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com
 ad4msan.win
 ada.openbld.net
-adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -1414,7 +1412,6 @@ adiraproxy.co.cc
 adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
-adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin1.sotna.org
@@ -2895,7 +2892,6 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
-best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -2923,7 +2919,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -2979,7 +2974,6 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
-bestspeed.cz.cc
 bestspin.info
 bestssh.net
 bestsslproxy.info
@@ -3614,6 +3608,7 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
+browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -5132,7 +5127,6 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5980,7 +5974,6 @@ dns.eddi.net
 dns.edgeworkssystems.ca
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ele.xyz
 dns.electrotm.org
 dns.elemental.software
@@ -6012,7 +6005,6 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -8542,6 +8534,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-da-boiz.vercel.app
 for-privacy.net
 for-stay.co.cc
@@ -14145,7 +14138,6 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
-mzx.site40.net
 n-wan.dynv6.net
 n0.eu
 n00bmaster.com
@@ -14202,6 +14194,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -14959,7 +14952,6 @@ olympicproxy.net
 omar.linxy.eu
 omarcreatedthis.linxy.eu
 ombligo.info
-omega.xetaz.net
 omegafrans.co.cc
 omegaproxy.com
 omgland.com
@@ -15796,6 +15788,7 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
+place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -15973,7 +15966,6 @@ powerunblock.com
 powervault.fibersurf.co.cc
 powgreen.com
 powpow.info
-poxi.a-ok.tw
 poxi.andr.be
 poxi.azam.in
 poxi.clkv.ch
@@ -15999,7 +15991,6 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
-poxygoyo.comze.com
 pozzop.com
 pp.hamburger.ip-ddns.com
 pp317.a-auc.net
@@ -18188,7 +18179,6 @@ qeoz.com
 qg4qp4-8080.csb.app
 qgdw.com
 qgfo.com
-qhah.com
 qianmingwei.cn
 qiche008.com
 qifuban.cn
@@ -22092,6 +22082,7 @@ timewebfaster.co.cc
 timextreme.co.cc
 timiproxy.co.cc
 timmes.nl
+timperumichael.net23.net
 timt.info
 timtam.co.tv
 timurpoyraz.com
@@ -25508,7 +25499,6 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
-www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -25746,7 +25736,6 @@ www.azlocker.com
 www.aznq.com
 www.azproxies.com
 www.azqq.com
-www.aztc.info
 www.azurf.com
 www.b-i-z.biz
 www.b-itc.be
@@ -26032,6 +26021,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -26738,7 +26728,6 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
-www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -27324,6 +27313,7 @@ www.eyou.eu
 www.eyym.com
 www.ez9.info
 www.ezcrack.info
+www.ezhide.com
 www.ezpow.com
 www.ezproxee.info
 www.ezproxies.com
@@ -27566,6 +27556,7 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -27956,7 +27947,6 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
-www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -30525,7 +30515,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
