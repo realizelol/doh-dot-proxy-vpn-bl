@@ -28466,6 +28466,7 @@ freeproxy.nu
 freeproxy.ohbah.com
 freeproxy.org.uk
 freeproxy.pepperjack.org
+freeproxy.phoenixitjobs.com
 freeproxy.photografiado.com
 freeproxy.portzero.net
 freeproxy.prairiecreekmanor.com
@@ -57556,6 +57557,7 @@ proxy.begagnade-datorer.org
 proxy.beifangcai.cn
 proxy.belarus-theatre.com
 proxy.bernakartal.com
+proxy.betest.cn
 proxy.betriebsraete-blog.com
 proxy.betsypowers.com
 proxy.bg-buysell.com
