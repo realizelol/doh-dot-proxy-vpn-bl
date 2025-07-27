@@ -312,7 +312,6 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
-1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -1737,6 +1736,7 @@ almondtree.info
 alohabrowser.com
 along-with.co.cc
 aloyforex.co.cc
+alpha.dnsbunker.org
 alpha.rferee.dev
 alpha1proxy.cf
 alphabr.online
@@ -2073,6 +2073,7 @@ anrforex.co.cc
 anskyforex.co.cc
 answersky.com
 ant.dns.qwer.pw
+antares1.eu.org
 antarforex.co.cc
 antarmuka.com
 antforex.co.cc
@@ -3513,6 +3514,7 @@ bravador.nz.gs
 bravebadger.com
 bravebean.com
 bravedns.com
+bravo.dnsbunker.org
 brazilproxy.com
 brazilproxy.info
 breachit.com
@@ -3569,6 +3571,7 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
+brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -3613,6 +3616,7 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
+browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -4236,6 +4240,7 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
+centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4302,7 +4307,6 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
-cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -4521,6 +4525,7 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
+cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -5128,6 +5133,7 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5960,7 +5966,6 @@ dns.dns-53.us
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
-dns.doh.best
 dns.dooks.uk
 dns.dotnet.win
 dns.doubleangels.com
@@ -6007,7 +6012,6 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -6605,6 +6609,7 @@ dnsaguard1.duckdns.org
 dnsaws.rasp.tv
 dnsblock.grisumedia.de
 dnsbot.fiedin.com
+dnsbunker.org
 dnscache0.ns71.net
 dnscity.org
 dnsdoh.art
@@ -6656,7 +6661,6 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7259,7 +7263,6 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
-easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -7749,7 +7752,6 @@ extrapass.nz.gs
 extrapolate.co.cc
 extraprivacy.com
 extrasneaky.com
-extremebypass.cz.cc
 extremegamz.co.cc
 extremepipforex.co.cc
 extremeproxy.com
@@ -9573,7 +9575,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -9589,7 +9590,6 @@ gazz.info
 gazzump.com
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
-gb-cov-w-f-1.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-1.nashkan.net
 gb-lon-w-4.nashkan.net
@@ -10190,7 +10190,6 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
-greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -13147,7 +13146,6 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
-madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14171,7 +14169,6 @@ narforex.co.cc
 narikbang.co.cc
 narina.co.cc
 narp.fr.to.joe.dj
-narrfgames.tk
 narrow-seam.co.cc
 narrow-space.co.cc
 narvu.com
@@ -14467,7 +14464,6 @@ nightunblokweb.co.cc
 nightway.info
 nikeappareledz.co.cc
 nikhils.info
-nikoniko.pote.jp
 nikto.net
 nilanjan.me
 nilanjan.rocks
@@ -15094,6 +15090,7 @@ openalaronfxforexsite.co.cc
 openalaronfxforexsites.co.cc
 openawindow.com
 openbet.info
+openbld.net
 openblocker.co.cc
 openblockforexwebsite.co.cc
 openblocks.info
@@ -15788,7 +15785,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -15992,7 +15988,6 @@ poxy.pl
 poxy.us
 poxy.us.to
 poxy4u.comyr.com
-poxygoyo.comze.com
 pozzop.com
 pp.hamburger.ip-ddns.com
 pp317.a-auc.net
@@ -16043,7 +16038,6 @@ premiumzone.info
 premixsite.co.cc
 premoweb.com
 prep.clever.cloudworkonline.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -16285,7 +16279,6 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -21242,7 +21235,6 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
-surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -27948,7 +27940,6 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
-www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -30517,7 +30508,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
