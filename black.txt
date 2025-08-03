@@ -1176,7 +1176,6 @@ ad1.heronet.nl
 ad1guard.duckdns.org
 ad2.heronet.nl
 ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com
-ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com
 ad4msan.win
 ada.openbld.net
 adaforex.cz.cc
@@ -1189,7 +1188,6 @@ adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
 adb.timnichollsphotography.com
 adblock-larssonshus.duckdns.org
-adblock.any.dns.nixnet.xyz
 adblock.borjalopez.eu
 adblock.dns.dnswarden.com
 adblock.dns.mullvad.net
@@ -1197,10 +1195,7 @@ adblock.doh.mullvad.net
 adblock.indianets.net
 adblock.krctech.dev
 adblock.leenit.kr
-adblock.lux1.dns.nixnet.xyz
-adblock.lv1.dns.nixnet.xyz
 adblock.mydns.network
-adblock.ny1.dns.nixnet.xyz
 adblockdns.live
 adblockersite.com
 adblockluna.com
@@ -1433,7 +1428,6 @@ adiraproxy.co.cc
 adita.info
 adiyulianto.cz.cc
 adl.adfilter.net
-adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin1.sotna.org
@@ -1509,7 +1503,6 @@ aeuforex.co.cc
 aeyx.com
 af3b0bcd7d581b17c0c48e7564492822183a6b19-m.proxy1.startpage.com
 af63a779e6260e6bcc06fd23f94b6079f514cd7c-m.proxy1.startpage.com
-afaforex.cz.cc
 afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com
 afec.info
 affcdn.net
@@ -1861,12 +1854,10 @@ an0n.info
 an81.ddns.net
 an81dns.ru
 ana.goodluckwith.us
-anaforex.cz.cc
 anagy.net
 analise.info
 analystforex.co.cc
 ananoos.com
-anarchychessbetterthenregularchess.kmodem.org
 anasingmiem.co.cc
 anatitan.co.cc
 anawa.co.cc
@@ -1955,7 +1946,6 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
-anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2669,7 +2659,6 @@ baittkgsafesurfsurf.tk
 bajingos.co.cc
 bajosbajos.byethost33.com
 bajuproxy.co.cc
-bak2skewl.konpan.ch
 baklua.co.cc
 baktabul.net
 baldonline.info
@@ -2692,7 +2681,6 @@ banana-tree-cards.com
 banana-vpn.com
 banana.lilacridge.us
 banana.pullchain.us
-banana123.macao.org
 bananaboatonline.com
 bananacake.co.cc
 bananakun.camdvr.org
@@ -2895,7 +2883,6 @@ beneaththewave.co.cc
 benefit-hole.co.cc
 benignforex.co.cc
 beningan.co.cc
-benmani2341shark.oops.wtf
 bensmells.laoxz.cn
 bentnailfarm4121.com
 bentoproxy.tripod.com
@@ -3518,6 +3505,7 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
+brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -3580,7 +3568,6 @@ britsforex.co.cc
 broadband.bdserv.com
 broadened.asdfg.us
 broadsurf.co.cc
-brocanyoustopaskingforlinks.oops.wtf
 brockwiresvslinewize.yiff.fi
 brocoli.my.free.fr
 brodpanto.co.cc
@@ -3590,7 +3577,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -3635,6 +3621,7 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
+browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -3806,7 +3793,6 @@ bw.i81.ru
 bwsf.net
 bwuforex.co.cc
 bxuforex.co.cc
-by-itrsa.pettica.com
 by-originally.co.cc
 by-proxy.net
 by-youcan-use.co.cc
@@ -3940,6 +3926,7 @@ bypasswithmyproxy.co.cc
 bypassxproxy.co.cc
 bypassy.com
 bypasszone.com
+byproxy.cz.cc
 bypssd.co.cc
 byteme.info
 bytzvpn.com
@@ -5613,7 +5600,6 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 dididoitright.wiki.gd
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6681,7 +6667,6 @@ does-more.co.cc
 doesh.com
 dog-sho.ws
 dog.dns.qwer.pw
-dog.vpn.net.br
 dog1.info
 doge-fork-h834.vercel.app
 doge-fork-lac.vercel.app
@@ -6896,7 +6881,6 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
-domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -7384,7 +7368,6 @@ edu.gurdit.com
 edu.hamrodolakha.com
 edu.info.east-kazakhstan.su
 edu.loskks.org
-edu.moldeo.org
 edu.osobi.ro
 edu.prostitutki-na-vyezd.com
 edu.rebdg.com
@@ -7913,7 +7896,6 @@ fakenow.co.cc
 fakenow.net
 fakeproxy.com
 fakestudent.com
-falcs.photo-frame.com
 fallinstar.co.cc
 falln.com
 fallogy.com
@@ -8553,6 +8535,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-da-boiz.vercel.app
 for-privacy.net
 for-stay.co.cc
@@ -9305,7 +9288,6 @@ freewebsecure.co.cc
 freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
-freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -9401,7 +9383,6 @@ ftunnel.com
 fubayashi.co.cc
 fuchur.pentament.de
 fuckenbored.com
-fucklightspeed.mgotz.com
 fuckroxy.gq
 fuentesproxy.co.cc
 fuera.info
@@ -9715,7 +9696,6 @@ getforexincountry.co.cc
 getforexprofit.co.cc
 getfoxyproxy.org
 getfreesite.co.cc
-getgodady.info
 gethide.com
 gethide.net
 geti2p.net
@@ -10541,7 +10521,6 @@ hiddenpark.com
 hiddenpath.info
 hiddenpolicies.co.cc
 hiddenproxy.com
-hiddenproxy.net
 hiddenproxysurf.ml
 hiddens.info
 hiddenspace.info
@@ -11556,7 +11535,6 @@ interphp.nz.gs
 interssh.com
 interstellar-git-main-surges-projects-3eb46597.vercel.app
 interstellar.laviewddns.com
-interstellar.midnite.space
 interstellarbynirbytes2.vercel.app
 intersurf.nz.gs
 intertravel.guillaumevanstrydonck.be
@@ -12237,7 +12215,6 @@ kendentil.org.uk
 kenetic.info
 kenit.me
 kenjinet.co.cc
-kenkyu.luhu.jp
 kennethhuang.com
 kent6.ajaest.net
 kent6.dyn.ajaest.net
@@ -12500,7 +12477,6 @@ kwork.info
 kx-97795-tr.xyz
 kyjiep.com
 kyoheitensai.com
-kyrgyzstan-travel.home.kg
 kytx.co.cc
 kywantsmyautographonfood.networkoutpost.com
 kz-alm-w-1.nashkan.net
@@ -13235,7 +13211,6 @@ makeus.tk
 making-over.co.cc
 makingforexforlive.co.cc
 malabarproxy.co.cc
-malachi.is.dumb.physiosagart.de
 malamjingga.co.cc
 malirocks.com
 malkister.co.cc
@@ -13547,7 +13522,6 @@ mezy.net
 mezzy.com
 mglife.net
 mgomo.com
-mhany.xyz
 mhhz.com
 mhip.info
 mi-ip.net
@@ -14200,6 +14174,7 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
+naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -14416,7 +14391,6 @@ newyorkproxies.co.cc
 newyoungun.com
 nexearn.com
 nexiforex.co.cc
-nexo.koti.cf
 nexsos.syac.ca
 next-fact.co.cc
 next.miao.ninja
@@ -14687,7 +14661,6 @@ nowyoudont.com
 noxbrowse.nz.gs
 noxstu.co.cc
 noxy.pl
-noyourmean.xyz
 npct.org
 nphproxy.com
 nphproxy.info
@@ -14978,7 +14951,6 @@ one.ourhobby.com
 one.ygto.com
 onebabies.co.cc
 onebigorange.com
-onedown.info
 onefake.com
 onefastnet.co.cc
 onefastnonimous.co.cc
@@ -15299,7 +15271,6 @@ our-services.brittainlawfirm.net
 ourcraft.ddnss.de
 ourf.info
 ourproxy.com
-ourproxy.net
 ourspace.co.cc
 ouryforex.co.cc
 outeniqua.freehostia.com
@@ -15569,7 +15540,6 @@ pearforex.co.cc
 peasblackeyed.co.cc
 peeking.in
 peekproxy.com
-peepeepod.odoobooks.com
 peepod.meicosoft.com
 pegasus.nz.gs
 pegasus1.eu.org
@@ -15756,7 +15726,6 @@ pipshunter.co.cc
 piracyproxy.net
 piranha.nz.gs
 piraproxy.org
-pirataproxy.com
 pirate.wildsurf.net
 piratebayproxy.co
 piratenproxy.nl
@@ -16961,7 +16930,6 @@ proxy2link.com
 proxy2u.com
 proxy2u.info
 proxy2u.woano.com
-proxy2you.com
 proxy3.com
 proxy3.yoof.info
 proxy33.com
@@ -16971,7 +16939,6 @@ proxy4.yoof.info
 proxy46.com
 proxy4browsing.com
 proxy4college73.co.cc
-proxy4down.com
 proxy4free.com
 proxy4free.info
 proxy4free.me
@@ -16990,6 +16957,7 @@ proxy4you.us
 proxy4you.ws
 proxy4youtube.com
 proxy5-gateway2webs.tk
+proxy5.startpage.com
 proxy51.com
 proxy52proxy.co.cc
 proxy56.com
@@ -17658,7 +17626,6 @@ proxyrocket.com
 proxyroll.cn
 proxyroll.com
 proxyroller.com
-proxyrooms.com
 proxyroot.com
 proxyrotator.com
 proxyroute.com
@@ -17682,7 +17649,6 @@ proxysave.co.cc
 proxysaw.co.cc
 proxyscape.com
 proxyschoolfree.co.cc
-proxyscope.com
 proxyscrape.com
 proxysea.com
 proxysec.com
@@ -18326,7 +18292,6 @@ rainy-days.co.cc
 raisethesurf.co.cc
 rajalaki.co.cc
 rakreatif.co.cc
-ram.kdot.cam
 ramberhead.clocking.ro
 ramces.com
 ramforex.co.cc
@@ -19199,7 +19164,6 @@ scriptdownloads.com
 scriptfast.co.cc
 scriptproxy.co.cc
 scrollback.co.cc
-scrsa.luhu.jp
 scubaplanet.de
 sculpturehide.co.cc
 sdchost.com
@@ -20641,7 +20605,6 @@ studentwant.co.cc
 studentwantit.co.cc
 studioproxy.com
 studisforex.co.cc
-study-english-net.mysaol.com
 study-history.jumpingcrab.com
 study.ajhurst.org
 study.basutabi.com
@@ -20660,7 +20623,6 @@ studyatschool.com
 studyblocks.com
 studydegree.co.cc
 studyforex.co.cc
-studyguidehistory.qlbv.vn
 studyhabits.info
 studyhelp.info
 studying-for-a-history-test.fieldofstudy.com
@@ -22014,7 +21976,6 @@ this-is-it-proxy.co.cc
 this-is-the-life.co.cc
 this.is.for.lightspeedpal.ostrovsky.sk
 thiscopyofartclassisnotgenuine.rare1k.space
-thisforcinco.larrondoinstalaciones.cl
 thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
 thisismathteach.myclarevision.com
 thisisthestandard.com
@@ -23322,12 +23283,8 @@ unblokwebtrak.co.cc
 unblox.com
 unbroken-connection.co.cc
 uncensor.eu
-uncensored.any.dns.nixnet.xyz
 uncensored.dns.dnswarden.com
 uncensored.freedns.controld.com
-uncensored.lux1.dns.nixnet.xyz
-uncensored.lv1.dns.nixnet.xyz
-uncensored.ny1.dns.nixnet.xyz
 uncensoreddns.org
 uncensors.cn
 uncensors.com
@@ -23633,7 +23590,6 @@ use.freeddns.com
 use.gurdit.com
 use.madefalva.ro
 use.mypics.ca
-use.paper.is
 use.star.is
 use.visitame.cl
 use.winterhouse.info
@@ -23814,7 +23770,6 @@ vertijourney.co.cc
 verybleach.co.cc
 veryfastbrowser.co.cc
 veryfasterproxy.co.cc
-veryhotmoms.qlbv.vn
 verymerry.xyz
 verynicewebsite.letz.dev
 veryprivateproxy.co.cc
@@ -31488,7 +31443,6 @@ www.proxykid.com
 www.proxykiller.com
 www.proxyking.com
 www.proxyking.net
-www.proxyknow.com
 www.proxykorea.info
 www.proxyl.com
 www.proxylawyers.com
@@ -35675,7 +35629,6 @@ your.eye.rs
 your2pass.nz.gs
 yourcheat.com
 yourcrazyshop.com
-youreagoodmanarthurmorgan.ignorelist.com
 youreatinghabits.com
 yourfree.eu
 yourfreedom.net
@@ -35946,7 +35899,6 @@ zwyr157wwiu6eior.com
 zxc.fi
 zxcvb.pp.ua
 zxti.com
-zxyp.04.open-window.de
 zyronirbinter.vercel.app
 zysz.com
 zz.darkenproject.com
