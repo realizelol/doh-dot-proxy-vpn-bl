@@ -911,7 +911,6 @@
 9r4.net
 9rk.info
 9s3.net
-9w9.org
 9y2.net
 a-4.info
 a-5.info
@@ -988,6 +987,7 @@ aash.info
 aatforex.co.cc
 aauforex.co.cc
 ab.ctx.cl
+abaforex.cz.cc
 abc.kissfree.net
 abcdef.cz.cc
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
@@ -1175,6 +1175,7 @@ ad1.heronet.nl
 ad1guard.duckdns.org
 ad2.heronet.nl
 ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com
+ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com
 ad4msan.win
 ada.openbld.net
 adaforex.cz.cc
@@ -1422,6 +1423,7 @@ adherence.info
 adherforex.co.cc
 adidaspredator.co.cc
 adiestrado.com
+adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
@@ -1503,6 +1505,7 @@ aeuforex.co.cc
 aeyx.com
 af3b0bcd7d581b17c0c48e7564492822183a6b19-m.proxy1.startpage.com
 af63a779e6260e6bcc06fd23f94b6079f514cd7c-m.proxy1.startpage.com
+afaforex.cz.cc
 afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com
 afec.info
 affcdn.net
@@ -1854,7 +1857,6 @@ an0n.info
 an81.ddns.net
 an81dns.ru
 ana.goodluckwith.us
-anaforex.cz.cc
 anagy.net
 analise.info
 analystforex.co.cc
@@ -1947,6 +1949,7 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
+anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2218,6 +2221,7 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
+araforex.cz.cc
 aragonez.co.cc
 arain.neighborhoodcloud.com
 arandomproxy.com
@@ -2674,6 +2678,7 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
+bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -3286,6 +3291,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -4387,6 +4393,7 @@ chromeout.co.cc
 chromeproxy.net
 chromium.dns.nextdns.io
 chronicorders.co.cc
+chuan.usa.cc
 chubbybunny.info
 chuforex.co.cc
 chuiyixiaproxy.tk
@@ -4597,6 +4604,7 @@ cname-for-doh.go-behind.one
 cnamerannmertest.ints.f5.si
 cnnlivenow.co.cc
 cnproxy.com
+cnsurf.cn
 cnt7.com
 cnuforex.co.cc
 co-make.com
@@ -6294,6 +6302,7 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -6874,6 +6883,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -7256,7 +7266,6 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
-easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -8526,7 +8535,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-da-boiz.vercel.app
 for-privacy.net
 for-stay.co.cc
@@ -9424,6 +9432,7 @@ furball.info
 furiousness.com
 furiousproxy.co.cc
 furnandoistrans.hackquest.com
+furniturelanddirect.com
 furproxie.co.cc
 furriesarecute.furryplace.eu
 furyforex.co.cc
@@ -9560,6 +9569,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -12742,7 +12752,6 @@ likethis-hole.co.cc
 lila-fxbuy.co.cc
 lilahider5.tk
 lilgangsta.com
-lilibox.duckdns.org
 lilibox.freeboxos.fr
 lilliwnnapfeswa9z.wolnoscwkieszeni.pl
 lillybug.co.tv
@@ -13115,7 +13124,6 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
-madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -15746,6 +15754,7 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
+place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -16242,6 +16251,7 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -16938,7 +16948,6 @@ proxy4you.us
 proxy4you.ws
 proxy4youtube.com
 proxy5-gateway2webs.tk
-proxy5.startpage.com
 proxy51.com
 proxy52proxy.co.cc
 proxy56.com
@@ -18289,7 +18298,6 @@ rammerhead.oops.wtf
 rammerhead2121.webs.vc
 rammerheadisok.tx2600.net
 rammerstellar.recca.cl
-ramosearch.comlu.com
 rampokbrokerforex.co.cc
 ranabytese.vercel.app
 ranamaddadaaaadjka.ve3.info
@@ -27840,6 +27848,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -28674,6 +28683,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -34645,6 +34655,7 @@ www.webevader.org
 www.webfast.info
 www.webfastorslow.tk
 www.webfilteringsolutions.info
+www.webfinder.com
 www.webfly.info
 www.webgeek.info
 www.webhome.eu
@@ -35096,7 +35107,6 @@ www.youproxy.com
 www.youproxy.info
 www.youproxytube.com
 www.your-freedom.de
-www.your-freedom.net
 www.your-proxy.com
 www.your-proxybrowseris.tk
 www.yourcheat.com
