@@ -2410,7 +2410,6 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
-asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -3663,6 +3662,7 @@ browse-free.com
 browse.1industry.com
 browse.abccompany.biz
 browse.auraria.org
+browse.colodex.com
 browse.compuinter.com
 browse.maxposter.com
 browse.startpage.com
@@ -6129,6 +6129,7 @@ dns.green-ping.lol
 dns.grqu.de
 dns.grusdas.net
 dns.guard.io
+dns.guardmydns.com
 dns.guoxueziyuan.com
 dns.gutwe.in
 dns.h0me.cc
@@ -6927,7 +6928,6 @@ doh.sidnlabs.nl
 doh.sublime9.xyz
 doh.suche.org
 doh.sungai.stream
-doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
@@ -10345,7 +10345,6 @@ gudhost.com
 gudstrength.co.cc
 gueb.de
 gueforex.info
-guesses.info
 guestappearance.us
 guh.uniall.tk
 guiar.info
@@ -11733,7 +11732,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -13583,7 +13581,6 @@ memberproxies.co.cc
 memberproxy.co.cc
 memess.com
 memoryline.co.cc
-mendozasdelivery.com
 menerimasemuanya.co.cc
 meni.info
 mensgadgets.co.cc
@@ -14279,7 +14276,6 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -15650,6 +15646,7 @@ peeking.in
 peekproxy.com
 peepod.meicosoft.com
 pegasus.nz.gs
+pegasus1.eu.org
 pegasusdirectory.com
 pehw.com
 pekpekao.co.cc
