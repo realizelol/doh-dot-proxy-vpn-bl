@@ -44,6 +44,7 @@ www.google.com                                      # Google :)
 89.187.169.47                                       # anton.app - Anton - learning platform for school
 #108.177.15.132                                     # wr-in-f132.1e100.net - Google - Reason: Unknown
 #173.194.76.132                                     # ws-in-f132.1e100.net - Google - Reason: Unknown
+199.36.158.100                                      # songbattle.io
 216.239.36.54                                       # us-central1-gaggle-staging.cloudfunctions.net - Games: Resident Evil 3 Remake 2020 + Goose Goose Duck
 216.239.38.120                                      # forcesafesearch.google.com - Google SafeSearch
 ##
