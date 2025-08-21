@@ -2204,7 +2204,6 @@ antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
-antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
 antispyware.cz.cc
@@ -4411,6 +4410,7 @@ chaos-system.de
 chaotic-guest-bestie.glacialpower.com
 charleen.info
 chart.books.fivepals.com
+chart.train.topone.cl
 chart.words.lasvegasanonymous.org
 charulata.co.cc
 chat-isinterstellargood.safira.com.my
@@ -4498,7 +4498,6 @@ christfest.tk
 christmassproxy.co.cc
 christophbrem.com
 chrome.cloudflare-dns.com
-chromebook.digital
 chromeout.co.cc
 chromeproxy.net
 chromium.dns.nextdns.io
@@ -5240,6 +5239,7 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5425,6 +5425,7 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
+dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -6127,6 +6128,7 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -6415,7 +6417,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -6897,7 +6898,6 @@ doh.greenwood.eu.org
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
-doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -10383,6 +10383,7 @@ guestappearance.us
 guh.uniall.tk
 guiar.info
 guide-every.co.cc
+guide.terms.gatpp.com
 guidebooks.co.tv
 guidedevices.co.cc
 guidepowerup.co.cc
@@ -11947,6 +11948,7 @@ iwine.info
 iwpsy.anchorchain.co.za
 ix0.net
 ixl-tw6f.thebrittainlawfirm.com
+ixl.is.justlearning.net
 ixl.plus
 ixl.recruitment7.com
 ixlclever.raspberryip.com
@@ -13455,6 +13457,7 @@ math.isreally.pro
 math.sachhot.com
 math.spotifyfans.art
 math.startechcomputacion.com
+math12.enuse.tk
 mathburger.com
 mathcampus.co.cc
 mathcookbook.com
@@ -14888,7 +14891,6 @@ numerikproxy.co.cc
 numerous-items.co.cc
 numetal.co.cc
 numpangnet.co.cc
-nunc.se
 nuproxy.com
 nurseproxy.co.cc
 nurseschool.co.cc
@@ -15355,6 +15357,7 @@ orangeproxy.com
 orangeproxy.net
 orau.lz0724.com
 orbic.info
+orbit.craft.kuede.info
 orbit.debate.invest.io
 ord01.dnscry.pt
 order-best.co.cc
@@ -15670,6 +15673,7 @@ peeking.in
 peekproxy.com
 peepod.meicosoft.com
 pegasus.nz.gs
+pegasus1.eu.org
 pegasusdirectory.com
 pehw.com
 pekpekao.co.cc
@@ -15890,7 +15894,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -15926,6 +15929,7 @@ pleaforex.co.cc
 pleasantbesurf.co.cc
 please-man-i-need-it-just-watch-dexterrrr.tar.nz
 please-please-please-watch-you-or.dexter.e1racecar.com
+please.let.this.slide.ignorelist.com
 pleasefreeme.com
 pleaseproxyme.com
 pleaseuseme.co.cc
@@ -18626,6 +18630,7 @@ reiproxy.co.cc
 relakks.com
 relaxcakes.com
 relayon.org
+relearn.math.fun.edu.ignorelist.com
 released.asdfg.us
 releasethekraken.co.cc
 reliableinfo.info
@@ -18659,6 +18664,7 @@ remaxwinnipeg.com
 remaxwyoming.com
 rembang.net
 remember-good.co.cc
+remember.use.about-blank.cloaker.ignorelist.com
 remindforex.co.cc
 remith.com
 remoteip.info
@@ -21866,7 +21872,6 @@ test.anonproxies.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.net46.net
-test101.net76.net
 test52139.ignorelist.com
 testaghome.meshkov.info
 testars.com
@@ -22677,6 +22682,7 @@ turtleterror.com
 turumaninglah.co.cc
 tusix.co.cc
 tuskythehusky.tech
+tutor.idea.shand.org
 tutor.skills.bretonmeadowfarm.org
 tutorialbook.com
 tuvpn.com
@@ -24569,6 +24575,7 @@ wh5.info
 wha.agmlabs.com
 what-ip.info
 what-is-interstellar-all-i-know-is-linewize.easterndns.com
+what.the.aw.root.sx
 whataproxy.com
 whatblocks.com
 whatever-want.co.cc
@@ -24737,6 +24744,7 @@ woots.info
 work-pro.net
 work-started.co.cc
 work.excel.albacetediario.com
+work.idea.shoebridge.me.uk
 work.quiz.gamersuk.org
 worka.work
 workandplay.info
