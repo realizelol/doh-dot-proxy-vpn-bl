@@ -1324,6 +1324,7 @@ adg.rokh.biz
 adg.rueiliu.space
 adg.siudzinski.net
 adg.swh123.xyz
+adg.tshost.no
 adg.yuzi.one
 adg2.spacework.com.mx
 adgaurd.lingmont.net
@@ -2204,6 +2205,7 @@ antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
+antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
 antispyware.cz.cc
@@ -4498,6 +4500,7 @@ christfest.tk
 christmassproxy.co.cc
 christophbrem.com
 chrome.cloudflare-dns.com
+chromebook.digital
 chromeout.co.cc
 chromeproxy.net
 chromium.dns.nextdns.io
@@ -6096,7 +6099,6 @@ dns.edc-pws.com
 dns.eddi.net
 dns.edgeworkssystems.ca
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ele.xyz
 dns.electrotm.org
 dns.elemental.software
@@ -6128,7 +6130,6 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -6776,7 +6777,6 @@ doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
 documented.mask.wtf.la
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -6826,6 +6826,7 @@ doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
+doh.18bit.cn
 doh.233py.com
 doh.30x.me
 doh.360.cn
@@ -6898,6 +6899,7 @@ doh.greenwood.eu.org
 doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
+doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
@@ -9702,7 +9704,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -13457,7 +13458,6 @@ math.isreally.pro
 math.sachhot.com
 math.spotifyfans.art
 math.startechcomputacion.com
-math12.enuse.tk
 mathburger.com
 mathcampus.co.cc
 mathcookbook.com
@@ -14891,6 +14891,7 @@ numerikproxy.co.cc
 numerous-items.co.cc
 numetal.co.cc
 numpangnet.co.cc
+nunc.se
 nuproxy.com
 nurseproxy.co.cc
 nurseschool.co.cc
@@ -14940,6 +14941,7 @@ oakproxy.com
 oaq.in
 ob7.info
 ob9.info
+obama-have-dihh.thehomeserver.net
 obamabinladen.co.cc
 obamaone.info
 obar.info
@@ -16846,7 +16848,6 @@ proxy.homegrownaudio.net
 proxy.howto.cz
 proxy.hydraulicfilterstore.com
 proxy.hyryt.com
-proxy.iandron.cn
 proxy.iasync.com
 proxy.igalan.com
 proxy.igg.biz
@@ -19082,6 +19083,7 @@ sagarmathavipusr.vercel.app
 sage.area.modeemi.net
 saharanet.co.cc
 sahclub.lx.ro
+saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -19913,6 +19915,7 @@ sk4.info
 skataforex.co.cc
 skateboardsurf.co.cc
 skebby.net
+skibidi-ohio-rizz.errorrail.dev
 skibidi-rizz-gyatt-fanum-tax-sigma.hamburger.ip-ddns.com
 skibidiparkergoon.happyforever.com
 skibidirizz.robinhud.com
@@ -20798,6 +20801,7 @@ successful-environment.co.cc
 successorbypass.co.cc
 succinct.info
 suchsurf.co.cc
+suchwow.thejon78.online
 sucker-hot.co.cc
 suckmyforex.co.cc
 sucktheball.co.cc
@@ -21880,6 +21884,7 @@ testguard.meexx.de
 testpilot.firefox.com
 tests.data.stardustcommercialservices.com
 tests.excel.wild1.net
+testsite.radiohapure.com
 tesutorender.jake.eu
 tetapi.info
 tethforex.co.cc
@@ -24744,7 +24749,6 @@ woots.info
 work-pro.net
 work-started.co.cc
 work.excel.albacetediario.com
-work.idea.shoebridge.me.uk
 work.quiz.gamersuk.org
 worka.work
 workandplay.info
