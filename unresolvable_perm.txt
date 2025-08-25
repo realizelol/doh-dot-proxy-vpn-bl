@@ -58730,6 +58730,7 @@ proxy.us.name
 proxy.usatechservices.com
 proxy.usgrd.com
 proxy.usrsrc.com
+proxy.utant.com
 proxy.uways.com
 proxy.valim.org
 proxy.vancouverdiamondmarket.com
