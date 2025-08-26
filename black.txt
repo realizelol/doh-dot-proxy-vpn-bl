@@ -366,7 +366,6 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
-1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -1310,9 +1309,7 @@ aatforex.co.cc
 aauforex.co.cc
 ab.ctx.cl
 ab081586e7af13c318136fc22f808efd1f6111ca-m.proxy2.startpage.com
-abaforex.cz.cc
 abc.kissfree.net
-abcdef.cz.cc
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 abcdian.com
 abcmusic.info
@@ -1867,7 +1864,6 @@ ag.marschi.de
 ag.ssrahul96.xyz
 ag.wntrmute.net
 ag01.de.hallmen.it
-agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -2554,7 +2550,6 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
-araforex.cz.cc
 aragonez.co.cc
 arain.neighborhoodcloud.com
 arandomproxy.com
@@ -4718,7 +4713,6 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
-cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -4930,7 +4924,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -6416,7 +6409,6 @@ dns.edc-pws.com
 dns.eddi.net
 dns.edgeworkssystems.ca
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ele.xyz
 dns.electrotm.org
 dns.elemental.software
@@ -7318,7 +7310,6 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
-domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -7333,7 +7324,6 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -7722,6 +7712,7 @@ easyaccess.co.tv
 easyall.info
 easyb.info
 easybit.info
+easybrows.site90.com
 easybypass.com
 easybypass.ml
 easybypass.net
@@ -9783,7 +9774,6 @@ freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
 freewillisaflaw.ddnsfree.top
-freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -14614,7 +14604,6 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
-mzx.site40.net
 n-wan.dynv6.net
 n0.eu
 n00bmaster.com
@@ -16581,7 +16570,6 @@ privacyhelp.info
 privacylock.info
 privacyneeded.com
 privacynest.com
-privacyo.nz.gs
 privacyone.info
 privacypedia.org
 privacypolice.co.cc
@@ -19447,6 +19435,7 @@ sagarmathavipusr.vercel.app
 sage.area.modeemi.net
 saharanet.co.cc
 sahclub.lx.ro
+saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -21547,7 +21536,6 @@ surfexec.co.cc
 surfexplore.tk
 surfface.co.cc
 surffan.co.cc
-surffast.netau.net
 surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
@@ -22240,6 +22228,8 @@ teslasurf.co.cc
 test.anonproxies.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
+test.net46.net
+test101.net76.net
 test52139.ignorelist.com
 testaghome.meshkov.info
 testars.com
@@ -29600,6 +29590,7 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
+www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
