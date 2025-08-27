@@ -366,6 +366,7 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
+1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -1309,7 +1310,9 @@ aatforex.co.cc
 aauforex.co.cc
 ab.ctx.cl
 ab081586e7af13c318136fc22f808efd1f6111ca-m.proxy2.startpage.com
+abaforex.cz.cc
 abc.kissfree.net
+abcdef.cz.cc
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 abcdian.com
 abcmusic.info
@@ -1864,6 +1867,7 @@ ag.marschi.de
 ag.ssrahul96.xyz
 ag.wntrmute.net
 ag01.de.hallmen.it
+agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -2550,6 +2554,7 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
+araforex.cz.cc
 aragonez.co.cc
 arain.neighborhoodcloud.com
 arandomproxy.com
@@ -2738,6 +2743,7 @@ atp9.com
 atproxy.ibiz.cc
 atproxy.net
 atrforex.co.cc
+atris.cyou
 atschool.be
 atsilva.link
 attention-now.co.cc
@@ -4713,6 +4719,7 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
+cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -4924,6 +4931,7 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
+cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -4960,6 +4968,7 @@ cloudbenders.fun
 clouddesign.info
 cloudexpress.info
 cloudflare-dns.com
+cloudflares.ddns.net
 cloudfun.info
 cloudnow.info
 cloudns.bosco.ovh
@@ -6409,6 +6418,7 @@ dns.edc-pws.com
 dns.eddi.net
 dns.edgeworkssystems.ca
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ele.xyz
 dns.electrotm.org
 dns.elemental.software
@@ -6440,6 +6450,7 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -7310,6 +7321,7 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
+domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -9774,6 +9786,7 @@ freewebsitepro.com
 freewebunblock.co.cc
 freewheeling.co.cc
 freewillisaflaw.ddnsfree.top
+freeworkproxy.com
 freexite.com
 freexs.org
 freeyouproxytube.com
@@ -14604,6 +14617,7 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
+mzx.site40.net
 n-wan.dynv6.net
 n0.eu
 n00bmaster.com
@@ -16570,6 +16584,7 @@ privacyhelp.info
 privacylock.info
 privacyneeded.com
 privacynest.com
+privacyo.nz.gs
 privacyone.info
 privacypedia.org
 privacypolice.co.cc
@@ -18797,6 +18812,7 @@ rammerhead.oops.wtf
 rammerhead2121.webs.vc
 rammerheadisok.tx2600.net
 rammerstellar.recca.cl
+ramosearch.comlu.com
 rampokbrokerforex.co.cc
 ranabytese.vercel.app
 ranamaddadaaaadjka.ve3.info
@@ -21536,6 +21552,7 @@ surfexec.co.cc
 surfexplore.tk
 surfface.co.cc
 surffan.co.cc
+surffast.netau.net
 surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
@@ -26441,7 +26458,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -34047,7 +34063,6 @@ www.theproxy.info
 www.theproxy.link
 www.theproxy.us
 www.theproxy.ws
-www.theproxybay.com
 www.theproxybay.org
 www.theproxyconnection.com
 www.theproxyfree.com
