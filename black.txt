@@ -940,6 +940,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9a90b3e484b3a7404f7580926a8922869bef5a6c-m.proxy2.startpage.com
 9b49e59ed0acc1b11d8fa2e2790e7491e57c3f28-m.proxy2.startpage.com
@@ -1053,6 +1054,7 @@ ab.ctx.cl
 ab081586e7af13c318136fc22f808efd1f6111ca-m.proxy2.startpage.com
 abaforex.cz.cc
 abc.kissfree.net
+abcdef.cz.cc
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 abcdian.com
 abcmusic.info
@@ -1819,6 +1821,7 @@ alpha.rferee.dev
 alpha1proxy.cf
 alphabr.online
 alphabrowser.xyz
+alphaphysics.johnwarburton.net
 alphaprox.com
 alphaproxy.com
 alpisforex.co.cc
@@ -2375,6 +2378,7 @@ as-freesurf-created.co.cc
 as-wondering.co.cc
 as17820865.click
 asafe.info
+asaforex.cz.cc
 asaldapatproxy.co.cc
 asall.info
 asavage.com
@@ -2904,6 +2908,7 @@ beemine.info
 beenbanned.com
 beepassvpn.com
 beepboopbop.iamadeveloper.dev
+beeper.cz.cc
 beerbreak.co.cc
 beerforex.co.cc
 beespeed.info
@@ -3683,7 +3688,6 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
-browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -3813,7 +3817,6 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -5201,7 +5204,6 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5571,7 +5573,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -6955,6 +6956,7 @@ dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
 domain-names.cz.cc
+domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
@@ -7343,6 +7345,7 @@ easyacces4u.co.cc
 easyaccess.co.tv
 easyall.info
 easyb.info
+easybio.bridgeslab.net
 easybit.info
 easybrows.site90.com
 easybypass.com
@@ -12289,6 +12292,7 @@ kecap.cn
 kecro.com
 keeci.com
 keeflix.chenu.ch
+keencalc.ivc.org.ar
 keenow.com
 keep-on-freeaccess.co.cc
 keepanonymous.com
@@ -13230,6 +13234,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14742,6 +14747,7 @@ notyourip.com
 nougatnano.co.cc
 nova.vg
 nova16.com
+novahistory.ibernoticias.com
 novaproxy.com
 novaya.co.cc
 novinyteenager.wz.cz
@@ -16261,6 +16267,7 @@ procheck.info
 procks.com
 procksee.com
 prockstar.com
+procoding.dragrecords.com.au
 procs.heroinewarrior.com
 produced-by.co.cc
 proeasy-surfer.co.cc
@@ -16361,6 +16368,7 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -18306,6 +18314,7 @@ quickly-catching.co.cc
 quickly-splash.co.cc
 quicknfree.info
 quickoffice.co.cc
+quickphysics.a-quo.com
 quickprox.com
 quickproxie1.co.cc
 quickproxies.com
@@ -18436,6 +18445,7 @@ rapidbit.info
 rapidblackend.co.cc
 rapidbrowse.com
 rapidbrowse.info
+rapidcalc.rpvf.com
 rapiddetection.co.cc
 rapidlayer.com
 rapidleechproxy.co.cc
@@ -20173,6 +20183,7 @@ solidcoding.krewedegroove.com
 solidgeo.hunnur.com
 solidproxy.com
 solidproxy.net
+solidreading.gkihalimun.org
 solidscience.virkamafia.fi
 solidwebproxy.com
 solmariknein.baselinux.net
@@ -22256,6 +22267,7 @@ toplevelspeed.co.cc
 toplight-access.co.cc
 toplimits.com
 toplinks.in
+topliterature.sunrise.org.uk
 toplive.info
 topofwork.co.cc
 toponlinegrants.co.cc
@@ -23724,6 +23736,7 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
+usproxy.usa.cc
 usproxyserver.info
 ussurfer.nz.gs
 ustrip.co.cc
@@ -23951,6 +23964,7 @@ virmamp33.sytes.net
 viroxi.com
 virtual-browser.com
 virtual2u.com
+virtualalgebra.siniritarit.fi
 virtualbay.info
 virtualbrowser.com
 virtualbrowser.net
@@ -28820,7 +28834,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -34640,6 +34653,7 @@ www.visitbebo.info
 www.visitriga.info
 www.visitsites.info
 www.visityoursite.info
+www.vista-files.org
 www.vistaproxy.com
 www.visualprox.com
 www.vitalconnection.info
