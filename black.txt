@@ -915,7 +915,6 @@ adg.rokh.biz
 adg.rueiliu.space
 adg.siudzinski.net
 adg.swh123.xyz
-adg.tshost.no
 adg.yuzi.one
 adg2.spacework.com.mx
 adgaurd.lingmont.net
@@ -1189,6 +1188,7 @@ affring.com
 afganorixy.co.cc
 afhaal.com
 aficoscorebrowstkgode.tk
+afiforex.cz.cc
 aflu.info
 afrforex.co.cc
 africa.avastdns.com
@@ -3576,6 +3576,7 @@ bypassy.com
 bypasszone.com
 bypssd.co.cc
 byteme.info
+bythebeat.uwgraduation.org
 bytzvpn.com
 byuforex.co.cc
 bz8.org
@@ -5586,7 +5587,6 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -6921,6 +6921,7 @@ ecxs.net
 ecza.info
 eddi.usgovtrafficmanager.net
 edgar.tobkar.net
+edge-v6x.v6.rocks
 edgedcircles.com
 edgenet.tk
 edgeonly.co.cc
@@ -7906,6 +7907,7 @@ firehack.net
 fireheap.com
 fireprox.com
 fireprox.net
+fireproxy.com
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -8059,6 +8061,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-da-boiz.vercel.app
 for-privacy.net
 for-stay.co.cc
@@ -8824,6 +8827,7 @@ fregate.co.cc
 frenchproxy.info
 frenchproxyserver.com
 frenchstream.org
+freodore.tulanerw.org
 fresh-day.co.cc
 fresh-flowers.co.cc
 fresh-proxy.appspot.com
@@ -9814,6 +9818,7 @@ gwait.com
 gwforex.co.cc
 gwopboyded.com
 gwps.duckdns.org
+gyaaat.strangled.net
 gym.clas.swork.networkindia.com
 gymarab.com
 gyny.info
@@ -11685,6 +11690,7 @@ kabobi.info
 kacis.co.cc
 kadowaki.super-modding.quest
 kaeforex.co.cc
+kaelixdebonair.semioptimal.net
 kagurabachilover.lgmnow.com
 kahoot.it.dmtr.ru
 kaiser.int.eu.org
@@ -13719,7 +13725,6 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -14141,6 +14146,7 @@ nonego.co.cc
 nonpa.info
 nonperfumed.co.cc
 noobel.com
+noodlevpn.com
 noofwire.co.cc
 nookforex.co.cc
 noonecanstopme.com
@@ -14213,6 +14219,7 @@ nowyoudont.com
 noxbrowse.nz.gs
 noxstu.co.cc
 noxy.pl
+noyourmean.xyz
 npct.org
 nphproxy.com
 nphproxy.info
@@ -15094,7 +15101,6 @@ peeking.in
 peekproxy.com
 peepod.meicosoft.com
 pegasus.nz.gs
-pegasus1.eu.org
 pegasusdirectory.com
 pehw.com
 pekpekao.co.cc
@@ -16771,6 +16777,7 @@ proxyfirst.com
 proxyfish.com
 proxyfitness.co.cc
 proxyflow.com
+proxyflows.com
 proxyflux.com
 proxyfly.co.cc
 proxyfly.info
@@ -17181,6 +17188,7 @@ proxyrocket.com
 proxyroll.cn
 proxyroll.com
 proxyroller.com
+proxyrooms.com
 proxyroot.com
 proxyrotator.com
 proxyroute.com
@@ -17204,6 +17212,7 @@ proxysave.co.cc
 proxysaw.co.cc
 proxyscape.com
 proxyschoolfree.co.cc
+proxyscope.com
 proxyscrape.com
 proxysea.com
 proxysec.com
@@ -17211,6 +17220,7 @@ proxysector.com
 proxysecurity.com
 proxyselect.com
 proxysense.com
+proxyserver-free.com
 proxyserver-hkat7-schooljs.tk
 proxyserver-hkat7-schooljs4.tk
 proxyserver.asia
@@ -18883,6 +18893,7 @@ seethroughproxy.co.cc
 seg.fimserve.com
 seglong.co.cc
 seguridad.in
+seible.tsurukawa.org
 sekernel.tk
 sekure.info
 selamatpagidok.co.cc
@@ -20755,6 +20766,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -21066,6 +21078,7 @@ surgeryloans.co.cc
 surgn.com
 surogate.co.cc
 surpassall.com
+surprise.pics
 surtshark.com
 survey.andyic.com
 survey.aspdebugger.com
@@ -21459,6 +21472,7 @@ theproxylist.com
 theproxysite.com
 theproxysite.info
 theproxysite.org
+theproxysports.com
 theproxyultra.com
 theproxyx.appspot.com
 therabbitvpn.com
@@ -33046,7 +33060,6 @@ www.texastarget.com
 www.texasthe.com
 www.textproxylists.com
 www.tezin.com
-www.tezzoo.com
 www.tfarolz.com
 www.tgcg.info
 www.th3pr.com
@@ -35298,6 +35311,7 @@ zcc.com.ru
 zdn.ro
 zeak.info
 zealforex.co.cc
+zealginjoka.periodico.am
 zebradns.com
 zecca9.appspot.com
 zed1.com
