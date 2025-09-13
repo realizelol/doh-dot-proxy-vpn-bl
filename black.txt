@@ -779,6 +779,7 @@ accessusa.info
 accesswire.info
 account-find.co.cc
 accountrep.co.cc
+accountsforex.cz.cc
 accreditedonline.co.cc
 acdsee.co.cc
 acdtop.com
@@ -903,6 +904,7 @@ adfree-games-at.geometry-games.online
 adfree.usableprivacy.net
 adfreedns.top
 adfreeproxy.com
+adfreeproxy.cz.cc
 adg.dankatapich.eu.org
 adg.geili.me
 adg.herry.dev
@@ -1104,7 +1106,6 @@ adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
-adiyulianto.cz.cc
 adl.adfilter.net
 adless.cz.cc
 admedia.co.tv
@@ -1178,6 +1179,7 @@ aestheticgaming.com
 aetforex.co.cc
 aeuforex.co.cc
 aeyx.com
+afaforex.cz.cc
 afec.info
 affcdn.net
 affiliateway.com
@@ -1293,6 +1295,7 @@ ajrforex.co.cc
 ajtforex.co.cc
 ajuforex.co.cc
 ak58.com
+akaforex.cz.cc
 akainuforex.co.cc
 akashiro.co.id
 akdis.cn
@@ -1458,7 +1461,6 @@ am4.net
 amab.info
 amaderkotha.org
 amadeus666.org
-amaforex.cz.cc
 amandahugnkiss.org
 amando.info
 amanvpn.com
@@ -1780,7 +1782,6 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
-antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
@@ -1835,6 +1836,7 @@ aors.net
 aosomi.com
 aotforex.co.cc
 aouforex.co.cc
+apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -3395,7 +3397,6 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -5077,7 +5078,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5111,7 +5111,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derowd.freeboxos.fr
 derpymail.org
 derrape.com
@@ -5584,7 +5583,6 @@ dns.feedbot.xyz
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -8062,7 +8060,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-da-boiz.vercel.app
 for-privacy.net
 for-stay.co.cc
@@ -10588,6 +10585,9 @@ httpbrand.co.cc
 httpd.me
 httpdns-api.aliyuncs.com
 httpdns-browser.platform.dbankcloud.cn
+httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn
+httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn
+httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns-sdk.n.netease.com
@@ -12692,6 +12692,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -20627,7 +20628,6 @@ surfexec.co.cc
 surfexplore.tk
 surfface.co.cc
 surffan.co.cc
-surffast.netau.net
 surffast.us
 surffever.co.cc
 surffinancialaid.co.cc
@@ -21321,6 +21321,7 @@ teslasurf.co.cc
 test.anonproxies.com
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
+test.net46.net
 test101.net76.net
 test52139.ignorelist.com
 testaghome.meshkov.info
@@ -23976,6 +23977,7 @@ webypass.info
 webyus.com
 webyv.com
 webzv.com
+wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
 wedding-present.us
 weddinglove.co.cc
 wednesday-proxy.co.cc
@@ -26550,7 +26552,6 @@ www.dtunnel.com
 www.dtunnel.net
 www.dualnitro.com
 www.dualproxy.com
-www.duanyu.net
 www.dubb.info
 www.dubnut.com
 www.duchs.com
@@ -30028,7 +30029,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -34619,7 +34619,6 @@ www.xsent.com
 www.xsproxy.com
 www.xsproxyhtc.tk
 www.xsproxyhtcs.tk
-www.xtbuy.com
 www.xteb.biz
 www.xtrapremium.com
 www.xtun.net
