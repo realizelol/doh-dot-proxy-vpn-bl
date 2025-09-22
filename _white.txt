@@ -24,6 +24,7 @@ flyingtiger.com                                     # Flying Tiger Shop - Copenh
 forcesafesearch.google.com                          # Google SafeSearch
 vulkane.net                                         # Vulkane - Site about volcanos
 wo-in-f132.1e100.net                                # Google - Reason: Unknown
+www.reshade.me                                      # ReShade is a generic post-processing injector for games and video software developed by crosire
 www.google.com                                      # Google :)
 ##
 # IPv4
