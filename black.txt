@@ -2566,7 +2566,6 @@ ab99b534ecb59227982623d29ce5e9edd66d952e-m.proxy2.startpage.com
 abaforex.cz.cc
 abc.kissfree.net
 abc4a8d95348f80dfcf57c8fd7f34a227dbe5069-m.proxy2.startpage.com
-abcdef.cz.cc
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 abcdian.com
 abcfdeaaecc1e2bd79ae40807ad5f3a49c5ab7cb-m.proxy2.startpage.com
@@ -2623,7 +2622,6 @@ ac6ef1c054b41a66218f535a840ef6c2085965ce-m.proxy2.startpage.com
 ac7a18a0ae23ec59abee43d28401b6a5ae216a99-m.proxy1.startpage.com
 aca29a76477219b5e982278dfb11f50c78f46506-m.proxy2.startpage.com
 academy.velolife.co.za
-acaforex.cz.cc
 acardsurfing-bests.tk
 acc06f0020c7a6ff536c230a56c921958d7b193e-m.proxy2.startpage.com
 acc101.info
@@ -2770,7 +2768,6 @@ ad469dee7bba308d9f5c1a1fff45fdafb52c3c31-m.proxy2.startpage.com
 ad4msan.win
 ada.ns.cloudflare.com
 ada.openbld.net
-adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -2831,7 +2828,6 @@ adfree.usableprivacy.net
 adfreedns.eu
 adfreedns.top
 adfreeproxy.com
-adfreeproxy.cz.cc
 adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
 adg.3k.work
@@ -3142,7 +3138,6 @@ adguardhome.kirmanak.gq
 adguardhome.ponetwork.duckdns.org
 adguardhulst.duckdns.org
 adguardnic.ddns.net
-adguardpi.duckdns.org
 adh.51st.top
 adh.blogcuahieu.com
 adh.fastpacefixit.info
@@ -3160,8 +3155,10 @@ adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
+adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
+adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -3210,7 +3207,6 @@ adulthoodz.co.cc
 adultproxy.co.cc
 adultproxy.men
 adultproxy.net
-aduma15.duckdns.org
 advanced.name
 advancedreports.co.cc
 advancedvpn.com
@@ -3412,6 +3408,7 @@ ajrforex.co.cc
 ajtforex.co.cc
 ajuforex.co.cc
 ak58.com
+akaforex.cz.cc
 akainuforex.co.cc
 akashiro.co.id
 akdis.cn
@@ -3584,7 +3581,6 @@ am4.net
 amab.info
 amaderkotha.org
 amadeus666.org
-amaforex.cz.cc
 amandahugnkiss.org
 amando.info
 amanvpn.com
@@ -7293,7 +7289,6 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -7826,6 +7821,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -11434,7 +11430,6 @@ firehack.net
 fireheap.com
 fireprox.com
 fireprox.net
-fireproxy.com
 firewall.darknet.bg
 firewall5surfs.tk
 firewallbreak1.co.cc
@@ -14940,7 +14935,6 @@ isgle.com
 ishark.com
 isharkvpn.com
 ishort.net
-ishortit.com
 isityet.net
 islakamcik.com
 islands-turkey.com
@@ -18820,7 +18814,6 @@ panxxx.uw.hu
 papaforex.co.cc
 papaproxy.net
 papco.info
-paper.guide.4nets.org
 paper.train.massalin.com
 paperclown.com
 papervpn.info
@@ -23938,7 +23931,6 @@ sshstores.net
 ssl-account.com
 ssl-proxy.my-addr.com
 ssl.fibersurf.co.cc
-sslapp.info
 sslprivateproxy.com
 sslpro.org
 sslprox.co.cc
@@ -30366,7 +30358,6 @@ www.coyr.com
 www.cpanote.com
 www.cpct.net
 www.cproxy.com
-www.cqul.com
 www.cqxin.com
 www.crackip.com
 www.crak.info
@@ -34198,7 +34189,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -35924,7 +35914,6 @@ www.riderless.com
 www.ridiculess.com
 www.riesgo.info
 www.rightkey.info
-www.rightly.org
 www.rightpaths.com
 www.rightref.com
 www.righttorock.org
