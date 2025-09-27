@@ -25276,6 +25276,7 @@ firepay.info
 firephone.ml
 fireprooxy.tk
 fireproxy.cn
+fireproxy.com
 fireproxy.ga
 fireproxy.ml
 fireproxy.top
