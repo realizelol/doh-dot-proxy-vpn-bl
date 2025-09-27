@@ -727,6 +727,7 @@
 247proxies.co.cc
 247proxy.com
 247surf.net
+2483766b82345bd0b5798753fc6de397349915b4-m.proxy1.startpage.com
 248go.com
 24eace1d9a33cd1b047a538c77fa7fe1e4348ea6-m.proxy2.startpage.com
 24f9869b7bd0a3561cfa9c018ff4503bf2cb061a-m.proxy2.startpage.com
@@ -1418,6 +1419,7 @@
 52693f31bd676aca9eff599cafc48b410b72bc53-m.proxy2.startpage.com
 526d33bd12e0e5e91b8ff4d5e80b1a7f6d15120f-m.proxy2.startpage.com
 527aaf50c52b882ff5c6d88e7795b40af0ea29d0-m.proxy2.startpage.com
+529ea3d541463f166dfedde90a4ec4d0866411bb-m.proxy1.startpage.com
 52b08d745495b6ffb2699d3f254df42dc37e28df-m.proxy2.startpage.com
 52f1cb2a09dffe7233a2b50aae66204802c58b88-m.proxy2.startpage.com
 52fa19575e404f3c63f3547d25cc4d2dce23a392-m.proxy2.startpage.com
@@ -1688,6 +1690,7 @@
 680b8d861933bf08e968f3dd79ff9d1067e2c1f6-m.proxy2.startpage.com
 680h.com
 6822f89d31b664d8ba37b7a09a42eac07a11147c-m.proxy1.startpage.com
+686b282f508958d016fb1e1379dbe597a6b9ec0c-m.proxy1.startpage.com
 68bb99ac5328d3a86297f8c8731df933640fd4f3-m.proxy1.startpage.com
 68c1299efd1b6c774ea7a6184dc1bce0b9651314-m.proxy2.startpage.com
 68c9a8bd912e58b0e93b2470b20c302ac8a7f1e2-m.proxy2.startpage.com
@@ -2133,7 +2136,6 @@
 8ccc1c7b5275ecc7d5ea642e8ea51fc83480a3d9-m.proxy2.startpage.com
 8cce922048f33f55c258e77e2ec802b513e8dc4e-m.proxy2.startpage.com
 8cd95b16703bb2ced6dfa93c7ff35a1757fd9691-m.proxy2.startpage.com
-8ce.org
 8d1b400cfe4bc1747443064b08f34f6f02828dc7-m.proxy2.startpage.com
 8d281845a7f15ddaf6a72754311bac46d9f8e11e-m.proxy2.startpage.com
 8d36d948b3643b4f0297affcf9920eeaa2543e5d-m.proxy2.startpage.com
@@ -2456,6 +2458,7 @@ a3565d0bd2dfedba80669579a7bc138e94ca89e4-m.proxy2.startpage.com
 a37.info
 a3701318b88baafe333e16813330e5e3de7f89bf-m.proxy2.startpage.com
 a3764ff1a64bcaad1f5b9347ef5ce453a168ae8f-m.proxy2.startpage.com
+a390cc5c795161834b6abf6628c39630aa3a8cb7-m.proxy1.startpage.com
 a3936ef74dc317671d7374eb474d3f5f61833214-m.proxy2.startpage.com
 a3aae09cd38960057d916c50206305bc3b2064e4-m.proxy2.startpage.com
 a3bbb1134bea4ecd62c2c2da4ae0f25948295f8d-m.proxy2.startpage.com
@@ -2695,7 +2698,6 @@ acgroup.in
 achievementnetwork.tk
 acidrain.co.cc
 acidrain.tk
-aciforex.cz.cc
 acircuit.co.cc
 acmeblock.com
 acmesurf.com
@@ -2770,6 +2772,7 @@ ad469dee7bba308d9f5c1a1fff45fdafb52c3c31-m.proxy2.startpage.com
 ad4msan.win
 ada.ns.cloudflare.com
 ada.openbld.net
+adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -2872,7 +2875,6 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
-adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -3155,10 +3157,10 @@ adhome.maige.fun
 adi.adguard.vik.ro
 adidaspredator.co.cc
 adiestrado.com
+adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
-adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
 adless.cz.cc
@@ -3413,7 +3415,6 @@ ajrforex.co.cc
 ajtforex.co.cc
 ajuforex.co.cc
 ak58.com
-akaforex.cz.cc
 akainuforex.co.cc
 akashiro.co.id
 akdis.cn
@@ -3927,6 +3928,7 @@ antiproxy.com
 antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
+antispyware.cz.cc
 antissltrojan.co.cc
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 antitrace.com
@@ -4024,7 +4026,6 @@ aproxyz.com
 aptforex.co.cc
 apuestaonline.info
 apuforex.co.cc
-aqaforex.cz.cc
 aqix.co.cc
 aqtforex.co.cc
 aqua-proxy.co.cc
@@ -4134,7 +4135,6 @@ as-wondering.co.cc
 as17820865.click
 as6604t-04.myasustor.com
 asafe.info
-asaforex.cz.cc
 asaldapatproxy.co.cc
 asall.info
 asavage.com
@@ -4454,6 +4454,7 @@ b436f0a270b6bdb659ca8ef16e8c9096d4153f00-m.proxy2.startpage.com
 b43e1ae55bedacaa1cb9eec3ede85bedd2a66557-m.proxy1.startpage.com
 b448aad4934afd9891d3db4a4bec134490419516-m.proxy2.startpage.com
 b4557bd27e4cb12f4cae107b6e7ac5e595e96136-m.proxy2.startpage.com
+b459c7d68954f1a4db2e97ea8486d6460e97f37c-m.proxy1.startpage.com
 b46814fbe8f215d4601dc5b2f37d24f850a9a61b-m.proxy2.startpage.com
 b469579ffacbdc3f0208a358e93cf7dddf115df4-m.proxy2.startpage.com
 b46d5c8ebd2caa074435a1fd2e5b709e62990486-m.proxy2.startpage.com
@@ -4614,7 +4615,6 @@ ballspeed.co.cc
 ballstarting.co.cc
 balrogproxy.co.cc
 baltaideja.lt
-bambini.cz.cc
 bambiproxy.co.cc
 bambootouch.co.cc
 banana-tree-cards.com
@@ -4887,6 +4887,7 @@ best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
+best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -5284,6 +5285,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -8019,7 +8021,6 @@ discoforex.co.cc
 disconnect.me
 discountshoes.tk
 discover-some.co.cc
-discovered.mask.wtf.la
 disfraza.com
 disguised.info
 disguised.tk
@@ -8037,7 +8038,6 @@ dism.info
 dismantled.charbel.cl
 disneysurf.co.cc
 disneyworld1.co.cc
-dispatched.mask.wtf.la
 dispforex.co.cc
 distancelearn.co.cc
 distinguished.asdfg.us
@@ -13195,7 +13195,6 @@ grabbing-program.co.cc
 grabsites.com
 gracefully-street.co.cc
 gradetunnel.co.cc
-graduated.mask.wtf.la
 graduateroxy.co.cc
 graef.in
 graite.com
@@ -13557,7 +13556,6 @@ helloyo.com
 hells.pl
 hellyeah.co.cc
 help-me-out.appspot.com
-helped.mask.wtf.la
 helphideme.com
 helpmeget.root.sx
 helpmehide.com
@@ -16422,6 +16420,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -18827,7 +18826,6 @@ paradforex.co.cc
 paradise-human.shop
 paradisesurf.co.cc
 paranoia.mydns.network
-pared.mask.wtf.la
 parikann.co.cc
 paris.de.com
 paris.divapark.com
@@ -22008,6 +22006,7 @@ remoteproxy.co.cc
 remotevpn.net
 removeban.com
 removefilters.net
+removethatwall.comuv.com
 renali.info
 renameproxy.co.cc
 renardbleu.dev
@@ -27936,7 +27935,6 @@ webfilteringsolutions.info
 webfinder.com
 webfly.info
 webforexbrokersiteopen.co.cc
-webgames.goa.com
 webgeek.info
 webhome.eu
 webhoneynet.com
@@ -28835,6 +28833,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -29671,7 +29670,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -37060,7 +37058,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -39382,6 +39379,7 @@ youproxytube.com
 your-anonym-ip.czechian.net
 your-dns.run
 your-freedom.de
+your-freedom.net
 your-proxy.com
 your-proxysurfla1.tk
 your-trip.co.cc
