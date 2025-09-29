@@ -2139,7 +2139,6 @@ a1f27b7c1bc2ebcdd633a74ba56223bdf7820a97-m.proxy2.startpage.com
 a1feb6e5d7d3e2074c487c413d8a9a32d84d6282-m.proxy2.startpage.com
 a1free-optimal.prcdn.net
 a1p.org
-a1proxy.com
 a20ac18c9be4feffc98ed04638d316c03a418684-m.proxy2.startpage.com
 a22e5689b816430acfaeddacf70ce3768db3de3b-m.proxy2.startpage.com
 a24c1dc4bb8a9d2430884ca5324789cab93338fb-m.proxy2.startpage.com
@@ -2560,6 +2559,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -6508,7 +6508,6 @@ concealme.com
 concealmyip.com
 concentrate-proxy.co.cc
 concept-surfer.co.cc
-conceptualized.mask.wtf.la
 concho.info
 concreteweb.com
 conditionerisbetter.com
@@ -6861,7 +6860,6 @@ customize-your.co.cc
 customservice.co.cc
 customsurf.co.cc
 customsurfing.co.cc
-cut.mask.wtf.la
 cutenessland.com
 cuteproxy.com
 cutplug.net
@@ -7348,7 +7346,6 @@ dec8f97c790c36dd8ff062fe44847fceb19e1011-m.proxy2.startpage.com
 december2009.co.cc
 deck3.de
 deckjockey.com
-decoded.mask.wtf.la
 decodo.com
 decofile.com
 dedc59b7ae53baf10206204e990693ee18da38d7-m.proxy2.startpage.com
@@ -7417,7 +7414,6 @@ demaio.co.cc
 demand-all.co.cc
 demononthebooks.co.cc
 demonproxy.com
-demonstrated.mask.wtf.la
 demoversions.co.cc
 den01.dnscry.pt
 denengsepi.co.cc
@@ -7592,7 +7588,6 @@ discoforex.co.cc
 disconnect.me
 discountshoes.tk
 discover-some.co.cc
-discovered.mask.wtf.la
 disfraza.com
 disguised.info
 disguised.tk
@@ -7614,7 +7609,6 @@ dispatched.mask.wtf.la
 dispforex.co.cc
 distancelearn.co.cc
 distinguished.asdfg.us
-distributed.mask.wtf.la
 districtnewyork.com
 disturbances.co.cc
 disturbing-the-peace.foxgateway.com
@@ -8931,7 +8925,6 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
-documented.mask.wtf.la
 dodian.site50.net
 dodonetworks.com
 does-more.co.cc
@@ -9908,7 +9901,6 @@ emmmmm.me
 emoney.al.ru
 emotionluck.co.cc
 empaya.com
-emphasized.mask.wtf.la
 emprator.blogsky.com
 emuforex.co.cc
 emveretarcon.co.cc
@@ -12714,7 +12706,6 @@ grabbing-program.co.cc
 grabsites.com
 gracefully-street.co.cc
 gradetunnel.co.cc
-graduated.mask.wtf.la
 graduateroxy.co.cc
 graef.in
 graite.com
@@ -13076,7 +13067,6 @@ helloyo.com
 hells.pl
 hellyeah.co.cc
 help-me-out.appspot.com
-helped.mask.wtf.la
 helphideme.com
 helpmeget.root.sx
 helpmehide.com
@@ -18347,7 +18337,6 @@ paradforex.co.cc
 paradise-human.shop
 paradisesurf.co.cc
 paranoia.mydns.network
-pared.mask.wtf.la
 parikann.co.cc
 paris.de.com
 paris.divapark.com
@@ -23249,7 +23238,6 @@ special-edition.co.cc
 specialistproxy.co.cc
 specialunblockweb.co.cc
 specific-part.co.cc
-specified.mask.wtf.la
 sped-flashing.co.cc
 spederwebrace.co.cc
 spedhole.co.cc
@@ -26569,7 +26557,6 @@ up9.info
 upaj.net
 upbrite.com
 upcoming-delegation.co.cc
-updated.mask.wtf.la
 updatedproxies.com
 upgrade-programme.co.cc
 upgradednow.co.cc
@@ -27079,7 +27066,6 @@ vocab.media.georgas.org
 vocab.tktt.jp
 vocesinocentes.co.cc
 vodo.info
-voiced.mask.wtf.la
 void.mcfly.lol
 voidid.com
 volcano.nz.gs
@@ -27457,6 +27443,7 @@ webfilteringsolutions.info
 webfinder.com
 webfly.info
 webforexbrokersiteopen.co.cc
+webgames.goa.com
 webgeek.info
 webhome.eu
 webhoneynet.com
@@ -28937,7 +28924,6 @@ www.badcc.com
 www.badconnect.com
 www.badr.com
 www.bagelwood.com
-www.bahisci.net
 www.baiduproxy.ws
 www.bailige.com
 www.baktabul.net
@@ -29745,6 +29731,7 @@ www.clsproxy.com
 www.clubsurfer.com
 www.cmssky.com
 www.cnproxy.com
+www.cnsurf.cn
 www.cnt7.com
 www.co-make.com
 www.co11.info
@@ -36769,6 +36756,7 @@ www.texastarget.com
 www.texasthe.com
 www.textproxylists.com
 www.tezin.com
+www.tezzoo.com
 www.tfarolz.com
 www.tgcg.info
 www.th3pr.com
