@@ -302,7 +302,6 @@
 100thpriest.appspot.com
 100webproxy.ws
 101.net.in
-1010000.online
 1012.info
 10162eeb975e314371bab1b822c1b9a12aec89ee-m.proxy2.startpage.com
 101ca46868d345b63b6cd62987678feaba3ba495-m.proxy2.startpage.com
@@ -964,7 +963,6 @@
 30ed62f7a70e5d20d88f8746f04337de2302e55b-m.proxy2.startpage.com
 30ee839e2c266a7fd3b8b872d05df036ae8e7b37-m.proxy2.startpage.com
 30i.info
-30t.online
 310.in
 31086add2632541bdd740f92d748195e8f919209-m.proxy2.startpage.com
 3114.info
@@ -3968,6 +3966,7 @@ aors.net
 aosomi.com
 aotforex.co.cc
 aouforex.co.cc
+apaforex.cz.cc
 apexshield.com
 aphproxy.com
 api.bytelixir.com
@@ -5543,6 +5542,7 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
+brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -9212,7 +9212,6 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.hte.vn
 dnsguard.pub
-dnsjp.3300000.xyz
 dnsk.schimtar.com
 dnslas.netrope.com
 dnslow.me
@@ -14571,7 +14570,6 @@ invisv.com
 invitationenvelopes.co.cc
 involved-directly.co.cc
 inyourmind.co.cc
-iofixdns2.duckdns.org
 ion.pm
 ionicmetalizer.co.cc
 ionproxy.com
@@ -15788,6 +15786,7 @@ likethis-hole.co.cc
 lila-fxbuy.co.cc
 lilahider5.tk
 lilgangsta.com
+lilibox.duckdns.org
 lilibox.freeboxos.fr
 lilliwnnapfeswa9z.wolnoscwkieszeni.pl
 lillybug.co.tv
@@ -15907,7 +15906,6 @@ liveprox.com
 liveproxies.com
 liveproxy.com
 liveproxy.kilu.de
-liverpoolontop.1337.cx
 liversurf.co.cc
 livi.info
 livreproxy.com
@@ -26479,6 +26477,7 @@ universityproxy.com
 universityproxy.net
 universityprxy.co.cc
 unix-ip-address.co.cc
+unixfox.duckdns.org
 unkn0wngb.lol
 unknown-bb.com
 unknownhost.info
@@ -27103,7 +27102,6 @@ vpernet.com
 vpn-account.com
 vpn-api.proton.me
 vpn-byen.dk
-vpn-dns-adsblocker.duckdns.org
 vpn-fastest.com
 vpn-free.com
 vpn-free.download
@@ -28338,6 +28336,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -31776,6 +31775,7 @@ www.hopin.info
 www.horsestable.xyz
 www.hostapp.eu
 www.hostapp.info
+www.hostedweb.info
 www.hosteg.net
 www.hosteria.org
 www.hostinganime.com
@@ -38339,7 +38339,6 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
-www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -38880,7 +38879,6 @@ youproxytube.com
 your-anonym-ip.czechian.net
 your-dns.run
 your-freedom.de
-your-freedom.net
 your-proxy.com
 your-proxysurfla1.tk
 your-trip.co.cc
