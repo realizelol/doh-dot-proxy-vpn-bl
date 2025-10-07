@@ -2551,7 +2551,6 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
-adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -3606,10 +3605,12 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
+antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
 antiproxy.com
+antiscan.cz.cc
 antispam.vpsvpn.com
 antispam2.cn
 antispyware.cz.cc
@@ -4627,6 +4628,7 @@ bestwalk.co.cc
 bestwebproxy.com
 bestwebproxy.net
 bestwebsite.org
+bestwon203.com
 bestyouproxytube.com
 bestyoutubeproxy.info
 besurf.nz.gs
@@ -5237,6 +5239,7 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
+browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -6842,7 +6845,6 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -9720,6 +9722,7 @@ edostar.co.cc
 edpuzzle-lol.vercel.app
 edpuzzle.space
 edu.loskks.org
+educational-site.24x7.hk
 educationdays.co.cc
 educationdean.us
 educationlaw.co.cc
@@ -18918,7 +18921,6 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -23089,6 +23091,7 @@ sshstores.net
 ssl-account.com
 ssl-proxy.my-addr.com
 ssl.fibersurf.co.cc
+sslapp.info
 sslprivateproxy.com
 sslpro.org
 sslprox.co.cc
@@ -27537,6 +27540,7 @@ www-proxy.ladifsoftware.com
 www-proxy.migastep.com
 www-proxy.sodemc.com
 www-rf4.forestberrypi.com
+www-vpn.52oupa.com
 www-yy.in6.to
 www.0-b.org
 www.00-01.info
@@ -27923,7 +27927,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -35265,7 +35268,6 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
-www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
