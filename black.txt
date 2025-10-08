@@ -2551,6 +2551,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -2610,6 +2611,7 @@ adguard.ddns.net
 adguard.dehb.ru
 adguard.dekonix.ru
 adguard.depieri.net
+adguard.dervart.ru
 adguard.dientutronghuong.com
 adguard.digitalsewer.com
 adguard.discounthost.co.uk
@@ -2829,6 +2831,7 @@ adguard3.ota.moe
 adguard4.ota.moe
 adguardcloud.bwasson.com
 adguardcloud.iasm.com.ar
+adguardhome.0x4min.xyz
 adguardhome.atakorah.com
 adguardhome.ddns.net
 adguardhome.favrep.ovh
@@ -2910,6 +2913,7 @@ adulthoodz.co.cc
 adultproxy.co.cc
 adultproxy.men
 adultproxy.net
+aduma15.duckdns.org
 advanced.name
 advancedreports.co.cc
 advancedvpn.com
@@ -3118,6 +3122,7 @@ akr177.com
 akrforex.co.cc
 akril.info
 akuforex.co.cc
+akunamatata8888.mooo.com
 akund.com
 akunssh.net
 akylah.zapto.org
@@ -3375,6 +3380,7 @@ andrebacard.com
 andresmanuel.duckdns.org
 andrewbot.com
 andrewnw.xyz
+andrey93rus.ru
 android-phones.co.cc
 android.hfecr.com
 androiddebt.co.cc
@@ -3774,6 +3780,7 @@ arm2.nzcow.com
 arm3.nzcow.com
 armageddon.smkteluknaga.com
 armageddon.suka.se
+armm.duckdns.org
 armogo.com
 armora.net
 armorrush.eu.org
@@ -4772,6 +4779,7 @@ bitblogger.com
 bitchop.net
 bitcomplete.com
 bitdragon.info
+bitly-galatikx.duckdns.org
 bitping.com
 bitr.info
 bitslinker.com
@@ -5311,6 +5319,7 @@ btunnel.in
 btwproxy.com
 bubblejungle.co.cc
 bubbleset.com
+bubblex2.top
 bubso.com
 bubu-cloud.myds.me
 buc-m2.illmods.com
@@ -6141,6 +6150,7 @@ circumvent.it
 cirexforex.co.cc
 ciril.info
 cisco.technoville.net
+ciscossh.com
 cisy.info
 citac.ws
 citisurf.co.cc
@@ -6529,6 +6539,7 @@ coolbits.org
 coolbutcute.com
 coolbypass.com
 coolestdigital.com
+coolgams.dk-condos.com
 coolmask.info
 coolme.com
 coolpanda.net
@@ -6845,6 +6856,7 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -7031,6 +7043,7 @@ d4fa999c11e926bb03f8b83e79e1b7e41acd7420-m.proxy2.startpage.com
 d4q7uy1bdj3do.cloudfront.net
 d4w.us
 d4x.org
+d51538618.access.telenet.be
 d560g3bzhkqrf.cloudfront.net
 d585f47ffd1580d86099c6337cfaaaac64de1a55-m.proxy2.startpage.com
 d61054aad0e753804c58a0eef20410d04990b39e-m.proxy2.startpage.com
@@ -7212,6 +7225,7 @@ dcoffee.info
 dcuforex.co.cc
 dd.961188.xyz
 dd.elashri.net
+dd.hlm.ovh
 dd12f0c5b1d582f87c315fd91ab5a17795ee4820-m.proxy2.startpage.com
 dd24h.com
 dd34.ru
@@ -7236,7 +7250,9 @@ dduforex.co.cc
 dduhpcan.co.cc
 ddv9.com
 de-adguard.dr3ff1c13nt.com
+de-d2.foxyfy.net
 de-dus.doh.sb
+de-f1.foxyfy.net
 de-fra-w-f-1.nashkan.net
 de-fra-w-f-2.nashkan.net
 de-fra-w-f-3.nashkan.net
@@ -7598,6 +7614,7 @@ dns-ext.familiamichels.com.br
 dns-family.adguard.com
 dns-family.esegece.com
 dns-fr-psv1.cloudsides.com
+dns-fra.imo.im
 dns-free.link
 dns-google.st.net-perform.com
 dns-guard1.cryptroute.com
@@ -7616,7 +7633,9 @@ dns-revers.1-au.net
 dns-savage.com
 dns-secondary.cloudnx.cloud
 dns-sehat.apigw.online
+dns-sgp.imo.im
 dns-sgx1.itsec.my.id
+dns-sjc.imo.im
 dns-three.lins.co.tt
 dns-tls.bitwiseshift.net
 dns-uk.puregeni.us
@@ -7630,6 +7649,7 @@ dns.0x55.net
 dns.1.bsh4.com
 dns.123099.xyz
 dns.13evl.com
+dns.141664.xyz
 dns.2.bsh4.com
 dns.209.wf
 dns.23-4.cn
@@ -7655,6 +7675,7 @@ dns.73zls.com
 dns.7sec.com.br
 dns.7vpn.com
 dns.853852.xyz
+dns.866865.xyz
 dns.886886886.xyz
 dns.888654.xyz
 dns.890806.xyz
@@ -7746,6 +7767,7 @@ dns.benpro.fr
 dns.bermeitinger.eu
 dns.beta.gandi.net
 dns.bgeneto.com
+dns.bibica.net
 dns.bibitos.cc
 dns.billyau.ne
 dns.bitdefender.net
@@ -7958,6 +7980,7 @@ dns.flwagners.com
 dns.flyer.vn
 dns.flymc.cc
 dns.foximao.cn
+dns.foxyfy.net
 dns.frankychen.me
 dns.freddys.my.id
 dns.freemyemail.com
@@ -8144,6 +8167,7 @@ dns.keskonet.com
 dns.keviland.com
 dns.keweon.center
 dns.kirillpe.dev
+dns.kisnet.id
 dns.kjmserwis.pl
 dns.kloiber.co.at
 dns.knightlsy.asia
@@ -8513,6 +8537,7 @@ dns.sledge.cc
 dns.slinkyman.net
 dns.smartguard.io
 dns.smirnovfamily.ru
+dns.snaketech.com.br
 dns.sneakypanda.org
 dns.soldier.terumi.club
 dns.spil.co.id
@@ -8691,6 +8716,7 @@ dns.yu.dev
 dns.yumenashyi.com
 dns.yuu-g.net
 dns.yuyz.net
+dns.yuzia.cc
 dns.yyaan.com
 dns.yyaan.top
 dns.zachbosh.com
@@ -8812,6 +8838,7 @@ dns2.srv-home.fr
 dns2.svip.one
 dns2.thylacine.co.nz
 dns2.vinc.me
+dns2.xcapenet.ru
 dns2.ytpom.ru
 dns2007lists.co.cc
 dns2vps.porteii.com
@@ -8820,6 +8847,7 @@ dns3.hu10us22.win
 dns3.wistarip.com
 dns35.allone.dpdns.org
 dns4.bortus.io
+dns4eu.online
 dns4me.net
 dns53.dipen.me
 dns8.org
@@ -9212,6 +9240,7 @@ doq.sa-sa.eu
 doq64.dns4all.eu
 doqdu.co.cc
 doriss.com
+dorkanddoodle.duckdns.org
 dorsforex.co.cc
 dosc.info
 dosurf.co.cc
@@ -9764,6 +9793,7 @@ eggproxy.com
 egoforex.co.cc
 egoista.info
 egoodnet.co.cc
+egorovna.su
 egshe.myqnapcloud.com
 eguforex.co.cc
 egyb.com
@@ -9927,6 +9957,7 @@ errita.co.cc
 error404becausepar1scantlose.run.place
 ersiforex.co.cc
 eruptmountnow.co.cc
+es-ma.foxyfy.net
 es-mad-w-2.nashkan.net
 es-proxy.com
 escaforex.co.cc
@@ -12064,7 +12095,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -12127,6 +12157,7 @@ generally-type.co.cc
 generalpracticemedicine.com
 generaltrade.co.cc
 generate-decent.co.cc
+genielee.duckdns.org
 geniis.com
 geniusforex.co.cc
 genmirror.com
@@ -13454,6 +13485,7 @@ homeblock.com
 homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
+homejerem.duckdns.org
 homelab.terabit.net.id
 homemail.info
 homemoscow34.website
@@ -13593,6 +13625,7 @@ htcphone.co.cc
 htmate.com
 html.cafe
 http-dns.imoim.net
+http-dns.imostatic.com
 http-tunnel.com
 http.ws
 httpass.com
@@ -14505,6 +14538,7 @@ jeuxenligne.me
 jeuxmag.com
 jeza.info
 jfalling.com
+jfeoks.duckdns.org
 jgjake2.com
 jgofiles.com
 jh2.info
@@ -14591,6 +14625,7 @@ joyluckcasino.com
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
+jp-to.foxyfy.net
 jp-tyo-w-1.nashkan.net
 jp-tyo-w-p-1.nashkan.net
 jp.559299366.xyz
@@ -14736,6 +14771,7 @@ kalarupa.com
 kalasansea.co.cc
 kalbimsin.com
 kalihforex.co.cc
+kalwat.duckdns.org
 kamdek.ru
 kamir.co.cc
 kamouflage.info
@@ -14960,6 +14996,7 @@ koeforex.co.cc
 kokesh.se
 kolaymirc.net
 kolnproxy.nz.gs
+kolobok2.duckdns.org
 komet2008.nz.gs
 komixs.com
 komo4ek.ru
@@ -15183,6 +15220,7 @@ lazerprxy.co.cc
 lboxtv.top
 lc.fibersurf.co.cc
 lcproxy.com
+ldaman.duckdns.org
 le-mesle.fr
 le-numerique.fr
 le-vpn.com
@@ -15253,6 +15291,7 @@ lenderinfo.co.cc
 lendingtime.tk
 lenovoshops.co.cc
 leo1.info
+leoadguard.duckdns.org
 leochen-dns.ddns.net
 leopardo.info
 leoproxy.co.cc
@@ -15501,6 +15540,7 @@ loan-proxy.co.cc
 loan.ballroomsolutions.com
 loan.cornerstonecellars.com
 loan.igster.org
+loan.paymdm.xyz
 loan.recenziya.com
 loan.texturextras.com
 loan.yourlifecalendars.com
@@ -15780,6 +15820,7 @@ mail-ext.extrageneric.com
 mail.andrewnw.xyz
 mail.data.haus
 mail.drahonn.pro
+mail.hilton-groups.com
 mail.pragmasec.nl
 mail.vik.ro
 mail.xiaoxinhui.cn
@@ -16015,6 +16056,7 @@ mecloud.info
 medang.co.cc
 media-proxy.com
 media.logic.postie.org
+media.streamfusion.online
 mediabook.info
 mediahint.com
 mediaonline.info
@@ -16741,6 +16783,7 @@ n10.martkotur.ru
 n11649246144.netvigator.com
 n2.zmy.cloud
 n5.lsasss.com
+n50.martkotur.ru
 n777.info
 n8nmegapixar.online
 nabire.co.cc
@@ -17301,6 +17344,7 @@ nphproxy.info
 nprox.com
 nproxy.net
 npsurf.info
+nqh-dns.duckdns.org
 nqma.net
 nr1surf.com
 nroxy.com
@@ -17438,6 +17482,7 @@ nyrforex.co.cc
 nyx.webteufel-it.solutions
 nz01.dns4me.net
 nz7.info
+o--o.duckdns.org
 o-0proxy.coolpage.biz
 o-itc.be
 o.rsaikat.com
@@ -18678,7 +18723,6 @@ premiumzone.info
 premixsite.co.cc
 premoweb.com
 premsocks.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -18921,6 +18965,7 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -20859,6 +20904,7 @@ quakedomains.com
 qual.cuprum.ru
 quality-proxy-working-serv.kvalitne.cz
 quangdo92.dynu.net
+quanmeme.duckdns.org
 quantum-age.cn
 quantumcode.info
 quantumpulse.dev
@@ -21059,6 +21105,7 @@ rbe7.com
 rblade.asuscomm.com
 rc2.info
 rced.ru
+rcpc2.duckdns.org
 rcsm.ir
 rd4.info
 rd6.info
@@ -21382,6 +21429,7 @@ rko.in
 rku.in
 rnbnow.co.cc
 rnmap.com
+ro-bu.foxyfy.net
 ro-buc-w-1.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
@@ -21671,6 +21719,7 @@ salmex.co.cc
 salmongrill.co.cc
 salmonstory.com
 salti.info
+salvadoserver.duckdns.org
 samair.ru
 samairproxy.co.cc
 samforex.co.cc
@@ -21954,6 +22003,7 @@ secure-vpn.info
 secure.anudeep.me
 secure.avastdns.com
 secure.fibersurf.co.cc
+secure.hafnova.com
 secure.onedns.cc
 secure88.com
 secureadguarddns.charleslondon.online
@@ -22233,6 +22283,7 @@ shalenkov.cc
 shalenkov.dev
 shameless-plug-for.geometry-games.online
 shameon.co.cc
+shanghainese.uk
 shanzhapian.cn
 shapoopi.info
 shaptech.net
@@ -26252,6 +26303,7 @@ us-kan-w-p-1.nashkan.net
 us-la-w-4.nashkan.net
 us-la-w-5.nashkan.net
 us-ny-alula.heliumcloud.cc
+us-ny.foxyfy.net
 us-nyc-w-1.nashkan.net
 us-nyc-w-3.nashkan.net
 us-nyc-w-f-1.nashkan.net
@@ -26263,6 +26315,7 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us-sea-w-5.nashkan.net
 us-sea-w-6.nashkan.net
+us-sj.foxyfy.net
 us-surf.com
 us.aab.im
 us.doh.cloudveil.org
@@ -26638,6 +26691,7 @@ vm.delfini.online
 vm.mytm.cc
 vm1.arashi.solutions
 vm2.arashi.solutions
+vm3421302.firstbyte.club
 vmathpie.com
 vmd45200.contabo.wallura.eu
 vmgo.com
@@ -26682,6 +26736,7 @@ vovk.info
 voxproxy.com
 voyage-s01.cloudku.technology
 voyage-s02.cloudku.technology
+voyagerz.hopto.org
 vp.tradescape.biz
 vpernet.com
 vpich.duckdns.org
@@ -27370,6 +27425,7 @@ wirevpn.cc
 wirpo032.kilu.de
 wisebychance.com
 wiseghostapp.com
+wisehomeguard.duckdns.org
 wisewebsite.com
 wishget.com
 wisjam7.co.cc
@@ -27388,6 +27444,7 @@ wmm.com.ru
 wmzv.com
 woalongit.synology.me
 wobti.com
+woc.beelstb.biz.id
 wokos.com
 wolm.info
 wolu.info
@@ -27414,6 +27471,7 @@ worka.work
 workandplay.info
 workassprxy.co.cc
 workbrowse.com
+workcavestl.duckdns.org
 workconnect.info
 workdigi.com
 workfacebook.com
@@ -27927,6 +27985,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9bb.net
 www.9fish.info
@@ -35268,6 +35327,7 @@ www.scienceproxy.com
 www.scienceremoval.tk
 www.sconsutkrss.tk
 www.scoobidoo.net
+www.scooty.info
 www.scriptdownloads.com
 www.scubaplanet.de
 www.sdchost.com
