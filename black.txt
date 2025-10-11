@@ -2461,6 +2461,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9a02e189b32a1a3f55c5c14b83e224d29f90d39d-m.proxy1.startpage.com
 9a092a022f99329e5fdb527a62aad113b9b8163b-m.proxy2.startpage.com
@@ -3039,6 +3040,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -3348,6 +3350,7 @@ adiforex.cz.cc
 adihash.net
 adiraproxy.co.cc
 adita.info
+adiyulianto.cz.cc
 adl.adfilter.net
 adl01.dnscry.pt
 adless.cz.cc
@@ -4360,6 +4363,7 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
+asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -5073,7 +5077,6 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
-best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -6641,6 +6644,7 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
+cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -12691,6 +12695,7 @@ furball.info
 furiousness.com
 furiousproxy.co.cc
 furnandoistrans.hackquest.com
+furniturelanddirect.com
 furproxie.co.cc
 furriesarecute.furryplace.eu
 furyforex.co.cc
@@ -17480,6 +17485,7 @@ myspaceunblock.org
 myspaceunblocker.info
 myspaceunblockit.com
 myspaceunlock.com
+myssl.org
 mysterium.arashi.solutions
 mysteriumvpn.com
 mysteward.info
@@ -17577,7 +17583,6 @@ natureforex.co.cc
 nava-proxy.tk
 navigationprivee.com
 navigood-cutter.co.cc
-naviguer.ca
 navydog.com
 naw01.dnscry.pt
 nawt.info
@@ -22443,6 +22448,7 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
+saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -27402,6 +27408,7 @@ visionprox.com
 visionproxie.co.cc
 visitany.com
 visitriga.info
+visitsites.info
 visityoursite.info
 vista-files.org
 vistafirewall.co.cc
@@ -32173,6 +32180,7 @@ www.hopin.info
 www.horsestable.xyz
 www.hostapp.eu
 www.hostapp.info
+www.hostedweb.info
 www.hosteg.net
 www.hosteria.org
 www.hostinganime.com
@@ -38738,6 +38746,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
