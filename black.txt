@@ -1070,7 +1070,6 @@ adguard.glbd.fr
 adguard.gonzcid.com
 adguard.grantbruneau.com
 adguard.green1052.com
-adguard.guyot.group
 adguard.h22designs.com
 adguard.h4nt3r.com
 adguard.hack3r.de
@@ -1514,7 +1513,6 @@ ajrforex.co.cc
 ajtforex.co.cc
 ajuforex.co.cc
 ak58.com
-akaforex.cz.cc
 akainuforex.co.cc
 akashiro.co.id
 akdis.cn
@@ -4991,7 +4989,6 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
-cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -5857,7 +5854,6 @@ dns.csswg.org
 dns.cuehosting.com
 dns.curser.dev
 dns.cwlys.com
-dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d4d.moe
 dns.d8e.ru
@@ -5939,7 +5935,6 @@ dns.epcot.fr
 dns.epic.st
 dns.erkin.top
 dns.esegece.com
-dns.esinc.xyz
 dns.esnube.es
 dns.eu-frankfurt-1.oci.oraclecloud.com
 dns.eu-frankfurt-1.oci.oraclecloud.net
@@ -6062,13 +6057,10 @@ dns.huizhechi.com
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.huth.nu
-dns.huyhoangit.net
 dns.huyizhou.com
-dns.huynd.click
 dns.hva.li
 dns.hwtwco.uk
 dns.hyas.com
-dns.hypercute.eu
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.iblockads.net
@@ -6910,7 +6902,6 @@ dnuforex.co.cc
 dnx.niko-sem.com
 dnx.tttpai.com
 dnyan.com
-do-39574-tr.xyz
 do-and-by.co.cc
 do.dnscrypt.uk
 do.shimul.me
@@ -6931,7 +6922,6 @@ doesh.com
 dog-sho.ws
 dog.dns.qwer.pw
 dog1.info
-doge.dinprima.ro
 doge.intinet.com.ar
 doge.seel.cl
 doge.sundblad.com.ar
@@ -8157,6 +8147,7 @@ family.adguard-dns.com
 family.adguarddns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.teknoholistik.com
@@ -8490,7 +8481,6 @@ files-slickvpn.netdna-ssl.com
 filesdownloader.com
 filespin.net
 filestore.info
-filipinoray.com
 fill-me.co.cc
 filtax.com
 filter-admins-come-and-get-me.easterndns.com
@@ -9949,7 +9939,6 @@ getby.atspace.com
 getbynow.com
 getbypassforexsite.co.cc
 getcloak.com
-getcloser-websocket.com
 getcrushes-point.co.cc
 getdnsapi.net
 getdomain.tk
@@ -11222,7 +11211,6 @@ homeblock.com
 homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
-homejerem.duckdns.org
 homelab.terabit.net.id
 homemail.info
 homemoscow34.website
@@ -13450,6 +13438,7 @@ luis-suarez.co.cc
 luispro.com
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luminati-holanetworksltd.netdna-ssl.com
 luminati.io
 luminatinet.com
@@ -13527,7 +13516,6 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
-madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14159,7 +14147,6 @@ moreproxies.com
 moreproxylist.co.cc
 morethanfast.co.cc
 morevpn.com
-morgenegg.duckdns.org
 morning-glory.co.cc
 morningfolks.co.cc
 morninghunger.co.cc
@@ -14869,7 +14856,6 @@ nightproxy.com
 nightshack.com
 nightunblokweb.co.cc
 nightway.info
-nikamurs.duckdns.org
 nikeappareledz.co.cc
 nikhils.info
 nikto.net
@@ -24244,8 +24230,6 @@ v5d.net
 v6.test.privatenode.ru
 v6.z4.test.privatenode.ru
 v6.z6.test.privatenode.ru
-v7.frame-one.cc
-v8.frame-one.cc
 v971850.macloud.host
 v9z.net
 vacaforex.co.cc
@@ -25572,7 +25556,6 @@ www.289.us
 www.2999.info
 www.29proxy.com
 www.2a55.com
-www.2browse.info
 www.2dify.com
 www.2eb.org
 www.2evs.com
@@ -28478,6 +28461,7 @@ www.freewatch.info
 www.freeweb4-4proxy.tk
 www.freewebproxy.asia
 www.freewebproxy.cn
+www.freewebproxy.com
 www.freewebproxy.info
 www.freewebproxy.net
 www.freewebproxy.org
@@ -29223,6 +29207,7 @@ www.hopin.info
 www.horsestable.xyz
 www.hostapp.eu
 www.hostapp.info
+www.hostedweb.info
 www.hosteg.net
 www.hosteria.org
 www.hostinganime.com
@@ -30483,7 +30468,6 @@ www.mricons.com
 www.mrih.com
 www.mrproxies.com
 www.mrproxy.com
-www.mrproxy.de
 www.mrromantic.com
 www.mrschool.org
 www.mrshellman.com
