@@ -685,7 +685,6 @@ aash.info
 aatforex.co.cc
 aauforex.co.cc
 ab.ctx.cl
-ab.teleportbot.org
 abaforex.cz.cc
 abc.kissfree.net
 abcdef.cz.cc
@@ -6925,9 +6924,7 @@ dog-sho.ws
 dog.dns.qwer.pw
 dog1.info
 doge.intinet.com.ar
-doge.seel.cl
 doge.sundblad.com.ar
-doge.tinf.cl
 dogebynirb.winkel.com.ar
 doggyproxy.com
 dogonat.co.cc
@@ -9367,7 +9364,6 @@ freeproxy.io
 freeproxy.joshjaques.com
 freeproxy.me
 freeproxy.net
-freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
@@ -12843,7 +12839,6 @@ kutakmengerti.co.cc
 kuuk.net
 kuvia.eu
 kv39.com
-kvps01.xvps.jp
 kwas24izynek74.ddns.net
 kwee.info
 kwiq.net
@@ -13512,6 +13507,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14220,7 +14216,6 @@ mrih.com
 mrjack.co.cc
 mrproxies.com
 mrproxy.com
-mrproxy.de
 mrproxyarturo.tk
 mrromantic.com
 mrs01.dnscry.pt
@@ -14510,7 +14505,6 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
-mzx.site40.net
 n-wan.dynv6.net
 n.nop.mobi
 n0.eu
@@ -16216,7 +16210,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -16416,6 +16409,7 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -17790,7 +17784,6 @@ proxyie.com
 proxyific.com
 proxyimpact.com
 proxyin.cn
-proxyin.nl
 proxyindex.com
 proxyindex.eu
 proxyindonesia.com
@@ -19405,7 +19398,6 @@ safelizard.com
 safeloan.info
 safely-browsing.com
 safelysurfing.co.cc
-safenetbrowser.com
 safenfree.com
 safeoroxy.xp3.biz
 safepillage.com
@@ -19468,7 +19460,6 @@ samforex.co.cc
 samj.codes
 samplesdata.co.cc
 sams.adg.siudzinski.net
-samsdns1943.net
 samsproxy.co.cc
 samsung-galaxy.co.cc
 samsung.dns.joey01245.nl
@@ -19575,7 +19566,6 @@ schooldr.com
 schoolfast.co.cc
 schoolfly.info
 schoolfreezone.com
-schoolhelper.info
 schoolheroes.co.cc
 schoolife.info
 schoolinfo.info
@@ -20282,7 +20272,6 @@ siteunblocked.space
 siteunblocked.website
 siteunblocked.xyz
 siteunblocker.ws
-siteunlock2you.com
 siteunlocker.com
 siteviewers.com
 sitewayunblock.co.cc
@@ -21157,7 +21146,6 @@ stuff-free.chat.ru
 stuffschool.com
 stufy.englishpapers.online
 stunnel.com
-stunnel.org
 stupidasshole.co.cc
 stupidcensorship.com
 stupidchoices.com
@@ -21716,7 +21704,6 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
-surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22419,7 +22406,6 @@ theproxybay.org
 theproxyconnection.com
 theproxyer.com
 theproxyfree.com
-theproxyfull.com
 theproxyguide.com
 theproxyguy.com
 theproxyhost.com
@@ -23230,7 +23216,6 @@ ultrajoss.co.cc
 ultrajuegos.info
 ultraproxy.biz
 ultraproxy.info
-ultraproxyweb.com
 ultrareach.com
 ultrareach.net
 ultrasurf.es
@@ -23387,7 +23372,6 @@ unblock.ws
 unblock.ws.com.com
 unblock.xp3.biz
 unblock123.com
-unblock2.club
 unblock2.com
 unblock2.pw
 unblock2.site
@@ -23532,14 +23516,12 @@ unblockedproxy.org
 unblockedproxy.us
 unblockedproxysites.com
 unblockedscene.com
-unblockedsite.biz
 unblockedsite.club
 unblockedsite.fun
 unblockedsite.info
 unblockedsite.net
 unblockedsite.pw
 unblockedsite.xyz
-unblockedsiteroute.com
 unblockedsites.info
 unblockedsites.net
 unblockedsites.org
@@ -24480,7 +24462,6 @@ volcanoeserupt.co.cc
 volcanosurf.co.cc
 voldemortproxy.co.cc
 volgme.com
-volik.me
 vomeronasal.co.cc
 vonvpn.com
 vopil.com
@@ -24924,10 +24905,8 @@ webproxy4free.ga
 webproxy4free.gq
 webproxy4free.info
 webproxy4free.ml
-webproxyagent.com
 webproxybrowser.com
 webproxyfree.net
-webproxyinc.com
 webproxyking.com
 webproxylist.cn
 webproxylist.com
@@ -24955,7 +24934,6 @@ webreveal.com
 webriot.net
 webrover.info
 webroxy.com
-webrunnerproxy.com
 webscale.info
 webschool.info
 websecure2010.co.cc
@@ -24990,7 +24968,6 @@ webteufel-it.solutions
 webtiner.co.cc
 webtoolsking.com
 webtunnel.org
-webtunnelproxy.com
 webtunnelx.com
 webtv.ws
 webtypeunblok.co.cc
@@ -25542,7 +25519,6 @@ www.289.us
 www.2999.info
 www.29proxy.com
 www.2a55.com
-www.2browse.info
 www.2dify.com
 www.2eb.org
 www.2evs.com
@@ -26590,7 +26566,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -28134,7 +28109,6 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -28732,7 +28706,6 @@ www.gohigh.info
 www.goidle.com
 www.goingthere.org
 www.gojira.info
-www.goldenprivacy.info
 www.goldenproxy.cn
 www.goldie.info
 www.goldielocks.info
@@ -29649,6 +29622,7 @@ www.iweb10.info
 www.iweb365.net
 www.iwebproxy.net
 www.iwine.info
+www.ix0.net
 www.ixmv.com
 www.ixune.com
 www.iyeb.com
@@ -30454,7 +30428,6 @@ www.mricons.com
 www.mrih.com
 www.mrproxies.com
 www.mrproxy.com
-www.mrproxy.de
 www.mrromantic.com
 www.mrschool.org
 www.mrshellman.com
@@ -30484,7 +30457,6 @@ www.musclz.com
 www.mushroomicecream.com
 www.musta.info
 www.mustgo.info
-www.mustproxy.com
 www.mustsee.info
 www.mutemail.com
 www.muvies.info
@@ -32064,7 +32036,6 @@ www.proxyie.com
 www.proxyific.com
 www.proxyimpact.com
 www.proxyin.cn
-www.proxyin.nl
 www.proxyindex.com
 www.proxyindex.eu
 www.proxyindonesia.com
@@ -32966,7 +32937,6 @@ www.safeip.info
 www.safelizard.com
 www.safeloan.info
 www.safely-browsing.com
-www.safenetbrowser.com
 www.safenfree.com
 www.safeonltkestube.tk
 www.safepillage.com
@@ -33049,7 +33019,6 @@ www.schooldr.com
 www.schoolfacts.info
 www.schoolfly.info
 www.schoolfreezone.com
-www.schoolhelper.info
 www.schoolife.info
 www.schoolinfo.info
 www.schoolkey.info
@@ -34168,7 +34137,6 @@ www.texastarget.com
 www.texasthe.com
 www.textproxylists.com
 www.tezin.com
-www.tezzoo.com
 www.tfarolz.com
 www.tgcg.info
 www.th3pr.com
@@ -35828,7 +35796,6 @@ www.yourfree.eu
 www.yourfreedom.net
 www.yourfreeproxy.com
 www.yourfreeproxy.net
-www.yourfreesmoking.info
 www.yourgateway.in
 www.yourhideway.info
 www.yourin.info
@@ -36483,7 +36450,6 @@ zerolimitation.co.cc
 zeroprotocol.co.cc
 zeroproxy.com
 zerotier.com
-zerotunnel.com
 zerovpn-app.com
 zetland.rm-ni.uk
 zeusvps.cloudns.nz
@@ -36552,6 +36518,7 @@ zoxxoo.com
 zoxy.co.uk
 zoxy.info
 zoz.6x.to
+zozy.vndv.com
 zpn.im
 zproxy.de
 zproxy.org
