@@ -611,7 +611,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -6916,7 +6915,6 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -9364,6 +9362,7 @@ freeproxy.io
 freeproxy.joshjaques.com
 freeproxy.me
 freeproxy.net
+freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
 freeproxy.org
@@ -11138,6 +11137,7 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkg03.dnscry.pt
 hkg2.edge.access.zznet.fun
+hkname.freecdn.one
 hknat.ooguy.com
 hkns.gzelvis.com
 hkt.kozow.com
@@ -11962,7 +11962,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -14216,6 +14215,7 @@ mrih.com
 mrjack.co.cc
 mrproxies.com
 mrproxy.com
+mrproxy.de
 mrproxyarturo.tk
 mrromantic.com
 mrs01.dnscry.pt
@@ -14505,6 +14505,7 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
+mzx.site40.net
 n-wan.dynv6.net
 n.nop.mobi
 n0.eu
@@ -15880,6 +15881,7 @@ partyproxy.com
 partysurf.co.cc
 pasajeros.org
 pasardadakan.co.cc
+pashagame456.com
 pasi.cat
 paskam.xyz
 pass12335.myds.me
@@ -16210,6 +16212,7 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
+place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -17784,6 +17787,7 @@ proxyie.com
 proxyific.com
 proxyimpact.com
 proxyin.cn
+proxyin.nl
 proxyindex.com
 proxyindex.eu
 proxyindonesia.com
@@ -19398,6 +19402,7 @@ safelizard.com
 safeloan.info
 safely-browsing.com
 safelysurfing.co.cc
+safenetbrowser.com
 safenfree.com
 safeoroxy.xp3.biz
 safepillage.com
@@ -19437,7 +19442,6 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -19566,6 +19570,7 @@ schooldr.com
 schoolfast.co.cc
 schoolfly.info
 schoolfreezone.com
+schoolhelper.info
 schoolheroes.co.cc
 schoolife.info
 schoolinfo.info
@@ -21704,6 +21709,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22253,7 +22259,6 @@ test.marss.pro
 test.net46.net
 test.privatenode.ru
 test.zkwg.duckdns.org
-test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -25519,6 +25524,7 @@ www.289.us
 www.2999.info
 www.29proxy.com
 www.2a55.com
+www.2browse.info
 www.2dify.com
 www.2eb.org
 www.2evs.com
@@ -25730,7 +25736,6 @@ www.99mm.info
 www.99proxy.com
 www.99s.net
 www.99tunnel.com
-www.9bb.net
 www.9fish.info
 www.9hp.info
 www.9lg.info
@@ -26566,6 +26571,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -27876,7 +27882,6 @@ www.ezr.info
 www.ezunblock.com
 www.f-itc.be
 www.f4fp.com
-www.f4sthost.com
 www.f7e.net
 www.f8c.info
 www.f8d.info
@@ -28109,6 +28114,7 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -28706,6 +28712,7 @@ www.gohigh.info
 www.goidle.com
 www.goingthere.org
 www.gojira.info
+www.goldenprivacy.info
 www.goldenproxy.cn
 www.goldie.info
 www.goldielocks.info
@@ -30428,6 +30435,7 @@ www.mricons.com
 www.mrih.com
 www.mrproxies.com
 www.mrproxy.com
+www.mrproxy.de
 www.mrromantic.com
 www.mrschool.org
 www.mrshellman.com
@@ -30457,6 +30465,7 @@ www.musclz.com
 www.mushroomicecream.com
 www.musta.info
 www.mustgo.info
+www.mustproxy.com
 www.mustsee.info
 www.mutemail.com
 www.muvies.info
@@ -32036,6 +32045,7 @@ www.proxyie.com
 www.proxyific.com
 www.proxyimpact.com
 www.proxyin.cn
+www.proxyin.nl
 www.proxyindex.com
 www.proxyindex.eu
 www.proxyindonesia.com
@@ -32937,6 +32947,7 @@ www.safeip.info
 www.safelizard.com
 www.safeloan.info
 www.safely-browsing.com
+www.safenetbrowser.com
 www.safenfree.com
 www.safeonltkestube.tk
 www.safepillage.com
@@ -33019,6 +33030,7 @@ www.schooldr.com
 www.schoolfacts.info
 www.schoolfly.info
 www.schoolfreezone.com
+www.schoolhelper.info
 www.schoolife.info
 www.schoolinfo.info
 www.schoolkey.info
@@ -35796,6 +35808,7 @@ www.yourfree.eu
 www.yourfreedom.net
 www.yourfreeproxy.com
 www.yourfreeproxy.net
+www.yourfreesmoking.info
 www.yourgateway.in
 www.yourhideway.info
 www.yourin.info
