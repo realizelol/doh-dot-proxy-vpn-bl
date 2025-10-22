@@ -3641,8 +3641,8 @@ buryzone.info
 bushel.us
 bushenba.cn
 bushforex.co.cc
-bushmancastle.duckdns.org
 busineesschool.co.cc
+business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -5898,6 +5898,7 @@ dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
 dns.dodhymikrotik.my.id
+dns.doh.best
 dns.dooks.uk
 dns.doserver.top
 dns.dotnet.win
@@ -10378,6 +10379,7 @@ grant-resurf.co.cc
 grape-info.com
 graph.ws
 grasped.asdfg.us
+grass.io
 grasshomehide.tk
 grassproxy.com
 gratisantelkomsel.co.cc
@@ -10471,6 +10473,7 @@ gruppo.pp.ua
 grut.info
 gryzek.pl
 gsat.familyds.com
+gsocket.io
 gsuforex.co.cc
 gt500.co.cc
 gtlplant.com
@@ -11965,7 +11968,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -15951,7 +15953,6 @@ pc-streaming.com
 pcbrdh8v6m.digitallink.be
 pcbypass.info
 pccoach.ddns.net
-pcd96.duckdns.org
 pcgo.fun
 pcgraffiti.com
 pcjco.ovh
@@ -24853,6 +24854,7 @@ webgames.goa.com
 webgeek.info
 webhome.eu
 webhoneynet.com
+webhook.site
 webhosting.hirleman.com
 webhosting.vo3.net
 webhv.com
