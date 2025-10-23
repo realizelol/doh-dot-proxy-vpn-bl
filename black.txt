@@ -627,7 +627,6 @@
 9r4.net
 9rk.info
 9s3.net
-9w9.org
 9y2.net
 a-4.info
 a-5.info
@@ -974,6 +973,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -1797,7 +1797,6 @@ androidtrend.co.cc
 androidtriks.co.cc
 andromeda.hu.tl
 androsten.co.cc
-androvpn.com
 andryk111.duckdns.org
 andybunn.onthewifi.com
 andz21.dynv6.net
@@ -3289,7 +3288,6 @@ bocaplanet.com
 bocu.info
 boda-vip.net
 boderrforex.co.cc
-bodvpn.com
 bodyloan.ml
 bodysurf.co.cc
 bodysurf.nz.gs
@@ -3401,7 +3399,6 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
-brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -3641,6 +3638,7 @@ buryzone.info
 bushel.us
 bushenba.cn
 bushforex.co.cc
+bushmancastle.duckdns.org
 busineesschool.co.cc
 business-webfilter.cz.cc
 businessbuilder.info
@@ -4384,7 +4382,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -5898,7 +5895,6 @@ dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
 dns.dodhymikrotik.my.id
-dns.doh.best
 dns.dooks.uk
 dns.doserver.top
 dns.dotnet.win
@@ -6303,7 +6299,6 @@ dns.nas-server.ru
 dns.nashi.us.to
 dns.native.cat
 dns.neeb.it
-dns.nefret.net
 dns.neilzone.co.uk
 dns.nekofish.cc
 dns.nerdytechgeeks.co.za
@@ -8774,7 +8769,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9832,6 +9826,7 @@ gazz.info
 gazzump.com
 gb-bir-w-1.nashkan.net
 gb-cov-w-1.nashkan.net
+gb-cov-w-f-1.nashkan.net
 gb-cov-w-f-2.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-1.nashkan.net
@@ -10714,8 +10709,6 @@ hellohihey.com
 hellomyfriend.co.cc
 helloproxy.com
 helloschool.info
-hellotaka.iiiii.info
-hellotaka.wiki.gd
 helloteacher.info
 helloworld.cx
 helloyo.com
@@ -11304,7 +11297,6 @@ hotsurfing.co.cc
 hottei.com
 hottunnel.com
 hotunblock.3owl.com
-hotunixispeak.hotunix.com
 hotwatergate.co.cc
 hotwinebaskets.com
 housebabies.co.cc
@@ -11706,7 +11698,6 @@ improxy.pt
 imright.net
 imsly.com
 imsneaky.com
-imsogoopy.69.mu
 imspecial.me
 imyu.info
 in-blr.doh.sb
@@ -11968,6 +11959,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -15087,7 +15079,6 @@ nphproxy.info
 nprox.com
 nproxy.net
 npsurf.info
-nqh-dns.duckdns.org
 nqma.net
 nr1surf.com
 nroxy.com
@@ -15953,6 +15944,7 @@ pc-streaming.com
 pcbrdh8v6m.digitallink.be
 pcbypass.info
 pccoach.ddns.net
+pcd96.duckdns.org
 pcgo.fun
 pcgraffiti.com
 pcjco.ovh
@@ -16218,7 +16210,6 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
-place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -16452,7 +16443,6 @@ prattle.me
 prawanproxy.co.cc
 prdot.cldsrv.es
 prea.info
-predecessor.info
 prefirm.com
 prefork.co.cc
 premiereproxy.com
@@ -17686,7 +17676,6 @@ proxyforall.com
 proxyforest.com
 proxyforfree.eu
 proxyforge.com
-proxyforhayes.69.mu
 proxyforhealth.co.cc
 proxyforinsurance.co.cc
 proxyformyspace.info
@@ -19172,7 +19161,6 @@ rjmy.com
 rjnox.com
 rko.in
 rku.in
-rmerheadonionlink.hotunix.com
 rnbnow.co.cc
 rnmap.com
 ro-bu.foxyfy.net
@@ -19591,7 +19579,6 @@ schoolnewsletter.us
 schooloff.hu.tl
 schoology.college
 schoology.help
-schoology.hotunix.com
 schoology2.twilightparadox.com
 schoolooks.com
 schoolpalm.com
@@ -20613,7 +20600,6 @@ someproxy.com
 somethingright.co.cc
 somewhat-well.co.cc
 somewhere-output.co.cc
-somuchpeakk.hotunix.com
 son2.com
 soncms.id.vn
 songfortheheartz.co.cc
@@ -23929,7 +23915,6 @@ unprohibited.org
 unraid.dedyn.io
 unrealproxy.com
 unreimbursed.com
-unrestrict.me
 unrestrictedsurf.com
 unrestrictedsurf.net
 unrestrictedsurf.org
@@ -24907,7 +24892,6 @@ webproxy.ru
 webproxy.stealthy.co
 webproxy.to
 webproxy.uk.com
-webproxy.us
 webproxy.us.com
 webproxy.wowdns.com
 webproxy2.dased.com
@@ -25315,7 +25299,6 @@ wrong-right.co.cc
 wrongdead.cn
 wtfmagic.info
 wtfsurf.com
-wtools.eu
 wtsb.net
 wtunnel.com
 wu.freecphost.com
@@ -25745,7 +25728,6 @@ www.99mm.info
 www.99proxy.com
 www.99s.net
 www.99tunnel.com
-www.9bb.net
 www.9fish.info
 www.9hp.info
 www.9lg.info
@@ -29747,7 +29729,6 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
-www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
