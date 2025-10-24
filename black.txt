@@ -3399,6 +3399,7 @@ braincorner.co.cc
 brainindustry.co.cc
 brainreno.com
 brainscans.co.cc
+brainwave.cz.cc
 brake-shifter.co.cc
 bramka-proxy.pl
 bramkaproxy.laptopow.com
@@ -4170,7 +4171,6 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
-cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -4248,7 +4248,6 @@ chromeproxy.net
 chromium.dns.nextdns.io
 chronicle14.tplinkdns.com
 chronicorders.co.cc
-chuan.usa.cc
 chubbybunny.info
 chuforex.co.cc
 chuiyixiaproxy.tk
@@ -4382,6 +4381,7 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
+cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -7884,6 +7884,7 @@ eu1-browse.startpage.com
 eu1.dns.lavate.ch
 eu2-browse.startpage.com
 eu2-scloud-proxy.ssp.samsungosp.com
+eu3-browse.startpage.com
 eunblockfacebook.info
 eunblocksites.info
 eunblockwebsites.info
@@ -8769,6 +8770,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -9508,7 +9510,6 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
-freewebproxy.com
 freewebproxy.eu
 freewebproxy.net
 freewebproxy.net.cn
@@ -9809,7 +9810,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10434,7 +10434,6 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
-greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -13938,6 +13937,7 @@ mikatos.de
 mikeguide.com
 mikewaddick.com
 mikeyur.com
+mikezhang.xyz
 mikrobill.dns-cloud.net
 miksa.info
 mil01.dnscry.pt
@@ -16210,6 +16210,7 @@ place-proper.co.cc
 place-second.co.cc
 place-should.co.cc
 place2be.mycyberway.com
+place2be.net78.net
 placenetworks.com
 placesite.info
 plainproxies.com
@@ -19436,7 +19437,6 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -21258,7 +21258,6 @@ superunlimited.com
 supervivencia.info
 supervpn.best
 supervpn.im
-supervpn.net
 supforex.co.cc
 supjamur.co.cc
 suppervpn-duper-proxyips.tk
@@ -21702,7 +21701,6 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
-surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22249,10 +22247,8 @@ test.businessconnect.com.tr
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
-test.net46.net
 test.privatenode.ru
 test.zkwg.duckdns.org
-test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -25516,7 +25512,6 @@ www.289.us
 www.2999.info
 www.29proxy.com
 www.2a55.com
-www.2browse.info
 www.2dify.com
 www.2eb.org
 www.2evs.com
@@ -25728,6 +25723,7 @@ www.99mm.info
 www.99proxy.com
 www.99s.net
 www.99tunnel.com
+www.9bb.net
 www.9fish.info
 www.9hp.info
 www.9lg.info
@@ -26036,7 +26032,6 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
-www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -29335,7 +29330,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -29729,6 +29723,7 @@ www.justificatory.com
 www.justlikeit.info
 www.justlive.info
 www.justproxy.eu
+www.justproxy.net
 www.justproxyit.com
 www.justrapid.com
 www.justreal.info
@@ -32035,7 +32030,6 @@ www.proxyie.com
 www.proxyific.com
 www.proxyimpact.com
 www.proxyin.cn
-www.proxyin.nl
 www.proxyindex.com
 www.proxyindex.eu
 www.proxyindonesia.com
@@ -35727,7 +35721,6 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
-www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -36281,7 +36274,6 @@ yourfree.eu
 yourfreedom.net
 yourfreeproxy.com
 yourfreeproxy.net
-yourfreesmoking.info
 yourgateway.in
 yourin.info
 yourinfo.co.cc
