@@ -868,7 +868,6 @@ ad1.heronet.nl
 ad1guard.duckdns.org
 ad2.heronet.nl
 ad4msan.win
-ada.ns.cloudflare.com
 ada.openbld.net
 adaforex.cz.cc
 adam-hughes.co.uk
@@ -2796,7 +2795,6 @@ bertolino.info
 besneaky.com
 besoesproxy.co.cc
 besro.com
-best-browsing.cz.cc
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
@@ -4171,6 +4169,7 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
+cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -4248,6 +4247,7 @@ chromeproxy.net
 chromium.dns.nextdns.io
 chronicle14.tplinkdns.com
 chronicorders.co.cc
+chuan.usa.cc
 chubbybunny.info
 chuforex.co.cc
 chuiyixiaproxy.tk
@@ -4381,7 +4381,6 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
-cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -5385,7 +5384,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -7159,6 +7157,7 @@ domain-yahoo-forex.co.cc
 domain.caringformom.com
 domain.corpbrands.com
 domain.iowametal.com
+domain.name
 domain.novafree.net
 domain.politicaltargets.com
 domain.studio-as.net
@@ -9510,6 +9509,7 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
+freewebproxy.com
 freewebproxy.eu
 freewebproxy.net
 freewebproxy.net.cn
@@ -9810,6 +9810,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10434,6 +10435,7 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
+greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -11207,6 +11209,7 @@ homeguard.sleziona.org
 homelab.terabit.net.id
 homemail.info
 homemoscow34.website
+homenet.telecomitalia.it
 homeproxy.com
 homeproxy.net
 homer.kill-9.com
@@ -17379,6 +17382,7 @@ proxy2u.com
 proxy2u.info
 proxy2u.woano.com
 proxy3.com
+proxy3.startpage.com
 proxy3.yoof.info
 proxy33.com
 proxy4.info
@@ -19437,6 +19441,7 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
+saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -21258,6 +21263,7 @@ superunlimited.com
 supervivencia.info
 supervpn.best
 supervpn.im
+supervpn.net
 supforex.co.cc
 supjamur.co.cc
 suppervpn-duper-proxyips.tk
@@ -21701,6 +21707,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22247,8 +22254,10 @@ test.businessconnect.com.tr
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
+test.net46.net
 test.privatenode.ru
 test.zkwg.duckdns.org
+test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -25512,6 +25521,7 @@ www.289.us
 www.2999.info
 www.29proxy.com
 www.2a55.com
+www.2browse.info
 www.2dify.com
 www.2eb.org
 www.2evs.com
@@ -26032,6 +26042,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -28350,7 +28361,6 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
-www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -29330,6 +29340,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -29808,7 +29819,6 @@ www.killmyproxy.info
 www.kilos.info
 www.kinganonymous.com
 www.kingofproxies.com
-www.kingsproxy.com
 www.kingsurfproxy.com
 www.kingtech.info
 www.kip4.com
@@ -31475,7 +31485,6 @@ www.proxe.ws
 www.proxeasy.com
 www.proxee.ws
 www.proxeey.com
-www.proxer.ru
 www.proxers.com
 www.proxert.com
 www.proxery.com
@@ -32030,6 +32039,7 @@ www.proxyie.com
 www.proxyific.com
 www.proxyimpact.com
 www.proxyin.cn
+www.proxyin.nl
 www.proxyindex.com
 www.proxyindex.eu
 www.proxyindonesia.com
@@ -35721,6 +35731,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -36274,6 +36285,7 @@ yourfree.eu
 yourfreedom.net
 yourfreeproxy.com
 yourfreeproxy.net
+yourfreesmoking.info
 yourgateway.in
 yourin.info
 yourinfo.co.cc
