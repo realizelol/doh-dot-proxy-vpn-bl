@@ -6083,6 +6083,7 @@ ansgcc.org
 ansl.info
 ansurf.info
 answerthese.tk
+antares1.eu.org
 antares1.info
 anteage.info
 antena.pro
@@ -41137,6 +41138,7 @@ kidmxxv.tk
 kidonweb.info
 kidproxy.info
 kidrags.tk
+kids-adguard.duckdns.org
 kidsbedtime.tk
 kidscouture.tk
 kidslick.org
