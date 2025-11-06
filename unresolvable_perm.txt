@@ -13861,6 +13861,7 @@ capital.formationfly.org
 capital.lol.my
 capital.mayfly.ca
 capital.nu.mu
+capital.project.li
 capital.ucfirefly.com
 capitaland.tk
 capitalbrowse.info
@@ -73524,6 +73525,7 @@ supervpn.cf
 supervpn.ga
 supervpn.gq
 supervpn.info
+supervpn.net
 supervpn.top
 superwebproxy.cf
 superwebproxy.ga
