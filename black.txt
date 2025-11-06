@@ -3387,6 +3387,7 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
+bestspeed.cz.cc
 bestspin.info
 bestssh.net
 bestsslproxy.info
@@ -4124,6 +4125,7 @@ bulletvpn.com
 bulleye.com
 bullpop.com
 buludubur.co.cc
+bum.education
 bumbsurfer.co.cc
 bunch-o-nerds.com
 bundesliganow.co.cc
@@ -4339,6 +4341,7 @@ c.cicitt.ch
 c.cpfrx.info
 c.is-very.fun
 c00lkiddtech.hackquest.com
+c00lkiddtech.ut.greenaudio.ch
 c027566b72371e7b699fb6afabd5506254ff4590-m.proxy1.startpage.com
 c072b9ef4430f10fe37df6362d52b2b7bab6e60d-m.proxy1.startpage.com
 c0d06a028c334718554111b33ba4ab74e8b3b6f3-m.proxy1.startpage.com
@@ -5203,6 +5206,7 @@ coolbutcute.com
 coolbypass.com
 coolestdigital.com
 coolgams.dk-condos.com
+coolkidd.chickenkiller.com
 coolmanbartx.justlearning.net
 coolmask.info
 coolme.com
@@ -7488,6 +7492,7 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7743,6 +7748,7 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
+domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -12031,7 +12037,6 @@ httpdns.ocloud.oppomobile.com
 httpdns.platform.dbankcloud.cn
 httpdns.platform.dbankcloud.com
 httpdns.pro
-httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 httpdns.volcengineapi.com
 httpdns.yunxindns.com
@@ -12223,6 +12228,7 @@ idblock.info
 idcloak.com
 iddaamac.com
 iddaatahminleri.org
+idea.guide.dns1.one.pl
 ideallysurf.co.cc
 idealproxy.com
 idealvpn.com
@@ -12604,6 +12610,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -12614,6 +12621,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -12854,11 +12862,13 @@ javacentral.net
 javajehovah.co.cc
 javajive.co.cc
 javakeraton.co.cc
+javascriptisfuntoeat.com.fluxus.org
 javnowaaabbbcccs.tk
 jax01.dnscry.pt
 jaxi.info
 jayanforex.co.cc
 jaye.sh
+jayisthe.chickenkiller.com
 jayjot.com
 jaym.in
 jazhus.100webspace.net
@@ -13621,6 +13631,7 @@ learnto-forex-trading.co.cc
 learnwise.info
 leax.info
 lebaibay.co.cc
+lebron.is.the.besttoday.ru
 led.asdfg.us
 ledfordmiddleschool.xyz
 ledgerbalance.com
@@ -14148,6 +14159,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -14426,6 +14438,7 @@ mechanikdns.kozow.com
 mecloud.info
 medang.co.cc
 media-proxy.com
+media.level.mastergolfworld.com
 media.logic.postie.org
 media.streamfusion.online
 mediabook.info
@@ -15147,6 +15160,7 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
+mzx.site40.net
 n-wan.dynv6.net
 n.nop.mobi
 n0.eu
@@ -17104,6 +17118,7 @@ premiumzone.info
 premixsite.co.cc
 premoweb.com
 premsocks.com
+preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -21276,6 +21291,7 @@ sotokoya.co.cc
 sotoproxy.co.cc
 souljahproxy.co.cc
 soulring.info
+soulsorcereryt.chickenkiller.com
 sound-glory.co.cc
 soundboutique.co.cc
 soundofdut.co.cc
@@ -22346,6 +22362,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22893,6 +22910,7 @@ test.marss.pro
 test.net46.net
 test.privatenode.ru
 test.zkwg.duckdns.org
+test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -26362,7 +26380,6 @@ www.99mm.info
 www.99proxy.com
 www.99s.net
 www.99tunnel.com
-www.9bb.net
 www.9fish.info
 www.9hp.info
 www.9lg.info
@@ -26671,6 +26688,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -28498,7 +28516,6 @@ www.eyou.eu
 www.eyym.com
 www.ez9.info
 www.ezcrack.info
-www.ezhide.com
 www.ezpow.com
 www.ezproxee.info
 www.ezproxies.com
@@ -28740,6 +28757,7 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -33156,6 +33174,7 @@ www.proxyyoutube.info
 www.proxyz.be
 www.proxyzen.info
 www.proxyzilla.com
+www.proxz.com
 www.proxzee.com
 www.proxzero.com
 www.proxzi.com
@@ -34581,6 +34600,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -35952,6 +35972,7 @@ www.webbanane.de
 www.webbest8453s.tk
 www.webblocks.com
 www.webbounce.com
+www.webbypass.com
 www.webcore.info
 www.webcurtain.info
 www.webdigi.info
@@ -36355,6 +36376,7 @@ www.ybef.com
 www.ybrr.com
 www.yeg.in
 www.yeh.biz
+www.yellowcream.com
 www.yellowhack.com
 www.yellowmask.info
 www.yellowmorning.tk
@@ -36777,6 +36799,7 @@ y-proxy.com
 y.ninth.biz
 y.un.11r.us
 y3suyx0cg2lewi2dmn.advaitghaisas.in
+y9iiz61k4yu67jfgcx.boxathome.net
 yaari.info
 yachtforex.co.cc
 yahoodomaininkoz.co.cc
