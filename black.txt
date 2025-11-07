@@ -1064,6 +1064,7 @@
 9r4.net
 9rk.info
 9s3.net
+9w9.org
 9y2.net
 a-4.info
 a-5.info
@@ -1572,6 +1573,7 @@ adguard.lamhoangtung.space
 adguard.laurenlaufman.com
 adguard.lege.despagne.net
 adguard.lilis.xin
+adguard.londonwebnerd.cloud
 adguard.macrosolutionsltd.co.uk
 adguard.maison.gifino.fr
 adguard.manmademagic.com
@@ -2238,6 +2240,7 @@ anaforex.cz.cc
 anagy.net
 analise.info
 analystforex.co.cc
+ananoos.com
 anasingmiem.co.cc
 anatitan.co.cc
 anawa.co.cc
@@ -3089,6 +3092,7 @@ banking.industry9.com
 bankmp3.info
 bankproxy.com
 bankwoes.com
+bannana.web-doge.42web.io
 bannedproxy6.cn
 bannerluck.co.cc
 banproxies.co.cc
@@ -3953,6 +3957,7 @@ bright-storm-707.scientificsense.org
 bright-storm-767.nstabiology.org
 bright4good.eco
 brightdata.com
+brighthistory.juniorjobs.ro
 brightproxy.co.cc
 brightproxy.com
 brightvpn.com
@@ -4600,6 +4605,7 @@ cd31.info
 cd4830eb9cf9e8fa0002ea6be8ce73276bc06935-m.proxy1.startpage.com
 cdbplc.com
 cdex.info
+cdn.0ms.dev
 cdn.refined.pro
 cdns.lagzerotm.com
 cdrpix.info
@@ -4878,6 +4884,7 @@ clearvpn.com
 clearweb.woodbridge.club
 cleaso.com
 clenny.co.cc
+clevercoding.fatibara.com
 clevermonkey.info
 cleverproxy.com
 cleversurfer.info
@@ -5900,6 +5907,7 @@ deep-hawk-892.shuttleproxy.com
 deep-jealous.co.cc
 deep-lake-819.nstabiology.org
 deep-south.co.cc
+deepcs.estiloescencial.cl
 deepdebts.com
 deephide.com
 deeplinked.net
@@ -5968,7 +5976,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -7619,7 +7626,6 @@ doh.infracell.net
 doh.iqiyi.com
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -8419,6 +8425,7 @@ eouforex.co.cc
 eowsh.info
 epfeel.com
 epicbrowser.com
+epicgrammar.quipasur.cl
 epichistory.dearabba.org
 epicproxies.com
 episenforex.co.cc
@@ -9327,6 +9334,7 @@ fjuforex.co.cc
 fk4mil.pl
 fkfg.com
 fkuforex.co.cc
+fl.ittqc.com
 flacproxy.co.cc
 flameprox16.tk
 flareforex.co.cc
@@ -12228,7 +12236,6 @@ idblock.info
 idcloak.com
 iddaamac.com
 iddaatahminleri.org
-idea.guide.dns1.one.pl
 ideallysurf.co.cc
 idealproxy.com
 idealvpn.com
@@ -12918,6 +12925,7 @@ jh2.info
 jh8.info
 jhb01.dnscry.pt
 jhonty.com
+ji.alsarica.cl
 ji9.info
 jidur.co.cc
 jiggynation.com
@@ -13795,6 +13803,7 @@ lindenwealth.com
 lindung.pp.ua
 line-behind.co.cc
 linear.ws
+linemath.aislantesnuevaera.com.ar
 linen.freeddns.org
 linetechnet.co.cc
 linfox.com
@@ -14438,7 +14447,6 @@ mechanikdns.kozow.com
 mecloud.info
 medang.co.cc
 media-proxy.com
-media.level.mastergolfworld.com
 media.logic.postie.org
 media.streamfusion.online
 mediabook.info
@@ -14484,6 +14492,7 @@ megasneak.com
 megasurf.in
 megatrex.co.cc
 megatunnel.com
+megaus.asistdoc.ar
 megumin.is.my.waifu.cz
 mehide.asia
 mehide.org
@@ -15864,6 +15873,7 @@ nxmevip.justlearning.net
 ny.teradns.org
 ny1.nixnet.xyz
 nyc-ny-us.prcdn.net
+nyc.mycityulife.com
 nyc01.dnscry.pt
 nym.com
 nym.dev
@@ -19268,6 +19278,7 @@ qdns02.nymterm.com
 qeoz.com
 qgdw.com
 qgfo.com
+qh.cheftayebeh.ir
 qhah.com
 qianmingwei.cn
 qiche008.com
@@ -23352,6 +23363,7 @@ topunblocksites.info
 topvpn.cc
 topvpnguides.com
 topwebproxy.com
+topwriting.redalameda.cl
 tor-ca.prcdn.net
 tor-exit2-readme.bbln.org
 tor-proxy.net
@@ -23799,6 +23811,7 @@ ubuu.info
 uc1000.co.cc
 ucheck.in
 uck.in
+ud.data-express.com.ar
 udaip.com
 udam.info
 udanronda.co.cc
@@ -23876,6 +23889,7 @@ ultrareach.com
 ultrareach.net
 ultrasurf.es
 ultrasurf.us
+ultraus.masplenedigitalworld.com
 ultravpn.com
 ulun.co.cc
 uluu.info
@@ -25659,7 +25673,6 @@ wenda.info
 wendybear.co.cc
 wengdi.cn
 wengfang.cn
-wengre.cn
 weprotectyour.info
 weprox.biz
 weprox.com
@@ -26380,6 +26393,7 @@ www.99mm.info
 www.99proxy.com
 www.99s.net
 www.99tunnel.com
+www.9bb.net
 www.9fish.info
 www.9hp.info
 www.9lg.info
@@ -32131,7 +32145,6 @@ www.proxe.ws
 www.proxeasy.com
 www.proxee.ws
 www.proxeey.com
-www.proxer.ru
 www.proxers.com
 www.proxert.com
 www.proxery.com
@@ -36660,6 +36673,7 @@ xblock.info
 xblt.net
 xbuddy.co.cc
 xbypass.com
+xc.hkieca.com
 xcaptor.com
 xcollege.cn
 xcomplus.com
