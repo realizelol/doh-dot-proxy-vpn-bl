@@ -1,5 +1,6 @@
 .16clouds.com
 .vultrusercontent.com
+.worldplus-intl.org
 0--0.0--0.blue-jade.net
 0--0.moneyextravaganza.com
 0-0-0-0-0-0-0-0-0.20megsfree.com
@@ -2635,6 +2636,7 @@ archan.luhars.com
 arches-srv1.8ws.net
 arches-srv2.8ws.net
 archie-vps.ddns.net
+archlinuxisthebestlol.baselinux.net
 arcilic.co.cc
 arconline.net
 arct.info
@@ -2813,6 +2815,7 @@ atp9.com
 atproxy.ibiz.cc
 atproxy.net
 atrforex.co.cc
+atris.cyou
 atschool.be
 atsilva.link
 atsssgo.xyz
@@ -5928,6 +5931,7 @@ dee.su
 dee413d3b42eb78e8e9ebc73181fe9a6c05a710d-m.proxy1.startpage.com
 deebee.info
 deep-hawk-892.shuttleproxy.com
+deep-henchman-excuse.cfd
 deep-jealous.co.cc
 deep-lake-819.nstabiology.org
 deep-south.co.cc
@@ -6467,6 +6471,7 @@ dns.csswg.org
 dns.cuehosting.com
 dns.curser.dev
 dns.cwlys.com
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d4d.moe
 dns.d8e.ru
@@ -7524,7 +7529,6 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -11072,6 +11076,7 @@ grandproxy.com
 grandrepertoire.com
 grant-resurf.co.cc
 grape-info.com
+grapesceleste.lobo.chickenkiller.com
 graph.ws
 grasped.asdfg.us
 grass.io
@@ -17147,6 +17152,7 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -17196,7 +17202,6 @@ premiumzone.info
 premixsite.co.cc
 premoweb.com
 premsocks.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -17399,6 +17404,7 @@ prosneaker.com
 prospector.cz
 prostoclub.ru
 prostovpn.org
+prosurf.nz.gs
 prosurfer.co.cc
 protect-identity.co.cc
 protectboy.com
@@ -17439,6 +17445,7 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -19988,6 +19995,7 @@ rosc.info
 rosebell.ca
 rosinstrument.com
 rotar.info
+rothschild.pii.at
 rotvpn.com
 roucious.dyndns-remote.com
 roundforex.co.cc
@@ -20177,7 +20185,6 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -25125,6 +25132,7 @@ vilydom.nz.gs
 vimgi.com
 vinagre.info
 vingo.us.to
+vinnyisbunslol.yao.cl
 vioxxlawsuitforex.co.cc
 vioxxxlawsuit.co.cc
 vip-surf.info
@@ -29121,7 +29129,6 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
-www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -36807,6 +36814,7 @@ xgirls.info
 xgxi.com
 xhide.ws
 xhila.com
+xholgm.top
 xianchengzhi.cn
 xiaolong.link
 xiaoxinhui.cn
@@ -36864,7 +36872,6 @@ xproxy.eu
 xproxy.info
 xproxy.net
 xproxy.org
-xproxy.pl
 xproxy.ru
 xproxylist.com
 xpspyware.co.cc
@@ -36909,6 +36916,7 @@ xyz2.jammerxd.dev
 xyz2.zmjflow.com
 xyz3.jammerxd.dev
 xyz3.zmjflow.com
+xz.anjumanallana.in
 xzz.in
 y-proxy.com
 y.ninth.biz
