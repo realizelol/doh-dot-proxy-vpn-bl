@@ -1363,7 +1363,6 @@ adb.aadityakushwaha.com
 adb.aiec.vn
 adb.amishkaz.site
 adb.timnichollsphotography.com
-adbfwbh.1j7a9k.ro
 adbl-tslagter.nl
 adblock-larssonshus.duckdns.org
 adblock.0815cloud.de
@@ -1473,6 +1472,7 @@ adguard.abdullahabas.online
 adguard.acrobyte.org
 adguard.adrianofrongillo.ovh
 adguard.agadez.net
+adguard.ajinga.net
 adguard.alex-tools.dev
 adguard.almanasports.com
 adguard.altgr.xyz
@@ -6278,7 +6278,6 @@ dns.52306.org
 dns.532641.xyz
 dns.58jdl.com
 dns.5ive.net
-dns.688447.xyz
 dns.6level.net
 dns.73zls.com
 dns.7sec.com.br
@@ -7516,6 +7515,7 @@ dnuforex.co.cc
 dnx.niko-sem.com
 dnx.tttpai.com
 dnyan.com
+do-39574-tr.xyz
 do-and-by.co.cc
 do.dnscrypt.uk
 do.shimul.me
@@ -7529,6 +7529,7 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7681,7 +7682,6 @@ doh.mmmalia.com
 doh.mochou.site
 doh.moeyk.com
 doh.mullvad.net
-doh.neowutran.ovh
 doh.nexen.cloud
 doh.nic.lv
 doh.niyawe.de
@@ -9474,7 +9474,6 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -11467,6 +11466,7 @@ heyproxy.com
 heyteacher.eu.tv
 heyyouguys.info
 hezu.info
+hfgx.shop
 hg8.asia
 hgrps.eu
 hi.hollandweather.net
@@ -15064,6 +15064,7 @@ myadmin.milaca.biz
 myadvocate.info
 myapforums.rwbcode.com
 myaproxy.info
+myatris.sbs
 mybestvpn.info
 myblanket.info
 mycake.info
@@ -17202,6 +17203,7 @@ premiumzone.info
 premixsite.co.cc
 premoweb.com
 premsocks.com
+preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -20185,6 +20187,7 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
+saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -29129,6 +29132,7 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
+www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -36872,6 +36876,7 @@ xproxy.eu
 xproxy.info
 xproxy.net
 xproxy.org
+xproxy.pl
 xproxy.ru
 xproxylist.com
 xpspyware.co.cc
