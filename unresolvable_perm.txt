@@ -19936,6 +19936,7 @@ doh.linuxsec.org
 doh.lujiacai.top
 doh.morizt.id
 doh.nala.ru
+doh.neowutran.ovh
 doh.netweaver.uk
 doh.niyaru.xyz
 doh.ny.ahadns.net
