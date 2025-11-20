@@ -1397,6 +1397,7 @@ activedigital.info
 activeidentity.co.cc
 activeserver.info
 activewebproxy.cf
+activpn.com
 actmobile.com
 actproxy.com
 actual-unlock.co.cc
@@ -1942,7 +1943,6 @@ aeuforex.co.cc
 aeyx.com
 af12ffee285b38cee8df0e51f5f18b924eaa2c3f-m.proxy1.startpage.com
 af69278426c96e93b480bbdda023f534236af5e8-m.proxy1.startpage.com
-afaforex.cz.cc
 afc802988289fb53a09cdfbf129251bbe38af18b-m.proxy1.startpage.com
 afd2a36237eec894cfebc1f729ac005591838a88-m.proxy1.startpage.com
 afec.info
@@ -2337,7 +2337,6 @@ an0n.info
 an81.ddns.net
 an81dns.ru
 ana.goodluckwith.us
-anaforex.cz.cc
 anagy.net
 analise.info
 analystforex.co.cc
@@ -2577,7 +2576,6 @@ antarforex.co.cc
 antarmuka.com
 antforex.co.cc
 anth.info
-anthony-sam.ax1951.com
 anti-block.com
 anti-login.co.cc
 antiagers.net
@@ -6134,7 +6132,6 @@ derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
 derrape.com
-desec.io
 desertsand.us
 design.my-avatar.ru
 designation-tracking.co.cc
@@ -6198,7 +6195,6 @@ dichvusocks.net
 dickhead.co.cc
 dickster.co.cc
 dicktracy.info
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6704,6 +6700,7 @@ dns.ffnw.de
 dns.fifux.be
 dns.filipccz.eu
 dns.fizz.studio
+dns.flightspace.net
 dns.floriantinney.de
 dns.flux24.net
 dns.flwagners.com
@@ -7506,6 +7503,7 @@ dns1.sarak.as
 dns1.sarakas.net
 dns1.schooldns.nl
 dns1.serdcebolit.ru
+dns1.server.my.id
 dns1.slowb.ro
 dns1.tardishost.ru
 dns1.techeasy.org
@@ -15366,7 +15364,6 @@ mzhlhrfr8z.info
 mzs1.ddns.net
 mzuf.com
 mzvb.com
-mzx.site40.net
 n-wan.dynv6.net
 n.nop.mobi
 n0.eu
@@ -17276,7 +17273,6 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -20207,6 +20203,7 @@ s.hd440.de
 s.idsam.com
 s.lovestylish.com
 s.rafiadinata.web.id
+s.salome.my.id
 s1.s2.shahramv1.site
 s1.srch.top
 s1on1.com
