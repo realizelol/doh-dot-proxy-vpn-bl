@@ -837,6 +837,7 @@ activedigital.info
 activeidentity.co.cc
 activeserver.info
 activewebproxy.cf
+activpn.com
 actmobile.com
 actproxy.com
 actual-unlock.co.cc
@@ -976,6 +977,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -1529,6 +1531,7 @@ akunamatata8888.mooo.com
 akund.com
 akunssh.net
 akylah.zapto.org
+alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
 alanis.igalan.com
@@ -2131,6 +2134,7 @@ aquforex.co.cc
 ar7.org
 arabdc.com
 aracena.info
+araforex.cz.cc
 aragonez.co.cc
 arandomproxy.com
 arashi.eu.org
@@ -2834,7 +2838,6 @@ bestespresso.info
 bestfastnet.co.cc
 bestfitness.info
 bestfixedmortgage.tk
-bestforexdemo.cz.cc
 bestforexfactory.co.cc
 bestforexguidelo.co.cc
 bestforexloan.co.cc
@@ -6193,7 +6196,6 @@ dns.kirillpe.dev
 dns.kisnet.id
 dns.kjmserwis.pl
 dns.kloiber.co.at
-dns.knightlsy.asia
 dns.knyfie.com
 dns.koala.us.to
 dns.kobo.dev
@@ -6948,7 +6950,6 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7190,6 +7191,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -8809,6 +8811,7 @@ foot-plate.co.cc
 footballscorelive.com
 footline.co.cc
 foous.com
+fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -10125,6 +10128,7 @@ gleeproxy.co.cc
 glestforex.co.cc
 glide.in
 glitterproxy.co.cc
+global-wrr.mask.apple-dns.net
 globalapp.info
 globalchatinc.com
 globalcloud.ir
@@ -10389,7 +10393,6 @@ gproxy.info
 gpuforex.co.cc
 gquforex.co.cc
 gr.skrsteam.info
-grabb.info
 grabbing-program.co.cc
 grabsites.com
 gracefully-street.co.cc
@@ -11992,7 +11995,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -15076,6 +15078,7 @@ noregulation.com
 normalforex.com
 normalworks.co.cc
 noroi.co.cc
+north-america-mask.wrr.mask.apple-dns.net
 north-jungle.co.cc
 northcollege.info
 northendproxie.co.cc
@@ -16425,6 +16428,7 @@ potro.info
 poundgames.com
 poutrerdansguardian.blogspot.com
 power-forex.co.cc
+powerblock.info
 poweredbyforex.co.cc
 poweredforex.co.cc
 powerfive.co.cc
@@ -22320,7 +22324,6 @@ test.businessconnect.com.tr
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
-test.net46.net
 test.privatenode.ru
 test.zkwg.duckdns.org
 test101.net76.net
@@ -24210,6 +24213,7 @@ usproxy.eu
 usproxy.info
 usproxy.usa.cc
 usproxyserver.info
+ussjc1.mask.apple-dns.net
 ussurfer.nz.gs
 ustrip.co.cc
 ustunnel.com
@@ -25905,6 +25909,7 @@ www.activedigital.info
 www.activeproxy.info
 www.activeserver.info
 www.activewebproxy.cf
+www.activpn.com
 www.actproxy.com
 www.acur.info
 www.ad-it.info
@@ -27894,6 +27899,7 @@ www.everin.info
 www.everneed.info
 www.eversurf.net
 www.everyproxies.info
+www.everyproxysite.com
 www.everythingtoshare.com
 www.everywhere.es
 www.eviewer.info
@@ -35393,6 +35399,7 @@ www.webbanane.de
 www.webbest8453s.tk
 www.webblocks.com
 www.webbounce.com
+www.webbypass.com
 www.webcore.info
 www.webcurtain.info
 www.webdigi.info
