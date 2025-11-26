@@ -1540,7 +1540,6 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
-adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -1831,7 +1830,6 @@ adguardhome.kirmanak.gq
 adguardhome.ponetwork.duckdns.org
 adguardhome.softcloud.pe
 adguardhome.yavuztutcu.net
-adguardhulst.duckdns.org
 adguardnic.ddns.net
 adguardpi.duckdns.org
 adh.51st.top
@@ -7586,7 +7584,6 @@ dns8.org
 dns88.site
 dns9.quad9.net
 dnsadguard.co.uk
-dnsaguard1.duckdns.org
 dnsaws.rasp.tv
 dnsbk.wns.watch
 dnsblock.grisumedia.de
@@ -23800,7 +23797,6 @@ ttsurfer.co.cc
 ttunnel.com
 ttza.com
 tuanben.freetzi.com
-tuandns.duckdns.org
 tuantran.cloud
 tuanvpn.freeddns.org
 tube-proxy.com
@@ -25617,6 +25613,7 @@ wantingsurf.co.cc
 wardu.com
 warezblogger.com
 warezsplit.co.cc
+warm-cloud.k12biology.com
 warpproxy.com
 warrior-freedom.co.cc
 waselpro.com
@@ -26054,7 +26051,6 @@ wirpo032.kilu.de
 wise-wind-366.conwordable.com
 wisebychance.com
 wiseghostapp.com
-wisehomeguard.duckdns.org
 wisewebsite.com
 wishget.com
 wisjam7.co.cc
@@ -26799,7 +26795,6 @@ www.alerts24.com
 www.alertsurf.com
 www.alfo.info
 www.algawhra.com
-www.alibabz.com
 www.alibsba.com
 www.alibzba.com
 www.aliveproxy.com
@@ -27448,6 +27443,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -36203,7 +36199,6 @@ www.webbanane.de
 www.webbest8453s.tk
 www.webblocks.com
 www.webbounce.com
-www.webbypass.com
 www.webcore.info
 www.webcurtain.info
 www.webdigi.info
