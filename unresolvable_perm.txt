@@ -31494,6 +31494,7 @@ goalsattach.tk
 goalzzelvoeproxy.ga
 goalzzsafeunblock.ml
 goandsurf.org
+goanony.com
 goarcade.info
 goaround.info
 goat.clawed.info
