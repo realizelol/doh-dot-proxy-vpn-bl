@@ -279,6 +279,7 @@
 2.0rz.space
 2.11i.eu
 2.alpo.pp.ua
+2.baiyue.eu.org
 2.dns.noridev.moe
 2.dnscrypt-cert.browser.yandex.net
 2.dnscrypt-cert.dns.seby.io
@@ -576,6 +577,7 @@
 8-29.com
 81.brudnowski.eu
 81i.net
+81xyz.brudnowski.eu
 835388proxy.tk
 863576proxy.tk
 864788proxy.tk
@@ -858,6 +860,7 @@ ad.faraan.xyz
 ad.globalinteractive.com
 ad.guard.ru.net
 ad.huyct.net
+ad.imblien.com
 ad.innet.id
 ad.justincounts.com
 ad.kone.ink
@@ -959,6 +962,7 @@ adg.siudzinski.net
 adg.spacework.com.mx
 adg.swh123.xyz
 adg.tshost.no
+adg.webyfa.ir
 adg.yuzi.one
 adg2.spacework.com.mx
 adg5yvi.ngatngay.net
@@ -1289,6 +1293,7 @@ adihash.net
 adiraproxy.co.cc
 adita.info
 adiyulianto.cz.cc
+adk.qcloud.work
 adl.adfilter.net
 adl01.dnscry.pt
 adless.cz.cc
@@ -1400,6 +1405,7 @@ ag.ff0x.ca
 ag.hostme.co.il
 ag.iyn.one
 ag.linux.repair
+ag.m0fo.com
 ag.marschi.de
 ag.snrka.ru
 ag.ssrahul96.xyz
@@ -1447,6 +1453,7 @@ agh.workfordemo.co.in
 agh.xinfeng16m.top
 agh1.server.my.id
 agh2.server.my.id
+agha.sunryu.site
 aghdns.com
 aghome.jcconnell.com
 agileproxy.co.cc
@@ -1571,6 +1578,7 @@ alidns.com
 alidns.session.pub
 alidns2.cb1999.top
 alienfast.co.cc
+alina.virttec.net
 alisa.az.i81.ru
 alisa.hr.i81.ru
 alisa.vd.i81.ru
@@ -1749,6 +1757,7 @@ amrforex.co.cc
 ams.core.access.zznet.fun
 ams01.dnscry.pt
 ams02.dnscry.pt
+ams03.dnscry.pt
 ams1.startpage.com
 ams2.startpage.com
 amusementz.co.cc
@@ -2132,6 +2141,7 @@ aqua.is.my.waifu.cz
 aquaproxy.com
 aquasurf.co.cc
 aquforex.co.cc
+aqx01.dnscry.pt
 ar7.org
 arabdc.com
 aracena.info
@@ -3069,6 +3079,7 @@ bizzar.co.cc
 bjtalk.com
 bjuforex.co.cc
 bkerforex.co.cc
+bkk01.dnscry.pt
 bkuforex.co.cc
 bl.eq.md
 black-bypass.co.cc
@@ -3673,7 +3684,6 @@ bushenba.cn
 bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 busrentals.info
@@ -5550,6 +5560,7 @@ digsecure.co.cc
 diiforex.co.cc
 dimsrecord.co.cc
 dineforum.com
+dingdangnao.com
 dingosurf.hu.tl
 dingtieji.cn
 dioka.com
@@ -5655,6 +5666,7 @@ dns-free.link
 dns-google.st.net-perform.com
 dns-guard1.cryptroute.com
 dns-guard2.cryptroute.com
+dns-hk.524228.xyz
 dns-idx1.itsec.my.id
 dns-idx2.itsec.my.id
 dns-lb.unpak.ac.id
@@ -5739,6 +5751,7 @@ dns.ai6.ir
 dns.airmaxcloud.uk
 dns.airns.net
 dns.airsee.xyz
+dns.aixxycode.id
 dns.ajmariduena.com
 dns.akbxr.com
 dns.alanpearce.eu
@@ -6027,9 +6040,12 @@ dns.fulgore.fr
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
 dns.futuredns.me
+dns.fxdc.ru
 dns.gamban.com
 dns.gametest.eu.org
 dns.gayanalysing.co.uk
+dns.geekbyte.de
+dns.geohide.ru
 dns.ghexu.com
 dns.ghost.pm
 dns.gi.co.id
@@ -6538,6 +6554,7 @@ dns.seia.io
 dns.seiffert.me
 dns.sellan.fr
 dns.serdcebolit.ru
+dns.server2.tschoerner.eu
 dns.servizimv.it
 dns.sethost.de
 dns.sev.monster
@@ -6731,6 +6748,7 @@ dns.xuming.studio
 dns.xusqui.com
 dns.xv.fi
 dns.xwdmw.xyz
+dns.xwu.us
 dns.xxxxxxxx.pp.ua
 dns.xydustc.me
 dns.xyz.ddnss.eu
@@ -6880,6 +6898,7 @@ dns4.bortus.io
 dns4eu.online
 dns4me.net
 dns53.dipen.me
+dns6.web.id
 dns8.org
 dns88.site
 dns9.quad9.net
@@ -7115,6 +7134,7 @@ doh.no.ahadns.net
 doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.nukys.ca
+doh.oco-lae.my.id
 doh.onedns.net
 doh.opendns.com
 doh.p2cdn.cn
@@ -10319,7 +10339,6 @@ goodproxy.com
 goodproxy.webcam
 goodproxysites.com
 goodsee.changeip.name
-goodssh.com
 goodstar.info
 goodtimesproxy.co.cc
 goodtunnel.com
@@ -11177,6 +11196,7 @@ hk2.1833015459.site
 hk2.ooroot.com
 hk2.ss.startagegames.com
 hk5.info
+hkali.13142233.xyz
 hkbnp.i-piggy.com
 hkd.nicefly2099.cf
 hkg.core.access.zznet.fun
@@ -11697,6 +11717,7 @@ ilistblogs.com
 ilke.info
 illbeback.info
 illescas.info
+ilmxs.com
 iloaneu.tk
 iloveislam7.tk
 ilovemrmorris-ggnewo.vercel.app
@@ -12554,6 +12575,7 @@ kalarupa.com
 kalasansea.co.cc
 kalbimsin.com
 kalihforex.co.cc
+kallemarc.de
 kalwat.duckdns.org
 kamdek.ru
 kamir.co.cc
@@ -12622,6 +12644,7 @@ kehg.com
 keik.co.cc
 keithchung.hopto.org
 keithchunguat.hopto.org
+kekv.fun
 kellerbier-home.com
 kellerbier-home.de
 kelor.co.cc
@@ -12844,6 +12867,7 @@ kracon.anycast.censurfridns.dk
 kracon.anycast.censurfridns.nu
 kracon.anycast.uncensoreddns.dk
 kracon.anycast.uncensoreddns.org
+krafty31.duckdns.org
 kral_oyun_kraloyun.sitemynet.com
 krap.info
 krate.info
@@ -14067,6 +14091,7 @@ mission50.info
 missionimproxyble.com
 missproxy.com
 mistakenly-unlock.co.cc
+mistasinresolver.ru
 mister-p-proxy.co.cc
 mistercanada.co.cc
 misterdj.co.cc
@@ -14096,6 +14121,7 @@ mlente.nationvoice.com
 mlproxy.science
 mmhd.net
 mmproxy.com
+mnl01.dnscry.pt
 mo0on15.com
 moaz-adguard.duckdns.org
 mobile.bberry.biz
@@ -14404,6 +14430,7 @@ myadg.ru
 myadguardhome.com
 myadmin.milaca.biz
 myadvocate.info
+myagh.claptrap.me
 myapforums.rwbcode.com
 myapps.instructure.com.galitec.es
 myaproxy.info
@@ -14423,6 +14450,7 @@ mydanfoss.com
 mydevpn.eu
 mydns.cloud
 mydns.ddns.me
+mydns.x96maxultra.ru
 mydodgestealth.xyz
 mydragon.nz.gs
 mydvister.com
@@ -14867,6 +14895,7 @@ nexsos.syac.ca
 next-fact.co.cc
 next.atomix.in
 next.miao.ninja
+nextcloud.d-alahmad.de
 nextdns.io
 nextgenproxy.com
 nexthistory.banglaraloprotidin.com
@@ -15172,6 +15201,7 @@ ns.cd
 ns.ciwer.cn
 ns.data.haus
 ns.dnsviewer.org
+ns.etalk.ai
 ns.hjk.kr
 ns.hjk.me
 ns.lov.host
@@ -15228,6 +15258,7 @@ ns3.opennameserver.org
 ns3.rowie.at
 ns3.wuyouss.com
 ns4.opennameserver.org
+ns6.ygy.ru
 ns8469rfvth42.xyz
 nsc.torgues.net
 nsec.arnor.org
@@ -18722,7 +18753,6 @@ quakedomains.com
 qual.cuprum.ru
 quality-proxy-working-serv.kvalitne.cz
 quangdo92.dynu.net
-quanmeme.duckdns.org
 quantum-age.cn
 quantumcode.info
 quantumpulse.dev
@@ -18799,6 +18829,7 @@ r1bnc.com
 r1bnc.eu.org
 r45.org
 r4u2c9i5.stackpathcdn.com
+r7ws-poco-f3.dns.xwu.us
 r8gjg2-8000.csb.app
 ra4.info
 ra4wvpn.com
@@ -19244,6 +19275,7 @@ rjmy.com
 rjnox.com
 rko.in
 rku.in
+rmdns26.co.uk
 rn.totalcare.pk
 rnbnow.co.cc
 rnmap.com
@@ -19451,6 +19483,7 @@ sabaratos.co.cc
 sabasearchir.fbhosting.com
 sabella.info
 sabine.bruno2000.link
+sabzipolobamahi.nl
 sacarino.es
 sacr.info
 sacredshare.co.cc
@@ -19465,6 +19498,7 @@ safe-proxy.com
 safe.dns.sainternet.xyz
 safe.dns.yandex.ru
 safe.dot.dns.yandex.net
+safe.eaccelera.com
 safe.sexmistrz.pl
 safe.slchildren.org
 safe4you.info
@@ -24694,6 +24728,7 @@ vpnmasterx.com
 vpnme.com
 vpnmentor.com
 vpnmonster.ru
+vpnmy.ru
 vpnneo.com
 vpnofanti.co.cc
 vpnoffice.co.cc
@@ -27663,6 +27698,7 @@ www.doxyproxy.com
 www.dprox.org
 www.dpuu.com
 www.dr.ag
+www.dragshare.com
 www.drahonn.pro
 www.dral.info
 www.dreamcode.info
@@ -29460,6 +29496,7 @@ www.ilikeyourhair.com
 www.ilistblogs.com
 www.ilke.info
 www.illescas.info
+www.ilmxs.com
 www.iloveny.be
 www.iloveprivacy.info
 www.iloveproxy.com
