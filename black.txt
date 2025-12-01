@@ -543,7 +543,6 @@
 7088.org
 70m.org
 7164.ddns.net
-71745718.online
 71hy.com
 7337.info
 73x.de
@@ -621,7 +620,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -2180,7 +2178,6 @@ area-online.co.cc
 area51.mywire.org
 areaquest.com
 arethusa.su
-arevmadethis.120v.ac
 areyouconnected.free.fr
 argentinabelanda.co.cc
 argon.molinero.dev
@@ -4069,6 +4066,7 @@ castrolproxy.co.cc
 cat6.fibersurf.co.cc
 catcage.co.cc
 catch-easily.co.cc
+catchen121299.top
 catchhere.info
 catchproxy.co.cc
 catdns.org
@@ -6946,7 +6944,6 @@ dnsserver.mailchan.eu
 dnssilo.top
 dnssp.koretech.com.br
 dnstls.mobik.com
-dnstr.3300000.xyz
 dnstw.3300000.xyz
 dnstx.axhy.cc
 dnsupstream02.familieberfelo.nl
@@ -6956,7 +6953,6 @@ dnsvps.porteii.com
 dnsvs.ddns.net
 dnswarden.com
 dnswebvsn.com
-dnsyg.3300000.xyz
 dnsza.com
 dnuforex.co.cc
 dnx.niko-sem.com
@@ -10158,7 +10154,6 @@ gleeproxy.co.cc
 glestforex.co.cc
 glide.in
 glitterproxy.co.cc
-global-wrr.mask.apple-dns.net
 globalapp.info
 globalchatinc.com
 globalcloud.ir
@@ -10304,6 +10299,7 @@ goldrolex.co.cc
 goldshop.co.cc
 goldsoy.com
 goldtunnel.com
+goldway.myblog.ir
 goldworld.info
 golegana.de
 goletsuluh.co.cc
@@ -10550,7 +10546,6 @@ guarantee-success.co.cc
 guaranteepass.co.cc
 guard-1.vilbav.id.lv
 guard-jkt-225.glosindo.net.id
-guard.19kom.de
 guard.izzledudetech.com
 guard.keiper.net
 guard.lumusimc.co.uk
@@ -13599,6 +13594,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 made-by-itrsa.sjno.net
@@ -14308,7 +14304,6 @@ mr7.org
 mrcloak.com
 mrcrossmathhelp.oresumodaopera.com.br
 mrdot.t28.net
-mrfstudyguild.26252526.xyz
 mrhidden.com
 mricons.com
 mrih.com
@@ -15129,7 +15124,6 @@ noregulation.com
 normalforex.com
 normalworks.co.cc
 noroi.co.cc
-north-america-mask.wrr.mask.apple-dns.net
 north-jungle.co.cc
 northcollege.info
 northendproxie.co.cc
@@ -18811,7 +18805,6 @@ quivee.net
 quixoo.com
 quiz.teach.secold.com
 quizcreate.com
-quizzesforhelp.26252526.xyz
 quloan.fibersurf.co.cc
 quods.co.cc
 quotefreebies.co.cc
@@ -21103,7 +21096,6 @@ starwarsportal.com
 starwarsproxy.co.cc
 stasforex.co.cc
 statforex.co.cc
-static.captnemo.in
 static.co.nu
 staticnetcontent.com
 statistics.larryvpn.com
@@ -24274,7 +24266,6 @@ usproxy.eu
 usproxy.info
 usproxy.usa.cc
 usproxyserver.info
-ussjc1.mask.apple-dns.net
 ussurfer.nz.gs
 ustrip.co.cc
 ustunnel.com
@@ -25972,6 +25963,7 @@ www.activedigital.info
 www.activeproxy.info
 www.activeserver.info
 www.activewebproxy.cf
+www.activpn.com
 www.actproxy.com
 www.acur.info
 www.ad-it.info
@@ -26056,6 +26048,7 @@ www.alerts24.com
 www.alertsurf.com
 www.alfo.info
 www.algawhra.com
+www.alibabz.com
 www.alibsba.com
 www.alibzba.com
 www.aliveproxy.com
@@ -27960,7 +27953,6 @@ www.everin.info
 www.everneed.info
 www.eversurf.net
 www.everyproxies.info
-www.everyproxysite.com
 www.everythingtoshare.com
 www.everywhere.es
 www.eviewer.info
@@ -28496,7 +28488,6 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
-www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -29988,7 +29979,6 @@ www.komo4ek.ru
 www.kondrcloud.ru
 www.konexion.info
 www.kontolo.com
-www.koperasi-indonesia.com
 www.kopites.club
 www.kortaz.com
 www.kosurf.com
@@ -33524,7 +33514,6 @@ www.slake.info
 www.slan.info
 www.slapadmin.com
 www.slaughterblog.com
-www.sleeksurf.com
 www.sleepingnymph.info
 www.slicksurf.tk
 www.slidein.info
@@ -35345,6 +35334,7 @@ www.vobas.com
 www.vodo.info
 www.voidid.com
 www.volgme.com
+www.vopil.com
 www.vovk.info
 www.voxproxy.com
 www.vpernet.com
