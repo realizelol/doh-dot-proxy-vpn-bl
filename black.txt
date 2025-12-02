@@ -620,6 +620,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -719,7 +720,6 @@ ablock.fuckit.ovh
 abluehope.com
 abn01.dnscry.pt
 aboa.info
-aboba.pro
 abolfazl.s5.com
 about-dining.co.cc
 about-forex.info
@@ -837,7 +837,6 @@ activedigital.info
 activeidentity.co.cc
 activeserver.info
 activewebproxy.cf
-activpn.com
 actmobile.com
 actproxy.com
 actual-unlock.co.cc
@@ -876,7 +875,6 @@ ad1guard.duckdns.org
 ad2.heronet.nl
 ad4msan.win
 ada.openbld.net
-adadad.adaptor.cl
 adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
@@ -1663,7 +1661,6 @@ alpha.cixy.xyz
 alpha.rferee.dev
 alpha1proxy.cf
 alphabio.baodacn.cn
-alphabr.online
 alphabrowser.xyz
 alphaprox.com
 alphaproxy.com
@@ -1738,7 +1735,6 @@ amigo.hr.i81.ru
 amigo.px.i81.ru
 amigo.vd.i81.ru
 amigo.vpn.i81.ru
-amirabbasmousavi.news
 amlt.net
 ammmae150.news
 ammy.info
@@ -1873,7 +1869,6 @@ anonsafe.com
 anonsafe.info
 anonservice.com
 anonsurf.co.cc
-anonsurf.cz.cc
 anonsurf.privestart.nl
 anontext.com
 anonvpn.io
@@ -2903,9 +2898,7 @@ bestservers.org
 bestsimple.info
 bestsitedomain.co.cc
 bestsneak.co.cc
-bestspeed.cz.cc
 bestspin.info
-bestssh.net
 bestsslproxy.info
 bestsurf.co.cc
 besttry.info
@@ -3334,7 +3327,6 @@ bolt.webs.vc
 boltchillzone.nufszone.com
 bolteducation.chiangmaiorganics.com
 bolteducation.navarajbudha.com.np
-bolting.alyaf.com
 boltisback.panel-laboralcj.gob.mx
 boltnirbytes.baselinux.net
 boltnixe.baselinux.net
@@ -3613,7 +3605,6 @@ bsessedde43usa-proxys.tk
 bsuforex.co.cc
 bt.demoteam.ch
 bt.luoo.cc
-btg.go4it.com.mx
 btg.ludopop.cl
 btguard.com
 btj.in
@@ -5065,7 +5056,6 @@ d.0w0.ooo
 d.adguard-dns.com
 d.apemlegit.my.id
 d.bod.lol
-d.carilagi.id
 d.cyberbomber.co.cc
 d.dh.ci
 d.duadua.com
@@ -11238,7 +11228,6 @@ hollywood.filmfactory.nl
 holyrex.co.cc
 home-by.co.cc
 home-server.store
-home.amq.ro
 home.azagra.dev
 home.basthorst.eu
 home.bruckmoser.it
@@ -11271,7 +11260,6 @@ home3.brosena.xyz
 home721.co.cc
 homeaccess.info
 homeblock.com
-homec92.dns.army
 homedns.gumeniuk.com
 homeguard.sleziona.org
 homejerem.duckdns.org
@@ -12409,7 +12397,6 @@ jongserver.xyz
 joo.polishmc.pl
 joosurf.nz.gs
 joouddo.ru
-jordanmadethis.chickenkiller.com
 joryforex.co.cc
 josephfamily.org
 joshberg.org
@@ -13594,7 +13581,6 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
-madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 made-by-itrsa.sjno.net
@@ -13856,7 +13842,6 @@ mbio.info
 mblgunro.co.cc
 mblog.ru
 mc-sft.cn
-mc.drahonn.pro
 mci01.dnscry.pt
 mcleaner.co.cc
 mcore.us.to
@@ -14380,7 +14365,6 @@ musclz.com
 musforex.co.cc
 mushroomicecream.com
 music.httpdns.c.163.com
-musicbot.drahonn.pro
 musicmao.net.ru
 muskyforex.co.cc
 must-yourself.co.cc
@@ -15804,7 +15788,6 @@ oto-bypass.co.cc
 ott01.dnscry.pt
 ottilee.net
 otunnel.com
-ougonokaze.cheftayebeh.ir
 ound.info
 ourcraft.ddnss.de
 ourf.info
@@ -16331,7 +16314,6 @@ planetproxy.com
 plannext.info
 planning-perfect.co.cc
 plans.datacommunicationsinc.com
-plant-selection.baumgardner.us
 plants-vs-proxy.gq
 plasmaforex.co.cc
 plastad.com
@@ -16517,7 +16499,6 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -19487,7 +19468,6 @@ sadnis.com
 sadtunnel.co.cc
 safari.ipadmaniac.co.cc
 safe-browse.com
-safe-guard.badbotdev.xyz
 safe-inet.com
 safe-proxy.com
 safe.dns.sainternet.xyz
@@ -21013,7 +20993,6 @@ sshstores.net
 ssl-account.com
 ssl-proxy.my-addr.com
 ssl.fibersurf.co.cc
-sslapp.info
 sslprivateproxy.com
 sslpro.org
 sslprox.co.cc
@@ -22722,7 +22701,6 @@ toilforex.co.cc
 toink.co.cc
 toja.info
 tokyo.559299366.xyz
-tokyo.92-m.com
 tokyodns.songnguyen.name.vn
 tokyodns2.songnguyen.name.vn
 tokyonune.co.cc
@@ -27953,6 +27931,7 @@ www.everin.info
 www.everneed.info
 www.eversurf.net
 www.everyproxies.info
+www.everyproxysite.com
 www.everythingtoshare.com
 www.everywhere.es
 www.eviewer.info
@@ -28488,6 +28467,7 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
+www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -28818,7 +28798,6 @@ www.gmbl.info
 www.gnarb.com
 www.gnof.info
 www.go-fish.info
-www.go31.com
 www.go5.info
 www.goanony.com
 www.goanonym.com
@@ -29979,6 +29958,7 @@ www.komo4ek.ru
 www.kondrcloud.ru
 www.konexion.info
 www.kontolo.com
+www.koperasi-indonesia.com
 www.kopites.club
 www.kortaz.com
 www.kosurf.com
@@ -33514,6 +33494,7 @@ www.slake.info
 www.slan.info
 www.slapadmin.com
 www.slaughterblog.com
+www.sleeksurf.com
 www.sleepingnymph.info
 www.slicksurf.tk
 www.slidein.info
