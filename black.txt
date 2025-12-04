@@ -139,7 +139,6 @@
 1181180.com
 11vz.com
 12-21-2012.org
-1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -506,7 +505,6 @@
 5g.o0o.re
 5hg.net
 5l0.net
-5ml.info
 5ok.org
 5on.info
 5pool.com
@@ -837,6 +835,7 @@ activedigital.info
 activeidentity.co.cc
 activeserver.info
 activewebproxy.cf
+activpn.com
 actmobile.com
 actproxy.com
 actual-unlock.co.cc
@@ -1153,7 +1152,6 @@ adguard.pw1602.pl
 adguard.quydang.name.vn
 adguard.rabmoor.cz
 adguard.rameshsoma.tech
-adguard.randn.ru
 adguard.randomaizer.lentel.ru
 adguard.rdekuyper.nl
 adguard.rennes.despagne.net
@@ -1190,7 +1188,6 @@ adguard.strafer.dk
 adguard.streamlas.fr
 adguard.superbest.eu.org
 adguard.superstefan.win
-adguard.sverzhe.com
 adguard.taufner.net
 adguard.tcpu.io
 adguard.techlike.in
@@ -1267,7 +1264,6 @@ adguardhome.kirmanak.gq
 adguardhome.ponetwork.duckdns.org
 adguardhome.softcloud.pe
 adguardhome.yavuztutcu.net
-adguardhulst.duckdns.org
 adguardnic.ddns.net
 adguardpi.duckdns.org
 adh.51st.top
@@ -2444,7 +2440,6 @@ awaldaricinta.co.cc
 awan.ftp.sh
 award-proxy.co.cc
 award-vpn.com
-away.dreamday.gr
 awaybreathe.co.cc
 awaysurf.co.cc
 awebproxy.com
@@ -2979,7 +2974,6 @@ biganimes.com
 bigbadmirror.appspot.com
 bigboys.info
 bigbugpoppearblack.super-modding.quest
-bigchez.thailandhappiness.com
 bigcities.tk
 bigcompany.cf
 bigenter.info
@@ -4132,7 +4126,6 @@ cenq.com
 censorthat.com
 censurfridns.dk
 centenario.info
-center-crm.store
 centerpiecesurf.co.cc
 centersurf.co.cc
 centidoo.com
@@ -4238,7 +4231,6 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
-chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -5435,7 +5427,6 @@ derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
 derrape.com
-desec.io
 desertsand.us
 design.my-avatar.ru
 designation-tracking.co.cc
@@ -6540,7 +6531,6 @@ dns.sellan.fr
 dns.serdcebolit.ru
 dns.server2.tschoerner.eu
 dns.servizimv.it
-dns.sethost.de
 dns.sev.monster
 dns.sgp.hicn.site
 dns.shareworx.net
@@ -12150,8 +12140,6 @@ itpays2.com
 itproxy.co.cc
 itrsa.banquick.com
 itrsa.injectoclean.com.mx
-itrsa.poteica.com
-itrsa.sic.al
 itsaplan.info
 itsblocked.com
 itshidden.com
@@ -12213,7 +12201,6 @@ jaaznakum.co.cc
 jabber-germany.de
 jabber-server.de
 jackbox.info
-jacksunblocked.malam.or.id
 jackyes.ovh
 jacob-is-too-tiny.foxgateway.com
 jacoto.com
@@ -12227,7 +12214,6 @@ jagran.info
 jaguarsurf.co.cc
 jahsu.co.cc
 jahyussif.verymad.net
-jaiguneeds.root.sx
 jailbreaked.net
 jais.info
 jajalanmas.co.cc
@@ -13571,7 +13557,6 @@ mad01.dnscry.pt
 madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
-made-by-itrsa.sjno.net
 madeclothing.info
 madehappy.info
 madeo.co.cc
@@ -14399,7 +14384,6 @@ myadguardhome.com
 myadmin.milaca.biz
 myadvocate.info
 myagh.claptrap.me
-myapforums.rwbcode.com
 myapps.instructure.com.galitec.es
 myaproxy.info
 myatris.sbs
@@ -16373,15 +16357,6 @@ policetheworld.co.cc
 polideportivo.info
 polippix.org
 polishit.co.cc
-polisitogel.beauty
-polisitogel.builders
-polisitogel.contractors
-polisitogel.cruises
-polisitogel.diy
-polisitogel.green
-polisitogel.hair
-polisitogel.living
-polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 polno.info
@@ -17845,6 +17820,7 @@ proxyhub.me
 proxyhulk.com
 proxyhunter.cn
 proxyhustle.com
+proxyhut.com
 proxyhyper.co.cc
 proxyhyper.com
 proxyia.com
@@ -18697,7 +18673,6 @@ qlicking.com
 qloy.com
 qnnu.com
 qoosa.com
-qqmcfw.tech
 qro01.dnscry.pt
 qroxi.com
 qrre.com
@@ -18845,7 +18820,6 @@ rammerhead.eu.org
 rammerhead.geometry-games.online
 rampokbrokerforex.co.cc
 ranco.info
-randn.ru
 random-access.co.cc
 randomcloak.com
 randomip.co.cc
@@ -19658,7 +19632,6 @@ schoolnewsletter.us
 schooloff.hu.tl
 schoology.college
 schoology.help
-schoology2.twilightparadox.com
 schoolooks.com
 schoolpalm.com
 schoolpath.co.cc
@@ -19704,7 +19677,6 @@ schoxy.com
 schwinnsurf.co.cc
 science-making.swanndvr.net
 scienceclasswork.webredirect.org
-scienceforkids.saahee.cn
 sciencehelpme.com
 scienceisfun11.networkguru.com
 scienceparadox.com
@@ -20793,7 +20765,6 @@ speedbomber.co.cc
 speedbreakers.info
 speedchaser.co.cc
 speedcontrol.co.cc
-speeddns.top
 speedfake.com
 speedfast.co.cc
 speedflash.info
@@ -20975,6 +20946,7 @@ sshstores.net
 ssl-account.com
 ssl-proxy.my-addr.com
 ssl.fibersurf.co.cc
+sslapp.info
 sslprivateproxy.com
 sslpro.org
 sslprox.co.cc
@@ -21042,7 +21014,6 @@ starsurfer.co.cc
 start-allright.co.cc
 start-established.co.cc
 start-open.co.cc
-start.succeed.cl
 start90.com
 startbrowse.com
 startbrowsehere.co.cc
@@ -22193,7 +22164,6 @@ tagferrari.co.cc
 tahukecrot.co.cc
 tailiz.com
 tails.boum.org
-tails.ospa.fi
 tailscale.com
 tailtunnel.co.cc
 taiwanexportss.co.cc
@@ -22552,7 +22522,6 @@ thirdteam.co.cc
 this-is-it-proxy.co.cc
 this-is-the-life.co.cc
 thiscopyofartclassisnotgenuine.rare1k.space
-thisisagreat.surfiesta.cl
 thisismathteach.myclarevision.com
 thisisthestandard.com
 thisproxy.com
@@ -23299,7 +23268,6 @@ ultimateproxy.info
 ultimateproxy.net
 ultimateseotools.com
 ultimateunblock.com
-ultrafastproxy.com
 ultrafun.net
 ultrahigh.co.cc
 ultrajoss.co.cc
@@ -32764,7 +32732,6 @@ www.rainlock.com
 www.rainpocket.com
 www.ramces.com
 www.ranco.info
-www.randn.ru
 www.randomcloak.com
 www.randomproxy.com
 www.randomspike.com
