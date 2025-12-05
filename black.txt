@@ -139,6 +139,7 @@
 1181180.com
 11vz.com
 12-21-2012.org
+1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -976,6 +977,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -1264,6 +1266,7 @@ adguardhome.kirmanak.gq
 adguardhome.ponetwork.duckdns.org
 adguardhome.softcloud.pe
 adguardhome.yavuztutcu.net
+adguardhulst.duckdns.org
 adguardnic.ddns.net
 adguardpi.duckdns.org
 adh.51st.top
@@ -1315,7 +1318,6 @@ ads.tieuanhquoc.info
 ads.x88.in
 adsensesolutions.com
 adsfree.ddns.net
-adsfysdfgiuy.ydns.eu
 adsl.viettel.vn
 adslsslpage.co.cc
 adsocialmediamarketing.com
@@ -1873,7 +1875,6 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
-anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -4231,6 +4232,7 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
+chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -4326,6 +4328,7 @@ clanx.info
 claque.info
 claremcdonald.info
 clase-de-arte.vercel.app
+clashsoccer.ranftl.org
 classbomber.co.cc
 classforward.com
 classic.ben.ru
@@ -5390,7 +5393,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -6670,7 +6672,6 @@ dns.vip-kingstore.xyz
 dns.virtual-qr.ir
 dns.vishalk.com
 dns.vk09.ru
-dns.vkhudyakov.ru
 dns.vladpro.ru
 dns.vlo.cc
 dns.vmath.my.id
@@ -6678,7 +6679,6 @@ dns.vmisch.tech
 dns.vod11.xyz
 dns.volsap.ovh
 dns.voronin.uk
-dns.voyager2.space
 dns.vpn.i81.ru
 dns.vps.mtsdns.ru
 dns.vps.pw
@@ -9166,6 +9166,7 @@ france99.com
 franceproxy.net
 franceproxy.pw
 frank-web.dedyn.io
+franzosen.bad.mn
 fraudcrew.com
 frb.in
 frd4wvnobp.cloudflare-gateway.com
@@ -9846,7 +9847,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -10176,6 +10176,7 @@ gn6hoasz2o4tveit.dynv6.net
 gnarb.com
 gnode.drahonn.pro
 gnof.info
+gnomedesktop44.baselinux.net
 gnomeproxy.co.cc
 gnor.net
 gnuforex.co.cc
@@ -11688,6 +11689,7 @@ iloveny.be
 iloveprivacy.eu
 iloveprivacy.info
 iloveproxy.com
+iloveshrek.madhacker.biz
 iloveyourbeauty.com
 ilron.com
 iluminiss.com
@@ -11991,7 +11993,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -13019,6 +13020,7 @@ learn2surf.nz.gs
 learnaboutcareers.academiaderock.ro
 learndistance.co.cc
 learnfacts.info
+learngeometryfr.fin-tech.com
 learning.zanity.net
 learninghistory.info
 learnto-forex-trading.co.cc
@@ -13909,6 +13911,7 @@ mentalproxy.in
 meoso.com
 meow.partedu.club
 meow.partedu.club.cdn.cloudflare.net
+meow.teddynunyah.cfd
 meowless.club
 meown.net
 mepro.info
@@ -16458,7 +16461,6 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -18568,6 +18570,7 @@ pulas.net
 pullay.co.cc
 pulleyforex.co.cc
 pulob.com
+pulsewire.atamanco.eu
 pumbe.com
 pumpedcunts.co.cc
 pumpmyproxie.co.cc
@@ -18808,6 +18811,7 @@ raisethesurf.co.cc
 raj.pw
 rajalaki.co.cc
 rakreatif.co.cc
+ram.br3xality.org
 ram.kdot.cam
 ramces.com
 ramforex.co.cc
@@ -18884,6 +18888,7 @@ razy.org
 rb750gr3.ulfhednar.ru
 rbe7.com
 rblade.asuscomm.com
+rc-1140.malskoy-med.ru
 rc2.info
 rced.ru
 rcpc2.duckdns.org
@@ -19039,7 +19044,6 @@ remoteproxy.co.cc
 remotevpn.net
 removeban.com
 removefilters.net
-removethatwall.comuv.com
 renali.info
 renameproxy.co.cc
 renardbleu.dev
@@ -19150,6 +19154,7 @@ rgnet-iad.anycast.censurfridns.nu
 rgnet-iad.anycast.uncensoreddns.dk
 rgnet-iad.anycast.uncensoreddns.org
 rgry.com
+rh.teddynunyah.cfd
 rh7.net
 rhom.info
 rhys1901.biz
@@ -19488,7 +19493,6 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
@@ -19855,7 +19859,9 @@ security.rabbitdns.org
 securitygladiators.com
 securitykiss.com
 securitytool.co.cc
+securly.com.fpr.net
 securly.com.go4it.com.mx
+securly.com.jedimasters.net
 securly.com.pbdjarum.info
 secvpnproxy.co.cc
 sedot.in
@@ -20150,7 +20156,6 @@ shoe-money.co.cc
 shoedmakers.co.cc
 shop-books-school.vercel.app
 shop.petfood.ro
-shop.woodworker.cl
 shop3dtv.co.cc
 shopcars.co.cc
 shopdiamonds.co.cc
@@ -21196,6 +21201,7 @@ studymate.info
 studypro.info
 studysurf.com
 studytime.info
+studytimer.ufodns.com
 studytube.info
 studywithus.info
 stuff-free.chat.ru
@@ -22306,10 +22312,8 @@ test.businessconnect.com.tr
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
-test.net46.net
 test.privatenode.ru
 test.zkwg.duckdns.org
-test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -23122,6 +23126,7 @@ turningout.com
 turninvisible.com
 turt.info
 turtle.happyforever.com
+turtlelover.fpr.net
 turtleterror.com
 turumaninglah.co.cc
 tusix.co.cc
@@ -25480,7 +25485,6 @@ www.1155.info
 www.117.us
 www.1181180.com
 www.12-21-2012.org
-www.1215.info
 www.1228.org
 www.1234.ws
 www.12345abcde.info
@@ -28165,7 +28169,6 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -28835,7 +28838,6 @@ www.gpq.in
 www.gproo.com
 www.gproxy.com
 www.gproxy.info
-www.grabb.info
 www.grabsites.com
 www.graite.com
 www.grandes.info
@@ -29392,7 +29394,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -34005,7 +34006,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -36229,7 +36229,6 @@ yasak.cn
 yasakdel.com
 yasaksiz.org
 yaskyforex.co.cc
-yasosy.pro
 yauyos.info
 yazhouzhijia.free.fr
 ybasic.com
@@ -36578,7 +36577,6 @@ zoxxoo.com
 zoxy.co.uk
 zoxy.info
 zoz.6x.to
-zozy.vndv.com
 zpn.im
 zproxy.de
 zproxy.org
