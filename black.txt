@@ -839,6 +839,7 @@ activedigital.info
 activeidentity.co.cc
 activeserver.info
 activewebproxy.cf
+activpn.com
 actmobile.com
 actproxy.com
 actual-unlock.co.cc
@@ -1371,6 +1372,7 @@ aestheticgaming.com
 aetforex.co.cc
 aeuforex.co.cc
 aeyx.com
+afaforex.cz.cc
 afec.info
 affcdn.net
 affiliateway.com
@@ -1688,6 +1690,7 @@ am4.net
 amab.info
 amaderkotha.org
 amadeus666.org
+amaforex.cz.cc
 amandahugnkiss.org
 amando.info
 amanvpn.com
@@ -3541,6 +3544,7 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
+browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -6382,7 +6386,6 @@ dns.nonomi.cc
 dns.nop.mobi
 dns.norgan.net
 dns.norvig.dk
-dns.notjakob.com
 dns.novali.date
 dns.novg.net
 dns.npe.bz
@@ -7217,7 +7220,6 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -10636,6 +10638,7 @@ h4g3z1-doh.web.app
 h6j.info
 h7j.org
 h8m.net
+ha.o51r15.com
 habit-leaving.co.cc
 habu.info
 hacingfun.co.cc
@@ -10964,7 +10967,6 @@ hidelink.info
 hidelist.com
 hidelive.com
 hideman.net
-hideme.be
 hideme.bestbux.net
 hideme.de
 hideme.ed.mu
@@ -11465,6 +11467,7 @@ httpsphproxy.com
 httpsurf.com
 httpz.info
 htunnel.com
+huawaakiskokoa.duckdns.org
 hubbed.com
 hubconnect.info
 hubproxy.com
@@ -17502,6 +17505,7 @@ proxy4you.ws
 proxy4youtube.com
 proxy5-gateway2webs.tk
 proxy5.net
+proxy5.startpage.com
 proxy51.com
 proxy52proxy.co.cc
 proxy56.com
