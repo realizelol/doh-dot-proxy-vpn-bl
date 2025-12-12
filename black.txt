@@ -674,7 +674,6 @@ a53.info
 a55y.com
 a57.info
 a61.info
-a6k.info
 a74.info
 a84.info
 a85.info
@@ -840,7 +839,6 @@ activedigital.info
 activeidentity.co.cc
 activeserver.info
 activewebproxy.cf
-activpn.com
 actmobile.com
 actproxy.com
 actual-unlock.co.cc
@@ -1584,6 +1582,7 @@ alisa.vpn.i81.ru
 alishnekdi.rotorootie.net
 aliveproxies.com
 aliveproxy.com
+aliyunhttpdns.com
 aljens.net
 alkk.net
 all-face-unblocker.co.cc
@@ -5411,6 +5410,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -6211,6 +6211,7 @@ dns.kirillpe.dev
 dns.kisnet.id
 dns.kjmserwis.pl
 dns.kloiber.co.at
+dns.knightlsy.asia
 dns.knyfie.com
 dns.koala.us.to
 dns.kobo.dev
@@ -6274,6 +6275,7 @@ dns.lvqing.eu.org
 dns.m78.asia
 dns.mafyuh.io
 dns.magnon-box.tk
+dns.magnon.duckdns.org
 dns.mailcastle.in
 dns.maitrekuc.fr
 dns.majaroboan.de
@@ -7205,6 +7207,7 @@ dollarproxy.com
 dolook.info
 dolopo.net
 dom-na-tnt.jino-net.ru
+domain-names.cz.cc
 domain-site.cz.cc
 domain-yahoo-forex.co.cc
 domain.caringformom.com
@@ -14064,7 +14067,6 @@ mindgood.info
 minds.plant.theseks.net
 minfree.com
 mingsrang.co.cc
-mini88773.703.jp
 minicoopercar.co.cc
 minilla.store
 miniprox.com
@@ -17513,7 +17515,6 @@ proxy4you.ws
 proxy4youtube.com
 proxy5-gateway2webs.tk
 proxy5.net
-proxy5.startpage.com
 proxy51.com
 proxy52proxy.co.cc
 proxy56.com
@@ -20003,6 +20004,7 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
+server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -20338,6 +20340,7 @@ sise.info
 sisum.co.cc
 sitaround.co.cc
 sitdns.com
+site-1.duckdns.org
 site-2.duckdns.org
 site-3.duckdns.org
 site.artweb.website.cdn.cloudflare.net
@@ -22390,7 +22393,6 @@ test.fatucloud.gosprout.org
 test.marss.pro
 test.net46.net
 test.privatenode.ru
-test.zkwg.duckdns.org
 test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
@@ -23091,6 +23093,7 @@ tumesproxy.co.cc
 tunatunnel.co.cc
 tunestalk.com
 tuneupsurf.co.cc
+tungdnsne.duckdns.org
 tungtsbn2000.viewdns.net
 tuning.tr.cc
 tunis-proxy.gtx.fr
@@ -23252,7 +23255,6 @@ twunkproxy.co.cc
 tx.teradns.org
 txproxy.co.cc
 txtafriend.com
-tylda.duckdns.org
 tylerschnaidt.com
 tyo.883933770.xyz
 tyo01.dnscry.pt
@@ -24637,7 +24639,6 @@ voyagermartians.mooo.com
 voyagerz.hopto.org
 vp.tradescape.biz
 vpernet.com
-vpich.duckdns.org
 vpn-account.com
 vpn-api.proton.me
 vpn-byen.dk
@@ -25983,7 +25984,6 @@ www.activedigital.info
 www.activeproxy.info
 www.activeserver.info
 www.activewebproxy.cf
-www.activpn.com
 www.actproxy.com
 www.acur.info
 www.ad-it.info
@@ -27797,6 +27797,7 @@ www.easybypass.com
 www.easybypass.net
 www.easyconceal.com
 www.easyedu.eu
+www.easyfake.com
 www.easyfast.info
 www.easyfasto.info
 www.easyfun.info
@@ -33535,7 +33536,6 @@ www.slake.info
 www.slan.info
 www.slapadmin.com
 www.slaughterblog.com
-www.sleeksurf.com
 www.sleepingnymph.info
 www.slicksurf.tk
 www.slidein.info
