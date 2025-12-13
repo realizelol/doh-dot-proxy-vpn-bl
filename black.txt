@@ -595,7 +595,6 @@
 8hj.org
 8me.info
 8mgtar.co.cc
-8ml.info
 8proxy.com
 8v9m.com
 8xl.net
@@ -4212,7 +4211,6 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
-cheat2win.comoj.com
 cheatstown.com
 check.peer2profit.site
 check.youdontcare.com
@@ -6813,7 +6811,6 @@ dns1.pietjacobs.be
 dns1.quickline.ch
 dns1.rhscz.eu
 dns1.ryan-palmer.com
-dns1.ryanpalmer.com
 dns1.saferbfc.org
 dns1.sarak.as
 dns1.sarakas.net
@@ -12900,7 +12897,6 @@ kryptovpn.kryptotel.net
 ks1.plop.cc
 ks387751.kimsufi.com
 ks391622.kimsufi.com
-ksedns.ru
 kslabo.net
 kstdownload.com
 kt24h.com
@@ -14067,6 +14063,7 @@ mindgood.info
 minds.plant.theseks.net
 minfree.com
 mingsrang.co.cc
+mini88773.703.jp
 minicoopercar.co.cc
 minilla.store
 miniprox.com
@@ -14133,7 +14130,6 @@ mmhd.net
 mmproxy.com
 mnl01.dnscry.pt
 mo0on15.com
-moaz-adguard.duckdns.org
 mobile.bberry.biz
 mobile.development.sanluix.org
 mobile.gw.lt
@@ -16476,6 +16472,7 @@ potro.info
 poundgames.com
 poutrerdansguardian.blogspot.com
 power-forex.co.cc
+powerblock.info
 poweredbyforex.co.cc
 poweredforex.co.cc
 powerfive.co.cc
@@ -16567,7 +16564,6 @@ premiumzone.info
 premixsite.co.cc
 premoweb.com
 premsocks.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -22393,6 +22389,7 @@ test.fatucloud.gosprout.org
 test.marss.pro
 test.net46.net
 test.privatenode.ru
+test.zkwg.duckdns.org
 test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
@@ -23255,6 +23252,7 @@ twunkproxy.co.cc
 tx.teradns.org
 txproxy.co.cc
 txtafriend.com
+tylda.duckdns.org
 tylerschnaidt.com
 tyo.883933770.xyz
 tyo01.dnscry.pt
@@ -24639,6 +24637,7 @@ voyagermartians.mooo.com
 voyagerz.hopto.org
 vp.tradescape.biz
 vpernet.com
+vpich.duckdns.org
 vpn-account.com
 vpn-api.proton.me
 vpn-byen.dk
@@ -25576,7 +25575,6 @@ www.1155.info
 www.117.us
 www.1181180.com
 www.12-21-2012.org
-www.1215.info
 www.1228.org
 www.1234.ws
 www.12345abcde.info
@@ -25984,6 +25982,7 @@ www.activedigital.info
 www.activeproxy.info
 www.activeserver.info
 www.activewebproxy.cf
+www.activpn.com
 www.actproxy.com
 www.acur.info
 www.ad-it.info
