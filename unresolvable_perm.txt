@@ -2738,6 +2738,7 @@ a62.info
 a65.info
 a6a.info
 a6d.net
+a6k.info
 a71.info
 a73e-xa1.info
 a7d.info
@@ -3500,6 +3501,7 @@ activewebvpn.cf
 activitesproxies.tk
 activityratio.com
 activitysurfer.tk
+activpn.com
 actkuntscard.tk
 actlockproxy.tk
 actplan.tk
@@ -152990,6 +152992,7 @@ www.slazy.info
 www.slcertificates.tk
 www.sledmerehouse.info
 www.sleekseed.com
+www.sleeksurf.com
 www.sleeksurf.info
 www.sleeksurf.tk
 www.sleepdisorder.tk
