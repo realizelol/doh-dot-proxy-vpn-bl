@@ -41554,6 +41554,7 @@ krunka.info
 krunko.info
 kryvyirih.eu
 ks383737.kimsufi.com
+ksedns.ru
 ksemitsy.tk
 ksna.info
 ksneak.info
@@ -45754,6 +45755,7 @@ mmzz.info
 mnem.info
 mo-tion.info
 moabarela.tk
+moaz-adguard.duckdns.org
 mobil-autounblock.tk
 mobile-apps.info
 mobileandroidproxy.info
