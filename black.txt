@@ -139,7 +139,6 @@
 1181180.com
 11vz.com
 12-21-2012.org
-1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -897,6 +896,7 @@ adblock.indianets.net
 adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
+adblock.opendoh.com
 adblock.renedis.nl
 adblockdns.live
 adblocker.institutobancario.edu.mx
@@ -1468,6 +1468,7 @@ aguado.info
 aguforex.co.cc
 agvhelmet.co.cc
 ahadns.net
+ahaforex.cz.cc
 ahcek.com
 ahighspeeds.co.cc
 ahlanwassahlan.co.cc
@@ -1529,6 +1530,7 @@ akunamatata8888.mooo.com
 akund.com
 akunssh.net
 akylah.zapto.org
+alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
 alanis.igalan.com
@@ -1872,7 +1874,6 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
-anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -3536,6 +3537,7 @@ browseb.com
 browsebridge.com
 browsec.com
 browsecop.com
+browsecurely.cz.cc
 browsef.co.cc
 browsefreely.com
 browsefresh.com
@@ -4415,6 +4417,7 @@ cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
+cloakip.cz.cc
 cloakip.net
 cloakipchanger.co.cc
 cloakme.cn
@@ -6395,6 +6398,7 @@ dns.olpploiopkuyhiopsfrt.info
 dns.omada.cafe
 dns.omee4.ru
 dns.opendns.com
+dns.opendoh.com
 dns.ord.chriswang.work
 dns.oryxlabs.com
 dns.osmenoga.com
@@ -6942,7 +6946,6 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -9558,6 +9561,7 @@ freewayweb.co.cc
 freewebnow.uni.me
 freewebproxy.asia
 freewebproxy.cn
+freewebproxy.com
 freewebproxy.eu
 freewebproxy.net
 freewebproxy.net.cn
@@ -9721,7 +9725,6 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
-furniturelanddirect.com
 furproxie.co.cc
 furriesarecute.furryplace.eu
 furyforex.co.cc
@@ -9860,6 +9863,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -12373,6 +12377,7 @@ jobscorps.co.cc
 jobsexperd.co.cc
 jobsmonster.co.cc
 jobworker.co.cc
+joeltheodore.com
 joeproxy.com
 jofo.info
 johneldenring.lol
@@ -12613,6 +12618,7 @@ keephidden.com
 keepin.info
 keepinfast.co.cc
 keepip.info
+keepitsecret.com
 keepme.info
 keepmesafe.info
 keeppro.com
@@ -13047,7 +13053,6 @@ learnfacts.info
 learngeometryfr.fin-tech.com
 learning.edu.markscully.com
 learning.orestpena.com
-learning.zanity.net
 learninghistory.info
 learningwiki.iiiii.info
 learnto-forex-trading.co.cc
@@ -13692,7 +13697,6 @@ mamproxy.w57.100dns.com
 man01.dnscry.pt
 manage-accounts.co.cc
 manage.peakconsulting.com.au
-managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -14439,7 +14443,6 @@ mydanfoss.com
 mydevpn.eu
 mydns.cloud
 mydns.ddns.me
-mydns.x96maxultra.ru
 mydodgestealth.xyz
 mydragon.nz.gs
 mydvister.com
@@ -15621,6 +15624,7 @@ opendeltaforexsite.co.cc
 opendeltaforexsites.co.cc
 opendirectforexsite.co.cc
 opendns.one
+opendoh.com
 opendukascopyforexsite.co.cc
 openeasyforexsite.co.cc
 opened-up.co.cc
@@ -16796,7 +16800,6 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -17544,6 +17547,7 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
+proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -17916,6 +17920,7 @@ proxykid.com
 proxykiller.com
 proxyking.com
 proxyking.net
+proxyknow.com
 proxykorea.info
 proxyl.com
 proxyla.com.ar
@@ -18165,7 +18170,6 @@ proxyresources.com
 proxyreview.net
 proxyrich.co.cc
 proxyride.co.cc
-proxyring.com
 proxyrio.com
 proxyriver.com
 proxyroad.com
@@ -21824,6 +21828,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22376,6 +22381,7 @@ test.fatucloud.gosprout.org
 test.marss.pro
 test.net46.net
 test.privatenode.ru
+test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -22417,7 +22423,6 @@ the-biggest.co.cc
 the-blackswan.co.cc
 the-cloak.com
 the-comfort.co.cc
-the-core.info
 the-crypt.ws
 the-customize.co.cc
 the-firewall.com
@@ -24065,7 +24070,6 @@ untraceable.info
 untraceable.us
 untraced.net
 untracer.com
-unvpn.org
 unwantedtraffic.com
 unwarned.com
 unwatching-surfer.co.cc
@@ -24092,30 +24096,19 @@ upon.polishmc.pl
 upos.info
 upproxy.p9.org
 uproxy.asia
-uproxy.blue
-uproxy.casa
-uproxy.cc
 uproxy.club
 uproxy.dev
 uproxy.help
-uproxy.how
 uproxy.info
 uproxy.io
 uproxy.lol
-uproxy.me
 uproxy.online
 uproxy.org
-uproxy.page
-uproxy.site
-uproxy.soy
 uproxy.top
 uproxy.vip
-uproxy.xyz
 uproxy2.biz
-uproxy2.com
 uproxy2.info
 uproxy2.net
-uproxy2.org
 uproxy2.xyz
 upth.info
 uptime.injectoclean.com.mx
@@ -24418,7 +24411,6 @@ vekq.com
 velocityproxy.com
 venice-chairman.co.cc
 venom630.free.fr
-venum.space
 vercel-is-cool.vercel.app
 vercel.or-g.net
 verifiedfast.co.cc
@@ -24702,7 +24694,6 @@ vpndog.com
 vpnfan.com
 vpnfast.pw
 vpnfree.info
-vpngame.com
 vpngate.net
 vpngate2.jp
 vpngermany.dzzz.info
@@ -24731,7 +24722,6 @@ vpnofanti.co.cc
 vpnoffice.co.cc
 vpnoneclick.com
 vpnonelove.ru
-vpnonline.com
 vpnoverview.com
 vpnpie.org
 vpnprivacy.com
@@ -25219,6 +25209,7 @@ whonix.org
 whopy.com
 whopy.htmlplanet.com
 whosgonnaknow.com
+whoza.com
 why-is-my-popcorn-so-gorilla.easterndns.com
 why.is.it.my.fault.de-a.org
 whyblocks.com
@@ -25781,6 +25772,7 @@ www.5b5.org
 www.5cr.info
 www.5ct.info
 www.5l0.net
+www.5ml.info
 www.5ok.org
 www.5on.info
 www.5pool.com
@@ -29779,7 +29771,6 @@ www.jazoink.com
 www.jazzerlock.tk
 www.jcink.com
 www.jcz.net
-www.je9.net
 www.jeal.info
 www.jebbies.com
 www.ject.info
@@ -30864,6 +30855,7 @@ www.nity.info
 www.njfpy.com
 www.nkac.pl
 www.nlproxy.com
+www.nnnnn.info
 www.nntime.com
 www.no-carbon.info
 www.no-oil.com
@@ -31531,6 +31523,7 @@ www.problack.info
 www.problock.info
 www.probs.info
 www.probyte.top
+www.procheck.info
 www.procks.com
 www.procksee.com
 www.prockstar.com
@@ -31610,7 +31603,6 @@ www.proxe.ws
 www.proxeasy.com
 www.proxee.ws
 www.proxeey.com
-www.proxer.ru
 www.proxers.com
 www.proxert.com
 www.proxery.com
@@ -36128,7 +36120,6 @@ xanproxy.be
 xantux.co.cc
 xare.info
 xaviblock.co.cc
-xbcpb668.com
 xblock.info
 xblt.net
 xbuddy.co.cc
@@ -36647,6 +36638,7 @@ zoxxoo.com
 zoxy.co.uk
 zoxy.info
 zoz.6x.to
+zozy.vndv.com
 zpn.im
 zproxy.de
 zproxy.org
