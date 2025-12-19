@@ -139,6 +139,7 @@
 1181180.com
 11vz.com
 12-21-2012.org
+1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -1874,6 +1875,7 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
+anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -3902,6 +3904,7 @@ cakesurf.co.cc
 cakla.co.cc
 cakla.tk
 calc-loan.co.cc
+calc.desmos.live.cdn.cloudflare.net
 calcmaster.net
 calculas.org
 calculatepie.com
@@ -4028,6 +4031,7 @@ carry-out.co.cc
 cars-a.co.za
 cars.happyforever.com
 carsproxy.co.cc
+cart.dyndnssec.de
 cas8.com
 casasdosol.com
 casastartup.com
@@ -5240,6 +5244,7 @@ darmoweproxy.pl
 dart.kpsn.org
 darthodroid.duckdns.org
 darya.persiannit.net
+dash.artweb.website.cdn.cloudflare.net
 dashproxy.com
 dassault-aviation.co.cc
 database.development.sanluix.org
@@ -6946,6 +6951,7 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -7198,6 +7204,7 @@ domain.name
 domain.novafree.net
 domain.politicaltargets.com
 domain.studio-as.net
+domain.tablero-anmac.ar
 domain.tyrerwebster.com
 domain.wuffster.com
 domainactive.info
@@ -7775,6 +7782,7 @@ elty.info
 eludeit.com
 eluder.net
 eluforex.co.cc
+email.yan.ch
 emailko.com
 emailprivacy.info
 emailthru.com
@@ -9725,6 +9733,7 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
+furniturelanddirect.com
 furproxie.co.cc
 furriesarecute.furryplace.eu
 furyforex.co.cc
@@ -10202,6 +10211,7 @@ go-there.co.cc
 go.aa.am
 go.amazements.org
 go.biz.pl
+go.desmos.live.cdn.cloudflare.net
 go.htmf.com
 go.hunnur.com
 go.icoding168.xyz
@@ -11295,6 +11305,7 @@ horus-team.com
 host-fast.co.cc
 host.dlun.tk
 host.jerry-lee.uk
+host.srvdns.de
 host8.248.cloudhost.in.th
 host94.rheingold.com.ua
 hostapp.eu
@@ -11803,6 +11814,7 @@ inflatable-grip.co.cc
 influi.com
 info-hub.de
 info.onnemaa.ee
+info.osiadaczabogados.cl
 infobuds.com
 infobuds.net
 infoexpert.info
@@ -12017,7 +12029,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -13697,6 +13708,7 @@ mamproxy.w57.100dns.com
 man01.dnscry.pt
 manage-accounts.co.cc
 manage.peakconsulting.com.au
+managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -13946,6 +13958,7 @@ mensgadgets.co.cc
 menshealthcare.info
 mensrolex.co.cc
 mentalproxy.in
+menu.resolve.bar
 meoso.com
 meow.partedu.club
 meow.partedu.club.cdn.cloudflare.net
@@ -16800,6 +16813,7 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -18170,6 +18184,7 @@ proxyresources.com
 proxyreview.net
 proxyrich.co.cc
 proxyride.co.cc
+proxyring.com
 proxyrio.com
 proxyriver.com
 proxyroad.com
@@ -20211,6 +20226,7 @@ shockterrible.co.cc
 shoe-money.co.cc
 shoedmakers.co.cc
 shop-books-school.vercel.app
+shop.ddnssec.de
 shop.petfood.ro
 shop3dtv.co.cc
 shopcars.co.cc
@@ -22423,6 +22439,7 @@ the-biggest.co.cc
 the-blackswan.co.cc
 the-cloak.com
 the-comfort.co.cc
+the-core.info
 the-crypt.ws
 the-customize.co.cc
 the-firewall.com
@@ -24232,10 +24249,12 @@ use-application-dns.net
 use.bostoncareercounselor.com
 use.edu.iownyour.org
 use.freeddns.com
+use.manutec.be
 usedrolex.co.cc
 usefulness.info
 usemyproxy.com
 usenet4all.com
+user.bostoncareercounselor.com
 userbeam.de
 userload.co
 userpage.info
@@ -25032,6 +25051,7 @@ webproxy4free.info
 webproxy4free.ml
 webproxybrowser.com
 webproxyfree.net
+webproxyking.com
 webproxylist.cn
 webproxylist.com
 webproxylist.org
@@ -25835,6 +25855,7 @@ www.8ce.org
 www.8day.info
 www.8hj.org
 www.8me.info
+www.8ml.info
 www.8proxy.com
 www.8proxy.info
 www.8xl.net
@@ -26909,6 +26930,7 @@ www.bypassany.info
 www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
+www.bypassed.org
 www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
