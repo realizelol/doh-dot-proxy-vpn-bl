@@ -139,7 +139,6 @@
 1181180.com
 11vz.com
 12-21-2012.org
-1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -504,7 +503,6 @@
 5g.o0o.re
 5hg.net
 5l0.net
-5ml.info
 5ok.org
 5on.info
 5pool.com
@@ -618,7 +616,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -729,6 +726,7 @@ aboutlaserremoval.com
 aboutprofileproxy.co.cc
 aboutwebsense.co.cc
 abproxy.gq
+abpvn.org
 abrowse.com
 absolutbacardi.co.cc
 absolute.x10hosting.com
@@ -976,7 +974,6 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
-adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -1180,6 +1177,7 @@ adguard.sixxi.de
 adguard.soloanvill.ru
 adguard.som-it.net
 adguard.spaceindex.net
+adguard.sparshbajaj.me
 adguard.spyrisk.fr
 adguard.sre.ovh
 adguard.sscw.win
@@ -6951,7 +6949,6 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -9872,7 +9869,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -12029,6 +12025,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -26710,7 +26707,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -28643,7 +28639,6 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
-www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -31226,7 +31221,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -31914,7 +31908,6 @@ www.proxyarchive.com
 www.proxyarmor.com
 www.proxyart.com
 www.proxyassault.com
-www.proxyauthority.com
 www.proxyaviation.com
 www.proxyaware.com
 www.proxybaba.com
@@ -33078,7 +33071,6 @@ www.safeip.info
 www.safelizard.com
 www.safeloan.info
 www.safely-browsing.com
-www.safenetbrowser.com
 www.safenfree.com
 www.safeonltkestube.tk
 www.safepillage.com
@@ -35514,7 +35506,6 @@ www.webproxy4free.ml
 www.webproxyblack.ml
 www.webproxybrowser.com
 www.webproxyfree.net
-www.webproxyking.com
 www.webproxylist.cn
 www.webproxylist.com
 www.webproxylist.org
