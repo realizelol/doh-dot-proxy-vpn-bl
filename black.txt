@@ -139,6 +139,7 @@
 1181180.com
 11vz.com
 12-21-2012.org
+1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -260,7 +261,6 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
-1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -503,6 +503,7 @@
 5g.o0o.re
 5hg.net
 5l0.net
+5ml.info
 5ok.org
 5on.info
 5pool.com
@@ -616,6 +617,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -974,6 +976,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -5500,7 +5503,6 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 diddyblud-6767-61-41-bentennis.transporteswys.cl
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6949,6 +6951,7 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -9869,6 +9872,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -16195,6 +16199,7 @@ phonepr.com
 phonesmarter.co.cc
 phonespornstar.co.cc
 phonyip.com
+phosphor-pa.googleapis.com
 photoclinic.co.cc
 photographco.com
 photonsecure.com
@@ -24165,6 +24170,7 @@ urvideoplanet.com
 us-ash-w-f-1.nashkan.net
 us-atl-w-1.nashkan.net
 us-atl-w-2.nashkan.net
+us-browse.startpage.com
 us-chi-w-1.nashkan.net
 us-chi-w-2.nashkan.net
 us-chi-w-3.nashkan.net
@@ -24213,7 +24219,6 @@ us.rslvr.eu
 us.sc92.cn
 us01.dns4me.net
 us02.dns4me.net
-us1-browse.startpage.com
 us1.blissdns.net
 us1.dns.lavate.ch
 us2-browse.startpage.com
@@ -26707,6 +26712,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -26926,7 +26932,6 @@ www.bypassany.info
 www.bypassblocks.com
 www.bypassbrowser.com
 www.bypassed.info
-www.bypassed.org
 www.bypasser.cn
 www.bypasser.ga
 www.bypasser.net
@@ -28639,6 +28644,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -31221,6 +31227,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -33071,6 +33078,7 @@ www.safeip.info
 www.safelizard.com
 www.safeloan.info
 www.safely-browsing.com
+www.safenetbrowser.com
 www.safenfree.com
 www.safeonltkestube.tk
 www.safepillage.com
@@ -35506,6 +35514,7 @@ www.webproxy4free.ml
 www.webproxyblack.ml
 www.webproxybrowser.com
 www.webproxyfree.net
+www.webproxyking.com
 www.webproxylist.cn
 www.webproxylist.com
 www.webproxylist.org
