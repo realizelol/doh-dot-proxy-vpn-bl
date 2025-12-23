@@ -261,6 +261,7 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
+1surf.usa.cc
 1surfunblock.info
 1sys.info
 1sz.info
@@ -591,6 +592,7 @@
 8hj.org
 8me.info
 8mgtar.co.cc
+8ml.info
 8proxy.com
 8v9m.com
 8xl.net
@@ -3495,6 +3497,7 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
+brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -5437,7 +5440,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -5503,7 +5505,6 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 diddyblud-6767-61-41-bentennis.transporteswys.cl
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6952,7 +6953,6 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
-dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -12478,7 +12478,6 @@ junov.com
 jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
-jupitervpn.ninja
 jupopo.com
 juproxy.com
 jurenomio.co.cc
@@ -12632,6 +12631,7 @@ keephidden.com
 keepin.info
 keepinfast.co.cc
 keepip.info
+keepitsecret.com
 keepme.info
 keepmesafe.info
 keeppro.com
@@ -15580,7 +15580,6 @@ only-due.co.cc
 only-get.co.cc
 only-mu.com
 only-surf.co.cc
-onlyforschool123.smarter-homes.com
 onlyfreshers.in
 onlyfriends.info
 onlyhide.com
@@ -15964,8 +15963,6 @@ panmill.xyz
 panser.web.id
 panskeet.xyz
 pantatmembara.co.cc
-pantavv.xyz
-pantoto.xyz
 pantspooper.co.cc
 panxxx.uw.hu
 papaforex.co.cc
@@ -17247,7 +17244,6 @@ proxy.festivalbdbeja.net
 proxy.fit
 proxy.flatguide.de
 proxy.fm
-proxy.forkbomb.xyz
 proxy.fraggersinc.com
 proxy.furniturize.com
 proxy.futureisonline.co.cc
@@ -17482,7 +17478,6 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
-proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -17524,7 +17519,6 @@ proxy4you.ws
 proxy4youtube.com
 proxy5-gateway2webs.tk
 proxy5.net
-proxy5.startpage.com
 proxy51.com
 proxy52proxy.co.cc
 proxy56.com
@@ -17794,7 +17788,6 @@ proxyflyer.co.cc
 proxyfor.eu
 proxyforall.com
 proxyforest.com
-proxyforfree.eu
 proxyforge.com
 proxyforhealth.co.cc
 proxyforinsurance.co.cc
@@ -18654,7 +18647,6 @@ pupilplays.co.cc
 pupilproxy.com
 pupler.info
 pupusproxy.co.cc
-purchase-some.hotglue.click
 purchase-well.co.cc
 pure-cloud-838.k12biology.com
 pure.lunetra.online
@@ -18762,7 +18754,6 @@ quakedomains.com
 qual.cuprum.ru
 quality-proxy-working-serv.kvalitne.cz
 quangdo92.dynu.net
-quanmeme.duckdns.org
 quantum-age.cn
 quantumcode.info
 quantumpulse.dev
@@ -19160,7 +19151,6 @@ resolve.srv-pro.de
 resolve02.srv-pro.de
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
-resolver.arpa
 resolver.as203038.net
 resolver.cloudflare-eth.com
 resolver.dns.eban.eu.org
@@ -19567,7 +19557,6 @@ safing.io
 saharanet.co.cc
 sahclub.lx.ro
 saidah10.comze.com
-sail.msg.boats
 sailsurf.co.cc
 saintrobe.co.cc
 saktiproxy.co.cc
@@ -22863,7 +22852,6 @@ tor.cloudflare-dns.com
 tor.eff.org
 tor.softonic.fr
 tor.vasi.li
-tor2web.fi
 tor2web.io
 tor2web.it
 tor2web.ru
@@ -24288,7 +24276,6 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
-usproxy.usa.cc
 usproxyserver.info
 ussurfer.nz.gs
 ustrip.co.cc
@@ -24563,6 +24550,7 @@ visionprox.com
 visionproxie.co.cc
 visitany.com
 visitriga.info
+visitsites.info
 visityoursite.info
 vista-files.org
 vistafirewall.co.cc
@@ -25410,7 +25398,6 @@ workunblocker.cn
 workworld.info
 world-kicker.co.cc
 world-shrink.co.cc
-worldbookonline.ignorelist.com
 worldcache.co.cc
 worldcupnow.co.cc
 worldcupspain.co.cc
@@ -32403,6 +32390,7 @@ www.proxyrent.com
 www.proxyresource.org
 www.proxyresources.com
 www.proxyreview.net
+www.proxyring.com
 www.proxyrio.com
 www.proxyriver.com
 www.proxyroad.com
