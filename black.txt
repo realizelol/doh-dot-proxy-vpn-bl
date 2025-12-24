@@ -1267,7 +1267,6 @@ adguardhome.kirmanak.gq
 adguardhome.ponetwork.duckdns.org
 adguardhome.softcloud.pe
 adguardhome.yavuztutcu.net
-adguardhulst.duckdns.org
 adguardnic.ddns.net
 adguardpi.duckdns.org
 adh.51st.top
@@ -2605,6 +2604,7 @@ bananakun.camdvr.org
 bananakun.zapto.org
 bananaproxy.eu
 bananavpn.com
+bancuh.com
 bandido.org
 bandwidthusage.co.cc
 bangaloreeducation.co.cc
@@ -5440,6 +5440,7 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
+derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -5505,6 +5506,7 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 diddyblud-6767-61-41-bentennis.transporteswys.cl
+didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -6953,6 +6955,7 @@ docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
 doctorproxy.com
+dodian.site50.net
 dodonetworks.com
 does-more.co.cc
 doesh.com
@@ -16713,6 +16716,7 @@ problock.info
 probs.info
 probxy.nz.gs
 probyte.top
+procheck.info
 procks.com
 procksee.com
 prockstar.com
@@ -22397,6 +22401,7 @@ test.fatucloud.gosprout.org
 test.marss.pro
 test.net46.net
 test.privatenode.ru
+test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -22867,6 +22872,7 @@ torrentproxy.net
 torrentunblock.com
 torriforex.co.cc
 torrify.com
+torry.io
 torservers.net
 torsimaximum.co.cc
 torsona.com
@@ -24276,6 +24282,7 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
+usproxy.usa.cc
 usproxyserver.info
 ussurfer.nz.gs
 ustrip.co.cc
@@ -34089,6 +34096,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
