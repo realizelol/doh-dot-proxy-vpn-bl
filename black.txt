@@ -6493,7 +6493,6 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.reolinks.ru
 dns.repinger.com
-dns.repinger.my.id
 dns.req1.fr
 dns.resoft.org
 dns.retakecs.com
@@ -19560,7 +19559,6 @@ safewebsurfing123.co.cc
 safing.io
 saharanet.co.cc
 sahclub.lx.ro
-saidah10.comze.com
 sailsurf.co.cc
 saintrobe.co.cc
 saktiproxy.co.cc
@@ -22401,7 +22399,6 @@ test.fatucloud.gosprout.org
 test.marss.pro
 test.net46.net
 test.privatenode.ru
-test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -22443,7 +22440,6 @@ the-biggest.co.cc
 the-blackswan.co.cc
 the-cloak.com
 the-comfort.co.cc
-the-core.info
 the-crypt.ws
 the-customize.co.cc
 the-firewall.com
@@ -25277,7 +25273,6 @@ willy-nilly.co.cc
 wilsonproxy.co.cc
 wimax-fxproxy.co.cc
 win-100dollar-for-use-this.vyrobce.cz
-win-d7snj2gu70b.duckdns.org
 win.solution-llc.com
 win10virtual.az.i81.ru
 win10virtual.hr.i81.ru
