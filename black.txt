@@ -977,6 +977,7 @@ adguard-dns.com
 adguard-dns.eu.org
 adguard-home.de
 adguard-home.myddns.me
+adguard-home.server-on.net
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
 adguard-koe.dns64.de
@@ -1289,6 +1290,7 @@ adiyulianto.cz.cc
 adk.qcloud.work
 adl.adfilter.net
 adl01.dnscry.pt
+adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -1368,6 +1370,7 @@ aestheticgaming.com
 aetforex.co.cc
 aeuforex.co.cc
 aeyx.com
+afaforex.cz.cc
 afec.info
 affcdn.net
 affiliateway.com
@@ -1376,6 +1379,7 @@ affring.com
 afganorixy.co.cc
 afhaal.com
 aficoscorebrowstkgode.tk
+afiforex.cz.cc
 aflu.info
 afrforex.co.cc
 africa.avastdns.com
@@ -2122,6 +2126,7 @@ aproxyz.com
 aptforex.co.cc
 apuestaonline.info
 apuforex.co.cc
+aqaforex.cz.cc
 aqix.co.cc
 aqtforex.co.cc
 aqua-proxy.co.cc
@@ -2133,6 +2138,7 @@ aqx01.dnscry.pt
 ar7.org
 arabdc.com
 aracena.info
+araforex.cz.cc
 aragonez.co.cc
 arandomproxy.com
 arashi.eu.org
@@ -3491,7 +3497,6 @@ brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
 brokersaccount.cz.cc
-brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
 brollesforex.co.cc
@@ -4237,6 +4242,7 @@ chethan.in
 chevysonic.co.cc
 chi-il-us.prcdn.net
 chiablo-app.appspot.com
+chicago.cz.cc
 chickamauga.co.cc
 chicknstew.co.cc
 chicsurf.co.cc
@@ -5400,6 +5406,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -13028,6 +13035,7 @@ layoutfly.com
 lazerprxy.co.cc
 lboxtv.top
 lc.fibersurf.co.cc
+lcproxy.com
 ldaman.duckdns.org
 le-mesle.fr
 le-numerique.fr
@@ -13598,6 +13606,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -19510,6 +19519,7 @@ safelizard.com
 safeloan.info
 safely-browsing.com
 safelysurfing.co.cc
+safenetbrowser.com
 safenfree.com
 safeoroxy.xp3.biz
 safepillage.com
@@ -25564,6 +25574,7 @@ www.1155.info
 www.117.us
 www.1181180.com
 www.12-21-2012.org
+www.1215.info
 www.1228.org
 www.1234.ws
 www.12345abcde.info
@@ -25971,6 +25982,7 @@ www.activedigital.info
 www.activeproxy.info
 www.activeserver.info
 www.activewebproxy.cf
+www.activpn.com
 www.actproxy.com
 www.acur.info
 www.ad-it.info
@@ -26177,6 +26189,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -27257,7 +27270,6 @@ www.clsproxy.com
 www.clubsurfer.com
 www.cmssky.com
 www.cnproxy.com
-www.cnsurf.cn
 www.cnt7.com
 www.co-make.com
 www.co11.info
@@ -28636,6 +28648,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -29914,6 +29927,7 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
+www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
@@ -30987,6 +31001,7 @@ www.o7c.net
 www.o7t.net
 www.o8t.net
 www.oa9.info
+www.oakproxy.com
 www.oaq.in
 www.ob7.info
 www.ob9.info
@@ -34273,6 +34288,7 @@ www.tgcg.info
 www.th3pr.com
 www.thatproxy.com
 www.the-cloak.com
+www.the-core.info
 www.the-crypt.ws
 www.the-firewall.com
 www.the-thing-proxy.tk
