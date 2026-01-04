@@ -1178,7 +1178,6 @@ adguard.shutgaming.net
 adguard.shuting.idv.tw
 adguard.sixxi.de
 adguard.soloanvill.ru
-adguard.som-it.net
 adguard.spaceindex.net
 adguard.sparshbajaj.me
 adguard.spyrisk.fr
@@ -1209,7 +1208,6 @@ adguard.vegann.space
 adguard.vik.ro
 adguard.vozersky.com
 adguard.vpnkitakitsune.com
-adguard.vrehm.fr
 adguard.wallura.eu
 adguard.wifri.space
 adguard.willhotard.com
@@ -1290,7 +1288,6 @@ adiyulianto.cz.cc
 adk.qcloud.work
 adl.adfilter.net
 adl01.dnscry.pt
-adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -1406,7 +1403,6 @@ ag.stepnew.ru
 ag.teqilla.tk
 ag.wntrmute.net
 ag01.de.hallmen.it
-agaforex.cz.cc
 againpro.co.cc
 agathe.tobkar.net
 agav.co.cc
@@ -2018,7 +2014,6 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
-antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
@@ -2279,7 +2274,6 @@ aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
 asset-basedlending.com
-asset.cz.cc
 asseterp.co.cc
 assets-prod-a230.s3.serverwild.com
 assets-that.co.cc
@@ -3495,7 +3489,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -4146,6 +4139,7 @@ centralridge.co.cc
 centrecollege.co.cc
 centrocampo.co.cc
 centrohide.co.cc
+centurian.cz.cc
 centurian.org
 cerdas.info
 ceroki.co.cc
@@ -4627,6 +4621,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -6463,7 +6458,6 @@ dns.privateservices.pro
 dns.propheci.xyz
 dns.proprietarypenguin.com
 dns.psociety.de
-dns.psyk.fr
 dns.pub
 dns.pumpkinvrar.com
 dns.pumplex.com
@@ -7700,7 +7694,6 @@ edpuzzle.space
 edu.bsfa.info
 edu.gurdit.com
 edu.prostitutki-na-vyezd.com
-edu.readerwrangler.com
 edu.ts-me.com.my
 education.mojoteeth.ca
 educational-site.24x7.hk
@@ -8845,7 +8838,6 @@ football.coaching2lead.com
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 forbiddensite.com
@@ -13357,8 +13349,6 @@ llk01.dnscry.pt
 lllproxy.co.cc
 lmasalaka.crabdance.com
 lmbu.com
-lmc.privatedns.org
-lmc1.privatedns.org
 lmgu.com
 lmqu.com
 lnoy.com
@@ -16776,7 +16766,6 @@ prosexy.co.cc
 proshare.co.cc
 prosneaker.com
 prospector.cz
-prostoclub.ru
 prostovpn.org
 prosurf.nz.gs
 prosurfer.co.cc
@@ -20330,7 +20319,6 @@ sin4.ddnsfree.com
 sinas85.synology.me
 sinckfladogenirb.developer.li
 sinda.nop.mobi
-sinesprox.cloud
 singal.info
 singalongz.co.cc
 singapore.fuckll.com
@@ -21408,7 +21396,6 @@ superstealthy.com
 superstocks.co.cc
 supersurf.info
 supertokens.com
-superunblocked.net
 superunlimited.com
 supervivencia.info
 supervpn.best
@@ -23729,7 +23716,6 @@ unblockeveryday.co.cc
 unblockeverysite.com
 unblockexpress.com
 unblockfacebook.eu
-unblockfav.com
 unblockfavoritesites.co.cc
 unblockfavsites.co.cc
 unblockfindweb.co.cc
@@ -24679,7 +24665,6 @@ vpn.dzarlax.dev
 vpn.egorrko.ru
 vpn.erhvict.ru
 vpn.express
-vpn.fail
 vpn.g-s-a.me
 vpn.geshido.ru
 vpn.gmalov.ru
@@ -24824,7 +24809,6 @@ vpsus3.pzhg.me
 vpszilla.com
 vqqx.com
 vrazz.com
-vrehm.fr
 vroxi.com
 vroxy.com
 vsalty.com
@@ -29938,6 +29922,7 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
+www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
@@ -31240,6 +31225,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -31595,7 +31581,6 @@ www.propry.com
 www.proreloaded.info
 www.prosneaker.com
 www.prospector.cz
-www.prostoclub.ru
 www.protectboy.com
 www.protectedrealm.com
 www.protectedwebsite.info
@@ -35990,7 +35975,6 @@ www.yrid.com
 www.ysss.info
 www.ytunnel.com
 www.yufe.info
-www.yujunwanwu.cn
 www.yurj.com
 www.yuze.info
 www.yvhm.com
@@ -36409,7 +36393,6 @@ youkette28.free.fr
 youliaoren.com
 youmadbro.org
 youmask.net
-younblocked.com
 youngontop.co.cc
 youngster.me
 youngzsoft.net
@@ -36496,7 +36479,6 @@ ytunnel.com
 yuanmingming.com
 yufe.info
 yui.cat
-yujunwanwu.cn
 yukito.duanzx.top
 yul01.dnscry.pt
 yulgangforex.co.cc
