@@ -616,6 +616,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9ext-proxy9.tk
@@ -806,7 +807,6 @@ acgroup.in
 achievementnetwork.tk
 acidrain.co.cc
 acidrain.tk
-aciforex.cz.cc
 acircuit.co.cc
 acmeblock.com
 acmesurf.com
@@ -1291,7 +1291,6 @@ adiyulianto.cz.cc
 adk.qcloud.work
 adl.adfilter.net
 adl01.dnscry.pt
-adless.cz.cc
 admedia.co.tv
 admin.dotls.org
 admin.homedns.uk
@@ -1895,6 +1894,7 @@ anonymite.com
 anonymity.awardspace.us
 anonymityanywhere.com
 anonymitychecker.com
+anonymitynetwork.com
 anonymization.com
 anonymization.net
 anonymize.be
@@ -2235,7 +2235,6 @@ as-wondering.co.cc
 as17820865.click
 as6604t-04.myasustor.com
 asafe.info
-asaforex.cz.cc
 asaldapatproxy.co.cc
 asall.info
 asavage.com
@@ -2817,7 +2816,6 @@ besro.com
 best-coal.com
 best-college-proxy.co.cc
 best-condo.co.cc
-best-domainz.cz.cc
 best-feasible.co.cc
 best-interest.co.cc
 best-proxies.co.uk
@@ -2903,6 +2901,7 @@ bestsitedomain.co.cc
 bestsneak.co.cc
 bestspeed.cz.cc
 bestspin.info
+bestssh.net
 bestsslproxy.info
 bestsurf.co.cc
 besttry.info
@@ -5211,7 +5210,6 @@ dailywebproxies.com
 daksh.info
 dakt.info
 daleforex.co.cc
-dallas.cz.cc
 dallasproxy.co.cc
 damageservice.co.cc
 damageservice.com
@@ -5413,7 +5411,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5612,7 +5609,6 @@ dispatched.mask.wtf.la
 dispforex.co.cc
 distancelearn.co.cc
 distinguished.asdfg.us
-districtnewyork.com
 disturbances.co.cc
 disturbing-the-peace.foxgateway.com
 diuforex.co.cc
@@ -8028,6 +8024,7 @@ exactlywhat.co.cc
 exactsurf.co.cc
 exam-covering.co.cc
 examinfo.info
+example.myclarevision.com
 examsurf.co.cc
 exce.info
 exchangecom.co.cc
@@ -12062,7 +12059,6 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
-ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -13716,7 +13712,6 @@ mamproxy.w57.100dns.com
 man01.dnscry.pt
 manage-accounts.co.cc
 manage.peakconsulting.com.au
-managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -19168,7 +19163,6 @@ resolver-eu.haringstad.com
 resolver.as203038.net
 resolver.cloudflare-eth.com
 resolver.dns.eban.eu.org
-resolver.dnsprivacy.org.uk
 resolver.frank-ruan.com
 resolver.haringstad.com
 resolver.noaddns.com
@@ -19510,6 +19504,7 @@ sadnis.com
 sadtunnel.co.cc
 safari.ipadmaniac.co.cc
 safe-browse.com
+safe-guard.badbotdev.xyz
 safe-inet.com
 safe-proxy.com
 safe.dns.sainternet.xyz
@@ -27286,6 +27281,7 @@ www.clsproxy.com
 www.clubsurfer.com
 www.cmssky.com
 www.cnproxy.com
+www.cnsurf.cn
 www.cnt7.com
 www.co-make.com
 www.co11.info
@@ -27987,7 +27983,6 @@ www.everin.info
 www.everneed.info
 www.eversurf.net
 www.everyproxies.info
-www.everyproxysite.com
 www.everythingtoshare.com
 www.everywhere.es
 www.eviewer.info
@@ -28273,7 +28268,6 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
-www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -29499,7 +29493,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -31932,7 +31925,6 @@ www.proxyarchive.com
 www.proxyarmor.com
 www.proxyart.com
 www.proxyassault.com
-www.proxyauthority.com
 www.proxyaviation.com
 www.proxyaware.com
 www.proxybaba.com
@@ -34107,7 +34099,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -36681,7 +36672,6 @@ zoxxoo.com
 zoxy.co.uk
 zoxy.info
 zoz.6x.to
-zozy.vndv.com
 zpn.im
 zproxy.de
 zproxy.org
