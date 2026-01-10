@@ -1072,7 +1072,6 @@ adguard.fam-rodenburg.nl
 adguard.fatu.systems
 adguard.frece.de
 adguard.fresh-waffles.online
-adguard.gambini.org
 adguard.gattow.com
 adguard.gbrossi.com.br
 adguard.gewete.cloud
@@ -1890,7 +1889,6 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
-anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -3214,7 +3212,6 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
-blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -4026,7 +4023,6 @@ carboni.info
 carbonproxy.com
 carcar.netseclabs.gr
 carcardonations.co.cc
-carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4655,7 +4651,6 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
-computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5441,7 +5436,6 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
-delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -7299,7 +7293,6 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
-domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -8067,6 +8060,7 @@ everyone-free.co.cc
 everyorigin.jwvbremen.nl
 everyprofit.co.cc
 everyproxies.info
+everyproxysite.com
 everything-every.co.cc
 everything-in.co.cc
 everythingtoshare.com
@@ -10319,6 +10313,7 @@ go.plush.it
 go.sellclassics.com
 go.squeakycode.net
 go.ultrakid.info
+go.vrpyourself.online
 go.zap3.net
 go2.appspot.com
 go2proxy.com
@@ -13689,6 +13684,7 @@ macosprox.tk
 macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeclothing.info
@@ -16621,7 +16617,6 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
-poxy4u.comyr.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -16673,7 +16668,6 @@ premixsite.co.cc
 premoweb.com
 premsocks.com
 prep.brain.mymiddlebury.com
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -16813,7 +16807,6 @@ problock.info
 probs.info
 probxy.nz.gs
 probyte.top
-procheck.info
 procks.com
 procksee.com
 prockstar.com
@@ -17666,7 +17659,6 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
-proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -18287,7 +18279,6 @@ proxyresources.com
 proxyreview.net
 proxyrich.co.cc
 proxyride.co.cc
-proxyring.com
 proxyrio.com
 proxyriver.com
 proxyroad.com
@@ -19212,6 +19203,7 @@ remoteproxy.co.cc
 remotevpn.net
 removeban.com
 removefilters.net
+removethatwall.comuv.com
 renali.info
 renameproxy.co.cc
 renardbleu.dev
@@ -21015,6 +21007,7 @@ spem-atjs.tk
 spem-atjsssl.tk
 spentforex.co.cc
 sperso.com
+spicevpn.com
 spider-crown.co.cc
 spider-in.info
 spidercroom.co.cc
@@ -21964,7 +21957,6 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
-surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22156,6 +22148,7 @@ surfstarz.co.cc
 surfstatic.co.cc
 surfsteady.co.cc
 surfstick.info
+surfstock.info
 surfstocks.co.cc
 surfstorm.co.cc
 surfstream.co.cc
@@ -22971,6 +22964,7 @@ topwebproxy.com
 topwriting.redalameda.cl
 tor-ca.prcdn.net
 tor-exit2-readme.bbln.org
+tor-gateways.de
 tor-proxy.net
 tor.bravesoftware.com
 tor.calyxinstitute.org
@@ -22978,6 +22972,7 @@ tor.cloudflare-dns.com
 tor.eff.org
 tor.softonic.fr
 tor.vasi.li
+tor2web.fi
 tor2web.io
 tor2web.it
 tor2web.ru
@@ -22990,6 +22985,7 @@ torproject.com
 torproject.net
 torproject.org
 torrenthunters.com
+torrentprivacy.com
 torrentproxy.co
 torrentproxy.net
 torrentunblock.com
@@ -23493,6 +23489,7 @@ ultimateproxy.info
 ultimateproxy.net
 ultimateseotools.com
 ultimateunblock.com
+ultrafastproxy.com
 ultrafun.net
 ultrahigh.co.cc
 ultrajoss.co.cc
@@ -23514,6 +23511,7 @@ umpanforex.co.cc
 umzo.com
 un-blocking.info
 un-hider.com
+un404.com
 unasw.eu
 unavoider.com
 unb.how
@@ -23889,6 +23887,7 @@ unblockit.one
 unblockit.onl
 unblockit.pages.dev
 unblockit.pro
+unblockit.rsvp
 unblockit.uno
 unblockliteforexsite.co.cc
 unblockliteforexsites.co.cc
@@ -26009,7 +26008,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9fish.info
 www.9hp.info
@@ -26319,7 +26317,6 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
-www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -27554,7 +27551,6 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
-www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -29614,7 +29610,6 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
-www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -31360,7 +31355,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
