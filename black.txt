@@ -1072,6 +1072,7 @@ adguard.fam-rodenburg.nl
 adguard.fatu.systems
 adguard.frece.de
 adguard.fresh-waffles.online
+adguard.gambini.org
 adguard.gattow.com
 adguard.gbrossi.com.br
 adguard.gewete.cloud
@@ -1889,6 +1890,7 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
+anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -3212,6 +3214,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -4023,6 +4026,7 @@ carboni.info
 carbonproxy.com
 carcar.netseclabs.gr
 carcardonations.co.cc
+carcenter.cz.cc
 cardir.tk
 cardproxy.co.cc
 cardsdelight.com
@@ -4651,6 +4655,7 @@ compsci.college
 computerclass.info
 computerdude.net
 computers-made-easy.com
+computersecurity.cz.cc
 computersteroids.com
 comsoon.co.cc
 comss.one
@@ -5436,6 +5441,7 @@ deic-ore.anycast.uncensoreddns.org
 deinforex.co.cc
 dejacey.com
 dekentering.com
+delaware.cz.cc
 delaypoolproxy.co.cc
 deletemytrace.com
 deliciously.info
@@ -5467,7 +5473,6 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
-derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -5534,7 +5539,6 @@ dickhead.co.cc
 dickster.co.cc
 dicktracy.info
 diddyblud-6767-61-41-bentennis.transporteswys.cl
-didimos.cz.cc
 die-pkw-maut.de
 diedepadie.co.cc
 dieser-blog-ist-namenlos.im-blog.de
@@ -7293,6 +7297,7 @@ domainactive.info
 domainbypass.com
 domainerhouse.com
 domainforextrade.co.cc
+domainname.cz.cc
 domainownership.us
 domainproxie.co.cc
 domainproxy.co.cc
@@ -9957,7 +9962,6 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
-gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -11656,7 +11660,6 @@ i.dns-over-https.tk
 i.iplaces.org
 i.kidsquest.com
 i.letsgetfree.info
-i.myclarevision.com
 i.passcloud.xyz
 i.solutics.ec
 i.vcads.com
@@ -16617,6 +16620,7 @@ poxry.info
 poxy.pl
 poxy.us
 poxy.us.to
+poxy4u.comyr.com
 pozzop.com
 pp317.a-auc.net
 ppeq.com
@@ -16668,6 +16672,7 @@ premixsite.co.cc
 premoweb.com
 premsocks.com
 prep.brain.mymiddlebury.com
+preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -16807,6 +16812,7 @@ problock.info
 probs.info
 probxy.nz.gs
 probyte.top
+procheck.info
 procks.com
 procksee.com
 prockstar.com
@@ -17659,6 +17665,7 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
+proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -18279,6 +18286,7 @@ proxyresources.com
 proxyreview.net
 proxyrich.co.cc
 proxyride.co.cc
+proxyring.com
 proxyrio.com
 proxyriver.com
 proxyroad.com
@@ -20113,7 +20121,6 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
-server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -21957,6 +21964,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -22148,7 +22156,6 @@ surfstarz.co.cc
 surfstatic.co.cc
 surfsteady.co.cc
 surfstick.info
-surfstock.info
 surfstocks.co.cc
 surfstorm.co.cc
 surfstream.co.cc
@@ -22509,9 +22516,7 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
-test.net46.net
 test.privatenode.ru
-test101.net76.net
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
@@ -26008,6 +26013,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9fish.info
 www.9hp.info
@@ -26317,6 +26323,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -27551,6 +27558,7 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
+www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -29610,6 +29618,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -30121,7 +30130,6 @@ www.komo4ek.ru
 www.kondrcloud.ru
 www.konexion.info
 www.kontolo.com
-www.koperasi-indonesia.com
 www.kopites.club
 www.kortaz.com
 www.kosurf.com
@@ -31355,6 +31363,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -34346,7 +34355,6 @@ www.tatri.tk
 www.tavanza.com
 www.taxiporxy.us
 www.taxiproxy.com
-www.taxme.info
 www.tays.info
 www.tcp6.com
 www.tdec.info
