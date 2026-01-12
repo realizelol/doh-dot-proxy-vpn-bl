@@ -140,7 +140,6 @@
 1181180.com
 11vz.com
 12-21-2012.org
-1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -422,6 +421,7 @@
 3dprint.tk
 3g-proxy.co.cc
 3h5.net
+3jjxxl.tech
 3lm.info
 3monkeys.org
 3op.info
@@ -689,9 +689,7 @@ aaronzweb.xyz
 aash.info
 aatforex.co.cc
 aauforex.co.cc
-abaforex.cz.cc
 abc.kissfree.net
-abcdef.cz.cc
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 abcdian.com
 abcmathforkids.jumpingcrab.com
@@ -740,7 +738,6 @@ absolutfast.co.cc
 absolutmartini.co.cc
 abtforex.co.cc
 abyforex.co.cc
-acaforex.cz.cc
 acardsurfing-bests.tk
 acc101.info
 acceforex.co.cc
@@ -877,7 +874,6 @@ ad1guard.duckdns.org
 ad2.heronet.nl
 ad4msan.win
 ada.openbld.net
-adaforex.cz.cc
 adam-hughes.co.uk
 adampowell.pro
 adaptiveproxy.com
@@ -935,7 +931,6 @@ adfree.usableprivacy.net
 adfreedns.eu
 adfreedns.top
 adfreeproxy.com
-adfreeproxy.cz.cc
 adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
 adg.3k.work
@@ -2034,7 +2029,6 @@ antidepresant.co.cc
 antidns.s.tuna.tsinghua.edu.cn
 antidnsvpn.co.cc
 antierpbandwidth.co.cc
-antifilter.cz.cc
 antilogon.co.cc
 antimo.co.cc
 antimsdisk.co.cc
@@ -5473,6 +5467,7 @@ depoforforextrade.co.cc
 deproxy.com
 deproxyserver.com
 derekcastle.duckdns.org
+derel.cz.cc
 derevnya.px.i81.ru
 derowd.freeboxos.fr
 derpymail.org
@@ -6888,6 +6883,7 @@ dns1.server.my.id
 dns1.slowb.ro
 dns1.tardishost.ru
 dns1.techeasy.org
+dns1.techniverse.net
 dns1.thylacine.co.nz
 dns1.timothy-dev.com
 dns1.understandingcyber.co.uk
@@ -9962,6 +9958,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -11660,6 +11657,7 @@ i.dns-over-https.tk
 i.iplaces.org
 i.kidsquest.com
 i.letsgetfree.info
+i.myclarevision.com
 i.passcloud.xyz
 i.solutics.ec
 i.vcads.com
@@ -14717,6 +14715,7 @@ nadik.host
 nafftunnel.co.cc
 naganohara-yoimiya.momokko.moe
 naifen.net
+najiakeji.top
 nakatago.com
 nakedsquid.com
 name.my-station.ru
@@ -14725,6 +14724,7 @@ namebrowser.co.cc
 nameswave.com
 nano.64x.org
 nanobyte.info
+nanopi.cybergroove.net
 nanoproxy.com
 nanoproxy.de
 nanorforex.co.cc
@@ -16518,6 +16518,8 @@ policetheworld.co.cc
 polideportivo.info
 polippix.org
 polishit.co.cc
+polisitogel.beauty
+polisitogel.hair
 polisitogel.show
 polisitogel.webcam
 polkmn.progressivecongressnews.org
@@ -17581,6 +17583,7 @@ proxy19.com
 proxy1china.appspot.com
 proxy2.dzzz.info
 proxy2.net
+proxy2.startpage.com
 proxy20.com
 proxy2014.net
 proxy2222.blogfa.com
@@ -17622,6 +17625,7 @@ proxy4you.ws
 proxy4youtube.com
 proxy5-gateway2webs.tk
 proxy5.net
+proxy5.startpage.com
 proxy51.com
 proxy52proxy.co.cc
 proxy56.com
@@ -18841,6 +18845,7 @@ qloy.com
 qnid.cc
 qnnu.com
 qoosa.com
+qqmcfw.tech
 qro01.dnscry.pt
 qroxi.com
 qrre.com
@@ -20121,6 +20126,7 @@ servad.duckdns.org
 servage.ws
 serve.myftp.info
 servebeer.com
+server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -22516,6 +22522,7 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.marss.pro
+test.net46.net
 test.privatenode.ru
 test2.adg.siudzinski.net
 test3.adg.siudzinski.net
@@ -27558,7 +27565,6 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
-www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -30130,6 +30136,7 @@ www.komo4ek.ru
 www.kondrcloud.ru
 www.konexion.info
 www.kontolo.com
+www.koperasi-indonesia.com
 www.kopites.club
 www.kortaz.com
 www.kosurf.com
@@ -30846,7 +30853,6 @@ www.myspacetopsites.com
 www.myspaceunblocker.info
 www.myspaceunblockit.com
 www.myspaceunlock.com
-www.myssl.org
 www.mysteward.info
 www.myswift.info
 www.mytool.info
@@ -36278,6 +36284,7 @@ xanproxy.be
 xantux.co.cc
 xare.info
 xaviblock.co.cc
+xbcpb668.com
 xblock.info
 xblt.net
 xbuddy.co.cc
