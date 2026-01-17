@@ -3822,6 +3822,7 @@ adprx-hotkwebproxyis.tk
 adquirir.info
 adqxawopkumu.com
 ads-doh.securedns.eu
+ads-eu.landgame.net
 ads.adbrite.com
 ads.svx.adbrite.com
 adscentraladmin.com
@@ -54573,6 +54574,7 @@ power0-lock98.tk
 power7lock7.tk
 power998.info
 power998.tk
+powerblock.info
 powerblood.tk
 powerboy.tk
 powerbux.info
