@@ -6384,6 +6384,7 @@ apple-proxy.cf
 apple-proxy.gq
 apple-proxy.ml
 apple-proxy.tk
+apple.arbeitszeitonline.at
 apple.iphonesunset.com
 apple.jordarundt.tv
 apple.juicer.at
