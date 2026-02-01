@@ -3536,6 +3536,7 @@ ad.milys.pl
 ad.nods.in
 ad.theadhost.com
 ad.ttdd.one
+ad1guard.duckdns.org
 adaily-hotks.tk
 adami.hol.es
 adamoe.tk
