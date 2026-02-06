@@ -2942,6 +2942,7 @@ ad688fc3d17183171d637d6b726ee7c4e40c0c7b-m.proxy1.startpage.com
 ad7993876cd62f2790a85325178b6077c62c5e63-m.proxy1.startpage.com
 ad8d7c859bba5dd88b0c2587c83fe3ff8767b658-m.proxy1.startpage.com
 ada.openbld.net
+adaforex.cz.cc
 adam-hughes.co.uk
 adamkazwire.global.ssl.fastly.net
 adampowell.pro
@@ -3606,6 +3607,7 @@ aguforex.co.cc
 agvhelmet.co.cc
 ahaapi.com
 ahadns.net
+ahaforex.cz.cc
 ahagad.com
 ahahub.net
 ahajs.net
@@ -6070,6 +6072,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -8581,6 +8584,7 @@ cybershield.cc
 cybershield.me
 cybersilent.com
 cybersov.net
+cyberspace-adventure.cz.cc
 cyberspark.info
 cyberssh.com
 cyberstarproxy.co.cc
@@ -10419,6 +10423,7 @@ dns.polatarasan.com.tr
 dns.pondokngunut.ponpes.id
 dns.porteii.com
 dns.powerbs.net
+dns.practicallyunhackable.com
 dns.pragmasec.nl
 dns.privacy.cm
 dns.privado.ovh
@@ -11910,6 +11915,7 @@ easyhidden.info
 easyliterature.gearenergy.com
 easymail.co.cc
 easymath.info
+easymoney.zone
 easymoneysurf.co.cc
 easynetwork.info
 easyninja.com
@@ -11927,6 +11933,7 @@ easysetup9proxxs.tk
 easysrf.co.cc
 easysurf.click
 easysurf.info
+easytap.zone
 easytutoring.app
 easyunlock.info
 easyvisit.info
@@ -12545,6 +12552,7 @@ everyone-free.co.cc
 everyorigin.jwvbremen.nl
 everyprofit.co.cc
 everyproxies.info
+everyproxysite.com
 everything-every.co.cc
 everything-in.co.cc
 everythingtoshare.com
@@ -13209,6 +13217,7 @@ fc859aad08546b752f6621a019acc517cde58313-m.proxy1.startpage.com
 fcbjhnk.sodfjksdflkdsf.searchegpt.com
 fcd2086923ddf09f151431e9b404d630f7de20e3-m.proxy1.startpage.com
 fce8da4ceb9c0bc2945a284e501303f4ded27793-m.proxy1.startpage.com
+fcgv4rovovvlixqc2a7qncvev40dbxsy.lambda-url.us-east-1.on.aws
 fck-gulf-of-america.easterndns.com
 fcpchurch.org
 fcuforex.co.cc
@@ -16411,6 +16420,7 @@ hidelink.info
 hidelist.com
 hidelive.com
 hideman.net
+hideme.be
 hideme.bestbux.net
 hideme.de
 hideme.ed.mu
@@ -17316,6 +17326,7 @@ idkoklikebroif.infotechnology.com
 idksterl.ing
 idkwhattoputhere.panel-laboralcj.gob.mx
 idkww98reoei.hotelconsuladoinn.com
+idleforest.com
 idnifrkn.online
 idofjvj.easterndns.com
 idolproxy.com
@@ -21870,6 +21881,7 @@ nodejs.easterndns.com
 nodemaven.com
 nodemise.com
 nodepay.ai
+nodepay.org
 nodeproxy.com
 nodesmsg.xyz
 nodevpn.com
@@ -22891,6 +22903,7 @@ p0.freedns.controld.com
 p1.freedns.controld.com
 p12p.com
 p2.freedns.controld.com
+p2p-app-bot.com
 p3.freedns.controld.com
 p4fb.com
 p549314cd.dip0.t-ipconnect.de
@@ -23020,6 +23033,7 @@ passfilters.com
 passguide.net
 passinside.com
 passip.com
+passiveapp.com
 passmyass.co.cc
 passmytests.com
 passonet.nz.gs
@@ -23121,6 +23135,8 @@ peeking.in
 peekproxy.com
 peekvpn.online
 peepod.meicosoft.com
+peer2profit.app
+peer2profit.in
 pegasus.nz.gs
 pegasusdirectory.com
 pehw.com
@@ -23339,6 +23355,7 @@ pimpproxy.com
 pinch.info
 pinforex.co.cc
 pingbi.xyz
+pingmybee.net
 pingproxy.com
 pingvpn.com
 pingwebunblock.co.cc
@@ -23583,6 +23600,7 @@ polysolve.com
 pomby.com
 pompadragon.co.cc
 pondstunnel.co.cc
+ponghive.org
 pooblet.co.za
 poobungus.ydns.eu
 poochie.de
@@ -23889,6 +23907,7 @@ privatesurfing.co.cc
 privatetunnel.com
 privatevpn.com
 privatewifi.com
+privatix.com
 privatnas.servebeer.com
 privatproxy.com
 privax.us
@@ -26602,6 +26621,8 @@ reorg.biz
 repaircredit.co.cc
 replacement.cfcentral.org
 replieforex.co.cc
+repocket-cdn.fra1.cdn.digitaloceanspaces.com
+repocket-production.s3.fr-par.scw.cloud
 repocket.co
 reported.felicitous.abrdns.com
 represent.felicitous.abrdns.com
@@ -30498,6 +30519,7 @@ taxme.info
 taxrefundcard.co.cc
 tays.info
 tb.qr-code.co.za
+tb2hgc4485.execute-api.us-east-1.amazonaws.com
 tbnjp123.chickenkiller.com
 tbs01.dnscry.pt
 tbunet.com
@@ -31775,6 +31797,7 @@ ufk.in
 ufocamp.com
 ufovpn.io
 ufreevpn.com
+ufsnmvbmgwvkhirfnptm.supabase.co
 ufuu.info
 ufux.net
 ugate.info
@@ -32630,6 +32653,7 @@ upon.pegle.com
 upon.polishmc.pl
 upos.info
 upproxy.p9.org
+uprock.com
 uproxy.asia
 uproxy.club
 uproxy.dev
@@ -32663,6 +32687,7 @@ uqzu.com
 ur-browser.com
 ur.hytec.org
 ur.io
+ur.network
 uradoori.org
 uraniferous.luminiferous.abrdns.com
 uraniuminvest.com
@@ -37506,6 +37531,7 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
+www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -45156,7 +45182,6 @@ x-fast.co.cc
 x-fg-gg-g-f.mywire.org
 x-it.us
 x-kicker.co.cc
-x-o-x.duckdns.org
 x-pass.info
 x-proxy.com
 x-proxy.info
@@ -45822,6 +45847,7 @@ zkcfi3szz.online
 zkit.above.gay
 zksa8tcw0xcokir32vgq.online
 zlaze.com
+zlhp6jksk5.execute-api.eu-west-3.amazonaws.com
 zmienip.pl
 zncx.com
 zo2.info
