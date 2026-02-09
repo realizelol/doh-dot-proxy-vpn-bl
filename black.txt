@@ -1414,6 +1414,7 @@ ad.smowtion.com
 ad.systemfall.ru
 ad.timefine.org
 ad.tzockt.beer
+ad.viet.date
 ad.visbran.fr
 ad.wiqi.app
 ad1.heronet.nl
@@ -1516,6 +1517,7 @@ adg.yuzi.one
 adg2.spacework.com.mx
 adg5yvi.ngatngay.net
 adgaurd.lingmont.net
+adgd.fragmentance.ru
 adgh.catfluori.de
 adgh.imtsui.com
 adgh.laufan.cn
@@ -1816,6 +1818,7 @@ adguard2.stealbit.com
 adguard2.unima.ac.id
 adguard3.ota.moe
 adguard4.ota.moe
+adguardcalpena.duckdns.org
 adguardcloud.bwasson.com
 adguardcloud.iasm.com.ar
 adguardhome.0x4min.xyz
@@ -6059,6 +6062,7 @@ cloud.beerloga.su
 cloud.boboba.ru
 cloud.efreakbnc.net
 cloud.fibersurf.co.cc
+cloud.gqwyq.top
 cloud.graphicpoint.pl
 cloud.samutz.com
 cloud.securifi.com.my
@@ -7699,6 +7703,7 @@ dns-lb.unpak.ac.id
 dns-malwaresec.nordthreatprotection.com
 dns-mum.daryllswer.net
 dns-nosec.quad9.net
+dns-one.lins.co.tt
 dns-over-https.com
 dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
@@ -7818,6 +7823,7 @@ dns.aquilenet.fr
 dns.arapurayil.com
 dns.ares-taiwan.com
 dns.arkbotech.com
+dns.arnabhome.fun
 dns.articrevised.cc
 dns.artikel10.org
 dns.ashleyjackson.net
@@ -7968,6 +7974,7 @@ dns.dedsuts.com
 dns.deekshith.in
 dns.dekedin.me
 dns.deldown.de
+dns.deltain.ru
 dns.demon-inc.tw
 dns.dev-umbrellagov.com
 dns.devopscloud.icu
@@ -8037,6 +8044,7 @@ dns.exonip.de
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
+dns.fabidouille.com
 dns.fadhilyori.my.id
 dns.fahr.in
 dns.faked.org
@@ -8046,6 +8054,7 @@ dns.family.fraiss.at
 dns.fancyorg.at
 dns.farakaft.ir
 dns.farshidhakimy.de
+dns.farshmc.ru
 dns.fc.idv.tw
 dns.fdue.de
 dns.feedbot.xyz
@@ -8080,6 +8089,7 @@ dns.fxdc.ru
 dns.gamban.com
 dns.gametest.eu.org
 dns.gayanalysing.co.uk
+dns.gearworks.app
 dns.geekbyte.de
 dns.geohide.ru
 dns.getnoclip.link
@@ -8136,6 +8146,7 @@ dns.home.beckett.io
 dns.home.daniil.it
 dns.homenet.saschagaspar.net
 dns.hoody.com
+dns.hopkinton.online
 dns.hopper.org.uk
 dns.hopsken.com
 dns.horcrux.vip
@@ -8348,6 +8359,7 @@ dns.mfud.net
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 dns.micro.alloxr.info
+dns.midping.ir
 dns.mihalcea.eu
 dns.mihanentalpo.me
 dns.mijoregner.de
@@ -8432,6 +8444,7 @@ dns.norvig.dk
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.ntccloud.vn
 dns.ntr.lol
 dns.nubecita.biz
 dns.nullgate.net
@@ -8676,6 +8689,7 @@ dns.teknologiku.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
+dns.thedayg0ne.ru
 dns.thegoodsource.net
 dns.theres.one
 dns.therifleman.name
@@ -9234,6 +9248,7 @@ doh.micronets.in
 doh.mmmalia.com
 doh.mochou.site
 doh.moeyk.com
+doh.moorecloud.id
 doh.mullvad.net
 doh.ndmc.work.gd
 doh.nexen.cloud
@@ -12133,6 +12148,7 @@ freeme.zqlz.us
 freemegasite.info
 freememan.canalcoruna.es
 freemeprxyy.co.cc
+freemnt.hpitto.com
 freemybrowser.com
 freemyip.info
 freemyself.com
@@ -14779,6 +14795,7 @@ hours.newlifesanctuarychurch.com
 housebabies.co.cc
 housedenolf.be
 houstonlawyersw.co.cc
+hoverfc.com
 how-about-no.esal.cl
 how-to-hide-ip.info
 how-to-unblock-school.info
@@ -17632,6 +17649,7 @@ loperm.com
 lorc17-dns.komeho.info
 lord-justice.lol
 lordofthering.co.cc
+lordsalty.com
 lorengordon.com
 los.felicitous.abrdns.com
 los01.dnscry.pt
@@ -18367,6 +18385,7 @@ metalvideo.cz
 metasecurity.co.cc
 metaspinner-media.de
 metemma.com
+metgo4u5yhre.org
 methods-inside.co.cc
 metonator-proxy.appspot.com
 metop.info
@@ -19747,6 +19766,7 @@ nohumguitar.com
 noiban.com
 noidproxy.co.cc
 noip.in
+noip4.de
 noisetor.net
 noister.com
 noisylab.com
@@ -20933,6 +20953,7 @@ pbaz.top
 pbproxy.red
 pbproxy2.co
 pbrkproxy.co.cc
+pbs.lookids.com
 pc-portal.at
 pc-streaming.com
 pcandlaptops.infotechnology.com
@@ -21542,7 +21563,6 @@ poxi.clkv.ch
 poxi.crmx.us
 poxi.dess.us
 poxi.dns6.nl
-poxi.fda.biz
 poxi.frrr.ru
 poxi.info
 poxi.mazi.us
@@ -24528,6 +24548,7 @@ resolve02.srv-pro.de
 resolve2.r9x.cc
 resolve2.srv-pro.de
 resolver-eu.haringstad.com
+resolver.arpa
 resolver.as203038.net
 resolver.cloudflare-eth.com
 resolver.dns.eban.eu.org
@@ -26623,6 +26644,7 @@ sonsurf.nz.gs
 sonycell.co.cc
 sonysurf.co.cc
 sophie-fulton.26252526.xyz
+soporte-premium.duckdns.org
 sorannbb.buzz
 sorare.info
 sordy.com
@@ -28872,6 +28894,7 @@ tildenderek.store
 timb.info
 time-is-fun.co.cc
 time.clean.abrdns.com
+time4schooled.lookids.com
 timebomber.co.cc
 timedns.net
 timefreezone.co.cc
@@ -29141,6 +29164,7 @@ totalsurf.co.cc
 totalsurfing.co.cc
 totalupload.com
 totalvpn.com
+totoland.eu
 touched-deeply.co.cc
 touchforex.co.cc
 touchfresh.com
@@ -32787,7 +32811,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9fish.info
 www.9hp.info
@@ -43368,6 +43391,7 @@ yij.in
 yijiemi.cn
 yijiexi.cn
 yilu.us
+yin.flyzhouyc.win
 yin2zqcdtzoj5.online
 yinc.info
 yingroad.top
@@ -43767,6 +43791,7 @@ zorvian.com
 zotto.info
 zougloub.eu
 zoumaye.free.fr
+zouter.zhang3118.qzz.io
 zouxiaolu.appspot.com
 zoxana.com
 zoxxoo.com
