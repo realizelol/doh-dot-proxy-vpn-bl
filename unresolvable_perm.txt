@@ -4988,6 +4988,7 @@ android-onltkewebgate.tk
 android-sdk.tk
 android-skonltkewebgate.tk
 android-vpn.tk
+android.hfecr.com
 android4app.com
 androidbase.info
 androidbay.info
