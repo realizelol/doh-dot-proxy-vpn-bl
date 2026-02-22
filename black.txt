@@ -4575,7 +4575,6 @@ block.co.nr
 block.coconut.id
 block.undo.cl
 block7.info
-blockage.fbi.be
 blockage.info.tm
 blockage.pro.vg
 blockage.qc.to
@@ -12425,7 +12424,6 @@ footballresearch.sportconceptmedia.ru
 footballscorelive.com
 footline.co.cc
 foous.com
-fooz.cz.cc
 for-privacy.net
 for-stay.co.cc
 for.3cm.us
@@ -13052,6 +13050,7 @@ freeproxy.info
 freeproxy.io
 freeproxy.joshjaques.com
 freeproxy.me
+freeproxy.net
 freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
@@ -15722,7 +15721,6 @@ hostapp.info
 hostbabies.co.cc
 hostdare.qtxd.net
 hostedadguard.greatharts.com
-hostedweb.info
 hosteg.net
 hosteria.org
 hosterzall.co.cc
@@ -19883,6 +19881,7 @@ miaonajc.com
 miaoyungw.com
 mibearin.startlogic.com
 micantosh.co.cc
+michelo.line.pm
 michiganproxy.com
 mickedi.isgood.host
 mickeforex.co.cc
@@ -24567,7 +24566,6 @@ proxyduke.bingle.pw
 proxyduke.lol
 proxydungeon.co.cc
 proxye.com
-proxyeater.com
 proxyedu.co.cc
 proxyelite.info
 proxyemails.com
@@ -24676,7 +24674,6 @@ proxygti.fibersurf.co.cc
 proxyguide.com
 proxyguide.net
 proxygun.com
-proxyguy.com
 proxyguys.com
 proxyh.com
 proxyhamer.ws
@@ -26833,6 +26830,7 @@ safing.io
 sagamihara.dynv6.net
 sage.area.modeemi.net
 saharanet.co.cc
+sahclub.lx.ro
 sahi.uk
 saidah10.comze.com
 sailing.ink
@@ -27506,7 +27504,6 @@ servage.ws
 serve.myftp.info
 servebeer.com
 servefaststatic.work
-server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -37866,7 +37863,6 @@ www.gethide.net
 www.getimaged.com
 www.getip.cf
 www.getmearound.com
-www.getmepast.com
 www.getmepast.ws
 www.getnet.info
 www.getnewip.com
