@@ -1066,7 +1066,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9dk3mztl0wqg5rnb8yvf2ehujxs7i4cpqa6omb1tdgklfuxvy.frtala.sk
@@ -6034,6 +6033,7 @@ cheaply.info
 cheapproxy.com
 cheaptextingapp.com
 cheapv2.net
+cheat2win.comoj.com
 cheatstown.com
 check.infotechnology.com
 check.peer2profit.site
@@ -13537,7 +13537,6 @@ gaguu.cn
 gah.lutyk.com.ar
 gaia.plonknet.com
 gaidem.biz
-gaipai.com
 galacticfederation.jumpingcrab.com
 galacticsurf.boats
 galacticsurf.boats.cdn.cloudflare.net
@@ -16739,6 +16738,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -22141,6 +22141,7 @@ opennic2.i2pd.xyz
 openoldforexsites.co.cc
 openozforexbrokersite.co.cc
 openproxie.co.cc
+openproxies.com
 openproxy.com
 openproxy.net
 openproxy.space
@@ -32370,7 +32371,6 @@ unblockyoutubeatschool.com
 unblockyoutubefree.net
 unblockyoutubeproxy.com
 unblockytproxy.com
-unblockz.com
 unblockz.hu.tl
 unblockzone.com
 unbloka.hu.tl
@@ -40720,7 +40720,6 @@ www.proxanon.com
 www.proxapp.com
 www.proxator.com
 www.proxatron.com
-www.proxb.com
 www.proxbay.com
 www.proxbee.com
 www.proxbot.com
@@ -43911,6 +43910,7 @@ www.unblock.asia
 www.unblock.at
 www.unblock.be
 www.unblock.biz
+www.unblock.ca
 www.unblock.cc
 www.unblock.cn
 www.unblock.com
@@ -44643,7 +44643,6 @@ www.webproxyblack.ml
 www.webproxybrowser.com
 www.webproxyfree.net
 www.webproxyking.com
-www.webproxylist.cn
 www.webproxylist.com
 www.webproxylist.org
 www.webproxynow-tkdesf.tk
