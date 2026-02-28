@@ -1066,6 +1066,7 @@
 99kw.com
 99mm.info
 99proxy.com
+99s.net
 99tunnel.com
 9bb.net
 9dk3mztl0wqg5rnb8yvf2ehujxs7i4cpqa6omb1tdgklfuxvy.frtala.sk
@@ -4996,7 +4997,6 @@ brokenpage.com
 brokepoint.co.cc
 brokerhide.co.cc
 brokers.fibersurf.co.cc
-brokersaccount.cz.cc
 brokersaccounts.cz.cc
 brokerscms.fibersurf.co.cc
 brokersurf.fibersurf.co.cc
@@ -25352,6 +25352,7 @@ proxywsurf.tk
 proxyx.com
 proxyx.org
 proxyx86.co.cc
+proxyxxx.com
 proxyy.net
 proxyy123.blogspot.com
 proxyyoga.cn
@@ -26785,7 +26786,6 @@ safepillage.com
 safepro.info
 safeproxie.co.cc
 safeproxie.com
-safeproxy.eu
 safeproxysite.com
 saferat.com
 safersurf.co.cc
@@ -30524,7 +30524,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test.texasmath.org
 test180.ddo.jp
@@ -33210,6 +33209,7 @@ virtualbypass.com
 virtualchem.pro-house.cl
 virtualenglish.verolook.com
 virtualforex.co.cc
+virtualgaming.co
 virtualhide.com
 virtualhistory.primeflk.ch
 virtualip.host.sk
@@ -35572,6 +35572,7 @@ www.banana-tree-cards.com
 www.bananaboatonline.com
 www.bananaproxy.eu
 www.bandido.org
+www.bankalar.org
 www.bankmp3.info
 www.bankproxy.com
 www.bankwoes.com
