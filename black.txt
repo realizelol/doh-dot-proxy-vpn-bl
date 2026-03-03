@@ -1529,7 +1529,6 @@ adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
 adb.aadityakushwaha.com
 adb.aiec.vn
-adb.intienquan.io.vn
 adb.timnichollsphotography.com
 adblock-larssonshus.duckdns.org
 adblock.0815cloud.de
@@ -1697,7 +1696,6 @@ adguard.dientutronghuong.com
 adguard.digitalsewer.com
 adguard.discounthost.co.uk
 adguard.diylab.in
-adguard.domorome.wf
 adguard.doranpierst.com.tr
 adguard.drahonn.pro
 adguard.dsns.cloud
@@ -1716,7 +1714,6 @@ adguard.ext.devkon.org
 adguard.ext.rizult.net
 adguard.eyadmojahed.ddnsgeek.com
 adguard.fam-rodenburg.nl
-adguard.fatu.systems
 adguard.frece.de
 adguard.fresh-waffles.online
 adguard.gambini.org
@@ -1926,7 +1923,6 @@ adguardhome.ponetwork.duckdns.org
 adguardhome.softcloud.pe
 adguardhome.yavuztutcu.net
 adguardnic.ddns.net
-adguardpi.duckdns.org
 adh.51st.top
 adh.blogcuahieu.com
 adh.fastpacefixit.info
@@ -2828,7 +2824,6 @@ anthonycordova.keybusinessconnection.com
 anti-block.com
 anti-login.co.cc
 antiagers.net
-antiblock.net
 antiblockfast.co.cc
 antiblok.com
 anticache.com
@@ -5093,7 +5088,6 @@ browza.hostbucket.net
 browzall.com
 browzer.info
 broxy.url.ph
-brrbrrpatapim.graphicon.ru
 brsjk.cn
 bru01.dnscry.pt
 bruh.info
@@ -5430,8 +5424,6 @@ c-v.us
 c.cicitt.ch
 c.cpfrx.info
 c.is-very.fun
-c00lkiddtech.hackquest.com
-c00lkiddtech.ut.greenaudio.ch
 c0q.net
 c1.msocportal.my.id
 c2go.info
@@ -6018,7 +6010,6 @@ cheaply.info
 cheapproxy.com
 cheaptextingapp.com
 cheapv2.net
-cheat2win.comoj.com
 cheatstown.com
 check.infotechnology.com
 check.peer2profit.site
@@ -6857,7 +6848,6 @@ coolestdigital.com
 coolgams.dk-condos.com
 coolguy.uzhi.ru
 coolkidd.chickenkiller.com
-coolmanbartx.justlearning.net
 coolmask.info
 coolmathgames.xenor.ro
 coolme.com
@@ -6868,7 +6858,6 @@ coolproxy.com
 coolproxy.org
 coolsitebroughttoyoubyant.cpub.ir
 coolstartpages.com
-coolstuff.jumpingcrab.com
 coolsubdomain.strangersduo.com
 coolsurf4.co.cc
 cooltunnel.com
@@ -7083,7 +7072,6 @@ cromcast.net
 crooks.co.cc
 crop-circle.co.cc
 crops.primeflk.ch
-croscanbesmart.hclub.ar
 crossblock.co.cc
 crosscircle.co.cc
 crossed.info
@@ -7317,7 +7305,6 @@ d.apemlegit.my.id
 d.bod.lol
 d.cyberbomber.co.cc
 d.dh.ci
-d.dnns.fun
 d.dns1.6brothersimports.com.cdn.cloudflare.net
 d.duadua.com
 d.gametechnet.com
@@ -8211,7 +8198,6 @@ disconnect.me
 discord.tattoo
 discord.tattoo.cdn.cloudflare.net
 discordvpn.cloudsearch.workers.dev
-discountdiskz.com
 discountshoes.tk
 discover-some.co.cc
 discussion.tawktawk.info
@@ -8813,7 +8799,6 @@ dns.iqiyi.com
 dns.irk38.net
 dns.irumatech.com
 dns.is0mino.com
-dns.ishan.pw
 dns.islandnet.com
 dns.isp.dhoho.net
 dns.isteal.info
@@ -8826,7 +8811,6 @@ dns.itwht.com
 dns.itya.xyz
 dns.jamessliu.com
 dns.japan.joshcheng.host
-dns.jcdn.site
 dns.jd.com
 dns.jean.im
 dns.jens-server.de
@@ -10098,7 +10082,6 @@ doorigin.net
 doorkey82.com
 doorphone92.com
 doorstep-surf.co.cc
-doortable92.com
 doorworld.info
 dooz.info
 dop.privatedns.org
@@ -10938,7 +10921,6 @@ emjay.cn
 emmett.ydns.eu
 emmm.info
 emmmmm.me
-emnzda.com
 emoney.al.ru
 emotionluck.co.cc
 empaya.com
@@ -11083,7 +11065,6 @@ erwan774.net
 erwan8.net
 erwancloud.info
 erwanyunclash.com
-erwanyunssr.com
 es-ma.foxyfy.net
 es-mad-w-2.nashkan.net
 es-proxy.com
@@ -11284,7 +11265,6 @@ expressvpn.org
 expressvpn.tools
 expressvpn.works
 expressvpn.xyz
-exrcvgbhn.itafricagroup.com
 exroxi.com
 ext.troywell.org
 extended.dns.mullvad.net
@@ -11818,7 +11798,6 @@ fbproxies.info
 fbtu.com
 fbuforex.co.cc
 fbv.in
-fbxzti.cn
 fc.fibersurf.co.cc
 fc01-ne6s3ngb.top
 fc02-lsb1l5ig.top
@@ -11872,7 +11851,6 @@ feitan.cloud
 feitan.me
 feitangw.com
 feitanjc.com
-feituyunclash.com
 feituyunjc.com
 feiyulink.net
 feliforex.co.cc
@@ -12063,7 +12041,6 @@ finalgo.dev
 finalized.asdfg.us
 finally-free-surfing.9x.cz
 finally-free-surfing.wu.cz
-finallylol.installgentoo.com
 finalproxie.co.cc
 finalproxy.com
 finance2012.co.cc
@@ -13437,7 +13414,6 @@ fvgnhj5.easterndns.com
 fvnvoeri.ipv64.net
 fvpn.jarvishome.ru
 fvproxies.co.cc
-fvpyop.cn
 fvtcxryf.ipv64.net
 fvuforex.co.cc
 fw-6534.com
@@ -13791,7 +13767,6 @@ getdomain.tk
 getepic.com.student.xyz.fern.is.underrated.ngl.mooo.com
 getepic.com.student.xyz.frogies.arcade.learnelamathsocialstudes.mooo.com
 getepic.com.student.xyz.galaxys.tuff.ahh.mooo.com
-getepic.com.student.xyz.overcloaked.ls.tuff.nnango.ignorelist.com
 getepic.com.student.xyz.pls.unbl0ck.aboutblank.mooo.com
 getexpress-vpn.company
 getfastest.co.cc
@@ -13997,7 +13972,6 @@ glintkeepthisasecret.undoanarchy.rocks
 glintyglinthaha.mills-family.us
 glisten.complex.abrdns.com
 glitch.zone
-glitched.ert.infotechnology.com
 glitchvpn.app
 glitterproxy.co.cc
 globalapp.info
@@ -14059,7 +14033,6 @@ gmf2.ddns.net
 gmkayandisuck.info.north-kazakhstan.su.cdn.cloudflare.net
 gmodsandbox.com
 gms.gmsgroup.app
-gmsmedia.pics
 gmuforex.co.cc
 gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us
 gn-z11.franscois.co.za
@@ -14345,7 +14318,6 @@ gouzicloud.com
 gouziyunclash.com
 gouziyunjc.com
 gov.canadianlocomotivelogistics.ca
-gov.highways.info
 gov.minds.healthplantender.com
 gov.orion-stella.com
 gov.ovieags.gob.mx
@@ -14485,7 +14457,6 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
-greenssh.org
 greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
@@ -15033,7 +15004,6 @@ hi-xiyou.com
 hi-youyou.com
 hi.gyatt.mooo.com
 hi.hollandweather.net
-hi.infotechnology.com
 hi.mmmcccxxxiii.com
 hi.smasesorias.cl
 hi.usm.oapg.org
@@ -16477,7 +16447,6 @@ innovation-make.co.cc
 innovationroom.space
 innovativelearninghub.com
 inoa.info
-inoainoa.fun
 inobrowse.nz.gs
 inoproxy.com
 inplace.info
@@ -16747,7 +16716,6 @@ iproxy.eu
 iproxy.in
 iproxy.info.tm
 iproxy.l6.org
-iproxy.lol
 iproxybrowser.com
 iproxyme.com
 iproyal.com
@@ -16911,7 +16879,6 @@ iunblockwebsites.com
 iunblockwebsites.info
 iunknown.net
 iunlimit.com
-iuproxy.com
 iuuy.com
 iux3-s.cuiy4trg8fmosya2iip3ci.name
 iuytrewq.com
@@ -16947,7 +16914,6 @@ ixl.com.de
 ixl.com.de.cdn.cloudflare.net
 ixl.com.papillon.cl
 ixl.greenfieldhk.org
-ixl.is.justlearning.net
 ixl.loginalternative.hospitaldelninodif.gob.mx
 ixl.math.hsf.co.za
 ixl.mza.com.ar
@@ -16961,7 +16927,6 @@ ixl.workstations.extra.justlearning.net
 ixlmath-67.web.app
 ixlmath.nembahadurraskoti.com.np
 ixlmathhomework6thgrade.tedfullwood.com
-ixlschoology.justanothersite.net
 ixltutor.neitherneitherbooks.com
 ixmv.com
 ixqd3zy.online
@@ -17025,7 +16990,6 @@ jalisihora.co.cc
 jam12.co.cc
 jamak.info
 jamban.info
-jamesisbald.xyz
 jamessou.jamesferrand.fr
 jamieproxy.co.cc
 jandbcatering.com
@@ -17372,7 +17336,6 @@ jsqsite.com
 jssr.cc
 jstracker.com
 jtunnel.com
-jtyjmkfm.xyz
 jubitel.my
 judgepoint.info
 judua3rtinpst0s.xyz
@@ -18486,7 +18449,6 @@ lenz.bouncers4rent.com
 leo1.info
 leoadguard.duckdns.org
 leochen-dns.ddns.net
-leomarzwebsite.freemath.ch
 leopardo.info
 leoproxy.co.cc
 lersiforex.co.cc
@@ -19178,7 +19140,6 @@ lxpro.info
 ly-1.net
 lyfesinks.com
 lyndonwoohoo.taltonwalker.com
-lyndonyay.darquemusic.com
 lynxvpn.com
 lywsrqs3.xyz
 lyyo.com
@@ -19489,7 +19450,6 @@ math.intasarn.com
 math.internetbowser.com
 math.islife.bostoncareercounselor.com
 math.isreally.pro
-math.learningcenter.edu.dimitriecantemir.ro
 math.midtech.cl
 math.netlab.my.id
 math.robmojka.ru
@@ -19521,7 +19481,6 @@ mathers.elaman.dinprima.ro
 mathgamesarefun.duckdns.org
 mathgeometryalgebralearning.twilightparadox.com
 mathh.img.com.ar
-mathhelp.infotechnology.com
 mathhelp.ugo.si
 mathhelp123.pages.dev
 mathhelp4858.searchgpy.com
@@ -19781,7 +19740,6 @@ mesotheliomadoctorone.co.cc
 mesotheliomaforexforex.co.cc
 mesotheliomaproxy.com
 mesotomiaforex12.co.cc
-message.hmail.us
 message.registration.abrdns.com
 messengerkidz.co.cc
 messiproxy.co.cc
@@ -20481,7 +20439,6 @@ mylinktrain.com
 mylo.h4ck.me
 mylord.care
 mymanias.co.cc
-mymathclass.doriswel.com
 mymoneyfromforex.co.cc
 mymusicas.co.cc
 mymystic.info
@@ -20771,7 +20728,6 @@ nazlimcafe.com
 nb4.info
 nbajersey.net
 nblock.net
-nc.is-now-gay.online
 ncba.info
 ncdmarketing.com
 ncdsb.netlify.app
@@ -21466,7 +21422,6 @@ nougatnano.co.cc
 nova.vg
 nova16.com
 novaenglish.help4bali.org
-novahistory.ibernoticias.com
 novaproxy.com
 novastats.willemvisser.co.za
 novaya.co.cc
@@ -21641,7 +21596,6 @@ nwps.duckdns.org
 nwps.fi
 nxa.21.ax
 nxlinks.com
-nxmevip.justlearning.net
 ny.pramanik.com
 ny.teradns.org
 ny1.nixnet.xyz
@@ -22629,7 +22583,6 @@ penaar.co.cc
 pendrawer.com
 penforex.co.cc
 pengawasproxy.co.cc
-penguin-perfect.land.dragonfruit.su
 penguinproxy.com
 peninsulaeducation.baselinux.net
 penkey82.com
@@ -23574,7 +23527,6 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -26115,7 +26067,6 @@ referringsites.co.cc
 refilli.com
 refl.info
 reflect4.me
-reflexedmentum.eminescusm.ro
 refreforex.co.cc
 refreshing-unlock.co.cc
 refugeurl.info
@@ -26891,7 +26842,6 @@ saturn-math.polezen.bg
 saturnvpn.com
 saudiarabiatime.com
 saudisdumb.lightingonline.co.za
-saugatproxm.justlearning.net
 sauladen.org
 saulgoodman.mooo.com
 save-marriage.co.cc
@@ -27013,7 +26963,6 @@ schoolprpxyfree.co.cc
 schoolprxyme.co.cc
 schoolpunk.com
 schoolrunner.co.cc
-schools.education.pricing.esgemsedu.mx
 schools.tradekinginternational.com
 schoolsblast.co.cc
 schoolscks.co.cc
@@ -28418,11 +28367,9 @@ solariforex.co.cc
 solarsie.com
 solarspace.info
 soleilvpn-app.com
-solgorknh.justlearning.net
 solidlogic.bostoncareercounselor.com
 solidproxy.com
 solidproxy.net
-solidreading.gkihalimun.org
 solidwebproxy.com
 solidwriting.itafricagroup.com
 solobux.com
@@ -29169,7 +29116,6 @@ studyingsocool.justlearning.net
 studyingsofun.smathis.com
 studymate.info
 studypro.info
-studysheets.justlearning.net
 studystuff.bostoncareercounselor.com
 studysurf.com
 studytime.info
@@ -29351,7 +29297,6 @@ support-for.co.cc
 support-unlocksurf.co.cc
 support.atamanco.eu
 support.dingsheng-yule.com
-support.idx.lol
 support.sghub.co.za.twilightparadox.com
 support.synapseitech.com
 support.warning.cx
@@ -30789,7 +30734,6 @@ tianxingwangluojc.com
 tiar.app
 tiarap.org
 tibiabank.com
-ticketeditonv2.donvogler.com
 tickets.blackbearshow.com
 tickets.national-birdshow.com
 ticketto.tk
@@ -32958,7 +32902,6 @@ vcsaontop.bayworld.net
 vcsaxinter.bostoncareercounselor.com
 vcsaxselenite.ms-itsllc.com
 vcsefghfhreesgfdf.dfgrdcfhfgfds.bonded-game.com
-vcxsaprox.gkihalimun.org
 vcxyui.destroyerkisscover.com.br
 vd.i81.ru
 vd0.info
@@ -33209,7 +33152,6 @@ vm.mathfilm.dk
 vm.mytm.cc
 vm1.arashi.solutions
 vm2.arashi.solutions
-vm3421302.firstbyte.club
 vmathpie.com
 vmd45200.contabo.wallura.eu
 vmgo.com
@@ -33662,7 +33604,6 @@ wangibanget.co.cc
 wanitabanget.co.cc
 wanjuwawa.cn
 wannabe.fam.cx
-wano.gscmec.com
 wantaquddin.com
 wanted-mild.co.cc
 wanted-one.co.cc
@@ -33755,7 +33696,6 @@ weaang.co
 wealthypot.com
 weaning.co.cc
 wearecharleykirk.china.is
-weareit.infotechnology.com
 wearejustbored.knowhowit.com.au
 wearerhebeat9e48373.knowhowit.com.au
 wearily.qoeat.com
@@ -34150,7 +34090,6 @@ whosgonnaknow.com
 whoza.com
 why-is-my-popcorn-so-gorilla.easterndns.com
 why.endis.cyou
-why.is.it.my.fault.de-a.org
 whyarewearewhatarewearewhatarewe.dinprima.ro
 whyblocks.com
 whydidtheydoitrosin.olneybaptist.org
@@ -34513,7 +34452,6 @@ www-letsvpn.com
 www-nsc.moebh.me
 www-p.reaper.mx
 www-pa.linkall.uk
-www-plo.declan-reid.me
 www-pro.kosite.net
 www-pro.nolife.uk
 www-proxy.facil.wtf
@@ -38603,7 +38541,6 @@ www.iniz.info
 www.injuryaccident.tk
 www.inkmat.com
 www.inoa.info
-www.inoainoa.fun
 www.inoproxy.com
 www.inplace.info
 www.inprivacy.info
@@ -38883,7 +38820,6 @@ www.joeltheodore.com
 www.joeproxy.com
 www.jofo.info
 www.johnsoninteractive.com
-www.jointeam-c00lkid.today.k.vu
 www.jojoware.com
 www.jot2.info
 www.joyluckcasino.com
@@ -41191,7 +41127,6 @@ www.proxyhaze.com
 www.proxyhediproxys.tk
 www.proxyhelp.org
 www.proxyhelper.com
-www.proxyhero.com
 www.proxyhidden.com
 www.proxyhide.com
 www.proxyhide.info
@@ -42888,7 +42823,6 @@ www.ssltunnel.net
 www.sslunblock.com
 www.sslunblocker.com
 www.ssurell.tk
-www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
@@ -46198,7 +46132,6 @@ yangfsdnei.biz
 yangfuinei.biz
 yanggan.eu.org
 yangjuanjc.com
-yanglini.justlearning.net
 yangzhuchangclash.com
 yangzhuchangjc.com
 yaofan.cc
@@ -46339,7 +46272,6 @@ yomsn.com
 yong.itemdb.com
 yonjasohbet.com
 yoolandenmadeanother.chrismac.org
-yooo.installgentoo.com
 yope.info
 yoproxy.com
 yoreco.com
