@@ -445,7 +445,6 @@
 2.dnscrypt-cert.ffmuc.net
 2.dnscrypt-cert.pumplex.com
 2.thetravelingtourguide.com
-20.luhu.jp
 20010114.xyz
 200779.xyz
 2008.4twenty.us
@@ -1111,7 +1110,6 @@ a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
 a0w0vo0r.langhorne.org
-a1free-optimal.prcdn.net
 a1p.org
 a1vmlfqbzrl8wh.online
 a26.info
@@ -1747,7 +1745,6 @@ adguard.k-likhachev.ru
 adguard.kalyanmudumby.com
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
-adguard.kazantsev97.msk.ru
 adguard.kenzohost.de
 adguard.kiboko.it
 adguard.kitakitsune.xyz
@@ -2824,6 +2821,7 @@ anthonycordova.keybusinessconnection.com
 anti-block.com
 anti-login.co.cc
 antiagers.net
+antiblock.net
 antiblockfast.co.cc
 antiblok.com
 anticache.com
@@ -4317,7 +4315,6 @@ bigantfarm.thejeremybecker.com
 bigbadmirror.appspot.com
 bigbang.pics
 bigbang.pics.cdn.cloudflare.net
-bigbootyben.pettica.com
 bigboys.info
 bigbugpoppearblack.super-modding.quest
 bigcities.tk
@@ -5599,7 +5596,6 @@ canvas-math-tools.web.app
 canvas-signup-rn.shela.nu
 canvas.2028.cl
 canvas.com.primeflk.ch
-canvas.fundacioncidea.org.ar
 canvas.homeonthewater.com
 canvas.mom
 canvasarts.org
@@ -5883,7 +5879,6 @@ censortracker.github.io
 censortracker.org
 censurfridns.dk
 centenario.info
-center.k12.mo.us.nx.tc
 center.k12.mo.us.surfnet.ca
 center.k12.mo.us.tornotluk.in
 center.k12.mo.us.vr.lt
@@ -9021,7 +9016,6 @@ dns.neubsi.at
 dns.neutopia.org
 dns.nextdns.io
 dns.ngc7331.top
-dns.nguyendangduong.codes
 dns.nguyendn.com
 dns.nhtsky.com
 dns.niccoli.cc
@@ -9031,7 +9025,6 @@ dns.nieto.app
 dns.nietostuff.com
 dns.niffelen.com
 dns.nikolagjorgjijoski.com
-dns.nimzero.fr
 dns.ningkelle.id
 dns.ninhs.org
 dns.njal.la
@@ -9666,7 +9659,6 @@ doclash.net
 docoja.com
 docomet.com
 docs-ayucloud.com
-docs.quiz-me.org
 docsurf.nz.gs
 doctorbrobotnik.com
 doctorfind.co.cc
@@ -9701,7 +9693,6 @@ dog1.info
 dogalaxy.net
 dogcloud.co
 doge.lamplifesteal.xyz
-doge.quipasur.cl
 dogebynirb.winkel.com.ar
 dogenshin.com
 dogeub-v4-mu-nine.vercel.app
@@ -10303,7 +10294,6 @@ drive.google.com.exid.me
 drive.google.com.geobattery.com
 drive.google.com.hs.vc
 drive.google.com.htpc.cl
-drive.google.com.mikata.ru
 drive.google.com.pacl.us
 drive.google.com.rapide.fi
 drive.google.com.uitgavepatroon.nl
@@ -10945,7 +10935,6 @@ endis.bar
 endis.furryporn.pics
 endis.halfwaythere.ca
 endis.is.goat.spacejamhd.com
-endis.niggersbigballs.xyz
 endis.org
 endis.org.cdn.cloudflare.net
 endis.org.discord.strangled.net
@@ -11012,7 +11001,6 @@ eouforex.co.cc
 eowsh.info
 epfeel.com
 epicbrowser.com
-epicgrammar.quipasur.cl
 epicproxies.com
 epicrisis.luminiferous.abrdns.com
 episenforex.co.cc
@@ -12743,7 +12731,6 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 fraction.ws
 fral.info
-framebridge.photo-frame.com
 framenetworld.co.cc
 france-alarme-nord.fr
 france99.com
@@ -13764,10 +13751,7 @@ getcloak.com
 getcrushes-point.co.cc
 getdnsapi.net
 getdomain.tk
-getepic.com.student.xyz.fern.is.underrated.ngl.mooo.com
-getepic.com.student.xyz.frogies.arcade.learnelamathsocialstudes.mooo.com
 getepic.com.student.xyz.galaxys.tuff.ahh.mooo.com
-getepic.com.student.xyz.pls.unbl0ck.aboutblank.mooo.com
 getexpress-vpn.company
 getfastest.co.cc
 getflclash.org
@@ -14626,7 +14610,6 @@ gyava.me
 gyd01.dnscry.pt
 gye01.dnscry.pt
 gyhujikhuhu.easterndns.com
-gym.clas.swork.networkindia.com
 gymarab.com
 gyny.info
 gytzedhbi.ipv64.net
@@ -16548,7 +16531,6 @@ interstellar-ac.ipv64.net
 interstellar-ad.dynipv6.de
 interstellar-avb.pages.dev
 interstellar-contribs.pages.dev
-interstellar.by-nana.polishmc.pl
 interstellar.nana.alyaf.com
 interstellar.nana.mza.com.ar
 interstellar.nana.psgl.cl
@@ -16691,6 +16673,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -17224,7 +17207,6 @@ jobsmonster.co.cc
 jobworker.co.cc
 joczxcrdycxbhslwzu.online
 joebidenisgay.giize.com
-joeltheodore.com
 joeproxy.com
 joesproxy.crabdance.com
 jofo.info
@@ -17589,7 +17571,6 @@ kawanen.co.cc
 kawpad.southeastasia.cloudapp.azure.com
 kaxy.com
 kaydeolib.io
-kaylaontop.malskoy-med.ru
 kayleesickfern.gleeze.com
 kaz.lamplifesteal.xyz
 kazadverts.org
@@ -18317,7 +18298,6 @@ learn.math.vidalinux.com
 learn.myclarevision.com
 learn.neweconomics.net.nz
 learn.piano.workoutlawyers.com
-learn.protena.ro
 learn.readymindit.com
 learn.space.my333.space
 learn.vcsa.superportret.ru
@@ -19668,7 +19648,6 @@ meganerd.nl
 megapiranha.co.cc
 megaprox.info
 megaproxy.asia
-megaproxy.biz
 megaproxy.com
 megaproxy.com.ar
 megaproxy.info
@@ -19691,7 +19670,6 @@ meinforex.co.cc
 meinu.de
 meiyingclash.com
 mekakat.tk
-mel-au.prcdn.net
 mel01.dnscry.pt
 melen.net
 melindaproxy.co.cc
@@ -19794,7 +19772,6 @@ miaonajc.com
 miaoyungw.com
 mibearin.startlogic.com
 micantosh.co.cc
-michelo.line.pm
 michiganproxy.com
 mickedi.isgood.host
 mickeforex.co.cc
@@ -19963,7 +19940,6 @@ mlst-prom-static.b-cdn.net
 mlst-static.b-cdn.net
 mm.unstop.cloudns.ch
 mmhd.net
-mmnoo.xyz
 mmproxy.com
 mnl01.dnscry.pt
 mnsvless.ikwb.com
@@ -20471,10 +20447,7 @@ myproxified.info
 myproxy.ca
 myproxy.co7.us
 myproxy.com
-myproxy.help
 myproxy.info
-myproxy.link
-myproxy.lol
 myproxy.net
 myproxy.org
 myproxy.p9.org
@@ -20643,7 +20616,6 @@ nana.rammer.apirent.cl
 nana.rammer.boiso.ar
 nana.rammer.govt.hu
 nana.rammer.psgl.cl
-nana.rammerhead.polishmc.pl
 nana.rh-1.govt.hu
 nana.utopia.psgl.cl
 nano-proxy.github.io
@@ -21377,7 +21349,6 @@ nostol.com
 not-limited.co.cc
 not-masons-games.work.gd
 not-nasa.pages.dev
-not-that-lazy-tho.luanngo.ca
 notbite.co.cc
 notdominospizzeria.fluxus.org
 note.dehb.ru
@@ -21600,7 +21571,6 @@ ny.pramanik.com
 ny.teradns.org
 ny1.nixnet.xyz
 nyacloudjc.com
-nyc-ny-us.prcdn.net
 nyc01.dnscry.pt
 nym.com
 nym.dev
@@ -21695,7 +21665,6 @@ oe7.info
 oeck.com
 oegz.com
 oekaki.us
-oexam.org
 of-klian.com
 of-kuailian.com
 of-letsvpn.com
@@ -22051,7 +22020,6 @@ opennic2.i2pd.xyz
 openoldforexsites.co.cc
 openozforexbrokersite.co.cc
 openproxie.co.cc
-openproxies.com
 openproxy.com
 openproxy.net
 openproxy.space
@@ -22563,7 +22531,6 @@ ped01.dnscry.pt
 peeking.in
 peekproxy.com
 peekvpn.online
-peepod.meicosoft.com
 peer2profit.app
 peer2profit.in
 peets.pro
@@ -22817,7 +22784,6 @@ piotrsobczak.com
 pipebar.com
 pipeto.info
 piphunterforex.co.cc
-pipod.mypics.ca
 pips.kpsn.org
 pipseeker.co.cc
 pipshunter.co.cc
@@ -23527,6 +23493,7 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
+prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -24419,7 +24386,6 @@ proxycredit.ml
 proxycrew.com
 proxycrime.com
 proxycrowd.com
-proxycroxy.site
 proxycroxyid.id
 proxycube.net
 proxycure.co.cc
@@ -26645,7 +26611,6 @@ sacarino.es
 sacr.info
 sacrarium.luminiferous.abrdns.com
 sacredshare.co.cc
-sacsshadow.lavanderiacastillo.cl
 sadihforex.co.cc
 sadnis.com
 sadtunnel.co.cc
@@ -33331,7 +33296,6 @@ vpndaily.com
 vpndajian.com
 vpndefender.com
 vpndeluxe.com
-vpndl.ohuomu.com
 vpndock.com
 vpndog.com
 vpnea.com
@@ -33642,7 +33606,6 @@ watchswissarmy.co.cc
 watchyourside.co.cc
 water-gate.info
 water.heatmypool.com
-water.rabbitforge.xyz
 water1.co.cc
 waterlibrary.com
 watermellons.co.cc
@@ -34075,7 +34038,6 @@ whitetuxedo.co.cc
 whitewaterproxy.co.cc
 whiteway.info
 whizproxy.info
-who.made.the.domain.bro.niggersbigballs.xyz
 whodad.com
 whodagoat.ignorelist.com
 whoer.net
@@ -38900,7 +38862,6 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
-www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
@@ -41127,6 +41088,7 @@ www.proxyhaze.com
 www.proxyhediproxys.tk
 www.proxyhelp.org
 www.proxyhelper.com
+www.proxyhero.com
 www.proxyhidden.com
 www.proxyhide.com
 www.proxyhide.info
@@ -42823,6 +42785,7 @@ www.ssltunnel.net
 www.sslunblock.com
 www.sslunblocker.com
 www.ssurell.tk
+www.ssyj.com
 www.stable360.info
 www.stableproxy.info
 www.stackly.top
@@ -44973,7 +44936,6 @@ www.yrid.com
 www.ysss.info
 www.ytunnel.com
 www.yufe.info
-www.yurj.com
 www.yuze.info
 www.yuzutyan-3.ipv64.net
 www.yvhm.com
@@ -46617,7 +46579,6 @@ zcvss.xyz
 zdn.ro
 zeak.info
 zealforex.co.cc
-zealginjoka.periodico.am
 zearn.buzz
 zearn.buzz.cdn.cloudflare.net
 zebradns.com
