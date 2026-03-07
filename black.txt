@@ -13641,6 +13641,7 @@ gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
 gatewayx.com
+gatewayz.comyr.com
 gatherproxy.com
 gatora.co.cc
 gauforex.co.cc
@@ -22812,7 +22813,6 @@ pi4.jnraptor.net
 piano.goal.the-black-hole.co.uk
 piano.login.mastergolfworld.hk
 piano.think.substruction.net
-piaproxy.com
 piaproxy.net
 piaservers.net
 pibiza.com
@@ -23589,7 +23589,6 @@ prox.pw
 prox.servicemix.pl
 prox.sexypenguins.com
 prox.si
-prox.site90.net
 prox.techgoodness.com
 prox.thegamekiller.com
 prox.transfery.eu
@@ -33160,6 +33159,7 @@ virtualbypass.com
 virtualchem.pro-house.cl
 virtualenglish.verolook.com
 virtualforex.co.cc
+virtualgaming.co
 virtualhide.com
 virtualhistory.primeflk.ch
 virtualip.host.sk
@@ -33925,7 +33925,6 @@ webproxy4free.info
 webproxy4free.ml
 webproxybrowser.com
 webproxyfree.net
-webproxyking.com
 webproxylist.cn
 webproxylist.com
 webproxylist.org
@@ -35906,7 +35905,6 @@ www.browsetool.com
 www.browseunblocked.com
 www.browsezoom.com
 www.browsingatwork.com
-www.browzall.com
 www.browzer.info
 www.bruh.info
 www.brummm.com
@@ -36467,7 +36465,6 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
-www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -40043,6 +40040,7 @@ www.o7c.net
 www.o7t.net
 www.o8t.net
 www.oa9.info
+www.oakproxy.com
 www.oaq.in
 www.ob7.info
 www.ob9.info
@@ -44374,7 +44372,6 @@ www.virtualbay.info
 www.virtualbrowser.com
 www.virtualbrowser.net
 www.virtualbypass.com
-www.virtualgaming.co
 www.virtualhide.com
 www.virtualip.org
 www.virtualpoint.info
@@ -44579,7 +44576,6 @@ www.webproxy4free.ml
 www.webproxyblack.ml
 www.webproxybrowser.com
 www.webproxyfree.net
-www.webproxyking.com
 www.webproxylist.cn
 www.webproxylist.com
 www.webproxylist.org
@@ -44692,7 +44688,6 @@ www.whoer.net
 www.wholeproxy.cf
 www.whopy.com
 www.whosgonnaknow.com
-www.whoza.com
 www.whyblocks.com
 www.whyinsurance.info
 www.whyismysitedown.com
