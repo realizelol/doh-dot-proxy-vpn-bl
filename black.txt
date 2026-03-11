@@ -2709,6 +2709,7 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
+anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -4006,7 +4007,6 @@ best-cooking-recipes.info
 best-deer-861.discovergeographics.com
 best-dev24.mielone.org
 best-dock.surge.sh
-best-domainz.cz.cc
 best-feasible.co.cc
 best-force-734.nowgg.me
 best-interest.co.cc
@@ -5243,7 +5243,6 @@ bushforex.co.cc
 bushmancastle.duckdns.org
 busineesschool.co.cc
 business-integration.online
-business-webfilter.cz.cc
 businessbuilder.info
 businesschaos.com
 businessschool.cc
@@ -14022,6 +14021,7 @@ getmalus.com
 getmalus.net
 getmearound.com
 getmeouthere.co.cc
+getmepast.com
 getmepast.ws
 getmoreproxy.co.cc
 getmyforexsiteback.co.cc
@@ -19479,6 +19479,7 @@ macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
 mad4todo.com
+madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeby-vcsa.ramalhais.com
@@ -19603,6 +19604,7 @@ man.info.north-kazakhstan.su.cdn.cloudflare.net
 man01.dnscry.pt
 manage-accounts.co.cc
 manage.peakconsulting.com.au
+managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -25267,6 +25269,7 @@ proxyresources.com
 proxyreview.net
 proxyrich.co.cc
 proxyride.co.cc
+proxyring.com
 proxyrio.com
 proxyriver.com
 proxyroad.com
@@ -30842,7 +30845,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test.texasmath.org
 test180.ddo.jp
@@ -35544,6 +35546,7 @@ www.allenjones.info
 www.allgamesfree.com
 www.allgreat.info
 www.allhider.com
+www.allin.us
 www.allmyclicks.com
 www.allonline.info
 www.alloon.com
@@ -35655,7 +35658,6 @@ www.anonymat.org
 www.anonymate.com
 www.anonyme.online
 www.anonymhouse.ws
-www.anonymise.com
 www.anonymise.us
 www.anonymiser.com
 www.anonymite.com
@@ -37716,6 +37718,7 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -38133,7 +38136,6 @@ www.gabstorm.com
 www.gadgetsociety.com
 www.gagsface.com
 www.gaidem.biz
-www.gaipai.com
 www.galleri.info
 www.gamblingadventure.com
 www.game678.com
@@ -41012,6 +41014,7 @@ www.problack.info
 www.problock.info
 www.probs.info
 www.probyte.top
+www.procheck.info
 www.procks.com
 www.procksee.com
 www.prockstar.com
@@ -41521,6 +41524,7 @@ www.proxyduchess.info
 www.proxydude.com
 www.proxydude123.tk
 www.proxye.com
+www.proxyeater.com
 www.proxyemails.com
 www.proxyempire.com
 www.proxyempire.net
@@ -43566,7 +43570,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
