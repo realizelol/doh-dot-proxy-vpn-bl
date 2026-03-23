@@ -868,7 +868,6 @@
 66-23-193-126.backname.io
 66-23-193-126.plesk.page
 66-23-193-126.traefik.me
-661.qzz.io
 66jsq.top
 66laomao.com
 66p.info
@@ -1024,7 +1023,6 @@
 8locuezmc1dm219uo.online
 8me.info
 8mgtar.co.cc
-8ml.info
 8mvnbml4uxmm.online
 8o00imq7asda.mooo.com
 8proxy.com
@@ -1100,7 +1098,6 @@
 9s3.net
 9sskdjs.shop
 9thballs.camdvr.org
-9w9.org
 9y2.net
 9yuan.top
 a-4.info
@@ -3069,7 +3066,6 @@ aqix.co.cc
 aqpov.xyz
 aqtforex.co.cc
 aqua-proxy.co.cc
-aqua.bastaff.ru
 aqua.is.my.waifu.cz
 aquaproxy.com
 aquasurf.co.cc
@@ -5432,7 +5428,6 @@ bypassthe.net
 bypassthefilters.info
 bypassthefirewall.co.cc
 bypasstmsforexbrokers.co.cc
-bypasstunnel.com
 bypassunblockinfo.tk
 bypassunblocktkgl.tk
 bypassurl.com
@@ -8440,7 +8435,6 @@ dns-sjc.imo.im
 dns-telkominfra.disacloud.com
 dns-three.lins.co.tt
 dns-tls.bitwiseshift.net
-dns-tunnel-check.googlezip.net
 dns-uk.puregeni.us
 dns-uk.su4ka.icu
 dns-unfiltered.adguard.com
@@ -10309,7 +10303,6 @@ douyunjiasugw.com
 douyunjiasujc.com
 dovanvu.top
 dove.soapagent.com
-dove.soapclient.com
 doveeeapp.com
 dovepocket.3owl.com
 dovypr.com
@@ -10446,6 +10439,7 @@ dropshit.co.cc
 droptop.co.cc
 drotalflow.in
 drovanel.ru
+droyd.top
 drprox.com
 drproxy.net
 drpruxy.net
@@ -10787,7 +10781,6 @@ eddyaugie4ever.info.north-kazakhstan.su.cdn.cloudflare.net
 edgar.tobkar.net
 edge-intl.ygjs.org
 edge-invite.com
-edge-v6x.v6.rocks
 edge-x.cloud
 edgeaccelerator.space
 edgeaccelerator.website
@@ -14309,7 +14302,6 @@ gogoo.cyou
 goguardian-is-ass.oneuniversity.info
 goguardian-is-not-my-guardian.easterndns.com
 goguardian-vs-iboss.com.crabdance.com
-goguardian.broomleigh.org
 goguardianlearning.shela.nu
 goguardianyouaremakingmemad.staglin.hr
 gogurdianw9e7disjw3iehei.thepresenttraveller.com
@@ -14811,7 +14803,6 @@ gwait.com
 gwforex.co.cc
 gwopboyded.com
 gwps.duckdns.org
-gyaaat.strangled.net
 gyatt.networkguru.com
 gyattmath.buzz
 gyattmath.buzz.cdn.cloudflare.net
@@ -14847,7 +14838,6 @@ hacingfun.co.cc
 hack-in-sms.renaceracs.xyz
 hack72.2ch.net
 hacked-sites.graphicon.org
-hackedsites.bastaff.ru
 hacker-from-sms.renaceracs.xyz
 hackkcah.com
 hackkcah.xyz
@@ -16129,7 +16119,6 @@ hustejweb.cz.linux17.ignum.cz
 hustleproxy.com
 hustlersforum.com
 hustlersgame.com
-hustlersuniversity.pro
 hut4.info
 hutao.cloud
 hutbanyumas.co.cc
@@ -16326,7 +16315,6 @@ idet.info
 ididabig.poo.li
 idiotforex.co.cc
 iditinahuipidorasidagga.net
-idk.7btech.com
 idk.komanda.cl
 idk.lol-fr.bostoncareercounselor.com
 idkkilo.accesscam.org
@@ -16649,7 +16637,6 @@ innovation-make.co.cc
 innovationroom.space
 innovativelearninghub.com
 inoa.info
-inoainoa.fun
 inobrowse.nz.gs
 inoproxy.com
 inplace.info
@@ -16880,6 +16867,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -16889,7 +16877,6 @@ ipoac.nl
 ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
-iportal.me
 ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
@@ -16899,7 +16886,6 @@ ipproxy.net
 ipracevpn.com
 ipredator.se
 iprivacy.info
-iprivatevpn.com
 iprive.com
 iprobot.info
 iprolink.ch
@@ -18491,7 +18477,6 @@ law.gajai.com
 lawduiattorney.co.cc
 lawean.co.cc
 lawlemonwisconsinforex.co.cc
-lawless-zone.v6.rocks
 lawmaster.co.cc
 lawmoot.co.cc
 lawquiz.info
@@ -18992,7 +18977,6 @@ litecamp.co.cc
 litelium.com
 liteproxy.com
 literacyadventures.com
-literally.info
 litespeedstuff.co.cc
 litiforex.co.cc
 litsforex.co.cc
@@ -19342,7 +19326,6 @@ lunqaro.ru
 lunwen.com.ru
 lunwenyi.cn
 lureproxy.co.cc
-lurk.info
 lusaka.ws
 lusefage.korunovacneslavnosti.sk
 lustlaube.de
@@ -20099,7 +20082,6 @@ minecraft.info.north-kazakhstan.su.cdn.cloudflare.net
 minfree.com
 mingsrang.co.cc
 minhphamr.pagostepeapulco.gob.mx
-mini88773.703.jp
 minicoopercar.co.cc
 minilla.store
 minio.kaglobal.club
@@ -22102,7 +22084,6 @@ onion.dog
 onion.lesec.dedyn.io
 onion.link
 onion.lt
-onion.lu
 onion.ly
 onion.nu
 onion.pet
@@ -24548,7 +24529,6 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
-proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -24722,7 +24702,6 @@ proxyduchess.info
 proxydude.com
 proxydude.red
 proxydude.xyz
-proxyduke.lol
 proxydungeon.co.cc
 proxye.com
 proxyeater.com
@@ -25172,7 +25151,6 @@ proxyresources.com
 proxyreview.net
 proxyrich.co.cc
 proxyride.co.cc
-proxyring.com
 proxyrio.com
 proxyriver.com
 proxyroad.com
@@ -27231,7 +27209,6 @@ schoolife.info
 schoolinfo.info
 schoolip-changed.co.cc
 schoolisamazing.chickenkiller.com
-schooliscool.bastaff.ru
 schoolkey.info
 schoollunch.info
 schoolmasti.co.cc
@@ -28131,7 +28108,6 @@ significant-value.co.cc
 signlaproxy.co.cc
 signsservers.ru
 signup-express-vpn.guru
-signup.soapclient.com
 silent-surf.com
 silentproxy.com
 silentread.com
@@ -28379,7 +28355,6 @@ slan.info
 slapadmin.com
 slash.zimpi.com
 slaughterblog.com
-slayer2wild.dynv6.net
 slayerseducation.dinprima.ro
 slc01.dnscry.pt
 sleds.manutec.dinprima.ro
@@ -30622,7 +30597,6 @@ tech-fast.co.cc
 tech.deants.com
 tech.undo.it
 tech.vcsa.alcrb.ru
-tech.vocab.nucktech.com
 tech59.com
 techblogs.info
 techcloak.com
@@ -33003,7 +32977,6 @@ usztoday.com
 ut0pia-web.easterndns.com
 utahdoc.com
 utale.snowdin.wiki.gd
-utauloid.space
 uto2.my.to
 utoob.co.cc
 utopia.halfwaythere.ca
@@ -34192,7 +34165,6 @@ webproxy4free.info
 webproxy4free.ml
 webproxybrowser.com
 webproxyfree.net
-webproxyking.com
 webproxylist.cn
 webproxylist.com
 webproxylist.org
@@ -34560,7 +34532,6 @@ wise-lion-563.biologyscholar.org
 wise-wind-366.conwordable.com
 wisebychance.com
 wiseghostapp.com
-wisehomeguard.duckdns.org
 wiselines.lebrija.org
 wisewebsite.com
 wish.i.knew.webconstructions.co.uk
@@ -34599,7 +34570,6 @@ wof.wtf
 wokasn.com
 wokos.com
 wolf-zone.dns.army
-wolfzone.dns.army
 wolm.info
 wolu.info
 wolun444.com
@@ -34786,7 +34756,6 @@ wwv.netwealthy.net
 wwv.travelfollow.com
 wwv.ushostonline.com
 www-admin.mehtionthebeat.com
-www-bruh.xenon.lol
 www-croxy.ghgi.site
 www-letsvpn.com
 www-nsc.moebh.me
@@ -35500,7 +35469,6 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
-www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -36736,7 +36704,6 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
-www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -38881,7 +38848,6 @@ www.iniz.info
 www.injuryaccident.tk
 www.inkmat.com
 www.inoa.info
-www.inoainoa.fun
 www.inoproxy.com
 www.inplace.info
 www.inprivacy.info
@@ -40454,6 +40420,7 @@ www.opengw.net
 www.openherbs.com
 www.openmore.info
 www.openpreanalysis.tk
+www.openproxies.com
 www.openproxy.com
 www.openproxy.net
 www.openproxylist.com
@@ -43466,7 +43433,6 @@ www.surfsneaker.com
 www.surfsneaker.tk
 www.surfspot.info
 www.surfstick.info
-www.surfstock.info
 www.surfstripe.com
 www.surfunlock.com
 www.surfunlocked.com
@@ -44843,7 +44809,6 @@ www.webproxy4free.ml
 www.webproxyblack.ml
 www.webproxybrowser.com
 www.webproxyfree.net
-www.webproxyking.com
 www.webproxylist.cn
 www.webproxylist.com
 www.webproxylist.org
