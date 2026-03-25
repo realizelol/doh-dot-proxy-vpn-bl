@@ -868,7 +868,6 @@
 66-23-193-126.backname.io
 66-23-193-126.plesk.page
 66-23-193-126.traefik.me
-661.qzz.io
 66jsq.top
 66laomao.com
 66p.info
@@ -8715,6 +8714,7 @@ dns.dns-heimdall.com
 dns.dnsguard.pub
 dns.dnshome.de
 dns.dnsoverhttps.net
+dns.dnssilo.top
 dns.dnswarden.com
 dns.dooks.uk
 dns.doserver.top
@@ -26408,6 +26408,7 @@ remove.flight.abrdns.com
 removeban.com
 removefilters.net
 removehim.kozow.com
+removethatwall.comuv.com
 renaissance-go.de.com
 renali.info
 renalla.sparks.ddns-ip.net
@@ -26800,6 +26801,7 @@ rrrtytrtghytrfh.eminescusm.ro
 rs.gmsgroup.app
 rselite.com
 rslv.nop.mobi
+rsocks.net
 rt.http3.lol
 rt5rw3.co.cc
 rtun.info
@@ -27002,6 +27004,7 @@ sage.area.modeemi.net
 saharanet.co.cc
 sahclub.lx.ro
 sahi.uk
+saidah10.comze.com
 sailing.ink
 sailingnet.pro
 sailsurf.co.cc
@@ -43442,6 +43445,7 @@ www.surfsneaker.com
 www.surfsneaker.tk
 www.surfspot.info
 www.surfstick.info
+www.surfstock.info
 www.surfstripe.com
 www.surfunlock.com
 www.surfunlocked.com
