@@ -15921,7 +15921,6 @@ hostapp.info
 hostbabies.co.cc
 hostdare.qtxd.net
 hostedadguard.greatharts.com
-hostedweb.info
 hosteg.net
 hosteria.org
 hosterzall.co.cc
@@ -18069,7 +18068,6 @@ kingdomhearts.me
 kingdomproxy.gq
 kingofproxies.com
 kingofthemountains.co.cc
-kingsproxy.com
 kingsurf.co.cc
 kingsurfproxy.com
 kingtech.info
@@ -25904,7 +25902,6 @@ qewqew.estamoson.pt
 qgdw.com
 qgfo.com
 qh.cheftayebeh.ir
-qhah.com
 qhqi.top
 qianmingwei.cn
 qianmo.tw
@@ -30849,6 +30846,7 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
+test.net46.net
 test.privatenode.ru
 test.texasmath.org
 test180.ddo.jp
@@ -31807,7 +31805,6 @@ tuneupsurf.co.cc
 tungdnsne.duckdns.org
 tungtsbn2000.viewdns.net
 tuning.tr.cc
-tunis-proxy.gtx.fr
 tunisistan.appspot.com
 tunn.info
 tunnel-webproxyips.tk
@@ -34342,7 +34339,6 @@ webproxy4free.info
 webproxy4free.ml
 webproxybrowser.com
 webproxyfree.net
-webproxyking.com
 webproxylist.cn
 webproxylist.com
 webproxylist.org
@@ -35270,7 +35266,6 @@ www.4love.info
 www.4proxy.com
 www.4proxy.de
 www.4proxy.info
-www.4ra.net
 www.4ri.com
 www.4ri.net
 www.4tb.info
@@ -36377,7 +36372,6 @@ www.bueno.in
 www.buildingservice.ru
 www.buka.link
 www.bulkproxy.com
-www.bulletproxy.com
 www.bulleye.com
 www.bullpop.com
 www.bullspeed.tk
@@ -37795,7 +37789,6 @@ www.flufs.com
 www.flugg.com
 www.fly24.net
 www.flyproxy.com
-www.flyproxy.info
 www.fo-h.com
 www.fogxy.com
 www.fomme.com
@@ -41550,6 +41543,7 @@ www.proxyduchess.info
 www.proxydude.com
 www.proxydude123.tk
 www.proxye.com
+www.proxyeater.com
 www.proxyemails.com
 www.proxyempire.com
 www.proxyempire.net
@@ -43641,7 +43635,6 @@ www.surfsneaker.com
 www.surfsneaker.tk
 www.surfspot.info
 www.surfstick.info
-www.surfstock.info
 www.surfstripe.com
 www.surfunlock.com
 www.surfunlocked.com
