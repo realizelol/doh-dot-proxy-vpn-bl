@@ -207,7 +207,6 @@
 1195409979.rsc.cdn77.org
 11vz.com
 12-21-2012.org
-1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -4960,6 +4959,7 @@ bravedns.com
 bravetrait.com
 brazilproxy.com
 brazilproxy.info
+brd-sdk-app-packages.s3.amazonaws.com
 bre01.dnscry.pt
 breachit.com
 break-adjusted.co.cc
@@ -5476,7 +5476,6 @@ bzndkv.route64.de
 bzrkicrc.online
 bzuforex.co.cc
 bzzq.com
-c-asm.circumitor.de
 c-kailian.com
 c-kuailian.com
 c-rm.circumitor.de
@@ -7273,7 +7272,6 @@ currency-war.co.cc
 currencysurfsbrowstkgs.tk
 currencytrading.tk
 cursedearth.co.cc
-curser.dev
 curses.cloud
 curvita.co.cc
 cury.info
@@ -9105,7 +9103,6 @@ dns.marbledfennec.net
 dns.marcbond.uk
 dns.marschi.de
 dns.mateo.ovh
-dns.mathewakhil.online
 dns.matthias-prost.com
 dns.maxte7.xyz
 dns.maybe.icu
@@ -9164,7 +9161,6 @@ dns.myadguard.top
 dns.mymachinepanda.online
 dns.mymanga.pro
 dns.mysvc.de
-dns.mytest.cc
 dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
@@ -9239,6 +9235,7 @@ dns.ostfriese.org
 dns.oszx.co
 dns.otezz.net
 dns.ourvau.lt
+dns.ovpn.bond
 dns.ovpss.top
 dns.ozgo.info
 dns.p3k.sk
@@ -9362,7 +9359,6 @@ dns.schimtar.com
 dns.schlagheck.berlin
 dns.schmidt-zoarn.de
 dns.scott-smith.us
-dns.scott.ovh
 dns.sct-pro.com
 dns.scuola.org
 dns.seaotter.cc
@@ -18430,6 +18426,7 @@ kyotocatholicchurch.myogaya.jp
 kytx.co.cc
 kz-alm-w-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
+l-cdn.com
 l-gayte.net
 l-t.us
 l.global.ssl.fastly.net
@@ -19452,11 +19449,9 @@ lz3nwoz.online
 m-1-11-3w5hsuiikq-ez.a.run.app
 m-1-12-3w5hsuiikq-ez.a.run.app
 m-3-3w5hsuiikq-ma.a.run.app
-m-asm.circumitor.de
 m-cm.circumitor.de
 m-itc.be
 m-proxy.orgfree.com
-m-rm.circumitor.de
 m.aproxy.nut.cc
 m.athislife.bostoncareercounselor.com
 m.nop.mobi
@@ -20179,6 +20174,7 @@ minecraft.info.north-kazakhstan.su.cdn.cloudflare.net
 minfree.com
 mingsrang.co.cc
 minhphamr.pagostepeapulco.gob.mx
+mini88773.703.jp
 minicoopercar.co.cc
 minilla.store
 minio.kaglobal.club
@@ -24197,6 +24193,7 @@ proxy-site.net
 proxy-sniffer.com
 proxy-sock.com
 proxy-software.com
+proxy-sosavpn.ru
 proxy-speed.com
 proxy-store.com
 proxy-suport.co.cc
@@ -25343,6 +25340,7 @@ proxysf.com
 proxysh.co.cc
 proxyshack.com
 proxyshade.com
+proxyshare.app
 proxyshare.com
 proxyshareholders.co.cc
 proxyshark.com
@@ -27501,7 +27499,6 @@ sdmvipaff.cc
 sdns.233py.com
 sdns.uplenk.com
 sdns.zakaria.website
-sdns22.gkonuralp.com
 sdproxy.com
 sdtc.info
 sdtfghjbnm.152-53-136-204.plesk.page
@@ -29432,6 +29429,8 @@ storageschool.co.cc
 storagestreet.co.cc
 storefront.ink
 storie.info
+storj.io
+storjshare.io
 stormblck.co.cc
 storming-band.co.cc
 stormproxies.com
@@ -30696,6 +30695,7 @@ taoqituclash.com
 taoqitujichang.com
 taoqitussr.com
 tapor.com
+tardigrade.io
 targetforex.co.cc
 targetsurf.co.cc
 tarni.pp.ua
@@ -34736,6 +34736,7 @@ wkor3yiac4.com
 wlan.0815cloud.de
 wlobby.com
 wlvpn.com
+wlyo.com
 wmhctvlu.sailforeducation.org
 wmm.com.ru
 wmqbjq.cn
@@ -34961,6 +34962,7 @@ www-proxy.kokecoco.me
 www-proxy.konstl01.xyz
 www-proxy.ladifsoftware.com
 www-proxy.lovekeli.uk
+www-proxy.midoghanam.site
 www-proxy.migastep.com
 www-proxy.p2pear.asia
 www-proxy.pyxelworld.com
@@ -35677,7 +35679,6 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
-www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -37743,6 +37744,7 @@ www.firefoxanonymizer.com
 www.firehack.net
 www.fireprox.com
 www.fireprox.net
+www.fireproxy.com
 www.firewalldown.com
 www.firewallfilter.com
 www.firewallpass.com
@@ -38054,7 +38056,6 @@ www.freewatch.info
 www.freeweb4-4proxy.tk
 www.freewebproxy.asia
 www.freewebproxy.cn
-www.freewebproxy.com
 www.freewebproxy.info
 www.freewebproxy.net
 www.freewebproxy.org
@@ -38965,6 +38966,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -39411,6 +39413,7 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
+www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
@@ -40807,7 +40810,6 @@ www.phonepr.com
 www.phonyip.com
 www.photographco.com
 www.php-proxy.net
-www.php15.com
 www.phpbido.com
 www.phpmodel.info
 www.phpmyproxy.com
