@@ -95,7 +95,6 @@
 0jp.com
 0ke.nl
 0ms.dev
-0n0fzcp.online
 0nm.info
 0olnsejxo1cbravdmlarpeb.online
 0on.info
@@ -211,8 +210,6 @@
 121pr.gq
 1228.org
 123-24.eport.gr
-123-proxy.net
-123-proxy.org
 123.kissfree.net
 123000123.xyz
 123123.co.il
@@ -248,7 +245,6 @@
 123proxy.cool
 123proxy.eu
 123proxy.info
-123proxy.me
 123proxygod.info
 123prxy.co.cc
 123roms.com
@@ -380,7 +376,6 @@
 1dns.dev
 1dot1dot1dot1.cloudflare-dns.com
 1ee.top
-1eeqfdye1cecpqc.online
 1ef5be51a2d8d5dfe81bc2d6b620e377fb73846c.com
 1f47epzt.online
 1f4832d80bf373568e78d5911735d041df4c617d.com
@@ -408,7 +403,6 @@
 1proxy.us
 1proxylist.com
 1ps2.com
-1pxbs8xsmyox.online
 1qaz.de
 1qudbw7oug.duckdns.org
 1reg.info
@@ -1082,7 +1076,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9bb.net
 9dk3mztl0wqg5rnb8yvf2ehujxs7i4cpqa6omb1tdgklfuxvy.frtala.sk
@@ -9102,6 +9095,7 @@ dns.marbledfennec.net
 dns.marcbond.uk
 dns.marschi.de
 dns.mateo.ovh
+dns.mathewakhil.online
 dns.matthias-prost.com
 dns.maxte7.xyz
 dns.maybe.icu
@@ -13586,7 +13580,6 @@ funisthepants.info
 funmathgames.ddnsfree.com
 funmathgames.freeddns.org
 funmoney.co.cc
-funnow.info
 funny-white-elephant.zone.id
 funnyaisite.org
 funnypass.co.cc
@@ -14117,7 +14110,6 @@ ggsd.easterndns.com
 gguforex.co.cc
 ggyi.com
 ghadrboland.ir
-ghanau.uk
 ghdysd.xyz
 ghjkkljdgchjk.dfghjkjjhgfcvbjm.searchegpt.com
 ghost-town.partedu.club
@@ -18583,6 +18575,7 @@ layoutfly.com
 lazerprxy.co.cc
 lboxtv.top
 lc.fibersurf.co.cc
+lcproxy.com
 ldaman.duckdns.org
 le-mesle.fr
 le-numerique.fr
@@ -19434,7 +19427,6 @@ lv1.nixnet.xyz
 lv3.info
 lvejbaqzj4v1xupusybd.online
 lvhezi.cn
-lvpn.2rdp.ru
 lvpqirhbat.castroyasociados.cl
 lwce.org
 lwhjszcnzjhz.site
@@ -26528,7 +26520,6 @@ remove.flight.abrdns.com
 removeban.com
 removefilters.net
 removehim.kozow.com
-removethatwall.comuv.com
 renaissance-go.de.com
 renali.info
 renalla.sparks.ddns-ip.net
@@ -27463,7 +27454,6 @@ scottdylewski.com
 scrabble.zzdhk.com
 scrapbooking-directory.com
 scrapebomb.co.cc
-scratchdevfourums.5a3bz.cn
 screw-school-blockers.co.cc
 screwpushed.co.cc
 scriptdigitalproxy.co.cc
@@ -27497,6 +27487,7 @@ sdmvipaff.cc
 sdns.233py.com
 sdns.uplenk.com
 sdns.zakaria.website
+sdns22.gkonuralp.com
 sdproxy.com
 sdtc.info
 sdtfghjbnm.152-53-136-204.plesk.page
@@ -30842,7 +30833,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test.texasmath.org
 test180.ddo.jp
@@ -30916,6 +30906,7 @@ the-biggest.co.cc
 the-blackswan.co.cc
 the-cloak.com
 the-comfort.co.cc
+the-core.info
 the-crypt.ws
 the-customize.co.cc
 the-firewall.com
@@ -32696,7 +32687,6 @@ unblockyoutubeatschool.com
 unblockyoutubefree.net
 unblockyoutubeproxy.com
 unblockytproxy.com
-unblockz.com
 unblockz.hu.tl
 unblockzone.com
 unbloka.hu.tl
@@ -34932,7 +34922,6 @@ www-8.shaammy.ir
 www-admin.mehtionthebeat.com
 www-crizzler.stilxvr.com
 www-croxy.ghgi.site
-www-fp.jkw.st
 www-learn.wafflenetwork.net
 www-letsvpn.com
 www-lud.monkey3three.com
@@ -35342,6 +35331,7 @@ www.8ce.org
 www.8day.info
 www.8hj.org
 www.8me.info
+www.8ml.info
 www.8proxy.com
 www.8proxy.info
 www.8xl.net
@@ -40479,7 +40469,6 @@ www.o7c.net
 www.o7t.net
 www.o8t.net
 www.oa9.info
-www.oakproxy.com
 www.oaq.in
 www.ob7.info
 www.ob9.info
@@ -40805,6 +40794,7 @@ www.phonepr.com
 www.phonyip.com
 www.photographco.com
 www.php-proxy.net
+www.php15.com
 www.phpbido.com
 www.phpmodel.info
 www.phpmyproxy.com
@@ -41030,6 +41020,7 @@ www.problack.info
 www.problock.info
 www.probs.info
 www.probyte.top
+www.procheck.info
 www.procks.com
 www.procksee.com
 www.prockstar.com
@@ -45118,6 +45109,7 @@ www.whoer.net
 www.wholeproxy.cf
 www.whopy.com
 www.whosgonnaknow.com
+www.whoza.com
 www.whyblocks.com
 www.whyinsurance.info
 www.whyismysitedown.com
