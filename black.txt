@@ -8746,6 +8746,7 @@ dns-sjc.imo.im
 dns-telkominfra.disacloud.com
 dns-three.lins.co.tt
 dns-tls.bitwiseshift.net
+dns-tunnel-check.googlezip.net
 dns-uk.puregeni.us
 dns-uk.su4ka.icu
 dns-unfiltered.adguard.com
@@ -10500,6 +10501,7 @@ doorcar92.com
 doordoor.co.cc
 doorhole.com
 doorigin.net
+doorkey82.com
 doorphone92.com
 doorstep-surf.co.cc
 doorworld.info
@@ -13550,6 +13552,7 @@ freeproxy.info
 freeproxy.io
 freeproxy.joshjaques.com
 freeproxy.me
+freeproxy.net
 freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
@@ -14639,6 +14642,7 @@ gmf2.ddns.net
 gmkayandisuck.info.north-kazakhstan.su.cdn.cloudflare.net
 gmodsandbox.com
 gms.gmsgroup.app
+gmsmedia.pics
 gmuforex.co.cc
 gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us
 gn-z11.franscois.co.za
@@ -20794,6 +20798,7 @@ mexi.rest
 mexi.rest.cdn.cloudflare.net
 meyouus.info
 mezy.net
+mezzy.com
 mfhermkp.cc
 mfimail.eu
 mglife.net
@@ -22358,6 +22363,7 @@ nllfhczq.cc
 nlproxy.com
 nmrirxrs.com
 nnicroanalysis.com
+nnnnn.info
 nntime.com
 no-block-ever.co.cc
 no-carbon.info
@@ -24483,6 +24489,7 @@ poxi.info
 poxi.mazi.us
 poxi.milf.to
 poxi.modx.ch
+poxi.mp3s.be
 poxi.oci.biz
 poxi.pwnd.ru
 poxi.raya.be
@@ -24577,7 +24584,6 @@ prep.brain.mymiddlebury.com
 prep.data.marieblazek.com
 prep.ela.okoloko.one.pl
 prep.skills.stabbed.me
-preparation.comli.com
 prepare-fix.co.cc
 preparetaxes.co.cc
 preparing-visit.co.cc
@@ -28172,6 +28178,7 @@ safewebing.com
 safewebsurfing123.co.cc
 safeworldpay.com
 safing.io
+sagamihara.dynv6.net
 sage.area.modeemi.net
 sagrantapp.com
 saharanet.co.cc
@@ -29556,6 +29563,7 @@ slan.info
 slapadmin.com
 slash.zimpi.com
 slaughterblog.com
+slayer2wild.dynv6.net
 slayerseducation.dinprima.ro
 slc01.dnscry.pt
 sleds.manutec.dinprima.ro
@@ -32017,6 +32025,7 @@ the-biggest.co.cc
 the-blackswan.co.cc
 the-cloak.com
 the-comfort.co.cc
+the-core.info
 the-crypt.ws
 the-customize.co.cc
 the-firewall.com
@@ -36286,6 +36295,7 @@ www-theweb.deersserverhosting.com
 www-vpn.52oupa.com
 www-web.sshub.win
 www-web.veranon.io
+www-webprxsvc.drewcotech.com
 www-www.linguafuse.com
 www-yt.nikooo.ir
 www-yy.in6.to
@@ -39296,6 +39306,7 @@ www.freeproxyking.com
 www.freeproxyline.com
 www.freeproxylinks.com
 www.freeproxylist.org
+www.freeproxylists.com
 www.freeproxylists.net
 www.freeproxyserver.ca
 www.freeproxyserver.com
@@ -41669,6 +41680,7 @@ www.nity.info
 www.njfpy.com
 www.nkac.pl
 www.nlproxy.com
+www.nnnnn.info
 www.nntime.com
 www.no-carbon.info
 www.no-oil.com
@@ -42736,7 +42748,6 @@ www.proxyboss.net
 www.proxybots.com
 www.proxybox.org
 www.proxyboxonline.com
-www.proxyboys.com
 www.proxyboys.net
 www.proxybr.com
 www.proxybridge.cn
@@ -45085,6 +45096,7 @@ www.tgcg.info
 www.th3pr.com
 www.thatproxy.com
 www.the-cloak.com
+www.the-core.info
 www.the-crypt.ws
 www.the-firewall.com
 www.the-thing-proxy.tk
