@@ -209,6 +209,7 @@
 1195409979.rsc.cdn77.org
 11vz.com
 12-21-2012.org
+1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -1109,7 +1110,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9b1c27beccb631169b1533c65cca8246.top
 9bb.net
@@ -2774,6 +2774,7 @@ anonymat.org
 anonymate.com
 anonyme.online
 anonymhouse.ws
+anonymise.com
 anonymise.us
 anonymiser.co.uk
 anonymiser.com
@@ -8541,7 +8542,6 @@ digital.905tech.com
 digital.demak.org
 digital.hoai.org
 digital.hoard.com
-digital.inlove.be
 digital.novafree.net
 digital.now.im
 digital.petrix.net
@@ -8978,6 +8978,7 @@ dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
 dns.crystalyx.net
+dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cuehosting.com
@@ -9792,6 +9793,7 @@ dns.vladpro.ru
 dns.vlo.cc
 dns.vmath.my.id
 dns.vmisch.tech
+dns.vod11.xyz
 dns.volsap.ovh
 dns.vpn.i81.ru
 dns.vps.mtsdns.ru
@@ -10332,6 +10334,7 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
+doh.sublime9.xyz
 doh.suche.org
 doh.sungai.stream
 doh.sunoaki.net
@@ -23896,6 +23899,7 @@ penrepair.us
 penyioproxie.co.cc
 people.freenet.de
 peoplesproxy.com
+pepetio.xyz
 pepperproxy.com
 peqno.com
 per.adfilter.net
@@ -25666,6 +25670,7 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
+proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -26290,6 +26295,7 @@ proxyresources.com
 proxyreview.net
 proxyrich.co.cc
 proxyride.co.cc
+proxyring.com
 proxyrio.com
 proxyriver.com
 proxyroad.com
@@ -32005,7 +32011,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test.texasmath.org
 test180.ddo.jp
@@ -33505,7 +33510,6 @@ unblock.frenz.ca
 unblock.graniteapp.com
 unblock.hinet.info
 unblock.igg.biz
-unblock.in
 unblock.it
 unblock.masterofpi.org
 unblock.meatkt.com
@@ -37603,7 +37607,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -40364,6 +40367,7 @@ www.ihaspizza.com
 www.ihatefilters.com
 www.ihatefilters.info
 www.ihavegems.com
+www.ihavenoshame.com
 www.ihe.in
 www.ihidden.com
 www.ihide.info
@@ -44980,7 +44984,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -46209,7 +46212,6 @@ www.visionprox.com
 www.visitany.com
 www.visitbebo.info
 www.visitriga.info
-www.visitsites.info
 www.visityoursite.info
 www.vista-files.org
 www.vistaproxy.com
