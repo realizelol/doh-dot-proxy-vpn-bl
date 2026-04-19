@@ -36,7 +36,6 @@
 0001proxy.notlong.com
 000aproxy.on-4.com
 000freeproxy.com
-001.smallnode.net
 0023.info
 003153.xyz
 0040.info
@@ -376,7 +375,6 @@
 1bfwu5d5n.online
 1block.info
 1blocker.ed.mu
-1browse.cn
 1browse.info
 1clickvpn.com
 1clickvpn.help
@@ -3530,6 +3528,7 @@ aw.graphicon.ru
 awabim.co.cc
 awabo.com
 awakened.work
+awakn.com
 awaldaricinta.co.cc
 awan.ftp.sh
 award-proxy.co.cc
@@ -4391,7 +4390,6 @@ big-major.co.cc
 big.tent.cloud-ip.cc
 bigairportgw.com
 biganimes.com
-bigantfarm.thejeremybecker.com
 bigbadmirror.appspot.com
 bigbang.pics
 bigbang.pics.cdn.cloudflare.net
@@ -5738,7 +5736,6 @@ canuletmeeep.run
 canva.onnemaa.ee
 canvas-math-tools.firebaseapp.com
 canvas-math-tools.web.app
-canvas-signup-rn.shela.nu
 canvas.2028.cl
 canvas.com.primeflk.ch
 canvas.homeonthewater.com
@@ -9495,7 +9492,6 @@ dns.qrtz.club
 dns.quad9.net
 dns.quanhd.net
 dns.quickline.ch
-dns.quickso.cn
 dns.quiet.rocks
 dns.qwkurl.com
 dns.rabbitdns.org
@@ -11063,7 +11059,6 @@ edgex-102.xyz
 edgex.trafficmanager.net
 edgy-dns.com
 edilly.com
-edison.smartinnovation.md
 editor.codingwizard.website
 editor.primeent.in
 editorialescelistina.click
@@ -11610,7 +11605,6 @@ example.myclarevision.com
 examsurf.co.cc
 excavationdash.space
 exce.info
-excel.theme.ryansilvester.com
 excelatreading.essexregional.org
 excelkin.online
 exchangecom.co.cc
@@ -12773,6 +12767,7 @@ flymetothemoon.work
 flyng-geese.co.cc
 flypork.com
 flyproxy.com
+flyproxy.info
 flyssh.com
 flyvpn.com
 flyzhu.net
@@ -14656,7 +14651,6 @@ gogoo.cyou
 goguardian-is-ass.oneuniversity.info
 goguardian-is-not-my-guardian.easterndns.com
 goguardian-vs-iboss.com.crabdance.com
-goguardianlearning.shela.nu
 goguardianyouaremakingmemad.staglin.hr
 gogurdianw9e7disjw3iehei.thepresenttraveller.com
 gohahaclash.com
@@ -16094,7 +16088,6 @@ history.southern.com.my
 historyforcoolkidz.wanhuiarchitect.com
 historyforus.smelly.cc
 historyhikequest.club
-historyofutopia.orekhov.space
 hisuper.net
 hit-proxy.com
 hit-vpn.com
@@ -17406,7 +17399,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -17416,6 +17408,7 @@ ipoac.nl
 ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -17474,7 +17467,6 @@ iq-challenge.co.cc
 iq4nrowd.online
 iqbbhmzh.com
 iqia.org
-iqtest.shela.nu
 ir.deghy.ir
 irabrowsing.tk
 irakh.com
@@ -17993,6 +17985,7 @@ jobworker.co.cc
 joczxcrdycxbhslwzu.online
 joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru
 joebidenisgay.giize.com
+joeltheodore.com
 joeproxy.com
 joesproxy.crabdance.com
 jofo.info
@@ -22887,7 +22880,6 @@ ohopizza.com
 ohubhsvf.com
 ohvc.aluminiosnelugo.pt
 ohvps.com
-ohzavie2.xyz
 oijkmuiojk.yhujnmok.dingsheng-yule.com
 oilleakeage.co.cc
 oilproxy.com
@@ -23009,7 +23001,6 @@ onion.link
 onion.lt
 onion.lu
 onion.ly
-onion.nu
 onion.pet
 onion.sh
 onion.to
@@ -23441,7 +23432,6 @@ ozgurdizayn.com
 ozmoz.net
 p-kuailian.com
 p-kuailian.com.cn
-p-nation.testing4fun.xyz
 p-pass.info
 p-r-o-x-y.blogspot.com
 p-r-o-x-y.o0k.info
@@ -23507,7 +23497,6 @@ pailulforex.co.cc
 paimist.com
 paimon.sev.monster
 paimun.co.cc
-painee2a.xyz
 painspeed.co.cc
 pairforex.co.cc
 pakistanyoutube.com
@@ -23694,7 +23683,6 @@ pbs.lookids.com
 pbyesgzh.cc
 pc-kuailian.cn
 pc-kuailian.net
-pc-lets.com
 pc-letsvpn.com
 pc-portal.at
 pc-streaming.com
@@ -24403,7 +24391,6 @@ poxi.info
 poxi.mazi.us
 poxi.milf.to
 poxi.modx.ch
-poxi.mp3s.be
 poxi.oci.biz
 poxi.pwnd.ru
 poxi.raya.be
@@ -26999,7 +26986,6 @@ quotivatehub.com
 quppy.com
 qusr.jumpingcrab.com
 qustano.xyz
-quwpuslemw.online
 qv2ray.org
 qvkyjkus.cc
 qwclash.com
@@ -27113,7 +27099,6 @@ rainsongproxy.co.cc
 rainy-days.co.cc
 raisethesurf.co.cc
 raiseyouryayaya.katan.ro
-raj.pw
 rajalaki.co.cc
 rajgdpqu.com
 rakreatif.co.cc
@@ -28519,7 +28504,6 @@ secondary.dns.seia.io
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
-secondbackupdomain.com
 secondpack.co.cc
 secondproxy.com
 secret-busted.co.cc
@@ -31649,7 +31633,6 @@ tagvpnglobal.com
 tagweb.vip
 tagxx.vip
 tahukecrot.co.cc
-taicha5.online
 tailiz.com
 tailnet.ru
 tails.boum.org
@@ -32550,7 +32533,6 @@ totorocloud.cc
 totorocloud.info
 totorocloud.net
 totorocloud.org
-touch-vpn.net
 touched-deeply.co.cc
 touchforex.co.cc
 touchfresh.com
@@ -33061,7 +33043,6 @@ type-v6.instadownloader.site
 type-v7.instadownloader.site
 type-v8.instadownloader.site
 type-v9.instadownloader.site
-type.shela.nu
 typeanything.gmsgroup.app
 typeracer.gq
 typeunblockweb.co.cc
@@ -33948,7 +33929,6 @@ unmoor.com
 uno.chippytime.com
 unp.im
 unpassed.com
-unplatonicallydiybt.theantzfarm.space
 unprohibited.org
 unraid.dedyn.io
 unrealproxy.com
@@ -36343,7 +36323,6 @@ www.17x.us
 www.18tuan.net
 www.19t.org
 www.1block.info
-www.1browse.cn
 www.1browse.info
 www.1club.info
 www.1ee.top
@@ -37216,6 +37195,7 @@ www.banana-tree-cards.com
 www.bananaboatonline.com
 www.bananaproxy.eu
 www.bandido.org
+www.bankalar.org
 www.bankmp3.info
 www.bankproxy.com
 www.bankwoes.com
@@ -37500,6 +37480,7 @@ www.boatip.com
 www.bobloblaw.info
 www.bocu.info
 www.boea.info
+www.boir.net
 www.boldproxy.com
 www.boln.info
 www.boltproxy.com
