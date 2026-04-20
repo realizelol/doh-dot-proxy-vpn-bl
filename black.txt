@@ -2454,6 +2454,7 @@ alohaprofile.com
 alon93rus.ru
 along-with.co.cc
 aloyforex.co.cc
+alpha-dns.quad9.net
 alpha.cixy.xyz
 alpha.rferee.dev
 alpha1proxy.cf
@@ -6497,7 +6498,6 @@ cleardestiny.co.cc
 clearing-up.co.cc
 clearit.info
 clearload.com
-clearlydrunk.com
 clearsurf.info
 clearsurf.pl
 clearsurfing.co.cc
@@ -7939,7 +7939,6 @@ dahirforex.co.cc
 daili888.cn
 daily-freepack.co.cc
 daily-great.co.cc
-daily-or.weekly.hk
 dailybleep.com
 dailycrown.com
 dailygreat.co.cc
@@ -7977,7 +7976,6 @@ dandelionsprout.asuscomm.com
 dandysurf.co.cc
 daneshvardost.com
 dangercat.info
-danielspendis.org.ycare.de
 danisstuff.0x.no
 dankeman.co.cc
 dansereau.xyz
@@ -17399,6 +17397,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -18237,7 +18236,6 @@ juuks.com
 juuri.hagezi.org
 juvecentus.co.cc
 juvo.info
-juvos.com
 juzi66.com
 juzi69.com
 juzicloud.info
@@ -19871,7 +19869,6 @@ lon01.dnscry.pt
 londeneso.co.cc
 londonproxy.com
 londonproxy.nz.gs
-lone.zoho.to
 long.live.gaup.webconstructions.co.uk
 longlysped.co.cc
 longlysurf.co.cc
@@ -20450,7 +20447,6 @@ mathquizzer.net
 mathrules.dev
 mathsonline.info
 mathstudy.iltec.cl
-mathstudyhub.o.zoho.to
 mathstudyhub.twilightparadox.com
 mathstudysplunger.twilightparadox.com
 mathswatch.mooo.com
@@ -20554,7 +20550,6 @@ me11.info
 me4you.info
 me88.info
 meab.info
-meadow.zoho.to
 meanstreet.co.cc
 mechanikdns.kozow.com
 mecloud.info
@@ -25704,7 +25699,6 @@ proxydude.red
 proxydude.xyz
 proxydungeon.co.cc
 proxye.com
-proxyeater.com
 proxyedu.co.cc
 proxyelite.info
 proxyemails.com
@@ -28642,7 +28636,6 @@ securly.com.frostcatcher.com
 securly.com.jedimasters.net
 securly.com.pegle.com
 securly.mom
-securly.zoho.to
 securlypro.site
 securlysettings.activesearch.org.au
 securlysettings.latinliturgy.com
@@ -33444,7 +33437,6 @@ unblockdream.co.cc
 unblocked-7s1uththth.vercel.app
 unblocked-games-at.geometry-games.online
 unblocked.ac
-unblocked.africa
 unblocked.bar
 unblocked.biz
 unblocked.buzz
@@ -33462,7 +33454,6 @@ unblocked.lc
 unblocked.lol
 unblocked.me
 unblocked.name
-unblocked.nu
 unblocked.org
 unblocked.racing
 unblocked.soy
@@ -34287,8 +34278,6 @@ v2ny.one
 v2ny.org
 v2ny.pro
 v2ny.top
-v2ny.vip
-v2ny.xyz
 v2plus.cc
 v2proxy.com
 v2ray.cc
@@ -34614,7 +34603,6 @@ vipfive.xyz
 vipfour.xyz
 vipianol.app
 vipineko.am
-vipoo8eo.xyz
 vipoxy.cn
 vipproxies.com
 vipproxies.info
@@ -34624,7 +34612,6 @@ vipsurfer.com
 vipthree.xyz
 vir.accesscam.org
 viralbanner.com
-viraldopes.com
 virga.pp.ua
 virginiaproxy.com
 virmamp33.sytes.net
@@ -34735,7 +34722,6 @@ void.mcfly.lol
 void.radio.am
 void.radio.fm
 void.radio.fm.cdn.cloudflare.net
-void.wiki.gd
 voidbyvcsa.fit-tw.com
 voidd.network
 voidid.com
@@ -35993,7 +35979,6 @@ wondering.superportret.ru
 wonderland.ws
 wonderlock.co.cc
 wonderproxy.com
-woodbridge.club
 woodenclock.us
 woodstockschool.xyz
 wooforex.co.cc
@@ -36140,7 +36125,6 @@ wtysublink.com
 wu.freecphost.com
 wuat2.xyz
 wubi.org
-wuf2ooch.xyz
 wuli009821.net
 wull.info
 wurzn.hagezi.org
@@ -37195,7 +37179,6 @@ www.banana-tree-cards.com
 www.bananaboatonline.com
 www.bananaproxy.eu
 www.bandido.org
-www.bankalar.org
 www.bankmp3.info
 www.bankproxy.com
 www.bankwoes.com
@@ -45890,7 +45873,6 @@ www.userpage.info
 www.userproxy.com
 www.usestack.com
 www.useyourtime.info
-www.usipaddress.net
 www.uskt.info
 www.uslime.info
 www.usneak.com
@@ -47134,9 +47116,6 @@ xn--9kq48rgle583dyckv6a.com
 xn--9kq493dfnr.com
 xn--9kq493dllb.com
 xn--9kq49ds2x.com
-xn--9kq52er5gcqrbyb.com
-xn--9kq52er5gcqrbyb.xyz
-xn--9kq52et30a.xyz
 xn--9kq542pkkd.org
 xn--9kq565htcb.com
 xn--9kq58id0d9xtmzb.com
@@ -47323,7 +47302,6 @@ xn--fatcat-gh8it21wemza.com
 xn--fatcatcloud-909qr029a8otb.com
 xn--fenda-gj2n9hl7aj59h.com
 xn--fetx50be7pf6w.com
-xn--fhq389femyc1d.com
 xn--fhqrmk05jmna.com
 xn--fiq626gzzgkv2a.com
 xn--fiq88fk0f9x4a.com
@@ -48365,12 +48343,6 @@ zbook.us
 zbuforex.co.cc
 zburger.top
 zbux.net
-zc074.xyz
-zc075.xyz
-zc076.xyz
-zc077.xyz
-zc078.xyz
-zc079.xyz
 zc080.xyz
 zc081.xyz
 zc082.xyz
@@ -48654,7 +48626,6 @@ zxiocvus.bjlskjdf.salavat.ru
 zxti.com
 zxtwpkso.com
 zy4jwdenh.online
-zydgv3p5szc.online
 zylor.xyz
 zymorae.ru
 zymverto.ru
