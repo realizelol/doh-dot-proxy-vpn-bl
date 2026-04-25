@@ -2544,7 +2544,6 @@ ame.drahonn.pro
 amegaproxy.com
 amelin.org
 american-proxy.com
-american.automagiq.com
 american.beautylooks.com
 american.unlimitedbeauties.com
 americana.nz.gs
@@ -4622,6 +4621,7 @@ biofilms.info
 biographicz.co.cc
 biohide.com
 bioiran.net
+biolabshop.cc
 biolicious.online
 biology.info.north-kazakhstan.su.cdn.cloudflare.net
 biology.ndr.cl
@@ -5375,7 +5375,6 @@ browsing.party
 browsinganonymous.info
 browsingatwork.com
 browza.hostbucket.net
-browzall.com
 browzer.info
 broxy.url.ph
 brsjk.cn
@@ -9079,7 +9078,6 @@ dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
 dns.crystalyx.net
-dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cuehosting.com
@@ -14419,7 +14417,6 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
-furniturelanddirect.com
 furoen.ru
 furproxie.co.cc
 furriesarecute.furryplace.eu
@@ -24666,6 +24663,7 @@ personalvpn.com
 personaly.click
 pervilo.ru
 perx.info
+pesoalbay.live
 pessoa.info
 petcargo.co.cc
 petciforex.co.cc
@@ -28964,6 +28962,7 @@ sage.area.modeemi.net
 sagrantapp.com
 saharanet.co.cc
 sahi.uk
+saidah10.comze.com
 sailing.ink
 sailingnet.pro
 sailsurf.co.cc
@@ -32736,6 +32735,7 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
+test.net46.net
 test.privatenode.ru
 test.texasmath.org
 test180.ddo.jp
@@ -38147,6 +38147,7 @@ www.banana-tree-cards.com
 www.bananaboatonline.com
 www.bananaproxy.eu
 www.bandido.org
+www.bankalar.org
 www.bankmp3.info
 www.bankproxy.com
 www.bankwoes.com
@@ -42899,7 +42900,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -43587,7 +43587,6 @@ www.proxyarchive.com
 www.proxyarmor.com
 www.proxyart.com
 www.proxyassault.com
-www.proxyauthority.com
 www.proxyaviation.com
 www.proxyaware.com
 www.proxybaba.com
