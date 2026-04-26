@@ -1071,7 +1071,6 @@
 99kw.com
 99mm.info
 99proxy.com
-99s.net
 99tunnel.com
 9b1c27beccb631169b1533c65cca8246.top
 9bb.net
@@ -2544,6 +2543,7 @@ ame.drahonn.pro
 amegaproxy.com
 amelin.org
 american-proxy.com
+american.automagiq.com
 american.beautylooks.com
 american.unlimitedbeauties.com
 americana.nz.gs
@@ -5211,6 +5211,7 @@ bright-mind-274.conwordable.com
 bright-vpn.help
 bright4good.eco
 brightcoding.hotelconsuladoinn.com
+brightdata-app-production-app-bucket.s3.us-east-1.amazonaws.com
 brightdata.com
 brightfuture.bostoncareercounselor.com
 brightfuture.ltu.one.pl
@@ -5375,6 +5376,7 @@ browsing.party
 browsinganonymous.info
 browsingatwork.com
 browza.hostbucket.net
+browzall.com
 browzer.info
 broxy.url.ph
 brsjk.cn
@@ -9078,6 +9080,7 @@ dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
 dns.crystalyx.net
+dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cuehosting.com
@@ -10477,6 +10480,7 @@ doh2.gslb2.xfinity.com
 doh2.seby.io
 doh3.almir1904.eu
 doh3.kekew.info
+doh64.dns4all.eu
 dohainiu.com
 dohaiou.com
 dohaishen.com
@@ -14417,6 +14421,7 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
+furniturelanddirect.com
 furoen.ru
 furproxie.co.cc
 furriesarecute.furryplace.eu
@@ -17991,7 +17996,6 @@ ipoac.nl
 ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
-ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -18572,7 +18576,6 @@ jobsmonster.co.cc
 jobworker.co.cc
 joczxcrdycxbhslwzu.online
 joebidenisgay.giize.com
-joeltheodore.com
 joeproxy.com
 joesproxy.crabdance.com
 jofo.info
@@ -20894,7 +20897,6 @@ macr.info
 mad-dog.co.cc
 mad01.dnscry.pt
 mad4todo.com
-madads.net76.net
 madanante.co.cc
 maddino.dedyn.io
 madeby-vcsa.ramalhais.com
@@ -24437,6 +24439,7 @@ par-127.host.sk
 par-vino.ru
 par01.dnscry.pt
 paradforex.co.cc
+paradise-human.shop
 paradisesurf.co.cc
 paranoia.mydns.network
 parikann.co.cc
@@ -29653,7 +29656,6 @@ server14.info
 server2.fastestip.co.cc
 server2.webbycart.com
 server2386.com
-server3.boldteam.ir
 server3233.com
 server4.eu
 server4surf.co.cc
@@ -32735,7 +32737,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test.texasmath.org
 test180.ddo.jp
@@ -34646,7 +34647,6 @@ unblockyoutubeatschool.com
 unblockyoutubefree.net
 unblockyoutubeproxy.com
 unblockytproxy.com
-unblockz.com
 unblockz.hu.tl
 unblockzone.com
 unbloka.hu.tl
@@ -35576,7 +35576,6 @@ virtualbypass.com
 virtualchem.pro-house.cl
 virtualenglish.verolook.com
 virtualforex.co.cc
-virtualgaming.co
 virtualhide.com
 virtualhistory.primeflk.ch
 virtualip.host.sk
@@ -37555,7 +37554,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9fish.info
 www.9hp.info
@@ -38945,7 +38943,6 @@ www.clsproxy.com
 www.clubsurfer.com
 www.cmssky.com
 www.cnproxy.com
-www.cnsurf.cn
 www.cnt7.com
 www.co-make.com
 www.co11.info
@@ -39979,7 +39976,6 @@ www.flufs.com
 www.flugg.com
 www.fly24.net
 www.flyproxy.com
-www.fo-h.com
 www.fogxy.com
 www.fomme.com
 www.fontx.com
@@ -43587,6 +43583,7 @@ www.proxyarchive.com
 www.proxyarmor.com
 www.proxyart.com
 www.proxyassault.com
+www.proxyauthority.com
 www.proxyaviation.com
 www.proxyaware.com
 www.proxybaba.com
@@ -46986,7 +46983,6 @@ www.virtualbay.info
 www.virtualbrowser.com
 www.virtualbrowser.net
 www.virtualbypass.com
-www.virtualgaming.co
 www.virtualhide.com
 www.virtualip.org
 www.virtualpoint.info
