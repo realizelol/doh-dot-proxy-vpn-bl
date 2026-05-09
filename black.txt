@@ -326,6 +326,7 @@
 159-195-59-55.nip.io
 159-195-59-55.plesk.page
 159-195-59-55.sslip.io
+159-195-59-55.traefik.me
 1606341993.rsc.cdn77.org
 1624147767.rsc.cdn77.org
 1661.org
@@ -797,8 +798,10 @@
 51caiyun.com
 51proxy.info
 52lqvpn.com
+531274e80907f3a26c18dd8aabd4fca776d65870.com
 53r6z.cn
 54084db9b94f2fc62e22a2f4bf6cf17e.top
+5537955585be9a774f79ea792941d72404fe69d3.com
 554.us
 55780358.xyz
 55aktnolkvuoctxitm.online
@@ -1192,6 +1195,7 @@ ablock.fuckit.ovh
 abluehope.com
 abn01.dnscry.pt
 aboa.info
+aboba.pro
 abolfazl.s5.com
 aboot.blank.crabdance.com
 about-dining.co.cc
@@ -2165,6 +2169,7 @@ agoodproxy.com
 agouriforex.co.cc
 agp02.tek411.com
 agrforex.co.cc
+agriculture.arts.bastaff.ru
 agtforex.co.cc
 aguado.info
 aguforex.co.cc
@@ -2245,6 +2250,7 @@ ajabk.cn
 ajh.academy
 ajh.academy.cdn.cloudflare.net
 ajh.boats
+ajh.college
 ajh.college.cdn.cloudflare.net
 ajh.eats-logi.lol
 ajh.his.strangled.net
@@ -2464,6 +2470,7 @@ alpha.cixy.xyz
 alpha.rferee.dev
 alpha1proxy.cf
 alphabio.baodacn.cn
+alphabr.online
 alphagame.co
 alphalogic.sevecom.com
 alphaprox.com
@@ -3099,6 +3106,7 @@ aqix.co.cc
 aqpov.xyz
 aqtforex.co.cc
 aqua-proxy.co.cc
+aqua.bastaff.ru
 aqua.is.my.waifu.cz
 aquaproxy.com
 aquasurf.co.cc
@@ -3299,6 +3307,7 @@ aspheric-zombies.club
 aspire-one.co.cc
 asrforex.co.cc
 assboyproxy.co.cc
+assemblymenu.xyz
 asset-basedlending.com
 asset.cz.cc
 asseterp.co.cc
@@ -4059,6 +4068,7 @@ believeit.info
 belis-x.co.cc
 belkavpn.com
 bella.981377612.xyz
+belldream.xyz
 bellj.com
 bellmia.com
 bellproxy.com
@@ -5872,6 +5882,7 @@ canvas.2028.cl
 canvas.com.primeflk.ch
 canvas.homeonthewater.com
 canvas.mom
+canvasarts.org
 canvasarts.org.cdn.cloudflare.net
 canvastuhsd.ignorelist.com
 canvaworkstations.central.app.centrodiagnosticogenetico.com
@@ -5977,6 +5988,7 @@ casuary.beer
 cat6.fibersurf.co.cc
 catcage.co.cc
 catch-easily.co.cc
+catch.gift
 catchcurrent.com
 catchen121299.top
 catchhere.info
@@ -6365,6 +6377,7 @@ chocolatetampon.com
 chocoproxy32.tk
 chof.info
 choiceproxy.com
+choices.run
 cholforex.info
 chongjin01.icu
 chonglaicn.icu
@@ -15565,7 +15578,6 @@ gumm.org
 gummydummy.xyz
 gumproxy.co.cc
 gumtreeproxy.blogspot.com
-gunag.duckdns.org
 gungames.co.cc
 gunsmoke-freesurf.co.cc
 guo86.com
@@ -17270,6 +17282,7 @@ idet.info
 ididabig.poo.li
 idiotforex.co.cc
 iditinahuipidorasidagga.net
+idk.7btech.com
 idk.komanda.cl
 idk.lol-fr.bostoncareercounselor.com
 idkkilo.accesscam.org
@@ -19872,6 +19885,7 @@ learnvcsa.sevecom.com
 learnvcsa.thepresenttraveller.com
 learnvcsa.unibutton.com
 learnwise.info
+leave-school.bastaff.ru
 leax.info
 lebaibay.co.cc
 lebron.ftp.sh
@@ -26263,6 +26277,7 @@ proxybox.blogspot.com
 proxybox.org
 proxybox.ru
 proxyboxonline.com
+proxyboys.com
 proxyboys.net
 proxybr.com
 proxybrazil.co.cc
@@ -30178,6 +30193,7 @@ slyvip.com
 slz.us
 sm2.doh.pub
 sm5q237c0.g666gle.me
+smack.bastaff.ru
 small-browser.com
 small-soul-737.guesstheanimal.org
 smallhurricane.co.cc
@@ -32496,7 +32512,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test180.ddo.jp
 test2.adg.siudzinski.net
@@ -38279,6 +38294,7 @@ www.browsetool.com
 www.browseunblocked.com
 www.browsezoom.com
 www.browsingatwork.com
+www.browzall.com
 www.browzer.info
 www.bruh.info
 www.brummm.com
@@ -42548,6 +42564,7 @@ www.opengw.net
 www.openherbs.com
 www.openmore.info
 www.openpreanalysis.tk
+www.openproxies.com
 www.openproxy.com
 www.openproxy.net
 www.openproxylist.com
@@ -48056,6 +48073,7 @@ yawdg.net
 yawn.affable.cloud-ip.cc
 yawtt.net
 yawzz.net
+yazaebalsyadelatproxy.uk
 yazhouzhijia.free.fr
 ybasic.com
 ybef.com
