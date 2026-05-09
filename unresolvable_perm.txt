@@ -18985,6 +18985,7 @@ destroyfilters.info
 destroyip.info
 destroykill.info
 destroythelocks.info
+destu.cn
 desurf.info
 detachablenaming.info
 detailnet.cf
