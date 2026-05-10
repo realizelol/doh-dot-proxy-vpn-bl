@@ -2467,6 +2467,7 @@ along-with.co.cc
 aloyforex.co.cc
 alpha-dns.quad9.net
 alpha.cixy.xyz
+alpha.dnsbunker.org
 alpha.rferee.dev
 alpha1proxy.cf
 alphabio.baodacn.cn
@@ -5150,6 +5151,7 @@ bravebadger.com
 bravebean.com
 bravedns.com
 bravetrait.com
+bravo.dnsbunker.org
 brazilproxy.com
 brazilproxy.info
 brd-sdk-app-packages.s3.amazonaws.com
@@ -5354,7 +5356,6 @@ browsing.party
 browsinganonymous.info
 browsingatwork.com
 browza.hostbucket.net
-browzall.com
 browzer.info
 broxy.url.ph
 brsjk.cn
@@ -6315,6 +6316,7 @@ cheesepizza.undo.it
 cheesestorecedarhurst.com
 cheesyballsnohomo.smasesorias.cl
 cheetos.rouselegal.com.au
+chejfnreeje.vets.co.il
 chelseawin.co.cc
 chemistry.props.org
 chemistrypracticelab.cencopro.cl
@@ -7259,6 +7261,7 @@ crbtqxdu.com
 crd.circl.lu
 creampipez.co.cc
 createdomain.co.cc
+createssh.com
 createssh.net
 createsuccess.co.cc
 creating-freepass.co.cc
@@ -10665,6 +10668,7 @@ downloadhiro.app
 downloadproxy.cf
 downloadqq.xyz
 downloads-kl.com
+downloads-klvpn.com
 downloads-kuailian.com
 downloads-lets.com
 downloads-letsvpn.com
@@ -12745,11 +12749,13 @@ fer.verandahotels.com
 feresforex.co.cc
 ferg.info
 fern-is.nice.baumgardner.us
+fern-the-goat.vets.co.il
 fern.ape3d.com
 fern.bbvlibrary.com
 fern.best
 fern.best.blinklab.com
 fern.best.rainbowcup.com
+fern.crosbreaker.dev
 fern.lovethosetrains.com
 fern.mine.bz
 fern.r4ash.work.gd
@@ -12768,6 +12774,7 @@ ferniiiiiiiii3.rainbowcreative.web.id
 ferniiiiiiiii4.rainbowcreative.web.id
 ferniiiiiiiii5.rainbowcreative.web.id
 fernisbest.blinklab.com
+fernisbest.vets.co.il
 fernisgoat.activesearch.org.au
 fernlol.chiangmaiorganics.com
 fernn.fabricecosta.com
@@ -13262,6 +13269,7 @@ fooksun.xyz
 foolbots.com
 foolmeonce.co.cc
 foot-plate.co.cc
+football.coach.vets.co.il
 football.coaching2lead.com
 footballresearch.sportconceptmedia.ru
 footballscorelive.com
@@ -18421,6 +18429,7 @@ jmw-v7.pages.dev
 jn0.info
 jnb01.dnscry.pt
 jnb02.dnscry.pt
+jncbfekejd.vets.co.il
 jnhhjytt.com
 jnprd.com
 jnxhylc.cn
@@ -18470,6 +18479,7 @@ jokers.homeip.net
 joldoojv.com
 joliepics.co.cc
 joliesteens.com02.com
+jolly1.dns.army
 jollysurf.co.cc
 jolmira.ru
 joltero.ru
@@ -21760,6 +21770,7 @@ monkcombo.co.cc
 monkeyaround.net
 monkeyfunky.co.uk
 monkeyriver.co.cc
+monkeys9238822.vets.co.il
 monkeysigns.com
 monkeytrio.com
 monkeytype.cf
@@ -21806,6 +21817,7 @@ moredforex.co.cc
 moreflashingstar.co.cc
 morehere.info
 morelinks.smasesorias.cl
+moremore.dns.army
 moremore.timekeeper.ro
 morena.ca
 morenzo.ru
@@ -29949,6 +29961,7 @@ sin02.dnscry.pt
 sin03.dnscry.pt
 sin2.edge.access.zznet.fun
 sin4.ddnsfree.com
+sinaproject.xyz
 sinas85.synology.me
 sinckfladogenirb.developer.li
 sinda.nop.mobi
@@ -31303,6 +31316,7 @@ sundaybumpr.co.cc
 sundayliveproxy.co.cc
 sunglassoakley.co.cc
 sunife.com
+sunmer-camp.bestprograms4kids.com.au
 sunny-wolf-734.biologyscholar.org
 sunny.nz.gs
 sunnygyl.com
@@ -32311,6 +32325,7 @@ tailiz.com
 tailnet.ru
 tails.boum.org
 tailscale.com
+tailsmasterplan.comtek.com.ar
 tailtunnel.co.cc
 taishan.pro
 taiwanexportss.co.cc
@@ -32372,6 +32387,7 @@ task.edu.hueteinterpreting.com
 task.major.assholetenants.com
 tasks.gov.heronquays.com
 tasks.know.kabindrakajibajracharya.com.np
+tasks.media.bianchetti.com.ar
 tatakai001.8bit.ca
 taufner.net
 tavanza.com
@@ -32512,6 +32528,7 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
+test.net46.net
 test.privatenode.ru
 test180.ddo.jp
 test2.adg.siudzinski.net
@@ -33817,6 +33834,7 @@ ujnp.com
 ujrmdtrq.cc
 ujsrxts.com
 uk-lon.doh.sb
+uk-proxy.co.uk
 uk-proxy.org.uk
 uk-unblock.xyz
 uk-us.co.cc
@@ -36351,6 +36369,7 @@ webyv.com
 webzv.com
 wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
 wecanbebees.primeflk.ch
+wecookedthistimebri.vets.co.il
 wedding-present.us
 weddinglove.co.cc
 wedgdh.wefds.sharptutor.net
@@ -45572,6 +45591,7 @@ www.surfsneaker.com
 www.surfsneaker.tk
 www.surfspot.info
 www.surfstick.info
+www.surfstock.info
 www.surfstripe.com
 www.surfunlock.com
 www.surfunlocked.com
@@ -47408,7 +47428,6 @@ www.yrid.com
 www.ysss.info
 www.ytunnel.com
 www.yufe.info
-www.yurj.com
 www.yuze.info
 www.yuzutyan-3.ipv64.net
 www.yvhm.com
@@ -47893,6 +47912,7 @@ xngkupy.com
 xnxx-movies.net
 xo7.info
 xo8.info
+xocjckekrn.vets.co.il
 xolvento.ru
 xomverta.ru
 xoomno.co.cc
@@ -48118,6 +48138,7 @@ yeralin.net
 yeri.info
 yerta.com
 yes-taro.ru
+yes.vets.co.il
 yes8.info
 yescool.upcg.xyz
 yesproxy.com
