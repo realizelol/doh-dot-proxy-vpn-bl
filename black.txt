@@ -187,6 +187,7 @@
 1104.info
 111.theartieschaffer.com
 111000.indevs.in
+111000.v6.navy
 111987.com
 112112789.xyz
 1130117753.rsc.cdn77.org
@@ -203,7 +204,6 @@
 1195409979.rsc.cdn77.org
 11vz.com
 12-21-2012.org
-1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -4824,6 +4824,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -12183,6 +12184,7 @@ famous5.com
 famousgolf.co.cc
 famousin.screenclip.net
 famousjeff.com
+fancy.v6.army
 fancynetwor.com
 fancysurf.co.cc
 fandebiao.com
@@ -17896,6 +17898,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -18930,7 +18933,6 @@ keithchunguat.hopto.org
 keito.swanndvr.net
 kejibearjc.com
 kejifenxiang.com
-kekv.fun
 keldrix.xyz
 kellerbier-home.com
 kellerbier-home.de
@@ -19974,7 +19976,6 @@ lena.az.i81.ru
 lena.hr.i81.ru
 lena.vd.i81.ru
 lena.vpn.i81.ru
-lena.vps.mtsdns.ru
 lendby.com
 lenderinfo.co.cc
 lendingtime.tk
@@ -20549,6 +20550,7 @@ lon01.dnscry.pt
 londeneso.co.cc
 londonproxy.com
 londonproxy.nz.gs
+lone.zoho.to
 long.live.gaup.webconstructions.co.uk
 longlysped.co.cc
 longlysurf.co.cc
@@ -20912,6 +20914,7 @@ man.info.north-kazakhstan.su.cdn.cloudflare.net
 man01.dnscry.pt
 manage-accounts.co.cc
 manage.peakconsulting.com.au
+managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -21124,6 +21127,7 @@ mathquizzer.net
 mathrules.dev
 mathsonline.info
 mathstudy.iltec.cl
+mathstudyhub.o.zoho.to
 mathstudyhub.twilightparadox.com
 mathstudysplunger.twilightparadox.com
 mathswatch.mooo.com
@@ -21229,6 +21233,7 @@ me11.info
 me4you.info
 me88.info
 meab.info
+meadow.zoho.to
 meanstreet.co.cc
 mechanikdns.kozow.com
 mecloud.info
@@ -27263,6 +27268,7 @@ proxywsurf.tk
 proxyx.com
 proxyx.org
 proxyx86.co.cc
+proxyxxx.com
 proxyy.net
 proxyy123.blogspot.com
 proxyyoga.cn
@@ -29391,6 +29397,7 @@ securly.com.frostcatcher.com
 securly.com.jedimasters.net
 securly.com.pegle.com
 securly.mom
+securly.zoho.to
 securlypro.site
 securlysettings.activesearch.org.au
 securlysettings.latinliturgy.com
@@ -33699,6 +33706,7 @@ turiforex.co.cc
 turkeyproxy.blogspot.fr
 turkeyproxy.com
 turkmenvibe.ru
+turmericrecipes.com
 turn-on-access.co.cc
 turningbackproxy.co.cc
 turningout.com
@@ -33755,6 +33763,7 @@ twolulu.com
 twom.info
 twopiece.co.cc
 twoproxy.info
+twoproxy.net
 twosun.co.cc
 twtevsyz.com
 twujw67676767.mooo.com
@@ -35435,7 +35444,6 @@ visit-portugal.axsetubal.pt
 visitany.com
 visitor0.com
 visitriga.info
-visitsites.info
 visityoursite.info
 vista-files.org
 vistafirewall.co.cc
@@ -35518,6 +35526,7 @@ void.radio.fm.cdn.cloudflare.net
 voidbyvcsa.fit-tw.com
 voidd.network
 voidid.com
+voidkeepthisasecret.undoanarchy.rocks
 voidnettty.thanatos.com
 voidnetwork.space.cdn.cloudflare.net
 voidnrtowkr93urridudi.geetabasyal.com.np
@@ -35596,6 +35605,7 @@ vpn-professional.company
 vpn-proxies.co.cc
 vpn-proxy-api.rovelin.workers.dev
 vpn-proxy-maot.onrender.com
+vpn-quick.com
 vpn-ru-msk.pakharenko.ru
 vpn-russia.app
 vpn-rw.fdn.fr
@@ -35705,6 +35715,7 @@ vpnacademy.com
 vpnaccounts.com
 vpnaddsplus.com
 vpnadguard.info
+vpnagent.com
 vpnanonym.info
 vpnapk.mom
 vpnapp.help
@@ -36221,6 +36232,7 @@ web-blaster.org
 web-fast.com
 web-kuailian.cn
 web-kuailian.com
+web-kuailian.net
 web-letsvpn.org
 web-proxies.org
 web-proxy-4.blogspot.com
@@ -36343,6 +36355,7 @@ webproxy.info
 webproxy.lumiproxy.com
 webproxy.naproxy.com
 webproxy.net.cn
+webproxy.online
 webproxy.pro
 webproxy.proxylite.com
 webproxy.ru
@@ -37014,7 +37027,6 @@ www-proxy.sayed.page
 www-proxy.sodemc.com
 www-proxy.spin.rip
 www-proxy.valentiin.com
-www-proxy.w2mpu72.pro
 www-q.nolife.uk
 www-reflect4.buachi.work
 www-rf4.forestberrypi.com
@@ -38247,6 +38259,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -38659,7 +38672,6 @@ www.cgiproxy.info
 www.cgiproxy.net
 www.cgitrick.com
 www.chadparker.com
-www.chandan.org
 www.changeinternet.com
 www.changesite.info
 www.charleen.info
@@ -41450,7 +41462,6 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
-www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
@@ -43073,7 +43084,6 @@ www.problack.info
 www.problock.info
 www.probs.info
 www.probyte.top
-www.procheck.info
 www.procks.com
 www.procksee.com
 www.prockstar.com
@@ -43440,6 +43450,7 @@ www.proxyarchive.com
 www.proxyarmor.com
 www.proxyart.com
 www.proxyassault.com
+www.proxyauthority.com
 www.proxyaviation.com
 www.proxyaware.com
 www.proxybaba.com
@@ -45622,7 +45633,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -47763,6 +47773,7 @@ xfer.au
 xfreeschool.co.cc
 xftld.org
 xfunnel.com
+xfxssr.com
 xfxssr.me
 xfxvpn.life
 xg8tw7gfox.site
