@@ -25484,6 +25484,7 @@ firstproxy.cf
 firstproxy.ga
 firstproxy.info
 firstproxy.ml
+firstproxyme.tk
 firstproxyusa.ga
 firstproxyusa.gq
 firstproxyusa.ml
@@ -44093,6 +44094,7 @@ macrojuegos.info
 macromagic.info
 macsyma.info
 mactipsy.info
+madads.net76.net
 madangels.tk
 madant.info
 madap.tk
