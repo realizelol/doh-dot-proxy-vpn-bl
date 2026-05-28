@@ -19774,6 +19774,7 @@ dns.twtrs.com
 dns.tylavergne.com
 dns.ublobs.com
 dns.vault-101.net
+dns.vps.mtsdns.ru
 dns.warexify.com
 dns.webstor.net
 dns.wevpn.com
@@ -39769,6 +39770,7 @@ iunblockwebsites.in
 iundercover.info
 iupfan.tk
 ivacated.tk
+ivan.vps.mtsdns.ru
 ivanproxy.ga
 ivax.x90x.net
 ive-forex-charts-2.tk
