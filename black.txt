@@ -9961,7 +9961,6 @@ doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
-doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh-rs.whalebone.io
 doh-sg.blahdns.com
 doh.18bit.cn
@@ -17812,6 +17811,7 @@ jaym.in
 jazhus.100webspace.net
 jazoink.com
 jazz-band-goated.malam.or.id
+jb1doh.cipherdns.co.za
 jbbs.shitaraba.com
 jbmcxmpx.cc
 jcbb.cc
@@ -18455,7 +18455,6 @@ keithchung.hopto.org
 keithchunguat.hopto.org
 keito.swanndvr.net
 kejifenxiang.com
-kekv.fun
 keldrix.xyz
 kellerbier-home.com
 kellerbier-home.de
@@ -25418,6 +25417,7 @@ proxy.powerbet.info
 proxy.pspgonglue.cn
 proxy.pwnz.org
 proxy.pyxelworld.com
+proxy.qiqishou.cn
 proxy.qsl.net
 proxy.rasante-sport.com
 proxy.reddotwiki.com
@@ -26823,7 +26823,6 @@ pwooswvg.com
 pwoxi.com
 pwragupc.cc
 pwriuja.potmix.cc
-pws.prserv.net
 pwwtpiby.com
 px.gs
 px.jarnus.xyz
@@ -33020,6 +33019,7 @@ udussmiw.com
 ueeftvvc.cc
 ueni.dyndns.org
 ues-letsvpn.com
+uf2.org
 ufjk.com
 ufk.in
 ufocamp.com
@@ -40477,6 +40477,7 @@ www.jm9.info
 www.jmarshall.com
 www.jn0.info
 www.jobmejlet.com
+www.joeltheodore.com
 www.joeproxy.com
 www.jofo.info
 www.johnsoninteractive.com
@@ -40559,6 +40560,7 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
+www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
