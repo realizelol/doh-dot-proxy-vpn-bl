@@ -19936,6 +19936,7 @@ dogswalk.tk
 dogtech.tk
 dogtype.info
 doh-dns.hoover.eu.org
+doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh.10yusufahmad.my.id
 doh.abmb.win
 doh.adguardhome.site
