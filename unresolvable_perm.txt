@@ -2589,6 +2589,7 @@
 99open.info
 99proxietired.tk
 99proxynet.tk
+99s.net
 99share.info
 99sproxietired.tk
 99studentloaninfo.info
