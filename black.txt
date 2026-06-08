@@ -609,6 +609,7 @@
 365vpn.com
 365vpn.org
 365vpn.uk
+365x24x7.in
 369.cyou
 37-27-88-135.backname.io
 37-27-88-135.nip.io
@@ -18198,6 +18199,7 @@ karimdns.com
 karnataka.us
 karnatakalive.com
 karnuvia.ru
+karo-vpn.xyz
 karoo.blogsky.com
 karpenium.nz.gs
 karunadu.in
@@ -19135,6 +19137,7 @@ layoutfly.com
 lazerprxy.co.cc
 lboxtv.top
 lc.fibersurf.co.cc
+lcproxy.com
 ldaman.duckdns.org
 le-mesle.fr
 le-numerique.fr
@@ -23546,6 +23549,7 @@ pcd96.duckdns.org
 pcgo.fun
 pcgraffiti.com
 pcjco.ovh
+pcmesh.com
 pcornet.freeboxos.fr
 pcquest.info
 pcriot.com
@@ -25142,6 +25146,7 @@ proxy.powerbet.info
 proxy.pspgonglue.cn
 proxy.pwnz.org
 proxy.pyxelworld.com
+proxy.qiqishou.cn
 proxy.qsl.net
 proxy.rasante-sport.com
 proxy.reddotwiki.com
@@ -26545,6 +26550,7 @@ pwooswvg.com
 pwoxi.com
 pwragupc.cc
 pwriuja.potmix.cc
+pws.prserv.net
 pwwtpiby.com
 px.gs
 px.jarnus.xyz
@@ -29340,6 +29346,7 @@ socks5.com
 socks5.io
 sockslist.net
 sockslist.us
+socksproxy.com
 socksproxychecker.com
 sockstoday.com
 socloud.cc
@@ -30766,6 +30773,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -31493,6 +31501,7 @@ the-biggest.co.cc
 the-blackswan.co.cc
 the-cloak.com
 the-comfort.co.cc
+the-core.info
 the-crypt.ws
 the-customize.co.cc
 the-firewall.com
@@ -32101,6 +32110,7 @@ tpe01.dnscry.pt
 tproxy.cn
 tproxy.ink
 tproxy.mom
+tproxy.monster
 tproxy.net
 tproxyru.live
 tq8izzzrqtktkdoarptl3u.online
@@ -36106,6 +36116,7 @@ www.8ce.org
 www.8day.info
 www.8hj.org
 www.8me.info
+www.8ml.info
 www.8proxy.com
 www.8proxy.info
 www.8xl.net
@@ -36961,6 +36972,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -40160,6 +40172,7 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
+www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
@@ -42622,6 +42635,7 @@ www.proxyrent.com
 www.proxyresource.org
 www.proxyresources.com
 www.proxyreview.net
+www.proxyring.com
 www.proxyrio.com
 www.proxyriver.com
 www.proxyroad.com
@@ -45750,6 +45764,7 @@ www.webproxy4free.ml
 www.webproxyblack.ml
 www.webproxybrowser.com
 www.webproxyfree.net
+www.webproxyking.com
 www.webproxylist.cn
 www.webproxylist.com
 www.webproxylist.org
@@ -46452,7 +46467,6 @@ xerivon.xyz
 xerocopy.karrozzin.cloud-ip.cc
 xerohour.org
 xerophagy.karrozzin.cloud-ip.cc
-xerosurf.com
 xervolia.ru
 xetb.com
 xev.in
