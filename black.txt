@@ -2658,7 +2658,6 @@ anonworks.com
 anonx.net
 anony-surf.com
 anonycat.com
-anonyfi.com
 anonym-island.talk4fun.net
 anonym-surf.wz.cz
 anonym-surfen.ws
@@ -20168,7 +20167,6 @@ man.info.north-kazakhstan.su.cdn.cloudflare.net
 man01.dnscry.pt
 manage-accounts.co.cc
 manage.peakconsulting.com.au
-managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -23047,7 +23045,6 @@ opennic2.i2pd.xyz
 openoldforexsites.co.cc
 openozforexbrokersite.co.cc
 openproxie.co.cc
-openproxies.com
 openproxy.com
 openproxy.net
 openproxy.space
@@ -30773,7 +30770,6 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
-surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -31501,7 +31497,6 @@ the-biggest.co.cc
 the-blackswan.co.cc
 the-cloak.com
 the-comfort.co.cc
-the-core.info
 the-crypt.ws
 the-customize.co.cc
 the-firewall.com
@@ -35892,7 +35887,6 @@ www.1sz.info
 www.1toc.com
 www.1unblock.com
 www.1unblock.info
-www.1vn.org
 www.1xa.net
 www.1xi.info
 www.1xv.net
@@ -35991,7 +35985,6 @@ www.33333.biz
 www.3368.info
 www.345.biz
 www.35w.info
-www.365x24x7.in
 www.3738.info
 www.37r.org
 www.3833.info
@@ -37487,7 +37480,6 @@ www.cloakbypass.com
 www.cloakdirect.com
 www.cloakedip.com
 www.cloaken.com
-www.cloaker.ca
 www.cloakie.com
 www.cloakip.net
 www.cloakme.cn
@@ -37658,7 +37650,6 @@ www.coyr.com
 www.cpanote.com
 www.cpct.net
 www.cproxy.com
-www.cqul.com
 www.cqxin.com
 www.crackip.com
 www.crak.info
@@ -41123,7 +41114,6 @@ www.nity.info
 www.njfpy.com
 www.nkac.pl
 www.nlproxy.com
-www.nnnnn.info
 www.nntime.com
 www.no-carbon.info
 www.no-oil.com
@@ -41793,7 +41783,6 @@ www.problack.info
 www.problock.info
 www.probs.info
 www.probyte.top
-www.procheck.info
 www.procks.com
 www.procksee.com
 www.prockstar.com
@@ -42160,7 +42149,6 @@ www.proxyarchive.com
 www.proxyarmor.com
 www.proxyart.com
 www.proxyassault.com
-www.proxyauthority.com
 www.proxyaviation.com
 www.proxyaware.com
 www.proxybaba.com
@@ -43692,7 +43680,6 @@ www.simplebypasshide.tk
 www.simpleproxy.com
 www.simpletofix.com
 www.simpleunblock.com
-www.simplevpn.info
 www.simplycool.eu
 www.simplygr8.com
 www.simran49.info
@@ -46467,6 +46454,7 @@ xerivon.xyz
 xerocopy.karrozzin.cloud-ip.cc
 xerohour.org
 xerophagy.karrozzin.cloud-ip.cc
+xerosurf.com
 xervolia.ru
 xetb.com
 xev.in
