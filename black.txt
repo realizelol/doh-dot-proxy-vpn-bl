@@ -838,7 +838,6 @@
 5hg.net
 5l0.net
 5mdvpn.ru
-5ml.info
 5noers.xyz
 5ok.org
 5on.info
@@ -3393,7 +3392,6 @@ au.rslvr.eu
 au.teradns.org
 au01.dns4me.net
 au02.dns4me.net
-auberge78.site
 aubih.co.cc
 auce.info
 auco.info
@@ -8371,7 +8369,6 @@ digital.905tech.com
 digital.demak.org
 digital.hoai.org
 digital.hoard.com
-digital.inlove.be
 digital.novafree.net
 digital.now.im
 digital.petrix.net
@@ -17446,7 +17443,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -17457,7 +17453,6 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
-ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -19364,7 +19359,6 @@ learncsscode.osiadaczabogados.cl
 learndistance.co.cc
 learner.outschool.tk
 learnfacts.info
-learnfrench.ktx.ro
 learngeometryfr.fin-tech.com
 learnhotels.hotelconsuladoinn.com
 learning.about.college.paulkelly.org
@@ -20012,6 +20006,7 @@ looksee.ws
 looksurf.co.cc
 lookupstair.co.cc
 loopback.info
+looquae8.xyz
 looseforbid.com
 lopana.com
 loperm.com
@@ -20231,6 +20226,7 @@ madebynathan.zeptoinitiative.org
 madebynathan1.zeptoinitiative.org
 madeclothing.info
 madehappy.info
+madeinchile.io
 madeinchina1987.zapto.org
 madeo.co.cc
 madeofgold.co.cc
@@ -20264,6 +20260,7 @@ magusnet.com
 maherhost.uk
 mahiru.info
 mahorizer.co.cc
+maichongvpn.com
 maiesiophilia.co.cc
 maifot.com
 maikel.greppie.nl
@@ -20488,6 +20485,11 @@ math.theworkpc.com
 math.vincenzodimaro.it
 math.vincenzodimaro.it.cdn.cloudflare.net
 math.westkis.com
+math1.tcloud.my
+math2.tcloud.my
+math3.tcloud.my
+math4.tcloud.my
+math5.tcloud.my
 mathburger.com
 mathcampus.co.cc
 mathcenter.space
@@ -20533,6 +20535,7 @@ mathnotes.icu
 mathnotes.qr-code.co.za
 mathpalace.com
 mathpoop.com
+mathprofession.buzz
 mathprofession.buzz.cdn.cloudflare.net
 mathquizzer.net
 mathrules.dev
@@ -20620,6 +20623,7 @@ mcttechs.com
 mcugqrpn.cc
 mcwy.org
 mcwy.pro
+mdpa.org.tw
 mdproxy.co.cc
 mdqnoxcz.com
 mdss.best
@@ -20947,6 +20951,7 @@ mitotv.co.cc
 mitralt.info
 mixhide.com
 mixi8ones.tk
+mixing.run
 mixproxy.com
 mixturestab.com
 mizban-r.site
@@ -21779,6 +21784,7 @@ naizi.vip
 najiakeji.top
 nakatago.com
 nakedsquid.com
+name-meaning.us
 name.my-station.ru
 name.nop.mobi
 namebrowser.co.cc
@@ -21838,6 +21844,7 @@ nashforex.co.cc
 nashvpn.app
 nashvpn.biz
 nashvpn.io
+nashvpn.mom
 nashvpn.net
 nashvpn.top
 nastya.dns.vladpro.ru
@@ -21919,6 +21926,7 @@ nenc.gov.ua
 neodon-vpn.com
 neomailbox.com
 neomovies.net
+neon.lifepixeled.com
 neonblu.com
 neonos.me
 neoprox.co.cc
@@ -22643,6 +22651,7 @@ ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
+ns1.vuivn.site
 ns2.1899.com.mx
 ns2.4netguides.org
 ns2.flodns.net
@@ -22654,6 +22663,7 @@ ns2.opennameserver.org
 ns2.opi.pp.ua
 ns2.ravdns.com
 ns2.recursive.dnsbycomodo.com
+ns2.vuivn.site
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
@@ -22942,6 +22952,7 @@ okvpn.io
 okyuovkg.com
 oldmillschool.org
 oleg.loan
+olegofriend.ru
 olga.az.i81.ru
 olga.hr.i81.ru
 olga.vd.i81.ru
@@ -23025,6 +23036,7 @@ ongenius.co.cc
 ongoal.co.cc
 onhide.com
 onion.am
+onion.ca
 onion.cab
 onion.casa
 onion.city
@@ -23094,6 +23106,7 @@ onlythistime.com
 onlyus.info
 onmarketing.info
 onpro.info
+onthe.ksf.qzz.io
 ontheroad-proxy.co.cc
 onthesly.info
 onwardhost.com
@@ -23624,6 +23637,7 @@ parisproxy.nz.gs
 pariuri-sportive-online.ro
 parrotsec.org
 parsa.dpdns.org
+parsazr.ir
 part-all-proxy.co.cc
 particolare.info
 particul.com
@@ -25323,7 +25337,6 @@ proxy.powerbet.info
 proxy.pspgonglue.cn
 proxy.pwnz.org
 proxy.pyxelworld.com
-proxy.qiqishou.cn
 proxy.qsl.net
 proxy.rasante-sport.com
 proxy.reddotwiki.com
@@ -28195,6 +28208,7 @@ school-websites.us
 school.64x.org
 school.bostoncareercounselor.com
 school.clanteam.com
+school.dovereducation.org
 school.edu.radix-site.com
 school.fqcomics.cl
 school.frii.site
@@ -34977,6 +34991,7 @@ vtunnel.hiddennow.co.cc
 vtunnel.net
 vtunnel.us
 vudy.ru
+vuivn.site
 vul-trio.ru
 vulb.com
 vulnerability.co.cc
@@ -36166,7 +36181,6 @@ www.33333.biz
 www.3368.info
 www.345.biz
 www.35w.info
-www.365x24x7.in
 www.3738.info
 www.37r.org
 www.3833.info
@@ -37816,7 +37830,6 @@ www.cotse.net
 www.coud.info
 www.coupon2free.com
 www.coursadom.com
-www.courtside.info
 www.covermyass.info
 www.covermyip.com
 www.coverpro.info
@@ -40346,7 +40359,6 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
-www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
@@ -40482,7 +40494,6 @@ www.lawyerproxies.com
 www.lawyerproxy.com
 www.lawyersproxy.com
 www.layoutfly.com
-www.lcproxy.com
 www.le-numerique.fr
 www.le.vg
 www.leadingproxy.com
