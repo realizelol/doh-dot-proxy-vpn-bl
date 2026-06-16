@@ -3950,6 +3950,7 @@ bebravpn-ru.com
 bebravpn.app
 bebravpn.biz
 bebravpn.blog
+bebravpn.help
 bebravpn.lol
 bebravpn.mom
 bebravpn.online
@@ -18052,6 +18053,7 @@ jongserver.xyz
 joniro.ru
 jonzalvo.duckdns.org
 joosurf.nz.gs
+joouddo.ru
 jooy.cc
 jopidf.ipv64.net
 jordanburrow.com
@@ -22325,7 +22327,6 @@ nllfhczq.cc
 nlproxy.com
 nmrirxrs.com
 nnicroanalysis.com
-nnnnn.info
 nntime.com
 no-block-ever.co.cc
 no-carbon.info
@@ -23812,6 +23813,7 @@ peremen.am
 peremen.app
 peremen.space
 peremen.website
+perfect-privacy.com
 perfecthide.com
 perfectproxy.com
 perfectshelter.com
@@ -25313,7 +25315,6 @@ proxy.net.in
 proxy.net.pl
 proxy.netgameonline.com
 proxy.netuno.org
-proxy.nextclassjapan.group
 proxy.nextgathering.com
 proxy.no-block.net
 proxy.noosacatholic.com
@@ -26686,7 +26687,6 @@ puppyfood.info
 pupusproxy.co.cc
 purchase-some.hotglue.click
 purchase-well.co.cc
-purchase.machines.asia
 pure-jsq.xyz
 pure-light-379.discovergeographics.com
 pure-mind-992.conwordable.com
@@ -26827,6 +26827,7 @@ qfhoeyvp.com
 qfipsntg.com
 qgdw.com
 qgfo.com
+qhah.com
 qhqi.top
 qhwrjpvp.cc
 qianmingwei.cn
@@ -27555,7 +27556,6 @@ reverb.bury.abrdns.com
 reverse-proxy.info
 reverseproxies.co.cc
 reversestreet.co.cc
-review.healthfaq.ru
 revisiproxy.co.cc
 revko.info
 revoforex.co.cc
@@ -27609,6 +27609,7 @@ riga91197.mooo.com
 right-turn.co.cc
 rightdecision.co.cc
 rightkey.info
+rightly.org
 rightpaths.com
 rightplacement.co.cc
 rightproperly.co.cc
@@ -31657,7 +31658,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test180.ddo.jp
 test2.adg.siudzinski.net
@@ -33892,7 +33892,6 @@ us1.blissdns.net
 us1.cambrianscientific.com
 us1.dns.lavate.ch
 us2-browse.startpage.com
-us3-browse.startpage.com
 us4-ubg.global.ssl.fastly.net
 us44nas.top
 usa-car-shop.co.cc
@@ -37921,6 +37920,7 @@ www.coyr.com
 www.cpanote.com
 www.cpct.net
 www.cproxy.com
+www.cqul.com
 www.cqxin.com
 www.crackip.com
 www.crak.info
@@ -42927,7 +42927,6 @@ www.proxysec.com
 www.proxysector.com
 www.proxysecurity.com
 www.proxyselect.com
-www.proxysense.com
 www.proxyserver-hkat7-schooljs.tk
 www.proxyserver-hkat7-schooljs4.tk
 www.proxyserver.asia
