@@ -836,6 +836,7 @@
 5hg.net
 5l0.net
 5mdvpn.ru
+5ml.info
 5noers.xyz
 5ok.org
 5on.info
@@ -1832,7 +1833,6 @@ adguard.pw1602.pl
 adguard.quydang.name.vn
 adguard.rabmoor.cz
 adguard.rameshsoma.tech
-adguard.randomaizer.lentel.ru
 adguard.rdekuyper.nl
 adguard.rennes.despagne.net
 adguard.richardapplegate.io
@@ -6209,7 +6209,6 @@ cheaply.info
 cheapproxy.com
 cheaptextingapp.com
 cheapv2.net
-cheat2win.comoj.com
 cheatstown.com
 check.infotechnology.com
 check.peer2profit.site
@@ -26560,7 +26559,6 @@ prysiazhniuk.pp.ua
 pryspace.com
 ps-tel-w-2.nashkan.net
 ps1.modr.club
-ps3gold.com
 pscx.co.cc
 psecurly-by-void.bostoncareercounselor.com
 psifa.com
@@ -29542,7 +29540,6 @@ sodacandy.com
 sodimmproxy.co.cc
 sodium-5h8.pages.dev
 sodschool.com
-soeding.ddnss.de
 soeltforex.co.cc
 sof01.dnscry.pt
 soft-layer-proxy.co.cc
@@ -30501,6 +30498,7 @@ supervpn-ru.com
 supervpn.best
 supervpn.cc
 supervpn.dev
+supervpn.help
 supervpn.homes
 supervpn.im
 supervpn.lat
@@ -35112,7 +35110,6 @@ watchsvu.com
 watchswissarmy.co.cc
 watchyourside.co.cc
 water-gate.info
-water.rabbitforge.xyz
 water1.co.cc
 waterlibrary.com
 watermellons.co.cc
@@ -36354,7 +36351,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9fish.info
 www.9hp.info
@@ -40388,7 +40384,6 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
-www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
@@ -41339,6 +41334,7 @@ www.nity.info
 www.njfpy.com
 www.nkac.pl
 www.nlproxy.com
+www.nnnnn.info
 www.nntime.com
 www.no-carbon.info
 www.no-oil.com
@@ -44116,7 +44112,6 @@ www.socialninja.info
 www.socialproxy.com
 www.socks5.com
 www.sockslist.net
-www.socksproxy.com
 www.sockstoday.com
 www.sodabook.com
 www.sodacandy.com
