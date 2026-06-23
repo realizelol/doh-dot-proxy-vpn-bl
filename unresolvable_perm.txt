@@ -3739,6 +3739,7 @@ adguard.notggle.tk
 adguard.polemarch.live
 adguard.pouifamily.fr
 adguard.quartoz.de
+adguard.randomaizer.lentel.ru
 adguard.richoux.me
 adguard.sems.org
 adguard.serverhostig.eu
@@ -70857,6 +70858,7 @@ sodaproxy.info
 sodeplete.tk
 sodfiltering.info
 sodschool.info
+soeding.ddnss.de
 sof.biz
 sofaraway.info
 sofast123.tk
@@ -86359,6 +86361,7 @@ watchyoutube.hu.tl
 watchyoutube.info
 watchyoutube.pw
 watchyoutubevideosnow.info
+water.rabbitforge.xyz
 water7proxy.tk
 water7proxy0sshs.tk
 water7proxysshs.tk
