@@ -9644,6 +9644,7 @@ dns.xryen.com
 dns.xuming.studio
 dns.xusqui.com
 dns.xv.fi
+dns.xwdmw.xyz
 dns.xwu.us
 dns.xxxxxxxx.pp.ua
 dns.xydustc.me
@@ -10300,6 +10301,7 @@ donogood.com
 donord.net
 donotenter.co.cc
 donpv.com
+donsalvatore.info
 dont-disturb-us.co.cc
 dont-stopping.co.cc
 dont-worry.co.cc
@@ -13605,6 +13607,7 @@ freeproxy.info
 freeproxy.io
 freeproxy.joshjaques.com
 freeproxy.me
+freeproxy.net
 freeproxy.nl
 freeproxy.no-block.net
 freeproxy.olsystems.com
@@ -16703,6 +16706,7 @@ hxv.app
 hxwnkrnn.cc
 hxxxxx.name
 hxy.name
+hy5o5ua8gklpqjbqzjaaje8yy.online
 hyal.info
 hybernationz.co.cc
 hybridcars2010.co.cc
@@ -18027,6 +18031,7 @@ jongserver.xyz
 joniro.ru
 jonzalvo.duckdns.org
 joosurf.nz.gs
+joouddo.ru
 jooy.cc
 jopidf.ipv64.net
 jordanburrow.com
@@ -23930,6 +23935,7 @@ pi4.jnraptor.net
 piano.goal.the-black-hole.co.uk
 piano.login.mastergolfworld.hk
 piano.think.substruction.net
+piaproxy.com
 piaproxy.net
 piaservers.net
 pibiza.com
@@ -25313,7 +25319,6 @@ proxy.powerbet.info
 proxy.pspgonglue.cn
 proxy.pwnz.org
 proxy.pyxelworld.com
-proxy.qiqishou.cn
 proxy.qsl.net
 proxy.rasante-sport.com
 proxy.reddotwiki.com
@@ -28664,7 +28669,6 @@ servebeer.com
 servefaststatic.work
 server-list.synclusiveinno.com
 server-list1.synclusiveinno.com
-server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -29171,6 +29175,7 @@ sitepecker.info
 siteproxy.co.cc
 siteproxy.org
 sitescoring.com
+sitescrack.host
 sitesim.com
 siteslip.com
 sitesneak.com
@@ -39104,7 +39109,6 @@ www.funask.us
 www.fungat.com
 www.funhour.info
 www.funisthepants.info
-www.funnow.info
 www.funpimps.com
 www.funrage.com
 www.funrisk.com
