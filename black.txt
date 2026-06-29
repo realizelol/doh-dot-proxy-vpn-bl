@@ -749,7 +749,6 @@
 4proxy.u0.org
 4proxyfree.co.cc
 4ra.com
-4ra.net
 4rextyrex.co.cc
 4ri.com
 4ri.net
@@ -12428,7 +12427,6 @@ feisucloud.pw
 feitan.cloud
 feitan.me
 feiyujiasu.net
-feiyulink.net
 feliforex.co.cc
 felipefalcao.ninja
 fellowtunnel.co.cc
@@ -12954,6 +12952,7 @@ foolbots.com
 foolmeonce.co.cc
 foot-plate.co.cc
 football.coaching2lead.com
+footballscorelive.com
 footline.co.cc
 foous.com
 fooz.cz.cc
@@ -22885,6 +22884,7 @@ ohmyproxy.com
 ohmyspace.com
 ohmyvps.com
 ohopizza.com
+ohttp.prod.via.google
 ohubhsvf.com
 ohvps.com
 oijkmuiojk.yhujnmok.dingsheng-yule.com
@@ -27114,6 +27114,7 @@ ranco.info
 random-access.co.cc
 random12.crabdance.com
 randomcloak.com
+randomdomain.shop
 randomip.co.cc
 randomproxy.co.uk
 randomproxy.com
@@ -32861,7 +32862,6 @@ udussmiw.com
 ueeftvvc.cc
 ueni.dyndns.org
 ues-letsvpn.com
-uf2.org
 ufjk.com
 ufk.in
 ufocamp.com
@@ -36108,7 +36108,6 @@ www.1sz.info
 www.1toc.com
 www.1unblock.com
 www.1unblock.info
-www.1vn.org
 www.1xa.net
 www.1xi.info
 www.1xv.net
@@ -44949,7 +44948,6 @@ www.toproxysites.com
 www.topshareware.com
 www.topsii.com
 www.topsiteproxy.cn
-www.toptunnel.com
 www.topunblock.com
 www.topunblocker.com
 www.topunblocksites.info
