@@ -24,6 +24,7 @@
 0-0-0-0go.00-org.info
 0-0-0-0surf.00-net.info
 0-0-0.lecktronix.net
+0-0-0.macvillage.net
 0-0-0.xaper.com
 0-0-0proxy.emntest.com
 0-0-0proxy.info
@@ -46742,6 +46743,7 @@ music-video-finder.info
 musicalfour.tk
 musicanonymous.info
 musicawards.tk
+musicbotx.com
 musiccall.tk
 musiccheat.info
 musiccomes.tk
@@ -64266,6 +64268,7 @@ qowsh.info
 qoxy.info
 qpr0xy.info
 qproxy.cf
+qpzpmwfh.com
 qq-oversightmss.tk
 qqc.be
 qqncwg.tk
