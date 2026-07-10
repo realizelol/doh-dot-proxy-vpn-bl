@@ -89,7 +89,6 @@
 0hv.info
 0i6.net
 0jp.com
-0ke.nl
 0ms.dev
 0nm.info
 0on.info
@@ -199,7 +198,6 @@
 1195409979.rsc.cdn77.org
 11vz.com
 12-21-2012.org
-1215.info
 121pr.gq
 1228.org
 123-24.eport.gr
@@ -2274,7 +2272,6 @@ akund.com
 akunssh.net
 akylah.zapto.org
 akzhfsyv.cc
-al-malki-top.zavoj.ch
 alaforex.cz.cc
 alahgaberlah.co.cc
 alamania.wc.lt
@@ -5001,7 +4998,6 @@ brain.innovativegovernance.com
 brain.sci.now-incorporate.com
 braincorner.co.cc
 brainindustry.co.cc
-brainpop.zeptoinitiative.org
 brainreno.com
 brainscans.co.cc
 brainwave.cz.cc
@@ -8360,7 +8356,6 @@ dispatched.mask.wtf.la
 dispforex.co.cc
 distancelearn.co.cc
 distinguished.asdfg.us
-districtnewyork.com
 disturbances.co.cc
 diufks10.easterndns.com
 diuforex.co.cc
@@ -10064,7 +10059,6 @@ doh.xcom.pro
 doh.xfinity.com
 doh.xorlet.ru
 doh.xyz
-doh.yspv.ru
 doh.ywhost.com
 doh.zhongbr.uk
 doh.zknt.org
@@ -10454,7 +10448,6 @@ dripper.info
 drive-targeted.co.cc
 drive-traffic.co.cc
 drive.sparks.ddns-ip.net
-drive.zeptoinitiative.org
 drivebase.co.cc
 drivecore.info
 driver-tips.com
@@ -11023,7 +11016,6 @@ education.com.boxathome.net
 education.gpu74.ru
 education.info.north-kazakhstan.su.cdn.cloudflare.net
 education.tejidosdedignidad.org
-education.zeptoinitiative.org
 educational-site.24x7.hk
 educational.radissontucson.com
 educational2learn.highdesertcoders.com
@@ -11537,6 +11529,7 @@ expressvpn.tools
 expressvpn.works
 expressvpn.xyz
 exroxi.com
+ext.troywell.io
 ext.troywell.org
 extended.dns.mullvad.net
 extendedway.co.cc
@@ -12353,7 +12346,6 @@ fi-hel-w-2.nashkan.net
 fi-hel-w-f-2.nashkan.net
 fi-hel-w-p-1.nashkan.net
 fi.r5acq.com
-fi.wjcload.tech
 fianty.com
 fiber-proxy.co.cc
 fiberprox.com
@@ -13702,7 +13694,6 @@ frogiesarcade.xyz
 frogs.look.good.pxi-fusion.com.cdn.cloudflare.net
 frogs.sh
 frogstone.co.cc
-frogstudioslearning.xlntsolutions.com
 frometoyou.co.cc
 fromleader.tk
 fromschool.net
@@ -14617,6 +14608,7 @@ goldshop.co.cc
 goldsoy.com
 goldtunnel.com
 goldview.in
+goldway.myblog.ir
 goldworld.info
 golegana.de
 goletsuluh.co.cc
@@ -16808,7 +16800,6 @@ imbored.crabdance.com
 imbored.kinemasot.cl
 imborednow.co.cc
 imbr.info
-imcrine.zeptoinitiative.org
 imdone.co.cc
 imdxl.ru
 imf5.com
@@ -19887,8 +19878,6 @@ madanante.co.cc
 maddino.dedyn.io
 madeby-vcsa.ramalhais.com
 madebyconcon.halfwaythere.ca
-madebynathan.zeptoinitiative.org
-madebynathan1.zeptoinitiative.org
 madeclothing.info
 madehappy.info
 madeinchina1987.zapto.org
@@ -20109,7 +20098,6 @@ master.dont.beat.me.spacejamhd.com
 masterbrowser.co.tv
 mastercodeproxy.co.cc
 mastergad.me
-mastergotmeworkin.zeptoinitiative.org
 masterofpublichealth.co.cc
 masterpp.com
 masterprox.com
@@ -23416,7 +23404,6 @@ peremen.am
 peremen.app
 peremen.space
 peremen.website
-perfect-privacy.com
 perfecthide.com
 perfectproxy.com
 perfectshelter.com
@@ -26179,7 +26166,6 @@ prysiazhniuk.pp.ua
 pryspace.com
 ps-tel-w-2.nashkan.net
 ps1.modr.club
-ps3gold.com
 pscx.co.cc
 psifa.com
 psilo.fr
@@ -26834,7 +26820,6 @@ read.alumn.btc.one.pl
 read.coach.ratnikov.com
 read.registration.abrdns.com
 reading.englishpapers.online
-reading.zeptoinitiative.org
 readingforfun.co.com
 ready-work.co.cc
 ready.digisoft.ws
@@ -28466,7 +28451,6 @@ sharpproxy.co.cc
 sharpsurf.co.cc
 shav.info
 shaveforex.co.cc
-shawtagramma.yao.cl
 shazbot.info
 shcool.uni.me
 shcoolvacation.co.cc
@@ -31144,7 +31128,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test180.ddo.jp
 test2.adg.siudzinski.net
@@ -35505,7 +35488,6 @@ www.1155.info
 www.117.us
 www.1181180.com
 www.12-21-2012.org
-www.1215.info
 www.1228.org
 www.1234.ws
 www.12345abcde.info
@@ -35811,6 +35793,7 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
+www.99s.net
 www.99tunnel.com
 www.9fish.info
 www.9hp.info
@@ -39652,7 +39635,6 @@ www.itago.info
 www.itechni.com
 www.itiny.net
 www.itpays2.com
-www.itrsa.home.next.youradbyus.com
 www.itsaplan.info
 www.itsblocked.com
 www.itshidden.com
@@ -43563,7 +43545,6 @@ www.socialninja.info
 www.socialproxy.com
 www.socks5.com
 www.sockslist.net
-www.socksproxy.com
 www.sockstoday.com
 www.sodabook.com
 www.sodacandy.com
@@ -44003,7 +43984,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -46382,7 +46362,6 @@ xvbelink.com
 xvhquwjv.com
 xvless.site
 xvmess.online
-xvmess.site
 xvpn.io
 xvpnsecurity.com
 xwkpmbnez.com
@@ -46472,7 +46451,6 @@ yarvio.ru
 yasak.cn
 yasakdel.com
 yasaksiz.org
-yasharteam.com
 yaskyforex.co.cc
 yauyos.info
 yavdvcrs.com
@@ -46488,7 +46466,6 @@ ybmtkbiq.com
 ybqjaguuii0obex4w.online
 ybqlymsu.com
 ybrr.com
-ybstbrpb.com
 ychen.cf
 ychen.gq
 ychen.tk
@@ -46719,7 +46696,6 @@ yoyovpn.org
 yoyoyaya.thecastcaddy.com
 yoza.info
 yozoragames.mills-family.us
-yplsambm.com
 ypork.com
 yqchonhx.com
 yrc.synology.me
@@ -46808,7 +46784,6 @@ z11g.com
 z1j9ortoc.online
 z2l8ae5mv83sgzkutimxp.online
 z3d9.com
-z4qczlf.online
 z8z.info
 z95.org
 za-joh-w-2.nashkan.net
@@ -46984,7 +46959,6 @@ zgcvpn.com
 zgendpnts.s3.amazonaws.com
 zgfree.info
 zgproxy.org
-zgsjhdzb.com
 zgta.com
 zgvpn.net
 zgvpn.org
