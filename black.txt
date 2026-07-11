@@ -428,7 +428,6 @@
 1unblock.info
 1utins.xyz
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
-1vn.org
 1void-vision2.global.ssl.fastly.net
 1vpn.app
 1vpn.org
@@ -629,7 +628,6 @@
 365vpn.com
 365vpn.org
 365vpn.uk
-365x24x7.in
 369.cyou
 36d275bc57ffbb02dc36d89816fa5be369d66113.com
 37-27-88-135.backname.io
@@ -4710,7 +4708,6 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
-blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -8356,6 +8353,7 @@ dispatched.mask.wtf.la
 dispforex.co.cc
 distancelearn.co.cc
 distinguished.asdfg.us
+districtnewyork.com
 disturbances.co.cc
 diufks10.easterndns.com
 diuforex.co.cc
@@ -8568,6 +8566,7 @@ dns.ares-taiwan.com
 dns.arkbotech.com
 dns.articrevised.cc
 dns.artikel10.org
+dns.as212683.net
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
@@ -8684,6 +8683,7 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
+dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -19376,7 +19376,6 @@ linear.ws
 linen.freeddns.org
 linetechnet.co.cc
 linewizenet.easterndns.com
-linewizesucks.myclarevision.com
 linfox.com
 linfoxdomain.com
 lingeriefav.co.cc
@@ -25129,7 +25128,6 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
-proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -25755,7 +25753,6 @@ proxyresources.com
 proxyreview.net
 proxyrich.co.cc
 proxyride.co.cc
-proxyring.com
 proxyrio.com
 proxyrise.com
 proxyriver.com
@@ -26398,7 +26395,6 @@ qfhoeyvp.com
 qfipsntg.com
 qgdw.com
 qgfo.com
-qhah.com
 qhqi.top
 qhwrjpvp.cc
 qianmingwei.cn
@@ -31128,6 +31124,7 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
+test.net46.net
 test.privatenode.ru
 test180.ddo.jp
 test2.adg.siudzinski.net
@@ -35488,6 +35485,7 @@ www.1155.info
 www.117.us
 www.1181180.com
 www.12-21-2012.org
+www.1215.info
 www.1228.org
 www.1234.ws
 www.12345abcde.info
@@ -35793,7 +35791,6 @@ www.985.biz
 www.99kw.com
 www.99mm.info
 www.99proxy.com
-www.99s.net
 www.99tunnel.com
 www.9fish.info
 www.9hp.info
@@ -36101,7 +36098,6 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
-www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -36628,7 +36624,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -39957,7 +39952,6 @@ www.lawyerproxies.com
 www.lawyerproxy.com
 www.lawyersproxy.com
 www.layoutfly.com
-www.lcproxy.com
 www.le-numerique.fr
 www.le.vg
 www.leadingproxy.com
@@ -42639,7 +42633,6 @@ www.qbcv.com
 www.qeoz.com
 www.qgdw.com
 www.qgfo.com
-www.qhah.com
 www.qianmingwei.cn
 www.qiche008.com
 www.qifuban.cn
@@ -42942,6 +42935,7 @@ www.s1p.info
 www.s20.info
 www.s2vm.com
 www.s360.info
+www.s3rf.com
 www.s67.net
 www.s74.com
 www.saaikou.com
@@ -44553,7 +44547,6 @@ www.uck.in
 www.udaip.com
 www.udam.info
 www.udit.info
-www.uf2.org
 www.ufjk.com
 www.ufk.in
 www.ufocamp.com
