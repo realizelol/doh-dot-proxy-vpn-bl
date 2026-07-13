@@ -432,6 +432,7 @@
 1vn.org
 1void-vision2.global.ssl.fastly.net
 1vpn.app
+1vpn.co
 1vpn.org
 1vpn.website
 1workbypass.info
@@ -2944,6 +2945,7 @@ api.fatibara.com
 api.get-just-api.com
 api.miningbest.com
 api.nolathedogtherapist.com
+api.npvu.me
 api.rdocart.com
 api.sailforeducation.org
 api.smoz.me
@@ -3763,7 +3765,6 @@ batvpn.top
 batyasoft.com
 bauforex.co.cc
 baumgart.co.uk
-baxtri.ru
 baypassbrowser.co.cc
 bayproxy.co.cc
 bayproxy.com
@@ -6513,12 +6514,16 @@ cloud2.holzmannclouddns.de
 cloudaccess.info
 cloudbenders.fun
 cloudbob.fr
+cloudburstcdn.com
 clouddesign.info
 cloudexpress.info
+cloudflaracdn.com
 cloudflare-dns.com
 cloudflaredns.com
 cloudflares.ddns.net
+cloudflingcdn.com
 cloudfun.info
+cloudlogcdn.com
 cloudnetcdn.com
 cloudnetwork.pro
 cloudnow.info
@@ -6533,6 +6538,7 @@ cloudspacecdn.site
 cloudsrv.charitosnet.de
 cloudssh.net
 cloudssh.us
+cloudtimecdn.com
 cloudvpn.ai
 cloudvpn.pro
 clove-proxxvpndes.tk
@@ -8687,6 +8693,7 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
+dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -9182,7 +9189,6 @@ dns.norvig.dk
 dns.novali.date
 dns.novg.net
 dns.npe.bz
-dns.ntccloud.vn
 dns.ntr.lol
 dns.nubecita.biz
 dns.nullgate.net
@@ -11433,6 +11439,7 @@ everyone-free.co.cc
 everyorigin.jwvbremen.nl
 everyprofit.co.cc
 everyproxies.info
+everyproxysite.com
 everything-every.co.cc
 everything-in.co.cc
 everythingtoshare.com
@@ -17191,7 +17198,6 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
-ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -23774,6 +23780,7 @@ playernation.jurematoz.com
 playernation.localization.ee
 playernation.onnemaa.ee
 playernation.sevecom.com
+playernation.superportret.ru
 playernation.verandahotels.com
 playernationorg.localization.ee
 playernations.graphicon.org
@@ -26261,7 +26268,6 @@ puppyfood.info
 pupusproxy.co.cc
 purchase-some.hotglue.click
 purchase-well.co.cc
-purchase.machines.asia
 pure-jsq.xyz
 pure-light-379.discovergeographics.com
 pure-mind-992.conwordable.com
@@ -29094,7 +29100,6 @@ sohbetcix.com
 sohbetde.net
 sohbete.gen.tr
 sohbethane.net
-sohbetkur.com
 sohbetkurdu.com
 sohbetlive.com
 sohbetodalari.net
@@ -32315,7 +32320,6 @@ ublockme.com
 uboo.st
 uboost.am
 uboost.download
-uboost.shop
 uboost.site
 uboost.space
 uboost.top
@@ -35552,7 +35556,6 @@ www.1sz.info
 www.1toc.com
 www.1unblock.com
 www.1unblock.info
-www.1vn.org
 www.1xa.net
 www.1xi.info
 www.1xv.net
@@ -36104,6 +36107,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -41444,6 +41448,7 @@ www.problack.info
 www.problock.info
 www.probs.info
 www.probyte.top
+www.procheck.info
 www.procks.com
 www.procksee.com
 www.prockstar.com
@@ -42640,6 +42645,7 @@ www.qbcv.com
 www.qeoz.com
 www.qgdw.com
 www.qgfo.com
+www.qhah.com
 www.qianmingwei.cn
 www.qiche008.com
 www.qifuban.cn
@@ -45784,7 +45790,6 @@ www.yogdham.com
 www.yoha.info
 www.yolkd.com
 www.yomakingsshouruss.tk
-www.yomj.com
 www.yomsn.com
 www.yonjasohbet.com
 www.yope.info
