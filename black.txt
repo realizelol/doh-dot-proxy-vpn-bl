@@ -8693,7 +8693,6 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
-dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -9189,6 +9188,7 @@ dns.norvig.dk
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.ntccloud.vn
 dns.ntr.lol
 dns.nubecita.biz
 dns.nullgate.net
@@ -15007,7 +15007,6 @@ guidedevices.co.cc
 guidepowerup.co.cc
 guidetoworld.link
 guidex.info
-guigu.dns.army
 guigui520.com.ru
 guildforex.co.cc
 guildstashtracker.xyz
@@ -17198,6 +17197,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -25137,7 +25137,6 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
-proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -35556,6 +35555,7 @@ www.1sz.info
 www.1toc.com
 www.1unblock.com
 www.1unblock.info
+www.1vn.org
 www.1xa.net
 www.1xi.info
 www.1xv.net
@@ -37337,7 +37337,6 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
-www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -43991,7 +43990,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
