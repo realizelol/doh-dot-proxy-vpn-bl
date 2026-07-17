@@ -70859,6 +70859,7 @@ socks5.mport.info
 socks5proxy.ga
 socksfornow.com
 socksfornowlive.com
+socksproxy.com
 socksproxy.info
 socksproxy.tk
 socksproxyservers.cn
