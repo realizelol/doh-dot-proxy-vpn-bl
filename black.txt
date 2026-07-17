@@ -3561,6 +3561,7 @@ azzico.com
 azzico.pw
 b-dns.se
 b-i-z.biz
+b-ii.com
 b-ipv4.bhadrikais.my.id
 b-itc.be
 b.cpfrx.info
@@ -3894,7 +3895,6 @@ bebra.mom
 bebra.pw
 bebra.sh
 bebraaavpn.ru
-bebracraft.ru
 bebravpn-app.cyou
 bebravpn-app.fun
 bebravpn-app.homes
@@ -8710,6 +8710,7 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
+dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -10408,6 +10409,13 @@ doyouwhathavetodoooooo.staglin.hr
 doyouyou.com
 doyunfan.com
 dozapp.xyz
+dp-ca-01.live
+dp-de-01.live
+dp-es-01.live
+dp-hu-01.live
+dp-it-01.live
+dp-pl-01.live
+dp-tr-01.live
 dp.anywaysoft.com
 dp0jdoory277.cloudfront.net
 dpb7lli3zpdp0.cloudfront.net
@@ -14974,6 +14982,9 @@ gsoula.life
 gsouyou.space
 gsuforex.co.cc
 gsyvipaff.cc
+gt-ch-01.live
+gt-ch-02.live
+gt-fr-01.live
 gt500.co.cc
 gtag.club
 gtag.club.cdn.cloudflare.net
@@ -17219,7 +17230,6 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
-ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -17230,6 +17240,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -19904,6 +19915,7 @@ m.aproxy.nut.cc
 m.nop.mobi
 m.thelmadejager.click
 m00.info
+m247-br-01.live
 m33t.us
 m3mhtvbfy.online
 m600i.co.cc
@@ -19911,6 +19923,7 @@ m7d.info
 m82.net
 m9p.info
 maal.info
+mabelnice.anjumanallana.in
 mablet.com
 mabokers.co.cc
 mac4arabs.com
@@ -19925,6 +19938,7 @@ mad01.dnscry.pt
 mad4todo.com
 madanante.co.cc
 maddino.dedyn.io
+made.by-void.anjumanallana.in
 madeby-vcsa.ramalhais.com
 madebyconcon.halfwaythere.ca
 madeclothing.info
@@ -20197,6 +20211,7 @@ mathease.cn
 matheen.online
 mathematicsedu.xyz
 mathematicsedu.xyz.cdn.cloudflare.net
+mathforfun.firstgrad.bestprogramsforkids.com
 mathgamesarefun.duckdns.org
 mathgeometryalgebralearning.twilightparadox.com
 mathh.img.com.ar
@@ -20469,6 +20484,7 @@ meyouus.info
 mezy.net
 mfhermkp.cc
 mfimail.eu
+mg-kz-01.live
 mglife.net
 mgnet.vip
 mgomo.com
@@ -20537,6 +20553,7 @@ mikrotikvpn.help
 miksa.info
 miku.hair
 miku.hair.cdn.cloudflare.net
+miku.lat
 miku.lat.cdn.cloudflare.net
 mikumovieispeak.global.ssl.fastly.net
 mil01.dnscry.pt
@@ -21092,6 +21109,7 @@ mugspace.com
 muhabbet.org
 muhedforex.co.cc
 muimui.easterndns.com
+mukuyunjc.com
 muli.stusta.mhn.de
 mullvad.net
 multi.dns.marbledfennec.net
@@ -21143,6 +21161,7 @@ mvipcloud.xyz
 mvparea.co.cc
 mwhgfscc.cc
 mwolk.com
+mws-ru-01.live
 mx1.laoxiao789.com
 mx1.therealauthority.com
 mxe.be
@@ -21453,6 +21472,7 @@ naiunet.com
 naiunet.net
 naiunet.pro
 naiunet.xyz
+naiyougw.com
 naiyun.info
 naizi.vip
 najiakeji.top
@@ -21981,6 +22001,7 @@ nlb.gbrossi.com.br
 nletsa.com
 nletsb.com
 nletsf.com
+nljkjfdssdf.ckejlsd.nshosting.xyz
 nllfhczq.cc
 nlproxy.com
 nmrirxrs.com
@@ -22537,6 +22558,7 @@ officepass.org
 officeprxyme.co.cc
 officewire.co.cc
 official-vpn.info
+officialcepheusx.bestprogramsforkids.com
 officialproxy.com
 officialvpn.help
 offiforex.co.cc
@@ -22672,6 +22694,7 @@ oneonly.info
 oneproxies1.co.cc
 oneproxy.biz
 oneproxy.info
+oneproxy.xyz
 onestopproxy.co.cc
 onestreaming.org
 onesy.top
@@ -23384,7 +23407,6 @@ pcd96.duckdns.org
 pcgo.fun
 pcgraffiti.com
 pcjco.ovh
-pcmesh.com
 pcornet.freeboxos.fr
 pcquest.info
 pcriot.com
@@ -23426,6 +23448,7 @@ peets.pro
 pegasus.nz.gs
 pegasusdirectory.com
 pehw.com
+peiqianjc.com
 pekpekao.co.cc
 peltrax.ru
 penaar.co.cc
@@ -23808,8 +23831,10 @@ playatschool.com
 playbyproxy.com
 playcouples-travel.com
 playdead.co.cc
+player-nation.anjumanallana.in
 player-nation.bayworld.net
 player-nation.hotelconsuladoinn.com
+playernation.anjumanallana.in
 playernation.anti-spam.technology
 playernation.blackonstuff.com
 playernation.canalspa.cl
@@ -24021,6 +24046,7 @@ powerschool.co.cc
 powerschool.com.de
 powerschool.com.de.cdn.cloudflare.net
 powerschool.it.com
+powerschoolportal.bastaff.ru
 powersix.co.cc
 powerstrave.co.cc
 powersurf.co.cc
@@ -26233,6 +26259,7 @@ ptiproxy.info
 ptivtnsw.com
 ptkdfjnflmpalkfpkehjgopmjldhjhgb.click
 ptnproxy.co.cc
+pto.anjumanallana.in
 ptoserver.com
 ptproxy.info
 ptunnel.com
@@ -26611,6 +26638,7 @@ quorilo.ru
 quotefreebies.co.cc
 quoters.info
 quppy.com
+qusa.anjumanallana.in
 qustano.xyz
 qv2ray.org
 qvkyjkus.cc
@@ -27231,6 +27259,7 @@ rinki.live
 rinki.pro
 rinki.space
 rinki.wiki
+rinki.xyz
 riolu-node.link
 riolu.icu
 riolu.ooo
@@ -27486,6 +27515,7 @@ runthrough.info
 rusa.loan
 rushproxy.co.cc
 rushproxy.com
+rusnet-android.click
 russianbumper.co.cc
 russianproxy.com
 rustynailspace.com
@@ -27653,6 +27683,7 @@ safing.io
 sage.area.modeemi.net
 sagrantapp.com
 saharanet.co.cc
+sahi.uk
 sailing.ink
 sailingnet.pro
 sailsurf.co.cc
@@ -27853,7 +27884,6 @@ schoology-alt.onrender.com
 schoology.college
 schoology123.org
 schoolooks.com
-schoolooks.net
 schoolpalm.com
 schoolpath.co.cc
 schoolpower.info
@@ -28082,6 +28112,7 @@ securebypass.com
 secureconnect.me
 securecyber.info
 secured.global.ssl.fastly.net
+secured.wiki
 securedbyknox.satucat.uk
 securedcommercialloans2.co.tv
 securedev.info
@@ -28200,6 +28231,7 @@ selenitepn.creographix.at
 selevseesa.gpu74.ru
 self-assured.graphicon.ru
 self-destructing-email.com
+selfadserver.com
 selfhide.com
 selfsurf.co.cc
 seligmania-online.com
@@ -28433,6 +28465,7 @@ shadowrocket.work
 shadowrocketdownload.com
 shadowrocketid.com
 shadowrocketios.org
+shadowrocketjj.com
 shadowrocketvpn.app
 shadowrocketvpn.com
 shadowsan.easterndns.com
@@ -28671,7 +28704,6 @@ simpleproxy.com
 simpletofix.com
 simpletrack.co.cc
 simpleunblock.com
-simplevpn.info
 simplevpn.net
 simpleways.co.cc
 simplexsolutionsinc.com
@@ -28926,6 +28958,7 @@ slyvip.com
 slz.us
 sm2.doh.pub
 sm5q237c0.g666gle.me
+smack.bastaff.ru
 small-browser.com
 small-soul-737.guesstheanimal.org
 smallhurricane.co.cc
@@ -29242,6 +29275,7 @@ soyle.net
 soztube.com
 space-in.info
 space-unlock.co.cc
+space.bestprogramsforkids.com
 space.bitzone.info
 space.info.north-kazakhstan.su.cdn.cloudflare.net
 space1block.nz.gs
@@ -29304,6 +29338,7 @@ speedbomber.co.cc
 speedboost.website
 speedbreakers.info
 speedcat.info
+speedcatjc.com
 speedchaser.co.cc
 speedcn.in
 speedcontrol.co.cc
@@ -30067,6 +30102,7 @@ suppervpn-duper8-proxyips.tk
 supplementaire.com
 support-for.co.cc
 support-unlocksurf.co.cc
+support.dingsheng-yule.com
 support.sghub.co.za.twilightparadox.com
 support.synapseitech.com
 support.warning.cx
@@ -36146,6 +36182,7 @@ www.anonworks.com
 www.anonx.net
 www.anony-surf.com
 www.anonycat.com
+www.anonyfi.com
 www.anonym-surfen.ws
 www.anonym.to
 www.anonymat.org
@@ -45448,6 +45485,7 @@ www.webproxy4free.ml
 www.webproxyblack.ml
 www.webproxybrowser.com
 www.webproxyfree.net
+www.webproxyking.com
 www.webproxylist.cn
 www.webproxylist.com
 www.webproxylist.org
