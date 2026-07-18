@@ -3895,6 +3895,7 @@ bebra.mom
 bebra.pw
 bebra.sh
 bebraaavpn.ru
+bebracraft.ru
 bebravpn-app.cyou
 bebravpn-app.fun
 bebravpn-app.homes
@@ -6146,7 +6147,6 @@ cheaply.info
 cheapproxy.com
 cheaptextingapp.com
 cheapv2.net
-cheat2win.comoj.com
 cheatstown.com
 check.infotechnology.com
 check.peer2profit.site
@@ -6476,7 +6476,6 @@ cloakdoors.info
 cloaked.myhousesetup.com
 cloakedip.com
 cloaken.com
-cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
@@ -7961,7 +7960,6 @@ ddy7y2gzhimwt.cloudfront.net
 de-adguard.dr3ff1c13nt.com
 de-ber.doh.sb
 de-dus.doh.sb
-de-f1.foxyfy.net
 de-fra-w-f-1.nashkan.net
 de-fra-w-f-2.nashkan.net
 de-fra-w-f-3.nashkan.net
@@ -8710,7 +8708,6 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
-dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -17240,7 +17237,6 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
-ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -17937,7 +17933,6 @@ junov.com
 jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
-jupitrdns.com
 jupon.karrozzin.cloud-ip.cc
 jupopo.com
 juproxy.com
@@ -20406,6 +20401,7 @@ meliority.com
 melisatea.com
 mellowtel-bucket.s3.us-east-1.amazonaws.com
 melloyello.org
+meloo.bond
 melqorvixa.xyz
 mem8.com
 membean.cf
@@ -23407,6 +23403,7 @@ pcd96.duckdns.org
 pcgo.fun
 pcgraffiti.com
 pcjco.ovh
+pcmesh.com
 pcornet.freeboxos.fr
 pcquest.info
 pcriot.com
@@ -28211,7 +28208,6 @@ seeu.dev
 seg.fimserve.com
 seglong.co.cc
 seguridad.in
-seipvscpuneji.xyz
 sekernel.tk
 sekure.info
 sel01.dnscry.pt
@@ -30092,6 +30088,7 @@ supervpn-ru.com
 supervpn.best
 supervpn.cc
 supervpn.dev
+supervpn.help
 supervpn.homes
 supervpn.im
 supervpn.lat
@@ -31153,6 +31150,7 @@ teentime.yafro.com
 teersforex.co.cc
 teh-best.co.uk
 tehbox.com
+tejiass.com
 tekape.co.cc
 telc.us
 teledata.info
@@ -31374,12 +31372,14 @@ theproxy.club
 theproxy.com
 theproxy.dev
 theproxy.info
+theproxy.ink
 theproxy.io
 theproxy.link
 theproxy.lol
 theproxy.red
 theproxy.us
 theproxy.vip
+theproxy.work
 theproxy.ws
 theproxy1-1.appspot.com
 theproxy2.biz
@@ -31388,6 +31388,7 @@ theproxya.org
 theproxybay.com
 theproxybay.org
 theproxyconnection.com
+theproxyer.com
 theproxyfree.com
 theproxyguide.com
 theproxyguy.com
@@ -31462,6 +31463,7 @@ this-is-the-life.co.cc
 thiscopyofartclassisnotgenuine.rare1k.space
 thiscost1dollar.store
 thisismathteach.myclarevision.com
+thisisthe.bestprogramsforkids.com
 thisisthestandard.com
 thisproxy.com
 thisproxy.free.fr
@@ -31641,6 +31643,7 @@ tnquyfpp.com
 tns5gcwfy.online
 tntproxy.com
 tntv2.com
+tnvpn.com
 to-continue.co.cc
 toaccess.co.cc
 toastedpenguin.com
@@ -31855,6 +31858,7 @@ totorocloud.cc
 totorocloud.info
 totorocloud.net
 totorocloud.org
+totovps.com
 touched-deeply.co.cc
 touchforex.co.cc
 touchfresh.com
@@ -32450,6 +32454,7 @@ uhidk.infotechnology.com
 uhk.in
 uhuf.com
 uhzuran.win
+uiovsjdfkldsf.jksdlfkesdf.nshosting.xyz
 uisujhks.com
 ujlhjhklhlfigjh.dtgxfjkiokl.searchegpt.com
 ujnp.com
@@ -32764,7 +32769,9 @@ unblocked.lol
 unblocked.me
 unblocked.name
 unblocked.org
+unblocked.racing
 unblocked.soy
+unblocked.surf
 unblocked.to
 unblocked.tw
 unblocked.win
@@ -33495,6 +33502,7 @@ utopia.ub.phuri.cc
 utopiabest.linkpc.net
 utopianpal.com
 utopiapal.com
+utopiaunblocker.crabdance.com
 utor.info
 utthaninternational.com
 utube.cc
@@ -33690,6 +33698,7 @@ vapor-official.netlify.app
 vapor.my
 vapor.my.cdn.cloudflare.net
 vapor.onl
+vapor.techno.pics
 vaporgithub.pages.dev
 vaporized.help
 vaporon.top
@@ -34098,6 +34107,7 @@ vpn-dlya-tg.vercel.app
 vpn-dns-adsblocker.duckdns.org
 vpn-edge.help
 vpn-fastest.com
+vpn-free.com
 vpn-free.pro
 vpn-kostenlos.com
 vpn-kuailianapp.com
@@ -34577,6 +34587,7 @@ vzrsy.com
 w--e.giize.com
 w-a.info
 w.digdiary.com
+w.q.sagesinst.org
 w0125ca5.kasserver.com
 w11.info
 w36.info
@@ -34595,6 +34606,7 @@ wadsworthyouthbasketball.org
 wagesbrowser.co.cc
 waguns.net
 waguri.nappod.com
+waguri.vancorp.com.au
 waitfree.us
 waiwangjiasu.net
 waka-waka.co.cc
@@ -34704,6 +34716,7 @@ wdyserver.com
 we-are.ksf.qzz.io
 we-hate-school.bastaff.ru
 we-make.org
+we2education.anjumanallana.in
 weaang.co
 wealthify.fr
 wealthypot.com
@@ -34809,6 +34822,7 @@ webminster.co.uk
 webnew.info
 webonehosting.co.cc
 webonlineproxy.info
+webopen.info
 weboproxy.com
 webpagefirewall.co.cc
 webpass.info
@@ -35532,7 +35546,6 @@ www.0hide.com
 www.0hv.info
 www.0i6.net
 www.0jp.com
-www.0ke.nl
 www.0nm.info
 www.0on.info
 www.0on.org
@@ -42720,7 +42733,6 @@ www.qbcv.com
 www.qeoz.com
 www.qgdw.com
 www.qgfo.com
-www.qhah.com
 www.qianmingwei.cn
 www.qiche008.com
 www.qifuban.cn
@@ -44066,6 +44078,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -45596,7 +45609,6 @@ www.whoer.net
 www.wholeproxy.cf
 www.whopy.com
 www.whosgonnaknow.com
-www.whoza.com
 www.whyblocks.com
 www.whyinsurance.info
 www.whyismysitedown.com
@@ -45864,6 +45876,7 @@ www.yogdham.com
 www.yoha.info
 www.yolkd.com
 www.yomakingsshouruss.tk
+www.yomj.com
 www.yomsn.com
 www.yonjasohbet.com
 www.yope.info
@@ -46158,6 +46171,9 @@ xcomplus.com
 xcomvpn-7000b-default-rtdb.firebaseio.com
 xcveshjkdfsedfsew.jhwkejrd.dingsheng-yule.com
 xcvhjksdfjkldsf.fsdfesdfsfdew.dingsheng-yule.com
+xcvidskjklxcvkdkdfs.dkfkjgldfds.nshosting.xyz
+xcvjklekscfjklsd.xcvkjleskfs.nshosting.xyz
+xcvjkslkcjfsdfesfd.xcvjhsdkdfs.nshosting.xyz
 xcvpn.me
 xcvskljfesdfe.sjklidsfewrf.dingsheng-yule.com
 xdfg.net
@@ -46215,6 +46231,7 @@ xholgm.top
 xianchengzhi.cn
 xianmfenglinktools.com
 xianxinhn.xyz
+xianyujsq.com
 xianyuwangluo.net
 xianyuwangluo.top
 xianyuwangluohost.net
@@ -46259,6 +46276,7 @@ xitlo5.com
 xito.info
 xixi.ph
 xixicats.pw
+xjhvkjsjkdfklxfd.skdjlxvdsf.nshosting.xyz
 xjpdns.354688.xyz
 xjumper.com
 xka2gd.xyz
@@ -46357,6 +46375,7 @@ xn--yfrp36ea9901a.com
 xn--yfrp5enpj81a6w4d.com
 xn--yfrw1g0upg04amnn.com
 xn--yfrw1glt6awpb6x3e.xyz
+xn--yfrw1goy3egzffc.com
 xn--yrs494l.com
 xn--yun-2t1ej483a.com
 xn--z4vu10a.com
@@ -46472,6 +46491,7 @@ xyz2.jammerxd.dev
 xyz2.zmjflow.com
 xyz3.jammerxd.dev
 xyz3.zmjflow.com
+xz.anjumanallana.in
 xzmkdvpql.com
 xzpjmrpb.com
 xzz.in
@@ -46617,6 +46637,7 @@ yipojie.cn
 yiyanghuatan.tk
 yiyo.io
 yiyo.mobi
+yiyuangw.com
 yiyuanjichang.info
 yizhimao.cloud
 yizhimao.me
@@ -47030,7 +47051,6 @@ zestivo.ru
 zetland.rm-ni.uk
 zeusvps.cloudns.nz
 zeuz.org
-zexrctvjykiuln.evils.in
 zfd01-1ujzkyso.top
 zfd02-28hg5ijp.top
 zfilez.org
