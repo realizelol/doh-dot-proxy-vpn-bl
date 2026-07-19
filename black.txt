@@ -419,7 +419,6 @@
 1stmyspaceproxy.info
 1stsecrettunnels.co.cc
 1styourunblocks.co.cc
-1surf.usa.cc
 1surfunblock.info
 1svpn.biz
 1svpn.com
@@ -2886,6 +2885,8 @@ anyfool.com
 anyhow.bury.abrdns.com
 anyip.io
 anyone-who.co.cc
+anyone.io
+anyone.tech
 anypage.net
 anyproxy.net
 anysubject.org
@@ -6476,6 +6477,7 @@ cloakdoors.info
 cloaked.myhousesetup.com
 cloakedip.com
 cloaken.com
+cloaker.ca
 cloaker.us
 cloakie.com
 cloakinferno.co.cc
@@ -8708,6 +8710,7 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
+dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -17227,6 +17230,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -17237,6 +17241,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -17933,6 +17938,7 @@ junov.com
 jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
+jupitrdns.com
 jupon.karrozzin.cloud-ip.cc
 jupopo.com
 juproxy.com
@@ -26332,7 +26338,6 @@ puppyfood.info
 pupusproxy.co.cc
 purchase-some.hotglue.click
 purchase-well.co.cc
-purchase.machines.asia
 pure-jsq.xyz
 pure-light-379.discovergeographics.com
 pure-mind-992.conwordable.com
@@ -28700,6 +28705,7 @@ simpleproxy.com
 simpletofix.com
 simpletrack.co.cc
 simpleunblock.com
+simplevpn.info
 simplevpn.net
 simpleways.co.cc
 simplexsolutionsinc.com
@@ -32376,6 +32382,7 @@ u-n-b-l-o-c-k.co.cc
 u-proxy.com
 u.moneyhome.biz
 u2bp.com
+u2dpn.network
 u2dpn.xyz
 u8sj3.com
 u9m.net
@@ -42733,6 +42740,7 @@ www.qbcv.com
 www.qeoz.com
 www.qgdw.com
 www.qgfo.com
+www.qhah.com
 www.qianmingwei.cn
 www.qiche008.com
 www.qifuban.cn
@@ -45609,6 +45617,7 @@ www.whoer.net
 www.wholeproxy.cf
 www.whopy.com
 www.whosgonnaknow.com
+www.whoza.com
 www.whyblocks.com
 www.whyinsurance.info
 www.whyismysitedown.com
