@@ -8832,7 +8832,6 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
-dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -12783,7 +12782,6 @@ fjbproxy.co.cc
 fjdsosdjofjsdfj.easterndns.com
 fjkdxmhgsugbjj.hfdjksahdjks.searchegpt.com
 fjord.complex.abrdns.com
-fjr01.dnscry.pt
 fjuforex.co.cc
 fk1jolhb.com
 fk4mil.pl
@@ -17429,6 +17427,7 @@ ipod-ipad.co.cc
 ipodlove.co.cc
 ipodspareparts.com
 iportal.me
+ipp.comlu.com
 ipprotectionauth.goog
 ipproxiesnet.co.cc
 ipproxy.com
@@ -20278,6 +20277,7 @@ man.info.north-kazakhstan.su.cdn.cloudflare.net
 man01.dnscry.pt
 manage-accounts.co.cc
 manage.peakconsulting.com.au
+managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -23674,6 +23674,7 @@ pcd96.duckdns.org
 pcgo.fun
 pcgraffiti.com
 pcjco.ovh
+pcmesh.com
 pcornet.freeboxos.fr
 pcquest.info
 pcriot.com
@@ -30871,6 +30872,7 @@ surfmap.info
 surfmarvel.co.cc
 surfmask.co.cc
 surfmasters.co.cc
+surfmate.info
 surfmaui.co.cc
 surfmax.co.cc
 surfmaze.co.cc
@@ -32772,6 +32774,7 @@ udussmiw.com
 ueeftvvc.cc
 ueni.dyndns.org
 ues-letsvpn.com
+uf2.org
 ufjk.com
 ufk.in
 ufocamp.com
@@ -34063,6 +34066,7 @@ varon.info
 varsitech.s43.eatj.com
 vashvpn.help
 vasiliysoldatkin.ru
+vasilykumaev.ru
 vastelo.ru
 vastino.ru
 vasya-sad.px.i81.ru
@@ -34938,7 +34942,6 @@ vzrsy.com
 w--e.giize.com
 w-a.info
 w.digdiary.com
-w.q.sagesinst.org
 w0125ca5.kasserver.com
 w11.info
 w2fe9j5f.com
@@ -42292,7 +42295,6 @@ www.proxyboxonline.com
 www.proxyboys.com
 www.proxyboys.net
 www.proxybr.com
-www.proxybridge.cn
 www.proxybrokers.com
 www.proxybros.com
 www.proxybrowse.info
@@ -42734,6 +42736,7 @@ www.proxyrent.com
 www.proxyresource.org
 www.proxyresources.com
 www.proxyreview.net
+www.proxyring.com
 www.proxyrio.com
 www.proxyriver.com
 www.proxyroad.com
