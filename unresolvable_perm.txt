@@ -1989,6 +1989,7 @@
 65fv.com
 65p.info
 65usprox.info
+661.qzz.io
 662772proxy.tk
 664895proxy.tk
 666-proxy.info
@@ -15598,6 +15599,7 @@ cloaker-amazing.info
 cloaker-best.info
 cloaker-excellent.info
 cloaker-sky.info
+cloaker.ca
 cloaker.tk
 cloakers.info
 cloakf.info
@@ -15942,6 +15944,7 @@ cnndnn.tk
 cnnupdates.info
 cnproxy.net
 cnpv.info
+cnusxumyiiw.xyz
 cnyproxy.top
 co-maker.info
 co-proxy.info
@@ -19706,6 +19709,7 @@ dns.itcz.xyz
 dns.itdept.pro
 dns.ivyeori.live
 dns.jucker.engineering
+dns.jupitrdns.com
 dns.jupitrdns.net
 dns.karmanet.ch
 dns.kashall.dev
