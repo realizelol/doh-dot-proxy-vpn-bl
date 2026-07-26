@@ -9107,7 +9107,6 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
-dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -9602,6 +9601,7 @@ dns.norvig.dk
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.npsolution.it
 dns.ntccloud.vn
 dns.ntr.lol
 dns.nubecita.biz
@@ -25597,6 +25597,7 @@ proxy.powerbet.info
 proxy.pspgonglue.cn
 proxy.pwnz.org
 proxy.pyxelworld.com
+proxy.qiqishou.cn
 proxy.qsl.net
 proxy.rasante-sport.com
 proxy.reddotwiki.com
@@ -33107,7 +33108,6 @@ udussmiw.com
 ueeftvvc.cc
 ueni.dyndns.org
 ues-letsvpn.com
-uf2.org
 ufjk.com
 ufk.in
 ufocamp.com
@@ -36912,6 +36912,7 @@ www.anonymat.org
 www.anonymate.com
 www.anonyme.online
 www.anonymhouse.ws
+www.anonymise.com
 www.anonymise.us
 www.anonymiser.com
 www.anonymite.com
@@ -37431,7 +37432,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -44786,7 +44786,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -46206,7 +46205,6 @@ www.webproxy4free.ml
 www.webproxyblack.ml
 www.webproxybrowser.com
 www.webproxyfree.net
-www.webproxyking.com
 www.webproxylist.cn
 www.webproxylist.com
 www.webproxylist.org
