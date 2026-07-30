@@ -6477,7 +6477,6 @@ cheaply.info
 cheapproxy.com
 cheaptextingapp.com
 cheapv2.net
-cheat2win.comoj.com
 cheatstown.com
 check.infotechnology.com
 check.peer2profit.site
@@ -6853,6 +6852,7 @@ cloud.tezoi.com
 cloud.xn--4gq62f52gdss.asia
 cloud00.com
 cloud2.holzmannclouddns.de
+cloud25075.info
 cloudaccess.info
 cloudbenders.fun
 cloudbob.fr
@@ -6881,6 +6881,7 @@ cloudsrv.charitosnet.de
 cloudssh.net
 cloudssh.us
 cloudtimecdn.com
+clouduhtpv.info
 cloudvpn.ai
 cloudvpn.pro
 clove-proxxvpndes.tk
@@ -9093,7 +9094,6 @@ dns.controld.com
 dns.cooluc.com
 dns.corefusion.xyz
 dns.cretu.xyz
-dns.criena.net
 dns.crop3ox.website
 dns.crownor.com
 dns.cryptomize.com
@@ -10360,7 +10360,6 @@ doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.fatucloud.gosprout.org
 doh.ffmuc.net
-doh.fiberplus.id
 doh.flashstart.com
 doh.funil.de
 doh.funtopia.tv
@@ -31934,7 +31933,6 @@ thebomber.co.cc
 thebreakthrough.info
 thebypass.net
 thecatholicleague.org
-thecgiproxy.com
 theclickcheck.com
 thecodeil.com
 theconcern.org
@@ -40585,6 +40583,7 @@ www.keepanonymous.com
 www.keepbrowsing.com
 www.keephidden.com
 www.keepip.info
+www.keepitsecret.com
 www.keepme.info
 www.keepmesafe.info
 www.keeppro.com
