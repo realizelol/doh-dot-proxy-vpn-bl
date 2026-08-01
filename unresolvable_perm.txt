@@ -19970,6 +19970,7 @@ doh.dnscron.com
 doh.eieidns.com
 doh.es.ahadns.net
 doh.fasya.net
+doh.fiberplus.id
 doh.freegod.ml
 doh.ginetz.id
 doh.gslb2.xfinity.com
@@ -77748,6 +77749,7 @@ thecamelclub.org
 thecannabisindex.tk
 thecardonations.info
 thecentraladmin.com
+thecgiproxy.com
 thecheapvpn.info
 thecleangreenonline.xyz
 thecloak.eu
