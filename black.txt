@@ -2507,7 +2507,6 @@ ajh.college
 ajh.college.cdn.cloudflare.net
 ajh.eats-logi.lol
 ajh.his.strangled.net
-ajh.quest
 ajh.quest.cdn.cloudflare.net
 ajh.wtf
 ajhmath.org
@@ -3439,7 +3438,6 @@ art-class-omg.vercel.app
 art.lexvoip.com
 art.sunilamaharjan.com.np
 artclass.site
-artemis.bar
 arteshbod.co.cc
 arthi.rajmohan.nowhearthis.co.uk
 artiom.made.this.h0stname.net
@@ -4999,6 +4997,7 @@ blockhelp.com
 blockid.info
 blockify.com
 blocking-goaway.co.cc
+blockit.org
 blockk.info
 blockland.ga
 blocklearning.co.uk
@@ -5134,7 +5133,6 @@ bodywork-select.co.cc
 boea.info
 boeing-surf.co.cc
 bog-bot.cfd
-bog01.dnscry.pt
 bogbot.shop
 boi9osyg1uwtyafn.com
 boink.zxq.net
@@ -5515,7 +5513,6 @@ browzer.info
 broxy.url.ph
 brsjk.cn
 brsueykh.com
-bru01.dnscry.pt
 bruh.info
 brulyforex.co.cc
 brummm.com
@@ -7182,6 +7179,7 @@ core.atom.sv-italia.it
 core.goal.challengepursuit.com
 core.mind.corega.ro
 core5.info
+core6g25r.info
 corebsd.org
 corecloak.com
 coreenglish.emili.com
@@ -11775,7 +11773,6 @@ eviewer.info
 evilajhbbgboiii.wiltscomputers.co.uk
 evilgorilla.com
 evkurnakliyat.com.tr
-evn01.dnscry.pt
 evo.network
 evol.mrco.giize.com
 evomi.com
@@ -17025,6 +17022,7 @@ idramsingan.co.cc
 idrfkike.com
 idvanish.com
 ie-dub-w-1.nashkan.net
+ie01.dns4me.net
 ie5qtzarpqymn.online
 ieatfeet.dougtreadwell.com
 ieatwaffles.xyz
@@ -17547,6 +17545,7 @@ iphoneget.fyi
 iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -18666,7 +18665,6 @@ kingdomhearts.me
 kingdomproxy.gq
 kingofproxies.com
 kingofthemountains.co.cc
-kingsproxy.com
 kingsurf.co.cc
 kingsurfproxy.com
 kingtech.info
@@ -19738,7 +19736,6 @@ lilt-pupu.top
 liltpupu.com
 liluforex.co.cc
 lily.lt
-lim02.dnscry.pt
 limaklhc6.info
 limas.info
 limbuk.co.cc
@@ -21382,7 +21379,6 @@ mrshellman.com
 mrspechan.com
 mrsurf.co.cc
 mrtmeycb.online
-mru01.dnscry.pt
 mrunblock.com
 mrunblock.info
 mrunblock.pro
@@ -23923,7 +23919,6 @@ phhs66.ignorelist.com
 phhu.com
 philpower.com
 philqoo.com
-phl01.dnscry.pt
 phobos-star.co.cc
 phoenix.1a.lc
 phoenixduiatts.co.cc
@@ -27264,7 +27259,6 @@ rdkz.com
 rdns-a.adtech-it.com
 rdns.faelix.net
 rdns2.chancetheitguy.com
-rdu01.dnscry.pt
 re-fashion.com
 reactive-freesurf.co.cc
 read.alumn.btc.one.pl
@@ -31585,7 +31579,6 @@ test.cors.workers.dev
 test.dnsteam.globuscs.info
 test.fatucloud.gosprout.org
 test.ibimmigrant.com
-test.net46.net
 test.privatenode.ru
 test180.ddo.jp
 test2.adg.siudzinski.net
@@ -32010,7 +32003,6 @@ tlsext.com
 tlssl.host
 tlstunnel.com
 tlsvpn.com
-tlv01.dnscry.pt
 tlz.bio
 tmgforlz.com
 tmhhd.tk
@@ -33595,6 +33587,7 @@ unlockopen.co.cc
 unlocksite.net
 unlocksites.info
 unlockspace.com
+unlockthenet.com
 unlockthenet.info
 unlockthis.co.cc
 unlocktoday.co.cc
@@ -35698,6 +35691,7 @@ workhack.info
 workhost.eu
 working-site.co.cc
 working-web.co.cc
+workinghard.me
 workingproxies.info
 workingproxy.co.cc
 workingproxy.net
@@ -37789,6 +37783,7 @@ www.crecer.info
 www.creditbailouts.com
 www.creditfilm.com
 www.credithelpme.com
+www.creditmembers.com
 www.creditspy.info
 www.creedor.com
 www.creepygame.com
@@ -41555,6 +41550,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -41595,6 +41591,7 @@ www.pazzip.com
 www.pc-portal.at
 www.pcbypass.info
 www.pcgraffiti.com
+www.pcmesh.com
 www.pcquest.info
 www.pcriot.com
 www.pcwebtalk.com
@@ -44407,6 +44404,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -47354,6 +47352,7 @@ zenda.info
 zendlife.info
 zendproxy.com
 zenfario.ru
+zenkk0cd.info
 zenmate.com
 zenmatevpn.help
 zennet.info
