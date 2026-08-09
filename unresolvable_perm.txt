@@ -17600,6 +17600,7 @@ crypticproxy.tk
 crypticserver.com
 cryptographicset.tk
 cryptohippie.com
+cryptovpn.com
 cryptserver-001.tk
 cryptserver-01.tk
 cryptsurf.tk
@@ -39213,6 +39214,7 @@ ipopen5.info
 ipopenblocked-sitesvips.tk
 iporangegatewayjusts.tk
 iposurf.tk
+ipp.comlu.com
 ippass.info
 ipprivate.tk
 ippro-rivacy.tk
