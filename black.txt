@@ -795,6 +795,7 @@ addwheel.com
 adekbayi.co.cc
 ademnjejes.co.cc
 adeniji.net
+adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adfreeproxy.com
@@ -806,6 +807,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.pssv.top
 adg.rokh.biz
+adg.rueiliu.space
 adg.siudzinski.net
 adg.swh123.xyz
 adg.tshost.no
@@ -3555,7 +3557,6 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
-cheat2win.comoj.com
 cheatstown.com
 check.youdontcare.com
 check.yourtrap.com
@@ -4746,7 +4747,6 @@ dns.010812.xyz
 dns.0ooo.icu
 dns.1.bsh4.com
 dns.123099.xyz
-dns.13evl.com
 dns.2.bsh4.com
 dns.209.wf
 dns.23-4.cn
@@ -5078,7 +5078,6 @@ dns.jean.im
 dns.jens-server.de
 dns.jerryw.cn
 dns.jhangy.us
-dns.jichi.io
 dns.jimirobaer.be
 dns.jinwoo.dev
 dns.jiyi.eu
@@ -5122,6 +5121,7 @@ dns.kxy.ink
 dns.l2h8.cn
 dns.l337.site
 dns.labar.re
+dns.labnekotest.site
 dns.laison.ltd
 dns.lars-lehmann.net
 dns.lepilleur.com
@@ -5667,6 +5667,7 @@ doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cloud-sekeng.com
+doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
@@ -5760,6 +5761,7 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
+doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -8084,7 +8086,6 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
-furniturelanddirect.com
 furproxie.co.cc
 furyforex.co.cc
 fusionproxy.com
@@ -14817,7 +14818,6 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
-proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -22815,7 +22815,6 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
-www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -27279,7 +27278,6 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
-www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -30118,7 +30116,6 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
-www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -31903,7 +31900,6 @@ www.yogdham.com
 www.yoha.info
 www.yolkd.com
 www.yomakingsshouruss.tk
-www.yomj.com
 www.yomsn.com
 www.yonjasohbet.com
 www.yope.info
@@ -32344,7 +32340,6 @@ yoha.info
 yokes.info
 yolkd.com
 yomaking-sshourus.tk
-yomj.com
 yomsn.com
 yong.itemdb.com
 yonjasohbet.com
