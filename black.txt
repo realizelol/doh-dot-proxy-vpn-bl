@@ -1,5 +1,4 @@
 0--0.0--0.blue-jade.net
-0--0.moneyextravaganza.com
 0-0-0-0-0-0-0-0-0.20megsfree.com
 0-0-0-0-0-0proxy.tserv.se
 0-0-0-0go.sxn.us
@@ -807,7 +806,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.pssv.top
 adg.rokh.biz
-adg.rueiliu.space
 adg.siudzinski.net
 adg.swh123.xyz
 adg.tshost.no
@@ -1068,6 +1066,7 @@ aeuforex.co.cc
 aeyx.com
 afaforex.cz.cc
 afec.info
+affcdn.net
 affiliateway.com
 affmarketech.com
 affring.com
@@ -1242,6 +1241,7 @@ alldebrid.com
 alldebrid.fr
 alldevils.com
 alldouble.com
+alleesph.online
 allenjones.info
 allforexsites.co.cc
 allforexz.co.cc
@@ -2521,7 +2521,6 @@ bionicsurf.co.cc
 bioproxies.co.cc
 biospace.nz.gs
 biqu.info
-birdsflyfast.com
 birnenwasser.ddnss.de
 birthdaylove.co.cc
 bismarck.nz.gs
@@ -3135,7 +3134,6 @@ bypass.fizwig.com
 bypass.helptool.net
 bypass.mbsee.com
 bypass.me
-bypass.meks.net
 bypass.mscharts.com
 bypass.partsdo.com
 bypass.proxysite.pw
@@ -3148,7 +3146,6 @@ bypass24.com
 bypass4free.co.cc
 bypass4you.ws
 bypassable.com
-bypassaccess.com
 bypassall.com
 bypassall.net
 bypassany.com
@@ -3557,6 +3554,7 @@ cheapbike.ml
 cheaperday.gq
 cheaply.info
 cheapproxy.com
+cheat2win.comoj.com
 cheatstown.com
 check.youdontcare.com
 check.yourtrap.com
@@ -4621,7 +4619,6 @@ digital.0lm.org
 digital.64x.org
 digital.905tech.com
 digital.demak.org
-digital.hoai.org
 digital.hoard.com
 digital.novafree.net
 digital.now.im
@@ -4747,6 +4744,7 @@ dns.010812.xyz
 dns.0ooo.icu
 dns.1.bsh4.com
 dns.123099.xyz
+dns.13evl.com
 dns.2.bsh4.com
 dns.209.wf
 dns.23-4.cn
@@ -5021,6 +5019,7 @@ dns.google.com
 dns.grqu.de
 dns.grusdas.net
 dns.guard.io
+dns.guardmydns.com
 dns.guoxueziyuan.com
 dns.gutwe.in
 dns.h0me.cc
@@ -5045,6 +5044,7 @@ dns.horcrux.vip
 dns.hostingim.com
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hubservices.vn
 dns.hujiayucc.cn
 dns.huseynov.work
@@ -5130,7 +5130,6 @@ dns.levonet.sk
 dns.lfac.ml
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.lihj.me
 dns.lildinosaur.com
 dns.lilith.cloud
@@ -5467,6 +5466,7 @@ dns.zemows.industries
 dns.zfsystem.tech
 dns.zion.dev
 dns.zkz.cloud
+dns.zui.lol
 dns.zxi7.cn
 dns.zzuhacker.cn
 dns0.eu
@@ -5804,7 +5804,6 @@ domain.caringformom.com
 domain.corpbrands.com
 domain.iowametal.com
 domain.novafree.net
-domain.politicaltargets.com
 domain.studio-as.net
 domain.tyrerwebster.com
 domain.wuffster.com
@@ -8086,6 +8085,7 @@ funvacations.tk
 furball.info
 furiousness.com
 furiousproxy.co.cc
+furniturelanddirect.com
 furproxie.co.cc
 furyforex.co.cc
 fusionproxy.com
@@ -13208,7 +13208,6 @@ oralsupplements.com
 oraltunnel.co.cc
 orange2.info
 orangedog.info
-orangeproxy.com
 orangeproxy.net
 orau.lz0724.com
 orbic.info
@@ -13917,7 +13916,6 @@ primeproxy.com
 primeproxy23.info
 primeproxy29.info
 princeofproxy.co.cc
-princez.uk
 principal-partner.co.cc
 priorforex.co.cc
 pripforex.co.cc
@@ -14085,7 +14083,6 @@ protectionauto.com
 protective.joindns4.eu
 protectking.com
 protectmyip.info
-protectproxy.com
 protectsurf.co.cc
 proteico.com
 protonstatus.com
@@ -14685,7 +14682,6 @@ proxy.transglobalconsultants.com
 proxy.trash.pl
 proxy.tsgglobal.com
 proxy.u4.org
-proxy.uncensor.net
 proxy.unikin.net
 proxy.us.pl
 proxy.us.to
@@ -14818,6 +14814,7 @@ proxyarmor.com
 proxyart.com
 proxyasbestos.co.cc
 proxyassault.com
+proxyauthority.com
 proxyaviation.com
 proxyaware.com
 proxyaway.4mg.com
@@ -15043,7 +15040,6 @@ proxyfree.us
 proxyfreeyoutube.free.fr
 proxyfrenzy.co.nr
 proxyfriend.com
-proxyftp.com
 proxyfu.com
 proxyful.com
 proxyfull.cn
@@ -15863,7 +15859,6 @@ pvf.in
 pvsv.io
 pwned.b123.cc
 pwoxi.com
-pws.prserv.net
 px.gs
 px000.com
 px2.info
@@ -22815,6 +22810,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -27278,6 +27274,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -30116,6 +30113,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -31217,7 +31215,6 @@ www.v-666.com
 www.v-itc.be
 www.v04.info
 www.v2proxy.com
-www.v3h.net
 www.v4f.info
 www.v5d.net
 www.v9z.net
@@ -32340,6 +32337,7 @@ yoha.info
 yokes.info
 yolkd.com
 yomaking-sshourus.tk
+yomj.com
 yomsn.com
 yong.itemdb.com
 yonjasohbet.com
@@ -32451,6 +32449,7 @@ yulgangforex.co.cc
 yunyun.is.my.waifu.cz
 yureforex.co.cc
 yuripe.ccnt.fr
+yuvelirtut.website
 yuze.info
 yvanliang.tech
 yvhm.com
