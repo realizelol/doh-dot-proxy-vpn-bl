@@ -8417,7 +8417,6 @@ digital.0lm.org
 digital.64x.org
 digital.905tech.com
 digital.demak.org
-digital.hoai.org
 digital.hoard.com
 digital.novafree.net
 digital.now.im
@@ -14184,6 +14183,7 @@ genscorp.es
 genuisproxy.cf
 geo-learning.halfwaythere.ca
 geo.keepsolidcdn.com
+geo.searchgpy.com
 geoepker.hu
 geography-lessons.justlearning.net
 geographyles.com
@@ -14211,6 +14211,7 @@ germvpnguard.duckdns.org
 gerock.co.cc
 geshido.vpn.geshido.ru
 gesoft.org
+gesture.searchgpy.com
 get-always.co.cc
 get-express-vpn.com
 get-fast-access.co.cc
@@ -14231,6 +14232,7 @@ get2work.info
 get3.net
 get4g.co.cc
 get88.info
+getaccess.world
 getahot.co.cc
 getanonymous.com
 getapp.today
@@ -14475,6 +14477,7 @@ globalproxies.com
 globalreject.com
 globalrespect.co.cc
 globalssh.net
+globaltrx.com
 globalvpn.info
 globalyun.cc
 globeproxy.co.cc
@@ -14551,6 +14554,7 @@ go.plush.it
 go.sellclassics.com
 go.squeakycode.net
 go.ultrakid.info
+go.vrpyourself.online
 go.zap3.net
 go2.appspot.com
 go2proxy.com
@@ -15127,6 +15131,7 @@ habu.info
 hacingfun.co.cc
 hack72.2ch.net
 hackkcah.com
+hackkcah.xyz
 hacksmart.com
 hackthegadget.co.cc
 hacktivismo.com
@@ -15816,6 +15821,7 @@ hidezilla.com
 hidianbao.com
 hidianchi.com
 hidiandian.com
+hidingit.com
 hidingnow.com
 hidingyou.com
 hidingyour.info
@@ -16696,6 +16702,7 @@ ijs.co.nz
 ijsebxrr.com
 ijsiadksada.info.north-kazakhstan.su.cdn.cloudflare.net
 ijustmysocks.com
+ijustwanttstowork.dsylexia.jdymqic.shop
 ijxhnhx.com
 ikantodak.co.cc
 ikarosalpha.xyz
@@ -17597,6 +17604,7 @@ jirvanto.ru
 jisuen.org
 jisuvip.info
 jisuyou.cn
+jitudh.xyz
 jiujiu-speed.com
 jiujiu-speed.net
 jiujiuspeed.net
@@ -17702,6 +17710,7 @@ jopidf.ipv64.net
 jordanburrow.com
 jordansmathwork-v6-9aqvg.kinsta.page
 jordansmathwork.org
+jordansmathworkis.life
 jormawo.anjumanallana.in
 jorvito.ru
 joryforex.co.cc
@@ -18818,6 +18827,8 @@ lanfactor.tk
 lanfancloud.info
 langforex.co.cc
 languagelearninginc.com
+lanmao365.com
+lanmaojiasu.com
 lanmaoyun.uk
 lantern.io
 lanternvpn.biz
@@ -18887,6 +18898,8 @@ law.gajai.com
 lawduiattorney.co.cc
 lawean.co.cc
 lawlemonwisconsinforex.co.cc
+lawless-zone.dns.army
+lawless-zone.v6.rocks
 lawmaster.co.cc
 lawmoot.co.cc
 lawquiz.info
@@ -19482,6 +19495,7 @@ login.gov.chrsmck.com
 login.howto.notredamearena.com
 login.oaklandscioly.org
 login.quiz-me.org
+login.readinghelper.online
 login.vincenzodimaro.it
 login.vincenzodimaro.it.cdn.cloudflare.net
 loginall.com
@@ -19545,6 +19559,7 @@ lopana.com
 loperm.com
 lor-vino.ru
 lorc17-dns.komeho.info
+lord-justice.lol
 lordofthering.co.cc
 lordsalty.com
 lorengordon.com
@@ -19567,6 +19582,7 @@ loungef2x-t.global.ssl.fastly.net
 loungef2x.github.io
 loungef2x.global.ssl.fastly.net
 loungef2x.web.app
+lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com
 lousiana-history-careers-ixl-geoly-education.spacetechnology.net
 lova.long-nguyen.info
 love-paris.co.cc
@@ -19999,6 +20015,7 @@ mathematicsedu.xyz.cdn.cloudflare.net
 mathforfun.firstgrad.bestprogramsforkids.com
 mathgamesarefun.duckdns.org
 mathhelp123.pages.dev
+mathhelp4858.searchgpy.com
 mathhelpnow.site
 mathhome.info
 mathhomeworkplus.arpangautam.com.np
@@ -21611,6 +21628,7 @@ nexusproxy.shop
 nexuss.zapto.org
 nexvora.xyz
 nezzproxy.co.cc
+nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi
 nfan.org
 nfnvr.noiselink.com
 ng-lag-w-1.nashkan.net
@@ -21858,6 +21876,7 @@ nonego.co.cc
 nonpa.info
 nonperfumed.co.cc
 noobel.com
+noodlevpn.com
 noofwire.co.cc
 nooken-vpn.europe-west1.firebasedatabase.app
 nooken.app
@@ -22239,6 +22258,7 @@ obylrchr.com
 oc0.info
 ocaspro.com
 occupy.registration.abrdns.com
+oceanbrowser.co
 oceancloud.asia
 oceantunnel.co.cc
 ochertopoloh.ru
@@ -22788,6 +22808,7 @@ otownwiki.online
 ottilee.net
 otunnel.com
 ouer.cc
+ougonokaze.cheftayebeh.ir
 ound.info
 ourf.info
 ourproxy.com
@@ -23295,6 +23316,7 @@ phbbbt.co.cc
 phbi.co.cc
 phdproxy.co.cc
 pheriperal.co.cc
+phew.yasantala.com
 phhs66.ignorelist.com
 phhu.com
 philpower.com
@@ -23553,6 +23575,7 @@ play-vpn.mom
 play.ch3n.cc
 play.frogiee.one
 play.frogiee.one.cdn.cloudflare.net
+play.gghunter.space
 play.jimmyqrg.com
 play.org.es
 play.schooloqy.com
@@ -30293,6 +30316,7 @@ surfsizzle.com
 surfsjark.com
 surfskill.co.cc
 surfskinlaser.co.cc
+surfskip.com
 surfsmart.co.cc
 surfsmart.info
 surfsneaker.com
@@ -33982,6 +34006,7 @@ vpnvvv.com
 vpnwelt.com
 vpnwholesaler.com
 vpnxray.site
+vpnzo-application.com
 vpopple.world
 vpork.com
 vpr.lol
@@ -37999,7 +38024,6 @@ www.freewatch.info
 www.freeweb4-4proxy.tk
 www.freewebproxy.asia
 www.freewebproxy.cn
-www.freewebproxy.com
 www.freewebproxy.info
 www.freewebproxy.net
 www.freewebproxy.org
@@ -38075,6 +38099,7 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
+www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
