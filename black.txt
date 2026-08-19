@@ -3099,7 +3099,6 @@ antoinette.co.cc
 antonella.in
 antonyfrompnz.space
 antpeak.com
-antproxy.com
 antycenzor.pl
 anuforex.co.cc
 anul.info
@@ -3242,6 +3241,7 @@ applenokia.co.cc
 appleofarcher.co.cc
 appleproxy.com
 applevpnapp.com
+application-vpnzo.com
 applied-privacy.net
 applied-to.co.cc
 appliforex.co.cc
@@ -8599,6 +8599,7 @@ dns-enzel.de
 dns-ext.familiamichels.com.br
 dns-family.adguard.com
 dns-family.esegece.com
+dns-fr-psv1.cloudsides.com
 dns-fra.imo.im
 dns-free.link
 dns-google.st.net-perform.com
@@ -19865,7 +19866,6 @@ man.destroyerkisscover.com.br
 man.info.north-kazakhstan.su.cdn.cloudflare.net
 man01.dnscry.pt
 manage-accounts.co.cc
-managed.phoenixitjobs.com
 managedebt.co.cc
 management.alexpollard.net
 managerialon.co.cc
@@ -22228,6 +22228,7 @@ o8t.net
 oa9.info
 oakdenet.com
 oakleywatches.co.cc
+oakproxy.com
 oapahs.ipv64.net
 oaq.in
 ob7.info
@@ -24696,7 +24697,6 @@ proxy.net.in
 proxy.net.pl
 proxy.netgameonline.com
 proxy.netuno.org
-proxy.nextclassjapan.group
 proxy.nextgathering.com
 proxy.no-block.net
 proxy.noosacatholic.com
@@ -32700,7 +32700,6 @@ unhider.com
 unhides.com
 uni-apps.com
 uni.cc
-unicapra.ru
 unicast.censurfridns.dk
 unicast.censurfridns.nu
 unicast.uncensoreddns.dk
@@ -38132,7 +38131,6 @@ www.funrage.com
 www.funrisk.com
 www.funtopic.info
 www.furiousness.com
-www.furniturelanddirect.com
 www.fusionproxy.com
 www.fusionweb.info
 www.fusn.info
@@ -44637,6 +44635,7 @@ www.v-666.com
 www.v-itc.be
 www.v04.info
 www.v2proxy.com
+www.v3h.net
 www.v4f.info
 www.v5d.net
 www.v9z.net
@@ -45725,12 +45724,14 @@ xmaily.com
 xmast-blast.co.cc
 xmfvpn.com
 xmgjsd.com
+xmr.land
 xmrth.com
 xmrth.lol
 xmrw.com
 xmsurf.co.cc
 xmyjsq.com
 xn--14ra41gd24b.xyz
+xn--1qqp3f85dcwcez1inzc.com
 xn--28j2a3ar1p.died.pw
 xn--2vxn29amga.cc
 xn--44q907fa2408a.com
@@ -45742,6 +45743,8 @@ xn--80aaaaaad7caabbufig7bbhjgclhdtuje4hbb.lastarria.cl
 xn--80aeak3akfgk.xn--p1acf
 xn--80aecoigf4aatn.xn--p1ai
 xn--9kq050gk1z.com
+xn--9kq10ek4nfj1bly0a.org
+xn--9kqr48j.com
 xn--9kqrm7t.com
 xn--9kqrm7t.net
 xn--9kqu74cfu3b.com
@@ -45759,9 +45762,14 @@ xn--fhq389femyc1d.com
 xn--fiq626gzzgkv2a.com
 xn--fiqs8s9rjgsr.com
 xn--fiqy4bl9l81zp7skjc1xd.com
+xn--h5q13wxxnwubd52b.org
+xn--h5q36vepk.com
+xn--h5q84a86ft33f1ej.com
 xn--huajicloud-cn3r594m.com
 xn--kbtz2zn3ab56c.com
 xn--mes358aby2apfg.com
+xn--mes358akvk7hn.com
+xn--mes358ar69azba.com
 xn--mest5a943ag8x.com
 xn--mesz5hn9e3rh.com
 xn--nexitally-459pk42i.com
@@ -45770,6 +45778,7 @@ xn--prome-h02iv96g.com
 xn--rss276g.net
 xn--rss276g.xyz
 xn--rsso18bk2j97ggmu.com
+xn--ssrdog-u40k507h.com
 xn--v3csa3bs8i.com
 xn--vpn-0m8e007c.com
 xn--vpn-0w2et10mvkyb.com
@@ -45800,12 +45809,19 @@ xn--xnun88j.net
 xn--yfrp36ea9901a.com
 xn--yfrp5enpj81a6w4d.com
 xn--yfrw1g0upg04amnn.com
+xn--yfrw1g210bq2x1bg.com
+xn--yfrw1ghyc0w6f55d.com
 xn--yfrw1glt6awpb6x3e.xyz
+xn--yfrw1gnycd39eggi.com
+xn--yfrw1gow2d4chrxa.com
 xn--yfrw1goy3egzffc.com
+xn--yfrw1gu5rpi5bscj.org
+xn--yfrx4ay7cq52em5r.com
 xn--yrs494l.com
 xn--yun-2t1ej483a.com
 xn--z4vu10a.com
 xn--zuup71g88ae4i.com
+xn--zwwa296b.com
 xnetwork123.co.cc
 xnxx-movies.net
 xo7.info
@@ -45848,7 +45864,6 @@ xqnetwork.ir
 xr6rpdmc.com
 xray.krnl.eu
 xrayvpn.help
-xrea.cpshow.com
 xredx.co.cc
 xrfyuectyxpczv4zi9kthp4kj6tfarwcis8cw8zq.easterndns.com
 xrurux.ru
