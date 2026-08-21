@@ -58443,6 +58443,7 @@ proxy.netsolbd.com
 proxy.newayrx.com
 proxy.newenglandcomputerservices.com
 proxy.nexiumisnotsafe.com
+proxy.nextclassjapan.group
 proxy.nexusnetworks.com
 proxy.nhockieu.com
 proxy.niezelski.com
