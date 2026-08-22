@@ -5230,6 +5230,7 @@ bravetrait.com
 brazilproxy.com
 brazilproxy.info
 brd-sdk-app-packages.s3.amazonaws.com
+breachit.com
 break-adjusted.co.cc
 break-the-lock.co.cc
 breakblock.com
@@ -6420,7 +6421,6 @@ chronicorders.co.cc
 chronos.24-7.ro
 chstextbook.github.io
 chsvutul.com
-chuan.usa.cc
 chuansuo.io
 chubbybunny.info
 chuforex.co.cc
@@ -8324,6 +8324,7 @@ deweerd.loseyourip.com
 dex.dev.lv
 dex.kords.net
 dexaproxy.co.cc
+dexira.ru
 dexproxy.co.cc
 deyxo1ks57d67.cloudfront.net
 df1rh9b2cu3lf.cloudfront.net
@@ -10578,7 +10579,6 @@ drive.sparks.ddns-ip.net
 drivebase.co.cc
 drivecore.info
 driver-tips.com
-drixel.ru
 drjustinproxy.co.cc
 drkcloud.ddns.net
 drmvkcdd.com
@@ -11531,6 +11531,7 @@ everyone-free.co.cc
 everyorigin.jwvbremen.nl
 everyprofit.co.cc
 everyproxies.info
+everyproxysite.com
 everything-every.co.cc
 everything-in.co.cc
 everythingtoshare.com
@@ -12750,6 +12751,7 @@ floralforex.co.cc
 florencio.info
 floridaproxy.com
 flornavo.ru
+flornic.ru
 floro.info
 flowcontrol.co.cc
 flowerflorist.co.cc
@@ -14927,7 +14929,6 @@ greenrabbit.org
 greenrooms.info
 greensatelit.co.cc
 greenssh.com
-greensurf.usa.cc
 greensurf008.info
 greensurfer.co.cc
 greentab.info
@@ -15504,7 +15505,6 @@ hiddenipproxy.co.cc
 hiddenjack.com
 hiddenlogin.com
 hiddenmarket.info
-hiddenpark.com
 hiddenpath.info
 hiddenpolicies.co.cc
 hiddenproxy.com
@@ -17837,6 +17837,7 @@ just-to-easy.co.cc
 just4proxy.co.cc
 just4test.xyz
 justahotm3ss.xyz
+justbypass.com
 justclothes.info
 justcors.com
 justdoinghomework.webredirect.org
@@ -19673,6 +19674,7 @@ lunarsync.smartfoloo.space
 lunartech.co.cc
 lunartunnel.co.cc
 lunazf.cn
+lunchexpert.com
 lunchmaid.com
 lunk.info
 lunoluno.org
@@ -22383,7 +22385,6 @@ olegofriend.ru
 oline.info
 olipa.ru
 olivares.info
-olivaro.ru
 oliveway.info
 olivier-raspberrypi.changeip.org
 olmedo.info
@@ -22735,6 +22736,7 @@ oraltunnel.co.cc
 orange1.freeddns.us
 orange2.info
 orangedog.info
+orangeproxy.com
 orangeproxy.net
 orangesarefruits.com
 orau.lz0724.com
@@ -24132,7 +24134,6 @@ protectionauto.com
 protective.joindns4.eu
 protectking.com
 protectmyip.info
-protectproxy.com
 protectsurf.co.cc
 proteico.com
 proton-vpn.help
@@ -25017,7 +25018,6 @@ proxycb.co.cc
 proxycell.app
 proxycenter.co.cc
 proxycentre.co.cc
-proxycentre.com
 proxychaiya.co.cc
 proxychamp.com
 proxychanger.com
@@ -26492,7 +26492,6 @@ randomcloak.com
 randomdomain.shop
 randomip.co.cc
 randomproxy.co.uk
-randomproxy.com
 randomspike.com
 randomsurf.co.cc
 range-option.co.cc
@@ -27942,7 +27941,6 @@ servebeer.com
 servefaststatic.work
 server-list.synclusiveinno.com
 server-list1.synclusiveinno.com
-server.dualrack.com
 server.felixf.eu
 server.gay.cat
 server.labs.tk
@@ -29411,7 +29409,6 @@ stillfreebrowser.co.cc
 stillsurfer.co.cc
 stiriksjdks.easterndns.com
 stitchhot.com
-stivaro.ru
 stkv.space
 sto01.dnscry.pt
 stockbump.co.cc
@@ -29993,6 +29990,7 @@ surfescalade.co.cc
 surfescape.co.cc
 surfespn.co.cc
 surfetrade.co.cc
+surfeverywhere.com
 surfexam.co.cc
 surfexec.co.cc
 surfexplore.tk
@@ -31652,6 +31650,7 @@ trust.zone
 trustedapp.org
 trustedproxies.com
 trustedproxy.co.cc
+trustedproxy.com
 trustedsavvy.com
 trustobama.atspace.com
 trustsafe.co.cc
@@ -32713,6 +32712,7 @@ united-arab-emirates.privacy-dns.pw
 unitedemailsystems.com
 unitedgreen.co.cc
 unitedkuwait.com
+unitsonline.com
 unitycorporate.co.cc
 uniub.srvdns.de
 universal.nz.gs
@@ -33038,7 +33038,6 @@ usproxies.info
 usproxy.com
 usproxy.eu
 usproxy.info
-usproxy.usa.cc
 usproxyserver.info
 ussecondline.com
 ussurfer.nz.gs
@@ -35272,7 +35271,6 @@ www.45percent.com
 www.4664.info
 www.474.cc
 www.47v.info
-www.489.cc
 www.4bidden.net
 www.4clever.com
 www.4everproxy.com
@@ -36205,6 +36203,7 @@ www.blockfilter.info
 www.blockhelp.com
 www.blockid.info
 www.blockify.com
+www.blockit.org
 www.blockk.info
 www.blocklink.info
 www.blockmenot.com
@@ -36876,7 +36875,6 @@ www.covermyip.com
 www.coverpro.info
 www.coverproxy.com
 www.covert.in
-www.covertbrowsing.com
 www.covertex.eu
 www.covertproxy.com
 www.coveryourtracks.info
@@ -37308,7 +37306,6 @@ www.ec-ss.com
 www.ecasa.info
 www.ecokix.com
 www.economycasino.com
-www.ecoproxy.com
 www.ecopy.info
 www.ecox.info
 www.ecpmpro.es
@@ -38756,6 +38753,7 @@ www.hobb.info
 www.hogar.in
 www.hola.org
 www.holiday-mart.com
+www.holidaystudy.com
 www.hollo.info
 www.homeaccess.info
 www.homeblock.com
@@ -40669,6 +40667,7 @@ www.paddle-in.info
 www.pagegoo.com
 www.pagehot.com
 www.pagemod.com
+www.pageprivacy.com
 www.pageproxy.com
 www.pageworld.info
 www.pakistanyoutube.com
@@ -41663,6 +41662,7 @@ www.proxylist.info
 www.proxylist.net
 www.proxylist.ws
 www.proxyliste.com
+www.proxylisted.com
 www.proxylisten.de
 www.proxylister.org
 www.proxylistplus.com
@@ -42248,7 +42248,6 @@ www.rainpocket.com
 www.ramces.com
 www.ranco.info
 www.randomcloak.com
-www.randomproxy.com
 www.randomspike.com
 www.rapidbit.info
 www.rapidbrowse.com
@@ -43511,6 +43510,7 @@ www.surfland.info
 www.surflife.info
 www.surflight.tk
 www.surfmap.info
+www.surfmate.info
 www.surfmenow.com
 www.surfmo.com
 www.surfmoo.com
@@ -44447,6 +44447,7 @@ www.unistealth.com
 www.unisurf.net
 www.unitedemailsystems.com
 www.unitedkuwait.com
+www.unitsonline.com
 www.univernutritionallys.tk
 www.universityproxy.com
 www.universityproxy.net
@@ -44612,7 +44613,6 @@ www.v-666.com
 www.v-itc.be
 www.v04.info
 www.v2proxy.com
-www.v3h.net
 www.v4f.info
 www.v5d.net
 www.v9z.net
