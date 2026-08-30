@@ -1300,6 +1300,7 @@
 3321proxx.tk
 3321proxxs.tk
 3325.info
+33253.com
 3330.info
 333surfer.info
 33455.tk
@@ -8012,6 +8013,7 @@ bannedproxy2.com
 bannedproxy3.cn
 bannedproxy4.cn
 bannedproxy5.cn
+bannedproxy6.cn
 bannedproxy7.cn
 bannedproxy8.cn
 bannerhelp.tk
@@ -64781,6 +64783,7 @@ rald.info
 rally8surf.tk
 rallyeesa.tk
 ralorg.info
+ralveno.ru
 ramazxxx.pw
 rambaks.info
 ramblingwillie.info
@@ -166804,6 +166807,7 @@ www.v-tunnel.info
 www.v-tunnel.org
 www.v3-share.net
 www.v328.tk
+www.v3h.net
 www.v3proxy.com
 www.v52.net
 www.v6proxy.tk
