@@ -25612,6 +25612,7 @@ fixlink.info
 fixmeopened.tk
 fixmortgage.tk
 fixopen.tk
+fixoyun.oyunmemo.com
 fixp6roxy-surfs.tk
 fixp6roxysurf.tk
 fixsurf.info
@@ -27457,6 +27458,7 @@ free-proxy.co
 free-proxy.co.uk
 free-proxy.com.cn
 free-proxy.fbipro.com
+free-proxy.info
 free-proxy.net.cn
 free-proxy.nl
 free-proxy.org.cn
@@ -114493,6 +114495,7 @@ www.free-proxy-vpn.cn
 www.free-proxy.asia
 www.free-proxy.cf
 www.free-proxy.co
+www.free-proxy.info
 www.free-proxy.nl
 www.free-proxy.party
 www.free-proxy.pl
@@ -116750,6 +116753,7 @@ www.fusa-proxy-unlimited.tk
 www.fusedproxy.info
 www.fuselstock.tk
 www.fusilli.info
+www.fusionproxy.com
 www.fusionproxy.tk
 www.fusionsurf.tk
 www.fusionwines.tk
