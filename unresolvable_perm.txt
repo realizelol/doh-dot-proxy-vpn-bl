@@ -19982,6 +19982,7 @@ doh.freegod.ml
 doh.ginetz.id
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
+doh.infotek.net.id
 doh.it.ahadns.net
 doh.lee1024.xyz
 doh.libredns.org
@@ -25926,6 +25927,7 @@ flyovers.tk
 flypasser.com
 flypast.ga
 flypost.info
+flyproxy.info
 flyproxys.gq
 flyproxys.ml
 flyspeed.ml
@@ -51986,6 +51988,7 @@ optometrydegree.tk
 optuihrned.com
 opul.info
 oq3.info
+or-milo.ru
 or-nhub-5roxy.tk
 or-nhub-5roxys.tk
 oraclecloud.onthewifi.com
