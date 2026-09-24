@@ -2,7 +2,6 @@
 .aprawood.ir
 .backname.io
 .best-domain.ir
-.checker-domain.ir
 .dyn.tcadmin.net
 .nip.io
 .server-space52.info
@@ -759,7 +758,6 @@
 25t.net
 260cf113f4b2df5946b13fe5d74a4ae3.top
 268222219.xyz
-277ddd1.mmd1.meli-n12.info
 27proxy.com
 27ssr.com
 2805hammandrive.shop
@@ -1806,6 +1804,7 @@ ada.openbld.net
 adaforex.cz.cc
 adam-hughes.co.uk
 adam.loves.gandhi.spacejamhd.com
+adam.poolaki.co.uk
 adamkazwire.global.ssl.fastly.net
 adampowell.pro
 adamz2eso.l5.ca
@@ -3119,6 +3118,7 @@ anycast.censurfridns.dk
 anycast.censurfridns.nu
 anycast.dns.nextdns.io
 anycast.ffmuc.net
+anycast.mc.ihatemy.live
 anycast.nextdns.io
 anycast.uncensoreddns.dk
 anycast.uncensoreddns.org
@@ -3878,7 +3878,6 @@ bajosbajos.byethost33.com
 bajuproxy.co.cc
 baklua.co.cc
 baktabul.net
-balancer.mc.ihatemy.live
 baldonline.info
 bale.foltmeingop.co.uk
 balincforex.co.cc
@@ -10235,7 +10234,6 @@ domainactive.info
 domainalreadyinuselolgetrektlilbro.easterndns.com
 domainbypass.com
 domainerhouse.com
-domainexpired.domain-expired.com
 domainforextrade.co.cc
 domainlandapp.com
 domainname.cz.cc
@@ -11507,6 +11505,7 @@ everyone-free.co.cc
 everyorigin.jwvbremen.nl
 everyprofit.co.cc
 everyproxies.info
+everyproxysite.com
 everything-every.co.cc
 everything-in.co.cc
 everythingtoshare.com
@@ -11565,6 +11564,7 @@ exg7xhdl.com
 exhibitforex.co.cc
 exila.info
 exis.info
+exiscos.co.uk
 existing-theories.co.cc
 exit1.torproxy.org
 exittraffichits.com
@@ -12830,6 +12830,7 @@ for-stay.co.cc
 for.iranian.ir.zigoraaat.info
 for.my.subscribers.gg.schools.l5.ca
 for.you.goooalir.co.uk
+for.you.ir.zigoraaat.info
 forbiddensite.com
 forbisforex.co.cc
 forbiz.ru
@@ -14034,7 +14035,6 @@ gatern.info
 gateway-el.cname.ustclug.org
 gateway.baltes.info
 gateway.fomichev.cloud
-gateway.helps.help
 gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
@@ -14896,7 +14896,6 @@ greenwizard.me
 grek.info
 grenavo.ru
 greppie.nl
-grestilo.ru
 grevino.ru
 greyzone.co.cc
 grha.info
@@ -17111,6 +17110,7 @@ iphonestorm.co.cc
 iphonesurf.co.cc
 iphop.info
 ipinator.com
+ipjumper.net46.net
 ipkill.org
 iplock.info
 ipmask.us
@@ -17196,20 +17196,18 @@ ir.gnutella2.info
 ir.grasic.info
 ir.grumpyoldmen.info
 ir.lv223.info
+ir.macauley.info
 ir.makkers.co.uk
 ir.my-pv.info
 ir.naganuma.info
 ir.panhandleflyers.info
 ir.pbdjarum.info
-ir.qkzheng.info
 ir.rebol.info
 ir.simpleelegance-us.info
 ir.speed.finecooking.info
-ir.xeonxu.info
 irabrowsing.tk
 irakh.com
 iran-filter.blogsky.com
-iran.miosen.cyou
 irangold.fbhosting.com
 iranian.billblog.co.uk
 iranianproxy.info
@@ -17826,6 +17824,7 @@ just-alright.co.cc
 just-attention.co.cc
 just-doit.com
 just-for-you.co.cc
+just-iraninan.com.the-nice-mtproto.info
 just-older.co.cc
 just-simple-all.co.cc
 just-to-easy.co.cc
@@ -18502,6 +18501,7 @@ korzhov.dev
 kosciuszko.co.cc
 koselforex.co.cc
 kosmos.nz.gs
+kostyanchekloh.lol
 kosurf.com
 kouser.info
 koxy.de
@@ -21197,6 +21197,7 @@ nanorforex.co.cc
 naokdfxw.com
 napalmbeat.co.cc
 napforex.co.cc
+napoli.goooalir.co.uk
 napps-1.com
 napps-2.com
 napps-3.com
@@ -21227,6 +21228,7 @@ nasavpn.top
 nasg.net
 nash-vps.com
 nashforex.co.cc
+nasho.poolaki.co.uk
 nashvpc.com
 nashvpn.app
 nashvpn.biz
@@ -21245,6 +21247,7 @@ nationalgeographic.itafricagroup.com
 nationalhide.co.cc
 nativegames.net
 nativegames.net.cdn.cloudflare.net
+naturalproxy.com
 naturalsound.co.cc
 nature-operation.co.cc
 natureforex.co.cc
@@ -22878,7 +22881,6 @@ paddle-in.info
 padermail.net
 paecvrvv.com
 paeey.com
-paeez.delroba.co.uk
 pafcaw.com
 page.ne.jp
 pagedisplay.co.cc
@@ -23551,7 +23553,6 @@ plex.skin57.de
 plezzo.com
 plic.info
 pliekaceh.co.cc
-plinora.ru
 pliswmwj.com
 plodforex.co.cc
 plon.info
@@ -24209,7 +24210,6 @@ proxiesrus.com
 proxiessites.pw
 proxiestarted.co.cc
 proxiestools.co.cc
-proxiesunited.com
 proxieways.co.cc
 proxifi.app
 proxific.com
@@ -25935,7 +25935,6 @@ public-dns-b.dns.sb
 public-is-wonderful.publicvm.com
 public-myspace-proxy.info
 public-rdns.com
-public.benzcls.co.uk
 public.dns.iij.jp
 public.freefromall.com
 public.james-cam.ca
@@ -26059,6 +26058,7 @@ pwooswvg.com
 pwoxi.com
 pwragupc.cc
 pwriuja.potmix.cc
+pws.prserv.net
 pwwtpiby.com
 px.gs
 px000.com
@@ -26126,7 +26126,6 @@ qeoz.com
 qepcbrp.cn
 qerimova.ru
 qertcij.cn
-qestro.ru
 qevon.xyz
 qewcok.com
 qfhoeyvp.com
@@ -26290,7 +26289,6 @@ qumverta.ru
 quods.co.cc
 quoltira.ru
 quonira.ru
-quorilo.ru
 quotefreebies.co.cc
 quoters.info
 quppy.com
@@ -27186,6 +27184,7 @@ s.lovestylish.com
 s.salome.my.id
 s01.neo-trading.org
 s02.neo-trading.org
+s03.neo-trading.org
 s0r4nd0m.com
 s1.s2.shahramv1.site
 s1.srch.top
@@ -28248,7 +28247,6 @@ sillygaming.org
 sillysurf.com
 silnet.varfootball.co.uk
 silvaro.ru
-silvento.ru
 silver.ciaude.co.uk
 silvercare.co.cc
 silvertabby.co.cc
@@ -29244,7 +29242,6 @@ statis-pndro5.b-cdn.net
 statistics.larryvpn.com
 statsnet.group
 statsnow.info
-status.helps.help
 statusdomains.co.cc
 stayclose.info
 stayconnectedwitheasy.ru
@@ -31184,7 +31181,6 @@ tokyodns2.songnguyen.name.vn
 tokyonune.co.cc
 tolrex.co.cc
 tolu.info
-tolveno.ru
 tomador.com
 tomatopeople.com
 tombriders.co.cc
@@ -31220,7 +31216,6 @@ top-surf.co.cc
 top-unblock.co.cc
 top.iandron.cn
 top.index.com.my
-top100proxysites.com
 top10vpn.com
 top10vpnapp.com
 top20free.com
@@ -33229,7 +33224,6 @@ velvetvpn.help
 vemeo.pro
 venice-chairman.co.cc
 venom630.free.fr
-venstro.ru
 ventiro.ru
 ventrixo.ru
 venturevpn.help
@@ -36242,6 +36236,7 @@ www.bravebadger.com
 www.bravebean.com
 www.brazilproxy.com
 www.brazilproxy.info
+www.breachit.com
 www.breakblock.com
 www.breakfence.com
 www.breakfly.com
@@ -38248,6 +38243,7 @@ www.glype.us
 www.glype.ws
 www.glypeproxy.info
 www.gm-link.com
+www.gm6.info
 www.gmbl.info
 www.gnarb.com
 www.gnof.info
@@ -45962,7 +45958,6 @@ yeqavten.com
 yeralin.net
 yeri.info
 yerta.com
-yes-taro.ru
 yes8.info
 yescool.upcg.xyz
 yesproxy.com
@@ -46410,7 +46405,6 @@ zeroproxy.com
 zerotier.com
 zerotunnel.com
 zerovpn-app.com
-zestivo.ru
 zetland.rm-ni.uk
 zeusvps.cloudns.nz
 zeuz.org
