@@ -859,7 +859,6 @@
 3158.info
 317252.xyz
 318341906.fun
-32.ir.meli-n13.info
 32.theartieschaffer.com
 3245.uk
 32a4d72553ef312ef80776398f08515bac249ee5.com
@@ -1836,6 +1835,7 @@ adbox-v10.any64.de
 adbox-v8.srv64.de
 adbox-v9.dynipv6.de
 adbuy.info
+adcd0a6dcdb7.sn.mynetname.net
 add.balatro.back.cfisd.spacejamhd.com
 add.how.elementsmi.com
 add.how.mikrolink.one.pl
@@ -3435,6 +3435,7 @@ asdsajs120sm.online
 asdsasd.vercel.app
 asecure.co.cc
 aseek.info
+aseman.lunavane.co.uk
 asemkyeh.co.cc
 aseproxy.aselock.dns-dynamic.net
 asesy.com
@@ -4617,7 +4618,6 @@ bgpnet.org
 bguforex.co.cc
 bgvpn.com
 bh.wael.name
-bh77.ir.meli-n13.info
 bhalala.co.cc
 bhcci.cn
 bhejcsfbhd.ipv64.net
@@ -5536,6 +5536,7 @@ bustblock.com
 bustednow.co.cc
 busterbox.co.cc
 busway.co.cc
+busyproxy.net
 but-now.co.cc
 but-to-take.co.cc
 butc.info
@@ -6065,7 +6066,6 @@ ccadguard.dynu.net
 ccant.com
 ccave.com
 ccavea.com
-ccc.horizon555.co.uk
 ccinternet.co.tv
 ccno.info
 ccproxy.pw
@@ -7968,6 +7968,7 @@ dart.kpsn.org
 darthodroid.duckdns.org
 darvilo.ru
 darya.persiannit.net
+darya.saheledarya.co.uk
 dasfca.com
 dasfh.route64.de
 dash.learnenglishinmerton.org
@@ -7989,6 +7990,7 @@ datadefense.org
 datadispatch.xyz
 datadistribute.cloud
 datadistribute.live
+datadonkey.app
 datafil.cn
 datafil.com
 dataflowers.net
@@ -9572,6 +9574,7 @@ dns.valbatos.pro.vn
 dns.vancrafter.click
 dns.vault81.de
 dns.vdl.io
+dns.vdl.lat
 dns.vectorsigma.ru
 dns.veikus.com
 dns.velyn.my.id
@@ -11860,7 +11863,6 @@ fast-youtube.co.cc
 fast.17p.de
 fast.890m.com
 fast.agila.com.br
-fast.finecooking.info
 fast.free-school.co.cc
 fast.proxy.com.de
 fast1.co
@@ -12815,8 +12817,10 @@ footline.co.cc
 foous.com
 fooz.cz.cc
 for-iran.goooalir.co.uk
+for-iranian-users.ir.gole-baghche.info
 for-privacy.net
 for-stay.co.cc
+for.iranian.ir.zigoraaat.info
 for.my.subscribers.gg.schools.l5.ca
 for.you.goooalir.co.uk
 forbiddensite.com
@@ -14017,6 +14021,7 @@ gatern.info
 gateway-el.cname.ustclug.org
 gateway.baltes.info
 gateway.fomichev.cloud
+gateway.helps.help
 gateway.mcebox.com
 gatewayblizzard.co.cc
 gatewayus.tk
@@ -14577,7 +14582,6 @@ goldbergforexsite.co.cc
 goldchains.tk
 goldcoinss.co.cc
 golden-spoon-kitchen.com
-golden.peachsoft.co.uk
 goldenfrog.com
 goldenprivacy.info
 goldenproxy.cn
@@ -15054,6 +15058,7 @@ h.gjrick.tw
 h.ra3.in
 h0w.cc
 h0x.org
+h2o.miandoabs.info
 h2oproxy.com
 h3y.info
 h4g3z1-doh-vpn-proxy-bypass.web.app
@@ -15110,11 +15115,11 @@ haloproxy.com
 haloshield.info
 halosurf.com
 haltforex.co.cc
+hamishegi.ir.gole-baghche.info
 hamku.com
 hammerhead-shark.wifizone.org
 hammerhead.iot64.de
 hammerproxy.ws
-hamrah.mci.ir.pugfhtrdyted.info
 hamsconfederal.top
 hamster67.loseyourip.com
 han01.dnscry.pt
@@ -15369,6 +15374,7 @@ hfgx.shop
 hgmbzgls.com
 hgo28a5v.com
 hgrps.eu
+hh0000.ir.ir.ir.meli-n12.info
 hh999o.masi.ir.he6fhd.ru
 hhecsdpi.cc
 hhgasdygqwueysbjadasghds.com
@@ -16021,6 +16027,7 @@ holehale.com
 holforex.co.cc
 holiday-mart.com
 holidayphoto.xyz
+holidaystudy.com
 holland.alertsms.nl
 hollo.info
 hollow-mint.com
@@ -17169,10 +17176,8 @@ ir.gnutella2.info
 ir.grasic.info
 ir.grumpyoldmen.info
 ir.lv223.info
-ir.macauley.info
 ir.makkers.co.uk
 ir.my-pv.info
-ir.naganuma.info
 ir.panhandleflyers.info
 ir.pbdjarum.info
 ir.rebol.info
@@ -17784,6 +17789,7 @@ junov.com
 jupinproxy.co.cc
 jupitelthunder.co.cc
 jupiter.fibersurf.co.cc
+jupitrdns.com
 jupon.karrozzin.cloud-ip.cc
 jupopo.com
 juproxy.com
@@ -18111,10 +18117,10 @@ kg7.info
 kgkt5w6.com
 kha.in
 khajujawegifwqaiugwa.tcp64.de
-khalije-ta-abad-fars.ir.pugfhtrdyted.info
 khanacademy.mom
 khanacademy.mom.cdn.cloudflare.net
 khaterate.2nafare.info
+khiar.telbet.app
 khilaf.co.cc
 khios.net
 khoiforex.co.cc
@@ -18472,7 +18478,6 @@ korzhov.dev
 kosciuszko.co.cc
 koselforex.co.cc
 kosmos.nz.gs
-kostyanchekloh.lol
 kosurf.com
 kouser.info
 koxy.de
@@ -19674,7 +19679,6 @@ m7x2hdre.com
 m82.net
 m9p.info
 m9ynqi6d.com
-ma.hastim.co.uk
 maal.info
 mablet.com
 mabokers.co.cc
@@ -19743,6 +19747,7 @@ maillat.com
 mails4u.tk
 mailserves.com
 main-competition.co.cc
+main.tosenortejarat.info
 mainanchor.co.cc
 maincloud.ir
 maincollages.co.cc
@@ -19989,7 +19994,6 @@ mavoz.net
 mavrex.ru
 mavrikk.duckdns.org
 max-spedsurf.co.cc
-max.kimt.click
 max.rethinkdns.com
 maxapp.info
 maxd.co.uk
@@ -20066,6 +20070,7 @@ mechanikdns.kozow.com
 mecloud.info
 medang.co.cc
 media-proxy.com
+media.benzcls.co.uk
 media.logic.postie.org
 media.music.orienta.com.br
 media.network
@@ -20378,7 +20383,6 @@ mjpabahu.com
 mjsojti.com
 mjui.com
 mkdkkn5k.com
-mkima.davay.click
 mkkewfye.com
 mkot.info
 mkrepair.ddns.net
@@ -22325,7 +22329,6 @@ ondrej.me
 one-flying.co.cc
 one-screen.co.cc
 one-thing-that.co.cc
-one.horizon555.co.uk
 one.one.one.one
 one.ourhobby.com
 one.ygto.com
@@ -24317,6 +24320,9 @@ proxy-creator-shadow-browser-2.duckdns.org
 proxy-creator-shadow-browser-3.duckdns.org
 proxy-crowed.co.cc
 proxy-croxy.id
+proxy-daemi-s1.server-space52.info
+proxy-daemi-s2.server-space52.info
+proxy-daemi-s3.server-space52.info
 proxy-de.cn
 proxy-de.stardoll-blog.de
 proxy-deal.net
@@ -25923,7 +25929,6 @@ pulyavpn.blog
 pulyavpn.cc
 pulyavpn.com
 pulyavpn.icu
-pulyavpn.ru
 pumbe.com
 pumpedcunts.co.cc
 pumpkin.registration.abrdns.com
@@ -26604,7 +26609,6 @@ relakks.com
 relatenose.com
 relaxcakes.com
 relay.lsaccess.cf
-relay.surfvpn.app
 relayon.org
 released.asdfg.us
 releasethekraken.co.cc
@@ -26801,6 +26805,7 @@ ri.la
 rib7.com
 ric.openbld.net
 ricecake.info
+rich-and-ckleck.tosenortejarat.info
 richardo.net
 richlike.com
 richworld.ru
@@ -27136,6 +27141,8 @@ s.info.north-kazakhstan.su.cdn.cloudflare.net
 s.lovestylish.com
 s.salome.my.id
 s01.neo-trading.org
+s02.neo-trading.org
+s03.neo-trading.org
 s0r4nd0m.com
 s1.s2.shahramv1.site
 s1.srch.top
@@ -27335,6 +27342,7 @@ sarakou.easterndns.com
 sarangheforex.co.cc
 sarawut.ddns.net
 sarinproxy.co.cc
+sarma.miandoabs.info
 sarnen.net
 sarunforex.co.cc
 sascha-rabold.de
@@ -27820,7 +27828,6 @@ server.gay.cat
 server.labs.tk
 server.ne.jp
 server.pragmasec.nl
-server.server-space52.info
 server.spirio.fr
 server.syscloudio.co.uk
 server.unp.im
@@ -29046,6 +29053,7 @@ ssgreen.org
 ssh-free.com
 ssh-storage.ru
 ssh.meow0.co.uk
+ssh2.best-moz.info
 sshagan.net
 sshd.me
 sshdropbear.net
@@ -29190,6 +29198,7 @@ statis-pndro5.b-cdn.net
 statistics.larryvpn.com
 statsnet.group
 statsnow.info
+status.helps.help
 statusdomains.co.cc
 stayclose.info
 stayconnectedwitheasy.ru
@@ -30434,7 +30443,6 @@ systemtwo.co.cc
 sywz.net
 szfi.com
 szmbkf5rsqiidboo6.online
-szpadel.ovh
 szpo.com
 szvy.xyz
 szyrzyk.pl
@@ -31155,6 +31163,7 @@ top-security.co.cc
 top-site-list.com
 top-surf.co.cc
 top-unblock.co.cc
+top.iandron.cn
 top.index.com.my
 top100proxysites.com
 top10vpn.com
@@ -31701,6 +31710,7 @@ turiforex.co.cc
 turk.dasy2k1.co.uk
 turkeyproxy.blogspot.fr
 turkeyproxy.com
+turkish-kish-mish.tosenortejarat.info
 turkmenvibe.ru
 turmericrecipes.com
 turn-on-access.co.cc
@@ -34182,7 +34192,6 @@ web.canna-bis.com
 web.mdtotal.com
 web.partyvan.info
 web.proxy.com.de
-web.server-space52.info
 web.smelly.cc
 web.tobban.com
 web.unstop.cloudns.ch
@@ -34477,6 +34486,7 @@ whipstall.karrozzin.cloud-ip.cc
 whiskergalaxy.com
 whisperednews.com
 white-dove.co.cc
+white.antony-gordon.co.uk
 whiteblox.org
 whitebond.co.cc
 whitefreckles.com
@@ -34766,6 +34776,7 @@ worstofevils.com
 wossow.com
 would-cherished.co.cc
 wow-proxy.com
+wow.wow.wow.gole-baghche.info
 wowanonymous.com
 wowblood.com
 wowbrowse.com
@@ -39832,7 +39843,6 @@ www.mobrender.com
 www.mocau.com
 www.mochila.info
 www.mockblock.com
-www.modernproxy.com
 www.modio.info
 www.moep.us
 www.mofreetime.com
@@ -45940,7 +45950,6 @@ yj-17.net
 yj-19.net
 yj-20.net
 ykdnrpe.com
-ykima.davay.click
 yksjmwjf.com
 ylink.info
 ylkirc.com
