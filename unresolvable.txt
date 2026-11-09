@@ -1,9 +1,2 @@
-anonyfi.com#2
-cloudvpn.pro#2
-do-not-block.store#2
-proxyauthority.com#2
-proxyring.com#2
-www.pageprivacy.com#2
-www.surfmate.info#2
-www.uf2.org#2
-www.webproxyking.com#2
+cloudvpn.pro#3
+proxyring.com#3
