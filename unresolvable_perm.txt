@@ -15837,6 +15837,7 @@ cloudunblocker.cf
 cloudunblocker.ga
 cloudunblocker.info
 cloudunlock.info
+cloudvpn.pro
 cloudwired.info
 cloudyairfly.tk
 cloudybypass.info
