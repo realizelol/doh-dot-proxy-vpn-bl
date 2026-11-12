@@ -68749,6 +68749,7 @@ serverfriend.altervista.org
 serverfutures.tk
 serverfx.tk
 servergo.info
+servergo.pw
 serverhighspeed.tk
 serverhighusspeed.tk
 serverhttp.info
